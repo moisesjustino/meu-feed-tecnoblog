@@ -1,147 +1,201 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>Tecnoblog - Feed RSS Não Oficial</title>
+    <title>Tecnoblog - Feed RSS (Aprimorado)</title>
     <link>https://tecnoblog.net</link>
-    <description>As últimas notícias de tecnologia do Tecnoblog.</description>
+    <description>Últimas notícias do Tecnoblog, com imagens e resumos.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 07 Jun 2025 15:16:07 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Jun 2025 17:07:43 +0000</lastBuildDate>
     <item>
       <title>Galaxy Tab S10 Ultra fica 43% mais barato antes do Dia dos Namorados</title>
       <link>https://tecnoblog.net/achados/galaxy-tab-s10-ultra-fica-43-mais-barato-antes-do-dia-dos-namorados/</link>
+      <description>Samsung Galaxy Tab S10 Ultra (512 GB) tem processador MediaTek avançado, caneta S Pen e suporte a recursos de inteligência artificial</description>
       <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-tab-s10-ultra-fica-43-mais-barato-antes-do-dia-dos-namorados/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/02/Samsung-Galaxy-Tab-S10-Ultra-Imagem--340x191.png" length="0" type="image/jpeg"/>
     </item>
     <item>
       <title>Entenda as diferenças entre caixa de som, home theater e soundbar</title>
       <link>https://tecnoblog.net/responde/caixa-de-som-home-theater-e-soundbar-qual-a-diferenca/</link>
+      <description>Sistemas de som; caixa de som, home theater e soundbar, qual a diferença entre eles e a utilização mais comum para cada</description>
       <guid isPermaLink="false">https://tecnoblog.net/responde/caixa-de-som-home-theater-e-soundbar-qual-a-diferenca/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2019/11/andrey-matveev-Q6HUG_m1xKA-unsplash-340x191.jpg" length="0" type="image/jpeg"/>
     </item>
     <item>
       <title>Microsoft Edge deixará de pedir para ser o navegador padrão em alguns países</title>
       <link>https://tecnoblog.net/noticias/microsoft-edge-deixara-de-pedir-para-ser-o-navegador-padrao-em-alguns-paises/</link>
+      <description>Windows 10 e 11 passam a oferecer mais controle sobre navegador e apps, após exigência da legislação europeia. Usuários também poderão remover a Microsoft Store.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/microsoft-edge-deixara-de-pedir-para-ser-o-navegador-padrao-em-alguns-paises/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2020/03/microsoft-edge-340x191.jpg" length="0" type="image/jpeg"/>
     </item>
     <item>
       <title>iPhone 14 (256 GB) sai 50% mais barato em oferta de Dia dos Namorados</title>
       <link>https://tecnoblog.net/achados/iphone-14-256-gb-sai-50-mais-barato-em-oferta-de-dia-dos-namorados/</link>
+      <description>iPhone 14 tem display Super Retina OLED e processador Apple A15 Bionic na ficha técnica; promoção da Amazon traz um dos menores preços recentes</description>
       <guid isPermaLink="false">https://tecnoblog.net/achados/iphone-14-256-gb-sai-50-mais-barato-em-oferta-de-dia-dos-namorados/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/06/oferta_iphone-14-340x191.png" length="0" type="image/jpeg"/>
     </item>
     <item>
       <title>Reddit denuncia bots da Anthropic: mais de 100 mil acessos por dia</title>
       <link>https://tecnoblog.net/noticias/reddit-denuncia-bots-da-anthropic-mais-de-100-mil-acessos-por-dia/</link>
+      <description>Reddit acusa a Anthropic de realizar o uso comercial não autorizado de suas informações, sem consentimento prévio dos usuários.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/reddit-denuncia-bots-da-anthropic-mais-de-100-mil-acessos-por-dia/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/04/brett-jordan-0fytazjhhxs-unsplash-edited-340x191.jpg" length="0" type="image/jpeg"/>
     </item>
     <item>
       <title>Celulares dobráveis: veja a diferença entre modelos vendidos no Brasil</title>
       <link>https://tecnoblog.net/responde/celulares-dobraveis-veja-a-diferenca-entre-modelos-vendidos-no-brasil/</link>
+      <description>Celulares dobráveis oferecem diferentes tipos de uso ao consumidor, como experiência no modo compacto ou usabilidade em telas expandidas</description>
       <guid isPermaLink="false">https://tecnoblog.net/responde/celulares-dobraveis-veja-a-diferenca-entre-modelos-vendidos-no-brasil/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/07/galaxy-z-flip-5-thassius-veloso-tecnoblog-10-340x191.jpg" length="0" type="image/jpeg"/>
     </item>
     <item>
       <title>Moto G84 tem 36% OFF na semana que antecede o Dia dos Namorados</title>
       <link>https://tecnoblog.net/achados/moto-g84-tem-36-off-na-semana-que-antecede-o-dia-dos-namorados/</link>
+      <description>Moto G84 de 256 GB tem RAM de 8 GB expansíveis até 16 GB com RAM Boost e tela POLED com taxa de atualização de 120 Hz; celular da Motorola sai por R$ 1.274 em oferta</description>
       <guid isPermaLink="false">https://tecnoblog.net/achados/moto-g84-tem-36-off-na-semana-que-antecede-o-dia-dos-namorados/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/06/motorola-moto-g84-imagem-thassius-velosotecnoblog-340x191.png" length="0" type="image/jpeg"/>
     </item>
     <item>
       <title>TV Samsung QLED (55″) tem 51% OFF uma semana antes do Dia dos Namorados</title>
       <link>https://tecnoblog.net/achados/tv-samsung-qled-55-tem-51-off-uma-semana-antes-do-dia-dos-namorados/</link>
+      <description>TV Samsung QLED Q65D de 55" traz processador 4K, tecnologia de pontos quânticos e recursos de IA; televisão despenca mais da metade do preço em oferta na Magalu</description>
       <guid isPermaLink="false">https://tecnoblog.net/achados/tv-samsung-qled-55-tem-51-off-uma-semana-antes-do-dia-dos-namorados/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/11/samsung-tv-qled-65q60d-4k-destaque-achados-selo-cor-negativa-340x191.png" length="0" type="image/jpeg"/>
     </item>
     <item>
       <title>Google alerta: golpe finge suporte de TI para roubar dados</title>
       <link>https://tecnoblog.net/noticias/google-alerta-golpe-finge-suporte-de-ti-para-roubar-dados/</link>
+      <description>Ataque de phishing por voz afetou cerca de 20 empresas, fingindo instalar uma ferramenta da Salesforce, empresa dona do Slack.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/google-alerta-golpe-finge-suporte-de-ti-para-roubar-dados/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/11/capa-golpes-telefonicos_tb-340x191.png" length="0" type="image/jpeg"/>
     </item>
     <item>
       <title>Apple e Google não querem adotar um bloqueio global de celulares roubados</title>
       <link>https://tecnoblog.net/noticias/apple-e-google-nao-querem-adotar-um-bloqueio-global-de-celulares-roubados/</link>
+      <description>Polícia britânica quer que fabricantes travem o uso de aparelhos roubados pelo IMEI em qualquer lugar do mundo. Empresas citam riscos de fraude.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/apple-e-google-nao-querem-adotar-um-bloqueio-global-de-celulares-roubados/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/12/protecao-de-dispositivo-roubado-no-iphone-2-340x191.jpg" length="0" type="image/jpeg"/>
     </item>
     <item>
       <title>Itaú libera nova IA de investimentos para 10 mil clientes</title>
       <link>https://tecnoblog.net/noticias/itau-anuncia-ia-que-ajuda-clientes-a-escolher-investimentos/</link>
+      <description>Inteligência de Investimentos Itaú é um agente que usa IA generativa para tirar dúvidas, dar informações ou recomendar investimentos a clientes do banco.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/itau-anuncia-ia-que-ajuda-clientes-a-escolher-investimentos/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/07/capa-itau-340x191.png" length="0" type="image/jpeg"/>
     </item>
     <item>
       <title>Nintendo Switch 2 desembarca oficialmente no Brasil</title>
       <link>https://tecnoblog.net/noticias/nintendo-switch-2-desembarca-oficialmente-no-brasil/</link>
+      <description>Novo console da Nintendo chega ao país nesta quinta (05), por R$ 4.499,90. Produto tem tela maior e mais armazenamento, e já se esgotou em algumas lojas.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/nintendo-switch-2-desembarca-oficialmente-no-brasil/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/05/Capa-Nintendo-Switch-2-04-340x191.png" length="0" type="image/jpeg"/>
     </item>
     <item>
       <title>Windows 11 terá função que limita a CPU para poupar bateria</title>
       <link>https://tecnoblog.net/noticias/windows-11-tera-funcao-que-limita-a-cpu-para-poupar-bateria/</link>
+      <description>Microsoft testa função no Windows 11 que limita recursos do processador quando o computador fica ocioso após certo período de tempo.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/windows-11-tera-funcao-que-limita-a-cpu-para-poupar-bateria/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/03/Asus-Vivobook-16-Foto-Thassius-Veloso-Tecnoblog-4-340x191.jpg" length="0" type="image/jpeg"/>
     </item>
     <item>
       <title>Galaxy Buds FE tem 64% de desconto em promoção de Dia dos Namorados</title>
       <link>https://tecnoblog.net/achados/galaxy-buds-fe-tem-64-de-desconto-em-promocao-de-dia-dos-namorados/</link>
+      <description>Galaxy Buds FE faz parte da linha acessível de fones de ouvido da Samsung e traz Galaxy AI; sai por menos de R$ 300 em oferta no Mercado Livre</description>
       <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-buds-fe-tem-64-de-desconto-em-promocao-de-dia-dos-namorados/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/12/galaxy-buds-fe-imagem-paulo-higatecnoblog-1-340x191.png" length="0" type="image/jpeg"/>
     </item>
     <item>
       <title>Atualize o Chrome agora: falha de dia zero permite ataques a PCs</title>
       <link>https://tecnoblog.net/noticias/atualize-o-chrome-agora-falha-de-dia-zero-permite-ataque-a-pcs/</link>
+      <description>Google liberou atualização de emergência para corrigir falha crítica no navegador. Vulnerabilidade afeta usuários de Windows, macOS e Linux.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/atualize-o-chrome-agora-falha-de-dia-zero-permite-ataque-a-pcs/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/11/google-chrome-capa-2-340x191.jpg" length="0" type="image/jpeg"/>
     </item>
     <item>
       <title>X quer usar Notas da Comunidade para engajar postagens</title>
       <link>https://tecnoblog.net/noticias/x-quer-usar-notas-da-comunidade-para-engajar-postagens/</link>
+      <description>Recurso experimental do X busca identificar postagens que agradam a diferentes grupos de usuários por meio do mecanismo das Notas da Comunidade.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/x-quer-usar-notas-da-comunidade-para-engajar-postagens/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/07/twitter-mudou-de-nome_capa_tb-340x191.png" length="0" type="image/jpeg"/>
     </item>
     <item>
       <title>Como clonar HD para SSD sem perder dados? (guia detalhado)</title>
       <link>https://tecnoblog.net/publieditoriais/como-clonar-hd-para-ssd-sem-perder-dados-guia-detalhado/</link>
+      <description>Aprenda a clonar HD para SSD no Windows facilmente com um passo a passo detalhado. Aumente o desempenho do seu computador transferindo dados com segurança e eficiência.</description>
       <guid isPermaLink="false">https://tecnoblog.net/publieditoriais/como-clonar-hd-para-ssd-sem-perder-dados-guia-detalhado/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/clonar-hd-ssd-340x191.jpg" length="0" type="image/jpeg"/>
     </item>
     <item>
       <title>Meta optou por não remover golpes com deepfakes de famosos, diz comitê</title>
       <link>https://tecnoblog.net/noticias/meta-optou-por-nao-remover-golpes-com-deepfakes-de-famosos-diz-comite/</link>
+      <description>Comitê de Supervisão de conteúdo da Meta apontou falhas estruturais nas políticas da empresa. Vídeo falso de Ronaldo Fenômeno impulsionou a investigação.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/meta-optou-por-nao-remover-golpes-com-deepfakes-de-famosos-diz-comite/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/08/capa-deep-fake_thumb_tb-340x191.png" length="0" type="image/jpeg"/>
     </item>
     <item>
       <title>Moto G15 (256 GB) tem 36% de desconto dias antes do Dia dos Namorados</title>
       <link>https://tecnoblog.net/achados/moto-g15-256-gb-tem-36-de-desconto-dias-antes-do-dia-dos-namorados/</link>
+      <description>Moto G15 leva RAM Boost de 8 GB, câmera principal 50 MP e bateria de 5.200 mAh, linha da Motorola tende a ter preço acessível e sai por menos de R$ 900 no Mercado Livre</description>
       <guid isPermaLink="false">https://tecnoblog.net/achados/moto-g15-256-gb-tem-36-de-desconto-dias-antes-do-dia-dos-namorados/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/05/Motorola-G15-340x191.png" length="0" type="image/jpeg"/>
     </item>
     <item>
       <title>Cuidado: Samsung vai apagar contas que estiverem inativas</title>
       <link>https://tecnoblog.net/noticias/cuidado-samsung-vai-apagar-contas-que-estiverem-inativas/</link>
+      <description>Contas não que tiverem sido usadas ou acessadas por 24 meses ou mais poderão ser excluídas pela Samsung no segundo semestre.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/cuidado-samsung-vai-apagar-contas-que-estiverem-inativas/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/01/samsung-capa-1-340x191.png" length="0" type="image/jpeg"/>
     </item>
     <item>
       <title>Realme ultrapassa Apple no mercado brasileiro</title>
       <link>https://tecnoblog.net/noticias/realme-ultrapassa-apple-no-mercado-brasileiro/</link>
+      <description>Realme supera Apple e assume 4ª posição no ranking dos celulares mais vendidos no Brasil durante o primeiro trimestre de 2025.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/realme-ultrapassa-apple-no-mercado-brasileiro/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/06/img_6189-340x191.jpg" length="0" type="image/jpeg"/>
     </item>
     <item>
       <title>A próxima função do WhatsApp para mensagens sensíveis</title>
       <link>https://tecnoblog.net/noticias/a-proxima-funcao-de-privacidade-do-whatsapp/</link>
+      <description>Recurso permite apagar uma única mensagem após 24 horas. Versão da novidade em português foi vista pela primeira vez.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/a-proxima-funcao-de-privacidade-do-whatsapp/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/06/whatsapp_capa-3_tb-340x191.png" length="0" type="image/jpeg"/>
     </item>
     <item>
       <title>YouTube Premium Lite muda em alguns países e irrita assinantes</title>
       <link>https://tecnoblog.net/noticias/youtube-premium-lite-recebe-mais-anuncios-e-irrita-usuarios-em-alguns-paises/</link>
+      <description>Assinantes na Alemanha e Tailândia foram comunicados de que receberão anúncios nos Shorts e terão plano igualado ao já oferecido no Brasil.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/youtube-premium-lite-recebe-mais-anuncios-e-irrita-usuarios-em-alguns-paises/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/05/youtube_capa-2_tb-340x191.png" length="0" type="image/jpeg"/>
     </item>
     <item>
       <title>Galaxy Tab S6 Lite 4G (128 GB) tem 42% OFF antes do Dia dos Namorados</title>
       <link>https://tecnoblog.net/achados/galaxy-tab-s6-lite-4g-128-gb-tem-42-off-antes-do-dia-dos-namorados/</link>
+      <description>Samsung Galaxy Tab S6 Lite 4G de 128 GB (2024) tem tela grande de 10,4 polegadas e acompanha caneta S Pen com ponta fina que amplia a usabilidade do tablet</description>
       <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-tab-s6-lite-4g-128-gb-tem-42-off-antes-do-dia-dos-namorados/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/04/samsung-galaxy-tab-s6-lite-review-10-340x191.png" length="0" type="image/jpeg"/>
     </item>
     <item>
       <title>Amazon não será bloqueada no Brasil, decide Justiça</title>
       <link>https://tecnoblog.net/noticias/justica-decide-anatel-nao-pode-bloquear-site-da-amazon/</link>
+      <description>Decisão do TRF3 garante funcionamento do domínio da Amazon no Brasil. Agência previa sanções para marketplaces que vendem celulares ilegais.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/justica-decide-anatel-nao-pode-bloquear-site-da-amazon/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/capa-amazon-2_thumb_tb-edited-340x191.png" length="0" type="image/jpeg"/>
     </item>
     <item>
       <title>Após adotar IA e recuar, empresa diz que humanos farão só atendimento VIP</title>
       <link>https://tecnoblog.net/noticias/apos-adotar-ia-e-recuar-empresa-diz-que-humanos-farao-so-atendimento-vip/</link>
+      <description>Klarna voltou atrás no uso de IA após queda na qualidade. Agora, CEO da fintech sueca quer que contato humano seja um serviço premium.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/apos-adotar-ia-e-recuar-empresa-diz-que-humanos-farao-so-atendimento-vip/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/05/Sebastian-Siemiatkowski-volta-atras-ia-edited-340x191.webp" length="0" type="image/jpeg"/>
     </item>
     <item>
       <title>Dia dos Namorados: gadgets Samsung a partir de R$ 261 para presentear</title>
       <link>https://tecnoblog.net/achados/dia-dos-namorados-gadgets-samsung-a-partir-de-r-261-para-presentear/</link>
+      <description>Fones, relógios inteligentes e tablets da Samsung têm até 63% de desconto antes do Dia dos Namorados; lista de presentes inclui Galaxy Fit 3 e Galaxy Watch 7</description>
       <guid isPermaLink="false">https://tecnoblog.net/achados/dia-dos-namorados-gadgets-samsung-a-partir-de-r-261-para-presentear/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/12/galaxy-buds-fe-imagem-paulo-higatecnoblog-340x191.png" length="0" type="image/jpeg"/>
     </item>
   </channel>
 </rss>
