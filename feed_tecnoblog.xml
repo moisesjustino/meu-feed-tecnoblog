@@ -1,0 +1,147 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Tecnoblog - Feed RSS Não Oficial</title>
+    <link>https://tecnoblog.net</link>
+    <description>As últimas notícias de tecnologia do Tecnoblog.</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>pt-BR</language>
+    <lastBuildDate>Sat, 07 Jun 2025 15:16:07 +0000</lastBuildDate>
+    <item>
+      <title>Galaxy Tab S10 Ultra fica 43% mais barato antes do Dia dos Namorados</title>
+      <link>https://tecnoblog.net/achados/galaxy-tab-s10-ultra-fica-43-mais-barato-antes-do-dia-dos-namorados/</link>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-tab-s10-ultra-fica-43-mais-barato-antes-do-dia-dos-namorados/</guid>
+    </item>
+    <item>
+      <title>Entenda as diferenças entre caixa de som, home theater e soundbar</title>
+      <link>https://tecnoblog.net/responde/caixa-de-som-home-theater-e-soundbar-qual-a-diferenca/</link>
+      <guid isPermaLink="false">https://tecnoblog.net/responde/caixa-de-som-home-theater-e-soundbar-qual-a-diferenca/</guid>
+    </item>
+    <item>
+      <title>Microsoft Edge deixará de pedir para ser o navegador padrão em alguns países</title>
+      <link>https://tecnoblog.net/noticias/microsoft-edge-deixara-de-pedir-para-ser-o-navegador-padrao-em-alguns-paises/</link>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/microsoft-edge-deixara-de-pedir-para-ser-o-navegador-padrao-em-alguns-paises/</guid>
+    </item>
+    <item>
+      <title>iPhone 14 (256 GB) sai 50% mais barato em oferta de Dia dos Namorados</title>
+      <link>https://tecnoblog.net/achados/iphone-14-256-gb-sai-50-mais-barato-em-oferta-de-dia-dos-namorados/</link>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/iphone-14-256-gb-sai-50-mais-barato-em-oferta-de-dia-dos-namorados/</guid>
+    </item>
+    <item>
+      <title>Reddit denuncia bots da Anthropic: mais de 100 mil acessos por dia</title>
+      <link>https://tecnoblog.net/noticias/reddit-denuncia-bots-da-anthropic-mais-de-100-mil-acessos-por-dia/</link>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/reddit-denuncia-bots-da-anthropic-mais-de-100-mil-acessos-por-dia/</guid>
+    </item>
+    <item>
+      <title>Celulares dobráveis: veja a diferença entre modelos vendidos no Brasil</title>
+      <link>https://tecnoblog.net/responde/celulares-dobraveis-veja-a-diferenca-entre-modelos-vendidos-no-brasil/</link>
+      <guid isPermaLink="false">https://tecnoblog.net/responde/celulares-dobraveis-veja-a-diferenca-entre-modelos-vendidos-no-brasil/</guid>
+    </item>
+    <item>
+      <title>Moto G84 tem 36% OFF na semana que antecede o Dia dos Namorados</title>
+      <link>https://tecnoblog.net/achados/moto-g84-tem-36-off-na-semana-que-antecede-o-dia-dos-namorados/</link>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/moto-g84-tem-36-off-na-semana-que-antecede-o-dia-dos-namorados/</guid>
+    </item>
+    <item>
+      <title>TV Samsung QLED (55″) tem 51% OFF uma semana antes do Dia dos Namorados</title>
+      <link>https://tecnoblog.net/achados/tv-samsung-qled-55-tem-51-off-uma-semana-antes-do-dia-dos-namorados/</link>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/tv-samsung-qled-55-tem-51-off-uma-semana-antes-do-dia-dos-namorados/</guid>
+    </item>
+    <item>
+      <title>Google alerta: golpe finge suporte de TI para roubar dados</title>
+      <link>https://tecnoblog.net/noticias/google-alerta-golpe-finge-suporte-de-ti-para-roubar-dados/</link>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/google-alerta-golpe-finge-suporte-de-ti-para-roubar-dados/</guid>
+    </item>
+    <item>
+      <title>Apple e Google não querem adotar um bloqueio global de celulares roubados</title>
+      <link>https://tecnoblog.net/noticias/apple-e-google-nao-querem-adotar-um-bloqueio-global-de-celulares-roubados/</link>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/apple-e-google-nao-querem-adotar-um-bloqueio-global-de-celulares-roubados/</guid>
+    </item>
+    <item>
+      <title>Itaú libera nova IA de investimentos para 10 mil clientes</title>
+      <link>https://tecnoblog.net/noticias/itau-anuncia-ia-que-ajuda-clientes-a-escolher-investimentos/</link>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/itau-anuncia-ia-que-ajuda-clientes-a-escolher-investimentos/</guid>
+    </item>
+    <item>
+      <title>Nintendo Switch 2 desembarca oficialmente no Brasil</title>
+      <link>https://tecnoblog.net/noticias/nintendo-switch-2-desembarca-oficialmente-no-brasil/</link>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/nintendo-switch-2-desembarca-oficialmente-no-brasil/</guid>
+    </item>
+    <item>
+      <title>Windows 11 terá função que limita a CPU para poupar bateria</title>
+      <link>https://tecnoblog.net/noticias/windows-11-tera-funcao-que-limita-a-cpu-para-poupar-bateria/</link>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/windows-11-tera-funcao-que-limita-a-cpu-para-poupar-bateria/</guid>
+    </item>
+    <item>
+      <title>Galaxy Buds FE tem 64% de desconto em promoção de Dia dos Namorados</title>
+      <link>https://tecnoblog.net/achados/galaxy-buds-fe-tem-64-de-desconto-em-promocao-de-dia-dos-namorados/</link>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-buds-fe-tem-64-de-desconto-em-promocao-de-dia-dos-namorados/</guid>
+    </item>
+    <item>
+      <title>Atualize o Chrome agora: falha de dia zero permite ataques a PCs</title>
+      <link>https://tecnoblog.net/noticias/atualize-o-chrome-agora-falha-de-dia-zero-permite-ataque-a-pcs/</link>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/atualize-o-chrome-agora-falha-de-dia-zero-permite-ataque-a-pcs/</guid>
+    </item>
+    <item>
+      <title>X quer usar Notas da Comunidade para engajar postagens</title>
+      <link>https://tecnoblog.net/noticias/x-quer-usar-notas-da-comunidade-para-engajar-postagens/</link>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/x-quer-usar-notas-da-comunidade-para-engajar-postagens/</guid>
+    </item>
+    <item>
+      <title>Como clonar HD para SSD sem perder dados? (guia detalhado)</title>
+      <link>https://tecnoblog.net/publieditoriais/como-clonar-hd-para-ssd-sem-perder-dados-guia-detalhado/</link>
+      <guid isPermaLink="false">https://tecnoblog.net/publieditoriais/como-clonar-hd-para-ssd-sem-perder-dados-guia-detalhado/</guid>
+    </item>
+    <item>
+      <title>Meta optou por não remover golpes com deepfakes de famosos, diz comitê</title>
+      <link>https://tecnoblog.net/noticias/meta-optou-por-nao-remover-golpes-com-deepfakes-de-famosos-diz-comite/</link>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/meta-optou-por-nao-remover-golpes-com-deepfakes-de-famosos-diz-comite/</guid>
+    </item>
+    <item>
+      <title>Moto G15 (256 GB) tem 36% de desconto dias antes do Dia dos Namorados</title>
+      <link>https://tecnoblog.net/achados/moto-g15-256-gb-tem-36-de-desconto-dias-antes-do-dia-dos-namorados/</link>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/moto-g15-256-gb-tem-36-de-desconto-dias-antes-do-dia-dos-namorados/</guid>
+    </item>
+    <item>
+      <title>Cuidado: Samsung vai apagar contas que estiverem inativas</title>
+      <link>https://tecnoblog.net/noticias/cuidado-samsung-vai-apagar-contas-que-estiverem-inativas/</link>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/cuidado-samsung-vai-apagar-contas-que-estiverem-inativas/</guid>
+    </item>
+    <item>
+      <title>Realme ultrapassa Apple no mercado brasileiro</title>
+      <link>https://tecnoblog.net/noticias/realme-ultrapassa-apple-no-mercado-brasileiro/</link>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/realme-ultrapassa-apple-no-mercado-brasileiro/</guid>
+    </item>
+    <item>
+      <title>A próxima função do WhatsApp para mensagens sensíveis</title>
+      <link>https://tecnoblog.net/noticias/a-proxima-funcao-de-privacidade-do-whatsapp/</link>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/a-proxima-funcao-de-privacidade-do-whatsapp/</guid>
+    </item>
+    <item>
+      <title>YouTube Premium Lite muda em alguns países e irrita assinantes</title>
+      <link>https://tecnoblog.net/noticias/youtube-premium-lite-recebe-mais-anuncios-e-irrita-usuarios-em-alguns-paises/</link>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/youtube-premium-lite-recebe-mais-anuncios-e-irrita-usuarios-em-alguns-paises/</guid>
+    </item>
+    <item>
+      <title>Galaxy Tab S6 Lite 4G (128 GB) tem 42% OFF antes do Dia dos Namorados</title>
+      <link>https://tecnoblog.net/achados/galaxy-tab-s6-lite-4g-128-gb-tem-42-off-antes-do-dia-dos-namorados/</link>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-tab-s6-lite-4g-128-gb-tem-42-off-antes-do-dia-dos-namorados/</guid>
+    </item>
+    <item>
+      <title>Amazon não será bloqueada no Brasil, decide Justiça</title>
+      <link>https://tecnoblog.net/noticias/justica-decide-anatel-nao-pode-bloquear-site-da-amazon/</link>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/justica-decide-anatel-nao-pode-bloquear-site-da-amazon/</guid>
+    </item>
+    <item>
+      <title>Após adotar IA e recuar, empresa diz que humanos farão só atendimento VIP</title>
+      <link>https://tecnoblog.net/noticias/apos-adotar-ia-e-recuar-empresa-diz-que-humanos-farao-so-atendimento-vip/</link>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/apos-adotar-ia-e-recuar-empresa-diz-que-humanos-farao-so-atendimento-vip/</guid>
+    </item>
+    <item>
+      <title>Dia dos Namorados: gadgets Samsung a partir de R$ 261 para presentear</title>
+      <link>https://tecnoblog.net/achados/dia-dos-namorados-gadgets-samsung-a-partir-de-r-261-para-presentear/</link>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/dia-dos-namorados-gadgets-samsung-a-partir-de-r-261-para-presentear/</guid>
+    </item>
+  </channel>
+</rss>
