@@ -7,47 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 16 Jun 2025 19:09:10 +0000</lastBuildDate>
-    <item>
-      <title>Wikipédia suspende teste com resumos de IA após críticas de editores</title>
-      <link>https://tecnoblog.net/noticias/wikipedia-suspende-teste-com-resumos-de-ia-apos-criticas-de-editores/</link>
-      <description>Wikimedia suspendeu testes com IA após onda de queixas de editores preocupados com possível perda de credibilidade na Wikipédia.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/wikipedia-suspende-teste-com-resumos-de-ia-apos-criticas-de-editores/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2017/03/wikipedia-stormtrooper-e1602280470476-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 12 Jun 2025 18:03:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>DeepL quer traduzir toda a internet em 18 dias com ajuda da Nvidia</title>
-      <link>https://tecnoblog.net/noticias/deepl-quer-traduzir-toda-a-internet-em-18-dias-com-ajuda-da-nvidia/</link>
-      <description>Startup alemã usará o sistema DGX SuperPOD da Nvidia para acelerar o treinamento de seus modelos de IA e expandir seus serviços.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/deepl-quer-traduzir-toda-a-internet-em-18-dias-com-ajuda-da-nvidia/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/deepl-tradutor-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 12 Jun 2025 19:36:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>O que são redes sociais? Confira a história e principais exemplos dessas plataformas</title>
-      <link>https://tecnoblog.net/responde/o-que-sao-redes-sociais-confira-a-historia-e-principais-exemplos-dessas-plataformas/</link>
-      <description>As redes sociais servem para conectar pessoas, compartilhar ideias, divulgar conteúdos e até gerar oportunidades de carreira e negócios de forma simples e interativa</description>
-      <guid isPermaLink="false">https://tecnoblog.net/responde/o-que-sao-redes-sociais-confira-a-historia-e-principais-exemplos-dessas-plataformas/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/08/o-que-e-o-facebook-lite-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 12 Jun 2025 19:43:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Galaxy S25 Plus (256 GB) tem 42% OFF no Dia dos Namorados na Amazon</title>
-      <link>https://tecnoblog.net/achados/galaxy-s25-plus-256-tem-42-off-no-dia-dos-namorados-na-amazon/</link>
-      <description>Galaxy S25 Plus é desenvolvido com Snapdragon 8 Elite, tela AMOLED Dinâmico 2x com 2.600 nits e Android 15; celular Samsung premium fica abaixo dos R$ 5 mil</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-s25-plus-256-tem-42-off-no-dia-dos-namorados-na-amazon/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/04/Samsung-Galaxy-S25-Plus-tem-tela-de-67-com-resolucao-QHD-imagem-Samsung-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 12 Jun 2025 19:50:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dinamarca quer trocar Microsoft por LibreOffice e Linux</title>
-      <link>https://tecnoblog.net/noticias/dinamarca-quer-trocar-microsoft-por-libreoffice-e-linux/</link>
-      <description>Ministério de Assuntos Digitais da Dinamarca substituirá o Windows e o Microsoft 365 por Linux e LibreOffice até o final de 2025.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/dinamarca-quer-trocar-microsoft-por-libreoffice-e-linux/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/04/linux-tux-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 12 Jun 2025 19:57:57 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 16 Jun 2025 20:13:16 +0000</lastBuildDate>
     <item>
       <title>Liquid Glass</title>
       <link>https://tecnoblog.net/tecnocast/liquid-glass/</link>
@@ -111,6 +71,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/libreoffice-tambem-defende-troca-do-windows-10-pelo-linux/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/libreoffice-troca-windows-linux-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Fri, 13 Jun 2025 16:06:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude AI: o que é, para que serve e como funciona a IA generativa da Anthropic</title>
+      <link>https://tecnoblog.net/responde/claude-ai-o-que-e-para-que-serve-e-como-funciona-a-ia-generativa-da-anthropic/</link>
+      <description>O Claude AI é uma inteligência artificial generativa projetada para realizar diferentes tarefas, como escrita criativa e codificação, com foco em segurança e privacidade</description>
+      <guid isPermaLink="false">https://tecnoblog.net/responde/claude-ai-o-que-e-para-que-serve-e-como-funciona-a-ia-generativa-da-anthropic/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/O-que-e-claude-ai-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 13 Jun 2025 18:12:00 +0000</pubDate>
     </item>
     <item>
       <title>Agora é a vez do Instant Apps do Android ir para o cemitério do Google</title>
@@ -217,12 +185,44 @@
       <pubDate>Mon, 16 Jun 2025 17:00:39 +0000</pubDate>
     </item>
     <item>
-      <title>Samsung fatura mais que o dobro da Apple no Brasil; veja os números</title>
+      <title>Quem mais fatura com celular no Brasil: Apple ou Samsung?</title>
       <link>https://tecnoblog.net/noticias/samsung-fatura-mais-que-o-dobro-da-apple-no-brasil-veja-os-numeros/</link>
       <description>Mercado de celulares movimentou R$ 3,6 bilhões de janeiro a março, segundo levantamento da consultoria Canalys. Xiaomi aparece na terceira posição.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/samsung-fatura-mais-que-o-dobro-da-apple-no-brasil-veja-os-numeros/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/Capa-Empresas-que-mais-faturam-v2-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 16 Jun 2025 17:35:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Galaxy Watch 6 Classic (43 mm) tem melhor oferta em meses em até 10x</title>
+      <link>https://tecnoblog.net/achados/galaxy-watch-6-classic-43-mm-tem-melhor-oferta-em-meses-em-ate-10x/</link>
+      <description>Galaxy Watch 6 Classic custa menos de mil reais com desconto de 74% no Mercado Livre; relógio inteligente tem tela AMOLED e conectividade 4G LTE</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-watch-6-classic-43-mm-tem-melhor-oferta-em-meses-em-ate-10x/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/03/samsung-galaxy-watch-6-classic-achado-dia-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 16 Jun 2025 19:16:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Windows Hello não funciona no escuro? Microsoft diz que é normal</title>
+      <link>https://tecnoblog.net/noticias/windows-hello-nao-funciona-no-escuro-microsoft-diz-que-e-normal/</link>
+      <description>Microsoft alterou funcionamento do Windows Hello após atualização, fazendo reconhecimento facial não funcionar em ambientes escuros.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/windows-hello-nao-funciona-no-escuro-microsoft-diz-que-e-normal/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/windows-hello-capa-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 16 Jun 2025 19:25:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Motorola Edge 60 (512 GB) está R$ 650 mais barato no Mercado Livre</title>
+      <link>https://tecnoblog.net/achados/motorola-edge-60-512-gb-tem-19-de-desconto-no-mercado-livre/</link>
+      <description>Motorola Edge 60 leva tela pOLED de 6,7 polegadas, câmera principal Sony de 50 MP e bateria de 5.200 mAh; ao usar cupom, celular sai com desconto no Mercado Livre</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/motorola-edge-60-512-gb-tem-19-de-desconto-no-mercado-livre/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/Motorola-edge60-oferta-recomendada-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 16 Jun 2025 19:27:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Apple vai consertar de graça Mac Mini M2 com falha de energia</title>
+      <link>https://tecnoblog.net/noticias/apple-vai-consertar-de-graca-mac-mini-m2-com-falha-de-energia/</link>
+      <description>Reparo cobre unidades fabricadas entre junho e novembro de 2024 e vale por três anos. Quem já pagou pelo conserto poderá ser reembolsado.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/apple-vai-consertar-de-graca-mac-mini-m2-com-falha-de-energia/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/mac-mini-m2-com-problema-de-energia-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 16 Jun 2025 20:09:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
