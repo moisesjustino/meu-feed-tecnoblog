@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 16 Jun 2025 22:11:39 +0000</lastBuildDate>
-    <item>
-      <title>Moto G55 (256 GB) tem 44% de desconto com cupom no Mercado Livre</title>
-      <link>https://tecnoblog.net/achados/moto-g55-256-gb-tem-44-de-desconto-com-cupom-no-mercado-livre/</link>
-      <description>Moto G55 leva tela LCD com taxa de atualização 120 Hz, câmera principal de 50 MP e 16 GB de memória RAM expansível; celular Motorola recebe desconto com cupom no Mercado Livre</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/moto-g55-256-gb-tem-44-de-desconto-com-cupom-no-mercado-livre/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/02/Moto-G55-Imagem-DivulgacaoMotorola-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 13 Jun 2025 15:19:37 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 16 Jun 2025 23:11:14 +0000</lastBuildDate>
     <item>
       <title>Meta AI: feed público do app exibe conversas íntimas de usuários com IA</title>
       <link>https://tecnoblog.net/noticias/meta-ai-feed-publico-do-app-exibe-conversas-intimas-de-usuarios-com-ia/</link>
@@ -153,7 +145,7 @@
       <pubDate>Mon, 16 Jun 2025 17:00:39 +0000</pubDate>
     </item>
     <item>
-      <title>Quem mais fatura com celular no Brasil: Apple ou Samsung?</title>
+      <title>Quem ganha mais dinheiro com celular no Brasil: Apple ou Samsung?</title>
       <link>https://tecnoblog.net/noticias/samsung-fatura-mais-que-o-dobro-da-apple-no-brasil-veja-os-numeros/</link>
       <description>Mercado de celulares movimentou R$ 3,6 bilhões de janeiro a março, segundo levantamento da consultoria Canalys. Xiaomi aparece na terceira posição.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/samsung-fatura-mais-que-o-dobro-da-apple-no-brasil-veja-os-numeros/</guid>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/whatsapp-testa-18-novas-cores-nos-temas-de-conversa-no-android/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/06/whatsapp_capa-3_tb-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 16 Jun 2025 21:49:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Instagram prepara ferramenta oficial de repost no feed</title>
+      <link>https://tecnoblog.net/noticias/instagram-prepara-ferramenta-oficial-de-repost-no-feed/</link>
+      <description>Concorrência com TikTok e popularidade de conteúdo replicado impulsionam testes. Recurso nativo de republicação é estudado desde 2022.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/instagram-prepara-ferramenta-oficial-de-repost-no-feed/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/03/instagram-capa-2-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 16 Jun 2025 22:45:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
