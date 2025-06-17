@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 17 Jun 2025 21:11:14 +0000</lastBuildDate>
-    <item>
-      <title>Empresa de Trump lança smartphone T1 e plano de telefonia</title>
-      <link>https://tecnoblog.net/noticias/empresa-de-trump-lanca-smartphone-t1-e-plano-de-telefonia/</link>
-      <description>Celular “made in USA” com Android 15 custa US$ 499. Trump Organization também investiu em rede social, criptomoeda e produtos licenciados.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/empresa-de-trump-lanca-smartphone-t1-e-plano-de-telefonia/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/trump-mobile-t1-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 16 Jun 2025 16:34:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>YouTube atrasa vídeos de quem usa bloqueador de anúncios</title>
-      <link>https://tecnoblog.net/noticias/youtube-pode-atrasar-videos-de-quem-usa-bloqueador-de-anuncios/</link>
-      <description>Google não reconheceu publicamente investidas contra ad blockers no YouTube, mas relatos de usuários sobre isso são crescentes.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/youtube-pode-atrasar-videos-de-quem-usa-bloqueador-de-anuncios/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/adblock-capa-2-edited-1-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 16 Jun 2025 17:00:39 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 17 Jun 2025 22:11:19 +0000</lastBuildDate>
     <item>
       <title>Quem ganha mais dinheiro com celular no Brasil: Apple ou Samsung?</title>
       <link>https://tecnoblog.net/noticias/samsung-fatura-mais-que-o-dobro-da-apple-no-brasil-veja-os-numeros/</link>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/nao-gosta-do-gnome-o-kde-plasma-6-4-ja-esta-aqui/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/kde-plasma-6-4-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 17 Jun 2025 20:31:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Galaxy Tab S10 FE com IA tem 36% OFF na melhor oferta desde lançamento</title>
+      <link>https://tecnoblog.net/achados/galaxy-tab-s10-fe-com-ia-tem-36-off-na-melhor-oferta-desde-lancamento/</link>
+      <description>Sem descrição breve.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-tab-s10-fe-com-ia-tem-36-off-na-melhor-oferta-desde-lancamento/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/05/Samsung-promete-que-apps-pesados-rodam-no-Galaxy-Tab-S10-FE-foto-Giovanni-Santa-RosaTecnoblog-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 17 Jun 2025 21:14:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Threads começa a liberar mensagens diretas no Brasil</title>
+      <link>https://tecnoblog.net/noticias/threads-comeca-a-liberar-mensagens-diretas-no-brasil/</link>
+      <description>Novo sistema de DMs, separado do Instagram, permite só conversas individuais. Lançamento global aconteceu há uma semana.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/threads-comeca-a-liberar-mensagens-diretas-no-brasil/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/07/app-threads-no-celular-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 17 Jun 2025 21:36:26 +0000</pubDate>
     </item>
   </channel>
 </rss>
