@@ -7,47 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 17 Jun 2025 13:26:47 +0000</lastBuildDate>
-    <item>
-      <title>Meta AI: feed público do app exibe conversas íntimas de usuários com IA</title>
-      <link>https://tecnoblog.net/noticias/meta-ai-feed-publico-do-app-exibe-conversas-intimas-de-usuarios-com-ia/</link>
-      <description>Plataforma exige confirmação para compartilhar interações, mas relatos indicam que isso pode estar acontecendo acidentalmente, sem que as pessoas percebam</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/meta-ai-feed-publico-do-app-exibe-conversas-intimas-de-usuarios-com-ia/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/02/Capa-Mark-Zuckerberg-03-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 13 Jun 2025 15:42:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Samsung decide encerrar suporte ao Wallet no Android 10</title>
-      <link>https://tecnoblog.net/noticias/samsung-decide-encerrar-o-suporte-ao-wallet-no-android-10/</link>
-      <description>Usuários afetados ainda poderão usar o Samsung Wallet, mas perderão acesso a atualizações e não poderão reinstalá-lo. Android 10 foi lançado em 2019.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/samsung-decide-encerrar-o-suporte-ao-wallet-no-android-10/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/12/20241203_123028-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 13 Jun 2025 15:54:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>LibreOffice também defende troca do Windows 10 pelo Linux</title>
-      <link>https://tecnoblog.net/noticias/libreoffice-tambem-defende-troca-do-windows-10-pelo-linux/</link>
-      <description>Responsável pelo LibreOffice, The Document Foundation é mais uma organização que incentiva uso do Linux no lugar do Windows 10.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/libreoffice-tambem-defende-troca-do-windows-10-pelo-linux/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/libreoffice-troca-windows-linux-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 13 Jun 2025 16:06:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Claude AI: o que é, para que serve e como funciona a IA generativa da Anthropic</title>
-      <link>https://tecnoblog.net/responde/claude-ai-o-que-e-para-que-serve-e-como-funciona-a-ia-generativa-da-anthropic/</link>
-      <description>O Claude AI é uma inteligência artificial generativa projetada para realizar diferentes tarefas, como escrita criativa e codificação, com foco em segurança e privacidade</description>
-      <guid isPermaLink="false">https://tecnoblog.net/responde/claude-ai-o-que-e-para-que-serve-e-como-funciona-a-ia-generativa-da-anthropic/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/O-que-e-claude-ai-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 13 Jun 2025 18:12:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Agora é a vez do Instant Apps do Android ir para o cemitério do Google</title>
-      <link>https://tecnoblog.net/noticias/agora-e-a-vez-do-instant-apps-do-android-ir-para-o-cemiterio-do-google/</link>
-      <description>Google iará descontinuar Instant Apps para Android até dezembro de 2025 devido ao baixo uso do recurso entre desenvolvedores e usuários.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/agora-e-a-vez-do-instant-apps-do-android-ir-para-o-cemiterio-do-google/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/09/capa-play-store-1-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 13 Jun 2025 18:53:19 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 17 Jun 2025 14:12:32 +0000</lastBuildDate>
     <item>
       <title>Galaxy S25 Ultra (256 GB) fica 47% mais barato em oferta em até 12x</title>
       <link>https://tecnoblog.net/achados/galaxy-s25-ultra-256-gb-fica-47-mais-barato-em-oferta-em-ate-12x/</link>
@@ -127,6 +87,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/bug-no-copilot-permitia-roubo-de-dados-pelo-agente-de-ia/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/11/capa-copilot-2-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 16 Jun 2025 14:04:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>O que é spoofing? Saiba como funciona, seus tipos e formas de proteção</title>
+      <link>https://tecnoblog.net/responde/o-que-e-spoofing/</link>
+      <description>Spoofing é uma técnica que engana as vítimas ao ocultar a verdadeira identidade do criminoso, fazendo elas revelarem dados confidenciais ou instalar arquivos maliciosos</description>
+      <guid isPermaLink="false">https://tecnoblog.net/responde/o-que-e-spoofing/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/12/pirataria-software-capa-3-nov-2022-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 16 Jun 2025 15:03:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>O que é a tecnologia de consumo? Conheça exemplos de produtos e empresas da categoria</title>
+      <link>https://tecnoblog.net/responde/o-que-e-a-tecnologia-de-consumo-conheca-exemplos-de-produtos-e-empresas-da-categoria/</link>
+      <description>Celulares, TVs, apps, assistentes virtuais e outros eletrônicos de consumo que usamos no dia a dia fazem parte desse mercado chamado tecnologia de consumo, liderado por gigantes como Apple, Samsung e Google</description>
+      <guid isPermaLink="false">https://tecnoblog.net/responde/o-que-e-a-tecnologia-de-consumo-conheca-exemplos-de-produtos-e-empresas-da-categoria/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/03/spotify-app-feed-edited-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 16 Jun 2025 16:32:21 +0000</pubDate>
     </item>
     <item>
       <title>Empresa de Trump lança smartphone T1 e plano de telefonia</title>
@@ -223,6 +199,30 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/instagram-prepara-ferramenta-oficial-de-repost-no-feed/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/03/instagram-capa-2-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 16 Jun 2025 22:45:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Samsung libera One UI 7 para mais aparelhos Galaxy; veja lista</title>
+      <link>https://tecnoblog.net/noticias/samsung-libera-one-ui-7-para-mais-aparelhos-galaxy-veja-lista/</link>
+      <description>Samsung começou a liberar a One UI 7 gradualmente, com modelos como Galaxy A05s e Galaxy A15 recebendo a interface neste mês de junho.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/samsung-libera-one-ui-7-para-mais-aparelhos-galaxy-veja-lista/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/12/samsung-galaxy-a15-5g-cores-edited-340x191.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 17 Jun 2025 13:46:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>iPhone 16 tem menor preço que já vimos em oferta com 37% OFF na Amazon</title>
+      <link>https://tecnoblog.net/achados/iphone-16-tem-menor-preco-que-ja-vimos-em-oferta-com-37-off-na-amazon/</link>
+      <description>iPhone 16 é desenvolvido com o chip Apple A18 que traz 30% a mais de velocidade que o iPhone 15; celular aparece com menor preço já visto em oferta na Amazon</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/iphone-16-tem-menor-preco-que-ja-vimos-em-oferta-com-37-off-na-amazon/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/01/iphone-16-foto-thassius-velosotecnoblog-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 17 Jun 2025 14:00:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Galaxy Tab S6 Lite fica 44% mais barato no AliExpress e acompanha S Pen</title>
+      <link>https://tecnoblog.net/achados/galaxy-tab-s6-lite-fica-44-mais-barato-no-aliexpress-e-acompanha-s-pen/</link>
+      <description>Galaxy Tab S6 Lite Wi-Fi (2024) tem oferta com parcelamento em até 12x e traz tela LCD de 10,4", processador Exynos 1280 e caneta S Pen aprovada pelo Tecnoblog</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-tab-s6-lite-fica-44-mais-barato-no-aliexpress-e-acompanha-s-pen/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/05/Galaxy-Tab-S6-Lite-acompanha-caneta-S-Pen-foto-Paulo-HigaTecnoblog-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 17 Jun 2025 14:06:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
