@@ -7,47 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 17 Jun 2025 17:11:48 +0000</lastBuildDate>
-    <item>
-      <title>iPhone XS entra para lista de produtos “vintage” da Apple</title>
-      <link>https://tecnoblog.net/noticias/iphone-xs-entra-para-lista-de-produtos-vintage-da-apple/</link>
-      <description>Produto que entra na lista vintage ainda pode ser reparado pela Apple, mas só se houver peças remanescentes. iPhone XS Max é vintage desde 2024.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/iphone-xs-entra-para-lista-de-produtos-vintage-da-apple/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2018/09/iphone-xs-1-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 13 Jun 2025 20:41:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>WhatsApp testa filtro que separa conversas para atendimento humano</title>
-      <link>https://tecnoblog.net/noticias/whatsapp-testa-filtro-que-separa-conversas-para-atendimento-humano/</link>
-      <description>Recurso AI Handoff vai separar conversas que a IA não conseguiu resolver. Função é voltada a contas comerciais e deve ser implementada no WhatsApp Business.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/whatsapp-testa-filtro-que-separa-conversas-para-atendimento-humano/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/03/whatsapp-capa-3-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 13 Jun 2025 20:42:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Windows 11 toca som de abertura do Windows Vista por engano</title>
-      <link>https://tecnoblog.net/noticias/windows-11-toca-som-de-abertura-do-windows-vista-por-engano/</link>
-      <description>Som de inicialização do Windows Vista foi parar em versão de teste do Windows 11 por causa de um bug. Microsoft promete correção.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/windows-11-toca-som-de-abertura-do-windows-vista-por-engano/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/windows-vista-logo-1-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 16 Jun 2025 12:31:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>WhatsApp terá propagandas entre os status; veja o que muda no app</title>
-      <link>https://tecnoblog.net/noticias/whatsapp-tera-propagandas-entre-os-status-veja-o-que-muda-no-app/</link>
-      <description>Meta também vai dar novas opções para canais, que poderão oferecer conteúdo exclusivo para assinantes e pagar para aparecer nas sugestões.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/whatsapp-tera-propagandas-entre-os-status-veja-o-que-muda-no-app/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/03/whatsapp-capa-2-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 16 Jun 2025 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Curta sua festa junina com as estações de energia portáteis da Bluetti</title>
-      <link>https://tecnoblog.net/publieditoriais/curta-sua-festa-junina-com-as-estacoes-de-energia-portateis-da-bluetti/</link>
-      <description>Não deixe faltar luz na sua festa junina! A Bluetti tem estações de energia portáteis com suporte a luz solar e as mais variadas capacidades.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/publieditoriais/curta-sua-festa-junina-com-as-estacoes-de-energia-portateis-da-bluetti/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/estacao-energia-bluetti-capa-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 16 Jun 2025 13:03:44 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 17 Jun 2025 18:16:45 +0000</lastBuildDate>
     <item>
       <title>Mais um país: Alemanha abandona Microsoft por softwares de código aberto</title>
       <link>https://tecnoblog.net/noticias/mais-um-pais-alemanha-abandona-microsoft-por-softwares-de-codigo-aberto/</link>
@@ -113,12 +73,28 @@
       <pubDate>Mon, 16 Jun 2025 19:16:30 +0000</pubDate>
     </item>
     <item>
+      <title>Mobilidade urbana: como a tecnologia impacta na circulação de pessoas e cargas</title>
+      <link>https://tecnoblog.net/responde/mobilidade-urbana-como-a-tecnologia-impacta-na-circulacao-de-pessoas-e-cargas/</link>
+      <description>A tecnologia traz impactos positivos para mobilidade urbana, como a otimização da gestão de tráfego, apps de transporte e outras ações de sustentabilidade</description>
+      <guid isPermaLink="false">https://tecnoblog.net/responde/mobilidade-urbana-como-a-tecnologia-impacta-na-circulacao-de-pessoas-e-cargas/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/john-michael-wilyat-rq8Db1FhuX0-unsplash-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 16 Jun 2025 19:23:44 +0000</pubDate>
+    </item>
+    <item>
       <title>Windows Hello não funciona no escuro? Microsoft diz que é normal</title>
       <link>https://tecnoblog.net/noticias/windows-hello-nao-funciona-no-escuro-microsoft-diz-que-e-normal/</link>
       <description>Microsoft alterou funcionamento do Windows Hello após atualização, fazendo reconhecimento facial não funcionar em ambientes escuros.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/windows-hello-nao-funciona-no-escuro-microsoft-diz-que-e-normal/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/windows-hello-capa-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 16 Jun 2025 19:25:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Celular de entrada: conheça o portfólio das marcas para smartphones mais simples</title>
+      <link>https://tecnoblog.net/responde/celular-de-entrada-conheca-o-portfolio-das-marcas-para-smartphones-mais-simples/</link>
+      <description>Os celulares de entrada são smartphones básicos desenvolvidos para quem busca um dispositivo para funções essenciais, como comunicação e acesso à internet</description>
+      <guid isPermaLink="false">https://tecnoblog.net/responde/celular-de-entrada-conheca-o-portfolio-das-marcas-para-smartphones-mais-simples/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/04/galaxy-a06-5g-340x191.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 16 Jun 2025 19:26:32 +0000</pubDate>
     </item>
     <item>
       <title>Motorola Edge 60 (512 GB) está R$ 650 mais barato no Mercado Livre</title>
@@ -219,10 +195,34 @@
     <item>
       <title>OpenAI considera processar Microsoft após discussões tensas, diz site</title>
       <link>https://tecnoblog.net/noticias/openai-considera-processar-microsoft-apos-discussoes-tensas-diz-site/</link>
-      <description>Gigantes da tecnologia se desentendem sobre cláusulas de exclusividade, revenda de software e mudanças no controle societário da OpenAI</description>
+      <description>Gigantes da tecnologia se desentendem sobre cláusulas de exclusividade, revenda de software e mudanças no controle societário da OpenAI.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/openai-considera-processar-microsoft-apos-discussoes-tensas-diz-site/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/06/chatgpt-2_capa-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Tue, 17 Jun 2025 16:10:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Meta faz apelo: não compartilhe seus segredos com nosso app de IA</title>
+      <link>https://tecnoblog.net/noticias/meta-faz-apelo-nao-compartilhe-seus-segredos-com-nosso-app-de-ia/</link>
+      <description>Empresa reage após falha de design levar à exposição pública de informações sensíveis.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/meta-faz-apelo-nao-compartilhe-seus-segredos-com-nosso-app-de-ia/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/10/capa-meta-ai-2-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 17 Jun 2025 17:15:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google testa IA que gera “podcast falso” com resultado de busca</title>
+      <link>https://tecnoblog.net/noticias/google-testa-ia-que-gera-podcast-falso-com-resultado-de-busca/</link>
+      <description>Recurso experimental transforma resultados de busca em diálogos narrados por vozes artificiais. Ferramenta está em fase de testes e disponível no Search Labs.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/google-testa-ia-que-gera-podcast-falso-com-resultado-de-busca/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/audio-google-ia-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 17 Jun 2025 17:20:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Instagram: brasileiros reclamam de contas banidas sem explicação</title>
+      <link>https://tecnoblog.net/noticias/instagram-brasileiros-reclamam-de-contas-banidas-sem-explicacao/</link>
+      <description>Banimentos também ocorreram no Threads e Facebook, do conglomerado Meta. Falha em sistemas automatizados de moderação pode estar por trás do problema.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/instagram-brasileiros-reclamam-de-contas-banidas-sem-explicacao/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/02/capa-desativar-instagram-tb-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 17 Jun 2025 17:21:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
