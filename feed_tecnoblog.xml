@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 17 Jun 2025 18:16:45 +0000</lastBuildDate>
-    <item>
-      <title>Mais um país: Alemanha abandona Microsoft por softwares de código aberto</title>
-      <link>https://tecnoblog.net/noticias/mais-um-pais-alemanha-abandona-microsoft-por-softwares-de-codigo-aberto/</link>
-      <description>Medida afetará 60 mil funcionários públicos em Eslésvico-Holsácia e visa "soberania digital", segundo o ministro de digitalização do estado.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/mais-um-pais-alemanha-abandona-microsoft-por-softwares-de-codigo-aberto/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/05/linux_capa-2_tb-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 16 Jun 2025 13:20:22 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 17 Jun 2025 19:09:22 +0000</lastBuildDate>
     <item>
       <title>Bug no Copilot permitia roubo de dados pelo agente de IA</title>
       <link>https://tecnoblog.net/noticias/bug-no-copilot-permitia-roubo-de-dados-pelo-agente-de-ia/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/instagram-brasileiros-reclamam-de-contas-banidas-sem-explicacao/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/02/capa-desativar-instagram-tb-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Tue, 17 Jun 2025 17:21:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google ajusta Play Store para evitar que você compre apps sem querer</title>
+      <link>https://tecnoblog.net/noticias/google-ajusta-play-store-para-evitar-que-voce-compre-apps-sem-querer/</link>
+      <description>Google implementou gesto "Deslize para comprar" para finalizar compras na Play Store, visando reduzir compras acidentais.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/google-ajusta-play-store-para-evitar-que-voce-compre-apps-sem-querer/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/08/play-store-app-icone-tecnoblog-android-edited-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 17 Jun 2025 18:25:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
