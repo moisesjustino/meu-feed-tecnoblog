@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 17 Jun 2025 22:11:19 +0000</lastBuildDate>
-    <item>
-      <title>Quem ganha mais dinheiro com celular no Brasil: Apple ou Samsung?</title>
-      <link>https://tecnoblog.net/noticias/samsung-fatura-mais-que-o-dobro-da-apple-no-brasil-veja-os-numeros/</link>
-      <description>Mercado de celulares movimentou R$ 3,6 bilhões de janeiro a março, segundo levantamento da consultoria Canalys. Xiaomi aparece na terceira posição.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/samsung-fatura-mais-que-o-dobro-da-apple-no-brasil-veja-os-numeros/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/Capa-Empresas-que-mais-faturam-v2-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 16 Jun 2025 17:35:46 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 17 Jun 2025 23:11:23 +0000</lastBuildDate>
     <item>
       <title>Galaxy Watch 6 Classic (43 mm) tem melhor oferta em meses em até 10x</title>
       <link>https://tecnoblog.net/achados/galaxy-watch-6-classic-43-mm-tem-melhor-oferta-em-meses-em-ate-10x/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/threads-comeca-a-liberar-mensagens-diretas-no-brasil/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/07/app-threads-no-celular-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 17 Jun 2025 21:36:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Huawei retorna ao Brasil e quer peitar celulares da Apple e Samsung</title>
+      <link>https://tecnoblog.net/noticias/huawei-retorna-ao-brasil-e-quer-peitar-celulares-da-apple-e-samsung/</link>
+      <description>Após cinco anos fora do mercado de smartphones, gigante chinesa foca em aparelhos premium e abre mão de modelos intermediários.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/huawei-retorna-ao-brasil-e-quer-peitar-celulares-da-apple-e-samsung/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/20250617_195015-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 17 Jun 2025 22:56:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
