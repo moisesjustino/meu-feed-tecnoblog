@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 18 Jun 2025 16:14:59 +0000</lastBuildDate>
-    <item>
-      <title>Apple vai consertar de graça Mac Mini M2 com falha de energia</title>
-      <link>https://tecnoblog.net/noticias/apple-vai-consertar-de-graca-mac-mini-m2-com-falha-de-energia/</link>
-      <description>Reparo cobre unidades fabricadas entre junho e novembro de 2024 e vale por três anos. Quem já pagou pelo conserto poderá ser reembolsado.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/apple-vai-consertar-de-graca-mac-mini-m2-com-falha-de-energia/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/mac-mini-m2-com-problema-de-energia-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 16 Jun 2025 20:09:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Clientes da Caixa enfrentam falha que faz Pix “sumir”</title>
-      <link>https://tecnoblog.net/noticias/clientes-da-caixa-enfrentam-falha-que-faz-pix-sumir/</link>
-      <description>Clientes da Caixa Econômica Federal reclamam de Pix que não chega ao destino e não é estornado. Banco diz que serviços estão normalizados.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/clientes-da-caixa-enfrentam-falha-que-faz-pix-sumir/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/caixa-aplicativo-340x191.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 16 Jun 2025 20:32:55 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 18 Jun 2025 17:12:54 +0000</lastBuildDate>
     <item>
       <title>Pix Automático estreia no Brasil; streamings já testam a função</title>
       <link>https://tecnoblog.net/noticias/pix-automatico-estreia-no-brasil-streamings-ja-testam-a-funcao/</link>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/zuckerberg-ofereceu-ate-us-100-milhoes-para-levar-funcionarios-da-openai/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/02/Capa-Mark-Zuckerberg-03-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Wed, 18 Jun 2025 15:04:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Xbox será multiplataforma e com chip AMD, revela Microsoft</title>
+      <link>https://tecnoblog.net/noticias/xbox-sera-multiplataforma-e-com-chip-amd-revela-microsoft/</link>
+      <description>Próxima geração do Xbox deve ser equipada com Windows e rodar jogos em qualquer lugar. Novo console pode ter compatibilidade com a Steam.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/xbox-sera-multiplataforma-e-com-chip-amd-revela-microsoft/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/04/xbox-one_capa-2_tb-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 18 Jun 2025 16:19:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>IA do WhatsApp expõe celular de usuário ao dar resposta errada</title>
+      <link>https://tecnoblog.net/noticias/ia-do-whatsapp-expoe-celular-de-usuario-ao-dar-resposta-errada/</link>
+      <description>Caso ocorreu no Reino Unido. Usuário tentou obter o telefone de uma empresa, mas a IA do WhatsApp informou o número de celular de outra pessoa.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/ia-do-whatsapp-expoe-celular-de-usuario-ao-dar-resposta-errada/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/10/capa-meta-ai-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 18 Jun 2025 17:08:35 +0000</pubDate>
     </item>
   </channel>
 </rss>
