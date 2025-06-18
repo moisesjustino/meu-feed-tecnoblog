@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 18 Jun 2025 18:16:42 +0000</lastBuildDate>
-    <item>
-      <title>Pix Automático estreia no Brasil; streamings já testam a função</title>
-      <link>https://tecnoblog.net/noticias/pix-automatico-estreia-no-brasil-streamings-ja-testam-a-funcao/</link>
-      <description>Nova modalidade do Pix está disponível a partir desta segunda (16/06) e permite pagamentos recorrentes. Netflix, Globoplay e Disney+ já testam a novidade.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/pix-automatico-estreia-no-brasil-streamings-ja-testam-a-funcao/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/03/netflix-disney-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 16 Jun 2025 21:00:17 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 18 Jun 2025 19:09:19 +0000</lastBuildDate>
     <item>
       <title>Quais são as empresas de Elon Musk? Conheça os negócios de tecnologia do bilionário</title>
       <link>https://tecnoblog.net/responde/quais-sao-as-empresas-de-elon-musk-conheca-os-negocios-de-tecnologia-do-bilionario/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/ia-do-whatsapp-expoe-celular-de-usuario-ao-dar-resposta-errada/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/10/capa-meta-ai-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Wed, 18 Jun 2025 17:08:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Moto G75 (256 GB) com Moto Buds têm 46% de desconto no Mercado Livre</title>
+      <link>https://tecnoblog.net/achados/moto-g75-256-gb-com-moto-buds-tem-46-de-desconto-no-mercado-livre/</link>
+      <description>Moto G75 leva processador Qualcomm Snapdragon, tela de 120 Hz e câmera da Sony; promoção com cupom do Mercado Livre ainda inclui fones Moto Buds</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/moto-g75-256-gb-com-moto-buds-tem-46-de-desconto-no-mercado-livre/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/01/moto-g75-5g-imagem-divulgacaomotorola-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 18 Jun 2025 18:45:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
