@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 18 Jun 2025 13:28:03 +0000</lastBuildDate>
-    <item>
-      <title>Windows Hello não funciona no escuro? Microsoft diz que é normal</title>
-      <link>https://tecnoblog.net/noticias/windows-hello-nao-funciona-no-escuro-microsoft-diz-que-e-normal/</link>
-      <description>Microsoft alterou funcionamento do Windows Hello após atualização, fazendo reconhecimento facial não funcionar em ambientes escuros.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/windows-hello-nao-funciona-no-escuro-microsoft-diz-que-e-normal/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/windows-hello-capa-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 16 Jun 2025 19:25:05 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 18 Jun 2025 14:12:16 +0000</lastBuildDate>
     <item>
       <title>Celular de entrada: conheça o portfólio das marcas para smartphones mais simples</title>
       <link>https://tecnoblog.net/responde/celular-de-entrada-conheca-o-portfolio-das-marcas-para-smartphones-mais-simples/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/pix-automatico-claro-tim-e-vivo-confirmam-nova-forma-de-pagamento/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/05/capa-claro-tim-vivo_tb-3-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Wed, 18 Jun 2025 13:15:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nubank fora do ar? Dinheiro das caixinhas não cai na conta, dizem clientes</title>
+      <link>https://tecnoblog.net/noticias/nubank-fora-do-ar-dinheiro-das-caixinhas-nao-cai-na-conta-dizem-clientes/</link>
+      <description>Relatos nas redes sociais indicam problemas nos depósitos e principalmente nos resgates das caixinhas</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/nubank-fora-do-ar-dinheiro-das-caixinhas-nao-cai-na-conta-dizem-clientes/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/07/capa-nu-fora-do-ar-2-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 18 Jun 2025 13:35:59 +0000</pubDate>
     </item>
   </channel>
 </rss>
