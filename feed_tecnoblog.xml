@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 18 Jun 2025 14:12:16 +0000</lastBuildDate>
-    <item>
-      <title>Celular de entrada: conheça o portfólio das marcas para smartphones mais simples</title>
-      <link>https://tecnoblog.net/responde/celular-de-entrada-conheca-o-portfolio-das-marcas-para-smartphones-mais-simples/</link>
-      <description>Os celulares de entrada são smartphones básicos desenvolvidos para quem busca um dispositivo para funções essenciais, como comunicação e acesso à internet</description>
-      <guid isPermaLink="false">https://tecnoblog.net/responde/celular-de-entrada-conheca-o-portfolio-das-marcas-para-smartphones-mais-simples/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/04/galaxy-a06-5g-340x191.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 16 Jun 2025 19:26:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Motorola Edge 60 (512 GB) está R$ 650 mais barato no Mercado Livre</title>
-      <link>https://tecnoblog.net/achados/motorola-edge-60-512-gb-tem-19-de-desconto-no-mercado-livre/</link>
-      <description>Motorola Edge 60 leva tela pOLED de 6,7 polegadas, câmera principal Sony de 50 MP e bateria de 5.200 mAh; ao usar cupom, celular sai com desconto no Mercado Livre</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/motorola-edge-60-512-gb-tem-19-de-desconto-no-mercado-livre/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/Motorola-edge60-oferta-recomendada-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 16 Jun 2025 19:27:19 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 18 Jun 2025 15:12:48 +0000</lastBuildDate>
     <item>
       <title>Apple vai consertar de graça Mac Mini M2 com falha de energia</title>
       <link>https://tecnoblog.net/noticias/apple-vai-consertar-de-graca-mac-mini-m2-com-falha-de-energia/</link>
@@ -217,12 +201,28 @@
       <pubDate>Wed, 18 Jun 2025 13:15:39 +0000</pubDate>
     </item>
     <item>
-      <title>Nubank fora do ar? Dinheiro das caixinhas não cai na conta, dizem clientes</title>
+      <title>Clientes do Nubank ficam sem o dinheiro das caixinhas; entenda o caso</title>
       <link>https://tecnoblog.net/noticias/nubank-fora-do-ar-dinheiro-das-caixinhas-nao-cai-na-conta-dizem-clientes/</link>
-      <description>Relatos nas redes sociais indicam problemas nos depósitos e principalmente nos resgates das caixinhas</description>
+      <description>Relatos nas redes sociais indicam problemas nos depósitos e principalmente nos resgates das caixinhas. Nubank diz estar ciente da instabilidade.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/nubank-fora-do-ar-dinheiro-das-caixinhas-nao-cai-na-conta-dizem-clientes/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/07/capa-nu-fora-do-ar-2-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Wed, 18 Jun 2025 13:35:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Facebook vai tratar todos os vídeos postados como Reels</title>
+      <link>https://tecnoblog.net/noticias/facebook-vai-tratar-todos-os-videos-postados-como-reels/</link>
+      <description>Mudança de vídeos tradicionais para Reels no Facebook será gradativa. Novo padrão não terá limite de tempo ou de formato.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/facebook-vai-tratar-todos-os-videos-postados-como-reels/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/facebook-videos-reels-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 18 Jun 2025 15:03:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Zuckerberg ofereceu até US$ 100 milhões para levar funcionários da OpenAI</title>
+      <link>https://tecnoblog.net/noticias/zuckerberg-ofereceu-ate-us-100-milhoes-para-levar-funcionarios-da-openai/</link>
+      <description>Meta usa pacotes de remuneração extremamente altos para atrair os melhores pesquisadores de IA do mercado.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/zuckerberg-ofereceu-ate-us-100-milhoes-para-levar-funcionarios-da-openai/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/02/Capa-Mark-Zuckerberg-03-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 18 Jun 2025 15:04:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
