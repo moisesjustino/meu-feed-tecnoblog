@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 18 Jun 2025 19:09:19 +0000</lastBuildDate>
-    <item>
-      <title>Quais são as empresas de Elon Musk? Conheça os negócios de tecnologia do bilionário</title>
-      <link>https://tecnoblog.net/responde/quais-sao-as-empresas-de-elon-musk-conheca-os-negocios-de-tecnologia-do-bilionario/</link>
-      <description>O bilionário Elon Musk atualmente é dono de seis empresas de diferentes segmentos, mas que estão ligados à indústria tecnológica</description>
-      <guid isPermaLink="false">https://tecnoblog.net/responde/quais-sao-as-empresas-de-elon-musk-conheca-os-negocios-de-tecnologia-do-bilionario/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/05/elon-musk_capa-1_tb-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 16 Jun 2025 21:17:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Galaxy Tab S10 FE Plus tem tela de 13,1″ e 40% OFF em oferta em até 12x</title>
-      <link>https://tecnoblog.net/achados/galaxy-tab-s10-fe-plus-tem-tela-de-131-e-40-off-em-oferta-em-ate-12x/</link>
-      <description>Galaxy Tab S10 FE Plus de 128 GB com tela e bateria grandes acompanha caneta S Pen e tem suporte à IA da Samsung; tablet tem oferta com parcelamento no Mercado Livre</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-tab-s10-fe-plus-tem-tela-de-131-e-40-off-em-oferta-em-ate-12x/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/05/Galaxy-Tab-S10-FE-tem-tela-de-109-polegadas-foto-Giovanni-Santa-RosaTecnoblog-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 16 Jun 2025 21:44:15 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 18 Jun 2025 20:14:21 +0000</lastBuildDate>
     <item>
       <title>WhatsApp testa 18 novas cores nos temas de conversa no Android</title>
       <link>https://tecnoblog.net/noticias/whatsapp-testa-18-novas-cores-nos-temas-de-conversa-no-android/</link>
@@ -111,6 +95,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/instagram-brasileiros-reclamam-de-contas-banidas-sem-explicacao/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/02/capa-desativar-instagram-tb-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Tue, 17 Jun 2025 17:21:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>O que é keylogger? Veja como funciona e quais são as formas de proteção</title>
+      <link>https://tecnoblog.net/responde/o-que-e-keylogger/</link>
+      <description>Um keylogger é um software ou hardware que registra cada tecla digitada em um dispositivo, sendo usado para monitorar atividades ou roubar informações sensíveis</description>
+      <guid isPermaLink="false">https://tecnoblog.net/responde/o-que-e-keylogger/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/05/avell-hyb-a70-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 17 Jun 2025 18:09:35 +0000</pubDate>
     </item>
     <item>
       <title>Google ajusta Play Store para evitar que você compre apps sem querer</title>
@@ -217,12 +209,20 @@
       <pubDate>Wed, 18 Jun 2025 17:08:35 +0000</pubDate>
     </item>
     <item>
-      <title>Moto G75 (256 GB) com Moto Buds têm 46% de desconto no Mercado Livre</title>
+      <title>Moto G75 (256 GB) com Moto Buds tem 46% de desconto no Mercado Livre</title>
       <link>https://tecnoblog.net/achados/moto-g75-256-gb-com-moto-buds-tem-46-de-desconto-no-mercado-livre/</link>
       <description>Moto G75 leva processador Qualcomm Snapdragon, tela de 120 Hz e câmera da Sony; promoção com cupom do Mercado Livre ainda inclui fones Moto Buds</description>
       <guid isPermaLink="false">https://tecnoblog.net/achados/moto-g75-256-gb-com-moto-buds-tem-46-de-desconto-no-mercado-livre/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/01/moto-g75-5g-imagem-divulgacaomotorola-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Wed, 18 Jun 2025 18:45:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>NFC 15 vai permitir pagamentos sem contato com distâncias maiores</title>
+      <link>https://tecnoblog.net/noticias/nfc-15-vai-permitir-pagamentos-sem-contato-com-distancias-maiores/</link>
+      <description>Nova versão do NFC permite distâncias de até 2 cm para comunicação sem contato, prometendo melhorar a experiência com pagamentos e outras aplicações.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/nfc-15-vai-permitir-pagamentos-sem-contato-com-distancias-maiores/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/09/nfc-celular-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 18 Jun 2025 19:25:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
