@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 18 Jun 2025 22:11:25 +0000</lastBuildDate>
-    <item>
-      <title>WhatsApp testa 18 novas cores nos temas de conversa no Android</title>
-      <link>https://tecnoblog.net/noticias/whatsapp-testa-18-novas-cores-nos-temas-de-conversa-no-android/</link>
-      <description>Novidade foi encontrada na versão beta do WhatsApp para Android e amplia o número de combinações de cor para 38. Opções chegaram ao iPhone na semana passada.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/whatsapp-testa-18-novas-cores-nos-temas-de-conversa-no-android/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/06/whatsapp_capa-3_tb-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 16 Jun 2025 21:49:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Instagram prepara ferramenta oficial de repost no feed</title>
-      <link>https://tecnoblog.net/noticias/instagram-prepara-ferramenta-oficial-de-repost-no-feed/</link>
-      <description>Concorrência com TikTok e popularidade de conteúdo replicado impulsionam testes. Recurso nativo de republicação é estudado desde 2022.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/instagram-prepara-ferramenta-oficial-de-repost-no-feed/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/03/instagram-capa-2-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 16 Jun 2025 22:45:06 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 18 Jun 2025 23:11:32 +0000</lastBuildDate>
     <item>
       <title>Samsung libera One UI 7 para mais aparelhos Galaxy; veja lista</title>
       <link>https://tecnoblog.net/noticias/samsung-libera-one-ui-7-para-mais-aparelhos-galaxy-veja-lista/</link>
@@ -111,6 +95,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/google-ajusta-play-store-para-evitar-que-voce-compre-apps-sem-querer/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/08/play-store-app-icone-tecnoblog-android-edited-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 17 Jun 2025 18:25:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Como mostrar o que você está ouvindo no Spotify nas Notas do Instagram</title>
+      <link>https://tecnoblog.net/responde/como-mostrar-o-que-voce-esta-ouvindo-no-spotify-nas-notas-do-instagram/</link>
+      <description>Recurso da rede social da Meta permite compartilhar em tempo real seu gosto musical com amigos e seguidores do Instagram</description>
+      <guid isPermaLink="false">https://tecnoblog.net/responde/como-mostrar-o-que-voce-esta-ouvindo-no-spotify-nas-notas-do-instagram/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/como-mostrar-o-que-voce-esta-ouvindo-no-spotify-nas-notas-do-instagram-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 17 Jun 2025 20:07:47 +0000</pubDate>
     </item>
     <item>
       <title>Intel deve cortar mais 20% da força de trabalho nas fábricas de chips</title>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/nfc-15-vai-permitir-pagamentos-sem-contato-com-distancias-maiores/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/09/nfc-celular-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Wed, 18 Jun 2025 19:25:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Galaxy Watch 7 (44 mm) tem desconto histórico de 60% em até 12x</title>
+      <link>https://tecnoblog.net/achados/galaxy-watch-7-44-mm-tem-desconto-historico-de-60-em-ate-12x/</link>
+      <description>Galaxy Watch 7 BT de 44 mm tem tela AMOLED, monitoramento de saúde e fitness e sai por menos da metade do preço em promoção com cupom no AliExpress</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-watch-7-44-mm-tem-desconto-historico-de-60-em-ate-12x/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/12/galaxy-watch-7-achado-dia-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 18 Jun 2025 22:34:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
