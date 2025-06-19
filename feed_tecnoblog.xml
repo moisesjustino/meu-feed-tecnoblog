@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 19 Jun 2025 19:09:08 +0000</lastBuildDate>
-    <item>
-      <title>Google ajusta Play Store para evitar que você compre apps sem querer</title>
-      <link>https://tecnoblog.net/noticias/google-ajusta-play-store-para-evitar-que-voce-compre-apps-sem-querer/</link>
-      <description>Google implementou gesto "Deslize para comprar" para finalizar compras na Play Store, visando reduzir compras acidentais.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/google-ajusta-play-store-para-evitar-que-voce-compre-apps-sem-querer/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/08/play-store-app-icone-tecnoblog-android-edited-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 17 Jun 2025 18:25:25 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 19 Jun 2025 20:13:46 +0000</lastBuildDate>
     <item>
       <title>Como mostrar o que você está ouvindo no Spotify nas Notas do Instagram</title>
       <link>https://tecnoblog.net/responde/como-mostrar-o-que-voce-esta-ouvindo-no-spotify-nas-notas-do-instagram/</link>
@@ -201,9 +193,9 @@
       <pubDate>Thu, 19 Jun 2025 15:05:12 +0000</pubDate>
     </item>
     <item>
-      <title>Amazon vai testar internet via satélite da Kuiper em duas cidades brasileiras</title>
+      <title>Amazon vai testar internet via satélite do Kuiper em duas cidades brasileiras</title>
       <link>https://tecnoblog.net/noticias/amazon-vai-testar-internet-via-satelite-da-kuiper-em-duas-cidades-brasileiras/</link>
-      <description>Autorização da Anatel permite testes em municípios de SP e do MS. Projeto da Amazon quer rivalizar com a Starlink de Elon Musk.</description>
+      <description>Autorização da Anatel permite testes em municípios de São Paulo e Mato Grosso do Sul. Projeto quer rivalizar com a Starlink de Elon Musk.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/amazon-vai-testar-internet-via-satelite-da-kuiper-em-duas-cidades-brasileiras/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/04/amazon-lancamento-satelites-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Thu, 19 Jun 2025 18:52:04 +0000</pubDate>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/adobe-lanca-app-de-camera-alternativo-para-iphone/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/adobe-lanca-projeto-indigo-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Thu, 19 Jun 2025 19:05:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Galaxy S24 FE com bateria de 4.700 mAh tem 40% OFF em até 12x</title>
+      <link>https://tecnoblog.net/achados/galaxy-s24-fe-com-bateria-de-4-700-mah-tem-40-off-em-ate-12x/</link>
+      <description>Galaxy S24 FE de 128 GB tem tela AMOLED de 120 Hz, bateria grande e câmera traseira tripla com zoom óptico de até 3x; celular Samsung tem desconto de 40% no AliExpress</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-s24-fe-com-bateria-de-4-700-mah-tem-40-off-em-ate-12x/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/galaxy-s24-fe-tem-camera-traseira-tripla-foto-giovanni-santa-rosa-tecnoblog-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 19 Jun 2025 19:25:26 +0000</pubDate>
     </item>
   </channel>
 </rss>
