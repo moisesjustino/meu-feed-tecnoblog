@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 19 Jun 2025 20:13:46 +0000</lastBuildDate>
-    <item>
-      <title>Como mostrar o que você está ouvindo no Spotify nas Notas do Instagram</title>
-      <link>https://tecnoblog.net/responde/como-mostrar-o-que-voce-esta-ouvindo-no-spotify-nas-notas-do-instagram/</link>
-      <description>Recurso da rede social da Meta permite compartilhar em tempo real seu gosto musical com amigos e seguidores do Instagram</description>
-      <guid isPermaLink="false">https://tecnoblog.net/responde/como-mostrar-o-que-voce-esta-ouvindo-no-spotify-nas-notas-do-instagram/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/como-mostrar-o-que-voce-esta-ouvindo-no-spotify-nas-notas-do-instagram-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 17 Jun 2025 20:07:47 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 19 Jun 2025 21:10:47 +0000</lastBuildDate>
     <item>
       <title>Intel deve cortar mais 20% da força de trabalho nas fábricas de chips</title>
       <link>https://tecnoblog.net/noticias/intel-anuncia-mais-demissoes-nas-fabricas-de-semicondutores/</link>
@@ -153,7 +145,7 @@
       <pubDate>Wed, 18 Jun 2025 23:44:02 +0000</pubDate>
     </item>
     <item>
-      <title>Idosos aderem à tecnologia e fazem streaming superar a televisão nos EUA</title>
+      <title>YouTube, Netflix e outros streamings superam a TV nos EUA</title>
       <link>https://tecnoblog.net/noticias/idosos-aderem-ao-youtube-e-fazem-o-streaming-superar-a-televisao-nos-eua/</link>
       <description>Relatório de maio de 2025 nos EUA mostra que streaming atingiu 45% da audiência, contra 44% da TV tradicional; adesão do público mais velho ajudou nos números.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/idosos-aderem-ao-youtube-e-fazem-o-streaming-superar-a-televisao-nos-eua/</guid>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-s24-fe-com-bateria-de-4-700-mah-tem-40-off-em-ate-12x/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/galaxy-s24-fe-tem-camera-traseira-tripla-foto-giovanni-santa-rosa-tecnoblog-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Thu, 19 Jun 2025 19:25:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trump estende pela terceira vez prazo para banir TikTok</title>
+      <link>https://tecnoblog.net/noticias/trump-estende-pela-terceira-vez-prazo-para-banir-tiktok/</link>
+      <description>Governo concede mais 90 dias para negociação da rede social. Congressistas republicanos e democratas começam a demonstrar incômodo com prorrogações.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/trump-estende-pela-terceira-vez-prazo-para-banir-tiktok/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/08/capa-tiktok_3_thumb_tb-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 19 Jun 2025 20:34:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
