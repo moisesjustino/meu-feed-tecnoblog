@@ -7,31 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 19 Jun 2025 18:15:56 +0000</lastBuildDate>
-    <item>
-      <title>Google testa IA que gera “podcast falso” com resultado de busca</title>
-      <link>https://tecnoblog.net/noticias/google-testa-ia-que-gera-podcast-falso-com-resultado-de-busca/</link>
-      <description>Recurso experimental transforma resultados de busca em diálogos narrados por vozes artificiais. Ferramenta está em fase de testes e disponível no Search Labs.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/google-testa-ia-que-gera-podcast-falso-com-resultado-de-busca/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/audio-google-ia-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 17 Jun 2025 17:20:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Instagram: brasileiros reclamam de contas banidas sem explicação</title>
-      <link>https://tecnoblog.net/noticias/instagram-brasileiros-reclamam-de-contas-banidas-sem-explicacao/</link>
-      <description>Banimentos também ocorreram no Threads e Facebook, do conglomerado Meta. Falha em sistemas automatizados de moderação pode estar por trás do problema.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/instagram-brasileiros-reclamam-de-contas-banidas-sem-explicacao/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/02/capa-desativar-instagram-tb-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 17 Jun 2025 17:21:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>O que é keylogger? Veja como funciona e quais são as formas de proteção</title>
-      <link>https://tecnoblog.net/responde/o-que-e-keylogger/</link>
-      <description>Um keylogger é um software ou hardware que registra cada tecla digitada em um dispositivo, sendo usado para monitorar atividades ou roubar informações sensíveis</description>
-      <guid isPermaLink="false">https://tecnoblog.net/responde/o-que-e-keylogger/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/05/avell-hyb-a70-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 17 Jun 2025 18:09:35 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 19 Jun 2025 19:09:08 +0000</lastBuildDate>
     <item>
       <title>Google ajusta Play Store para evitar que você compre apps sem querer</title>
       <link>https://tecnoblog.net/noticias/google-ajusta-play-store-para-evitar-que-voce-compre-apps-sem-querer/</link>
@@ -223,6 +199,30 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-watch-ultra-tem-desconto-historico-de-53-em-oferta-em-ate-12x/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/Samsung-Galaxy-Watch-Ultra-tem-caixa-de-titanio-Foto-Thassius-VelosoTecnoblog-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Thu, 19 Jun 2025 15:05:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Amazon vai testar internet via satélite da Kuiper em duas cidades brasileiras</title>
+      <link>https://tecnoblog.net/noticias/amazon-vai-testar-internet-via-satelite-da-kuiper-em-duas-cidades-brasileiras/</link>
+      <description>Autorização da Anatel permite testes em municípios de SP e do MS. Projeto da Amazon quer rivalizar com a Starlink de Elon Musk.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/amazon-vai-testar-internet-via-satelite-da-kuiper-em-duas-cidades-brasileiras/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/04/amazon-lancamento-satelites-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 19 Jun 2025 18:52:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Novo golpe pode enganar até quem sabe navegar na web</title>
+      <link>https://tecnoblog.net/noticias/novo-golpe-pode-enganar-ate-quem-sabe-navegar-na-web/</link>
+      <description>Técnica exibe número falso no site oficial. Golpistas manipulam URLs e compram anúncios em buscadores.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/novo-golpe-pode-enganar-ate-quem-sabe-navegar-na-web/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/apple-edited-1-340x191.webp" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 19 Jun 2025 18:52:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Adobe lança app de câmera alternativo para iPhone</title>
+      <link>https://tecnoblog.net/noticias/adobe-lanca-app-de-camera-alternativo-para-iphone/</link>
+      <description>App gratuito traz captura de até 32 quadros, gera JPEG ou RAW e inclui recurso de remoção de reflexos por IA. Versão do Project Indigo para Android está nos planos.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/adobe-lanca-app-de-camera-alternativo-para-iphone/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/adobe-lanca-projeto-indigo-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 19 Jun 2025 19:05:39 +0000</pubDate>
     </item>
   </channel>
 </rss>
