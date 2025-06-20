@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 20 Jun 2025 12:22:57 +0000</lastBuildDate>
-    <item>
-      <title>Intel deve cortar mais 20% da força de trabalho nas fábricas de chips</title>
-      <link>https://tecnoblog.net/noticias/intel-anuncia-mais-demissoes-nas-fabricas-de-semicondutores/</link>
-      <description>Empresa comunicou funcionários por um e-mail, que teve o conteúdo vazado. É o segundo grande corte da Intel em menos de um ano.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/intel-anuncia-mais-demissoes-nas-fabricas-de-semicondutores/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/05/intel_capa-1_tb-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 17 Jun 2025 20:24:20 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 20 Jun 2025 13:25:29 +0000</lastBuildDate>
     <item>
       <title>Não gosta do Gnome? O KDE Plasma 6.4 já está aqui</title>
       <link>https://tecnoblog.net/noticias/nao-gosta-do-gnome-o-kde-plasma-6-4-ja-esta-aqui/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/trump-estende-pela-terceira-vez-prazo-para-banir-tiktok/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/08/capa-tiktok_3_thumb_tb-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Thu, 19 Jun 2025 20:34:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sony confirma que o PS6 está em desenvolvimento</title>
+      <link>https://tecnoblog.net/noticias/sony-confirma-que-o-ps6-esta-em-desenvolvimento/</link>
+      <description>CEO da Sony Interactive Entertainment declarou que PlayStation 6 já é o "foco principal" da companhia. Mas console não deve chegar antes de 2028.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/sony-confirma-que-o-ps6-esta-em-desenvolvimento/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2020/12/comprar-jogos-ps5-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 20 Jun 2025 13:16:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
