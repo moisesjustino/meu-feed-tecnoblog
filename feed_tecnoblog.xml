@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 20 Jun 2025 14:11:18 +0000</lastBuildDate>
-    <item>
-      <title>O que é Grok? Saiba como usar o assistente de IA e confira seus principais recursos</title>
-      <link>https://tecnoblog.net/responde/o-que-e-grok-saiba-como-usar-o-assistente-de-ia-e-confira-seus-principais-recursos/</link>
-      <description>O Grok é um assistente de IA Generativa capaz de responder a perguntas e gerar novos conteúdos a partir de prompts de entrada</description>
-      <guid isPermaLink="false">https://tecnoblog.net/responde/o-que-e-grok-saiba-como-usar-o-assistente-de-ia-e-confira-seus-principais-recursos/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/ilustracao-do-grok-da-xai-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 17 Jun 2025 21:17:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Threads começa a liberar mensagens diretas no Brasil</title>
-      <link>https://tecnoblog.net/noticias/threads-comeca-a-liberar-mensagens-diretas-no-brasil/</link>
-      <description>Novo sistema de DMs, separado do Instagram, permite só conversas individuais. Lançamento global aconteceu há uma semana.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/threads-comeca-a-liberar-mensagens-diretas-no-brasil/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/07/app-threads-no-celular-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 17 Jun 2025 21:36:26 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 20 Jun 2025 15:11:55 +0000</lastBuildDate>
     <item>
       <title>Huawei retorna ao Brasil e aposta em celular de R$ 33 mil</title>
       <link>https://tecnoblog.net/noticias/huawei-retorna-ao-brasil-e-quer-peitar-celulares-da-apple-e-samsung/</link>
@@ -217,12 +201,28 @@
       <pubDate>Fri, 20 Jun 2025 13:33:11 +0000</pubDate>
     </item>
     <item>
-      <title>Uso de IA reduz aprendizado e o pensamento crítico, revela pesquisa</title>
+      <title>Uso de IA reduz o aprendizado e pensamento crítico, revela pesquisa</title>
       <link>https://tecnoblog.net/noticias/uso-de-ia-reduz-aprendizado-e-o-pensamento-critico-revela-pesquisa/</link>
       <description>Estudo do MIT monitorou e comparou o funcionamento do cérebro entre três grupos. Usuários do ChatGPT apresentaram menor engajamento neural.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/uso-de-ia-reduz-aprendizado-e-o-pensamento-critico-revela-pesquisa/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/cerebro-chatgpt-mit-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Fri, 20 Jun 2025 14:06:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Baratinho do dia: Moto G35 de 256 GB com 43% OFF no Mercado Livre</title>
+      <link>https://tecnoblog.net/achados/baratinho-do-dia-moto-g35-de-256-gb-com-43-off-no-mercado-livre/</link>
+      <description>Moto G35 possui tela de 120 Hz, câmera principal de 50 MP com IA e RAM expansível até 12 GB. Celular Motorola sai por menos de R$ 1 mil reais usando cupom no Mercado Livre</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/baratinho-do-dia-moto-g35-de-256-gb-com-43-off-no-mercado-livre/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/motog35-achou-correu-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 20 Jun 2025 14:11:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Meta e Oakley anunciam óculos inteligentes “estilosos” e que gravam em 3K</title>
+      <link>https://tecnoblog.net/noticias/meta-e-oakley-anunciam-oculos-inteligentes-estilosos-e-que-gravam-em-3k/</link>
+      <description>Oakley Meta HSTN tem preço sugerido entre US$ 399 e US$ 499. Além de gravar vídeos, óculos podem reproduzir áudio, fazer chamadas, entre outras ações.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/meta-e-oakley-anunciam-oculos-inteligentes-estilosos-e-que-gravam-em-3k/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/oculos-meta-oakley-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 20 Jun 2025 14:24:31 +0000</pubDate>
     </item>
   </channel>
 </rss>
