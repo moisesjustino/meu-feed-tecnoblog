@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 23 Jun 2025 13:28:55 +0000</lastBuildDate>
-    <item>
-      <title>NFC 15 vai permitir pagamentos sem contato com distâncias maiores</title>
-      <link>https://tecnoblog.net/noticias/nfc-15-vai-permitir-pagamentos-sem-contato-com-distancias-maiores/</link>
-      <description>Nova versão do NFC permite distâncias de até 2 cm para comunicação sem contato, prometendo melhorar a experiência com pagamentos e outras aplicações.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/nfc-15-vai-permitir-pagamentos-sem-contato-com-distancias-maiores/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/09/nfc-celular-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 18 Jun 2025 19:25:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Galaxy Watch 7 (44 mm) tem desconto histórico de 60% em até 12x</title>
-      <link>https://tecnoblog.net/achados/galaxy-watch-7-44-mm-tem-desconto-historico-de-60-em-ate-12x/</link>
-      <description>Galaxy Watch 7 BT de 44 mm tem tela AMOLED, monitoramento de saúde e fitness e sai por menos da metade do preço em promoção com cupom no AliExpress</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-watch-7-44-mm-tem-desconto-historico-de-60-em-ate-12x/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/12/galaxy-watch-7-achado-dia-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 18 Jun 2025 22:34:13 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 23 Jun 2025 14:12:37 +0000</lastBuildDate>
     <item>
       <title>ChatGPT limita variedade de ideias e põe inovação em risco, sugere estudo</title>
       <link>https://tecnoblog.net/noticias/chatgpt-limita-variedade-de-ideias-e-poe-inovacao-em-risco-sugere-estudo/</link>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/ifood-libera-correcao-para-problema-no-android-veja-o-que-fazer/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/screenshot_20250621_181707_google-play-store-edited-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Sat, 21 Jun 2025 21:24:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Momento histórico: Bill Gates e Linus Torvalds se encontram pela 1ª vez</title>
+      <link>https://tecnoblog.net/noticias/momento-historico-bill-gates-e-linus-torvalds-se-encontram-pela-1a-vez/</link>
+      <description>Foto mostra encontro inédito entre Bill Gates e Linus Torvalds. Após décadas de visões opostas, os dois participaram de jantar oferecido por executivo da Microsoft.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/momento-historico-bill-gates-e-linus-torvalds-se-encontram-pela-1a-vez/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/bill-gates-linus-torvalds-capa-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 23 Jun 2025 13:44:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nvidia e Foxconn querem usar robôs humanoides em nova fábrica</title>
+      <link>https://tecnoblog.net/noticias/nvidia-e-foxconn-querem-usar-robos-humanoides-em-nova-fabrica/</link>
+      <description>Unidade da Foxconn em Houston, nos EUA, deve produzir servidores da Nvidia com robôs humanoides. Operação está prevista para começar no início de 2026.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/nvidia-e-foxconn-querem-usar-robos-humanoides-em-nova-fabrica/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/nvidia-robos-humanoides-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 23 Jun 2025 13:50:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
