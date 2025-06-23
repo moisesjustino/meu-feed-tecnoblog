@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 23 Jun 2025 20:13:36 +0000</lastBuildDate>
-    <item>
-      <title>O que são cidades inteligentes? Confira as principais características das smart cities</title>
-      <link>https://tecnoblog.net/responde/o-que-sao-cidades-inteligentes-confira-as-principais-caracteristicas-das-smart-cities/</link>
-      <description>Cidades inteligentes usam Internet das Coisas e Inteligência Artificial para coletar e analisar dados, visando otimizar e melhorar os recursos urbanos</description>
-      <guid isPermaLink="false">https://tecnoblog.net/responde/o-que-sao-cidades-inteligentes-confira-as-principais-caracteristicas-das-smart-cities/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/wenhung-yang-2vmy_onf_04-unsplash-edited-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 19 Jun 2025 16:50:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Amazon vai testar internet via satélite do Kuiper em duas cidades brasileiras</title>
-      <link>https://tecnoblog.net/noticias/amazon-vai-testar-internet-via-satelite-da-kuiper-em-duas-cidades-brasileiras/</link>
-      <description>Autorização da Anatel permite testes em municípios de São Paulo e Mato Grosso do Sul. Projeto quer rivalizar com a Starlink de Elon Musk.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/amazon-vai-testar-internet-via-satelite-da-kuiper-em-duas-cidades-brasileiras/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/04/amazon-lancamento-satelites-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 19 Jun 2025 18:52:04 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 23 Jun 2025 21:11:24 +0000</lastBuildDate>
     <item>
       <title>Novo golpe pode enganar até quem sabe navegar na web</title>
       <link>https://tecnoblog.net/noticias/novo-golpe-pode-enganar-ate-quem-sabe-navegar-na-web/</link>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/xbox-comeca-a-testar-biblioteca-com-jogos-da-steam/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/Gs8Sx4Oa0AAy63F-340x191.jpeg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 23 Jun 2025 20:06:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>EUA proíbem WhatsApp na Câmara de Representantes</title>
+      <link>https://tecnoblog.net/noticias/eua-proibem-whatsapp-na-camara-de-representantes/</link>
+      <description>Órgão legislativo aponta "alto risco" por falta de transparência com dados armazenados. Meta discorda da decisão e defende o app.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/eua-proibem-whatsapp-na-camara-de-representantes/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/08/capa-whats-fora_thumb_tb-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 23 Jun 2025 21:07:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Moto G35 (128 GB) com tela de 120 Hz tem 40% OFF no Mercado Livre</title>
+      <link>https://tecnoblog.net/achados/moto-g35-128-gb-com-tela-de-120-hz-tem-40-off-no-mercado-livre/</link>
+      <description>Moto G35 possui taxa de atualização 120 Hz, câmera principal de 50 MP com suporte de IA e 8 GB de RAM Boost inteligente; celular Motorola tem desconto no Pix na promoção</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/moto-g35-128-gb-com-tela-de-120-hz-tem-40-off-no-mercado-livre/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/03/Moto-G35-tem-RAM-expansivel-ate-12-GB-foto-Motorola-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 23 Jun 2025 21:10:37 +0000</pubDate>
     </item>
   </channel>
 </rss>
