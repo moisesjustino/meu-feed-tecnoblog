@@ -7,31 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 23 Jun 2025 14:12:37 +0000</lastBuildDate>
-    <item>
-      <title>ChatGPT limita variedade de ideias e põe inovação em risco, sugere estudo</title>
-      <link>https://tecnoblog.net/noticias/chatgpt-limita-variedade-de-ideias-e-poe-inovacao-em-risco-sugere-estudo/</link>
-      <description>Cientistas alertam que o uso do ChatGPT pode prejudicar a inovação coletiva ao gerar respostas semelhantes em processos criativos</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/chatgpt-limita-variedade-de-ideias-e-poe-inovacao-em-risco-sugere-estudo/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/06/chatgpt-3_capa-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 18 Jun 2025 23:44:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>YouTube, Netflix e outros streamings superam a TV nos EUA</title>
-      <link>https://tecnoblog.net/noticias/idosos-aderem-ao-youtube-e-fazem-o-streaming-superar-a-televisao-nos-eua/</link>
-      <description>Relatório de maio de 2025 nos EUA mostra que streaming atingiu 45% da audiência, contra 44% da TV tradicional; adesão do público mais velho ajudou nos números.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/idosos-aderem-ao-youtube-e-fazem-o-streaming-superar-a-televisao-nos-eua/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/especial_series-22_capa-1-edited-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 19 Jun 2025 12:34:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google libera aplicativos de bets na Play Store</title>
-      <link>https://tecnoblog.net/noticias/google-libera-aplicativos-de-bets-na-play-store/</link>
-      <description>Mudança ocorre após pressão de empresas do setor e apoio do governo, que vê os apps como forma de combater plataformas ilegais de apostas online</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/google-libera-aplicativos-de-bets-na-play-store/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/apostas-esportivas-qualcomm-institute-uc-san-diego-edited-1-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 19 Jun 2025 13:45:27 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 23 Jun 2025 15:13:12 +0000</lastBuildDate>
     <item>
       <title>Motorola Edge 50 tem RAM de 12 GB e 32% OFF com cupom no Mercado Livre</title>
       <link>https://tecnoblog.net/achados/motorola-edge-50-tem-ram-de-12-gb-e-32-off-com-cupom-no-mercado-livre/</link>
@@ -223,6 +199,30 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/nvidia-e-foxconn-querem-usar-robos-humanoides-em-nova-fabrica/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/nvidia-robos-humanoides-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 23 Jun 2025 13:50:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>7,3 Tb/s! Maior ataque DDoS da história atinge cliente da Cloudflare</title>
+      <link>https://tecnoblog.net/noticias/73-tb-s-maior-ataque-ddos-da-historia-atinge-cliente-da-cloudflare/</link>
+      <description>A ofensiva veio de botnet com base na arquitetura Mirai, conhecida por infectar dispositivos de IoT como câmeras e roteadores.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/73-tb-s-maior-ataque-ddos-da-historia-atinge-cliente-da-cloudflare/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/11/capa-tbr-ddos-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 23 Jun 2025 14:22:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Será o fim do hackintosh? macOS 26 deve acabar com o OpenCore</title>
+      <link>https://tecnoblog.net/noticias/fim-do-hackintosh-macos-26-deve-matar-o-opencore/</link>
+      <description>Apple encerra a arquitetura x86_64 no macOS Tahoe 26 e impossibilita compatibilidade com processadores Intel, limitando ferramentas de patch.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/fim-do-hackintosh-macos-26-deve-matar-o-opencore/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/04/Capa-TBR-MacOS-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 23 Jun 2025 14:37:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Uber lança modalidade que reserva carro Black por até 4 horas</title>
+      <link>https://tecnoblog.net/noticias/uber-lanca-modalidade-que-reserva-carro-black-por-ate-4-horas/</link>
+      <description>Novo serviço Uber Por Tempo Black permite reservar carro premium para múltiplas viagens. Modalidade estrou em Campinas (SP).</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/uber-lanca-modalidade-que-reserva-carro-black-por-ate-4-horas/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/06/uber_capa-2_tb-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 23 Jun 2025 15:01:41 +0000</pubDate>
     </item>
   </channel>
 </rss>
