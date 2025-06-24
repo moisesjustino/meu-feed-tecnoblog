@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 24 Jun 2025 21:11:11 +0000</lastBuildDate>
-    <item>
-      <title>Uber lança modalidade que reserva carro Black por até 4 horas</title>
-      <link>https://tecnoblog.net/noticias/uber-lanca-modalidade-que-reserva-carro-black-por-ate-4-horas/</link>
-      <description>Novo serviço Uber Por Tempo Black permite reservar carro premium para múltiplas viagens. Modalidade estrou em Campinas (SP).</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/uber-lanca-modalidade-que-reserva-carro-black-por-ate-4-horas/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/06/uber_capa-2_tb-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 23 Jun 2025 15:01:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Windows 11 passa a apagar os pontos de restauração após 60 dias</title>
-      <link>https://tecnoblog.net/noticias/windows-11-apaga-os-pontos-de-restauracao-apos-60-dias/</link>
-      <description>Mudança no Windows 11 24H2 define um prazo fixo para a exclusão automática de backups do sistema. Antes, período era incerto e podia variar de 10 a 90 dias.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/windows-11-apaga-os-pontos-de-restauracao-apos-60-dias/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/07/windows-11-5-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 23 Jun 2025 17:12:32 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 24 Jun 2025 22:11:18 +0000</lastBuildDate>
     <item>
       <title>Galaxy A35 (256 GB) tem 46% OFF em até 12x com cupom no Mercado Livre</title>
       <link>https://tecnoblog.net/achados/galaxy-a35-256-gb-tem-46-off-em-ate-12x-com-cupom-no-mercado-livre/</link>
@@ -205,7 +189,7 @@
       <link>https://tecnoblog.net/tecnocast/o-crime-tem-antena-propria/</link>
       <description>Sem descrição breve.</description>
       <guid isPermaLink="false">https://tecnoblog.net/tecnocast/o-crime-tem-antena-propria/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/tecnocast-381_capa-340x191.png" length="0" type="image/jpeg"/>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/tecnocast-381_capa-2-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Tue, 24 Jun 2025 20:55:48 +0000</pubDate>
     </item>
     <item>
@@ -217,12 +201,28 @@
       <pubDate>Tue, 24 Jun 2025 21:00:06 +0000</pubDate>
     </item>
     <item>
-      <title>Em gesto inédito, Google passa a integrar o Conar</title>
+      <title>Em gesto inédito, Google passa a integrar orgão brasileiro de publicidade</title>
       <link>https://tecnoblog.net/noticias/em-gesto-inedito-google-passa-a-integrar-o-conar/</link>
-      <description>Gigante da tecnologia é a primeira big tech internacional a fazer parte do conselho de ética na publicidade do Brasil. STF ainda debate responsabilização de plataformas.</description>
+      <description>Gigante da tecnologia é primeira big tech internacional a fazer parte do Conar. Empresa defende ecossistema mais saudável e confiável.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/em-gesto-inedito-google-passa-a-integrar-o-conar/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/03/google-2-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Tue, 24 Jun 2025 21:09:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Celulares com 3 ou 2 nanômetros vão se espalhar, prevê consultoria</title>
+      <link>https://tecnoblog.net/noticias/chips-com-3-e-ate-mesmo-2-nanometros-vao-ganhar-os-celulares-preve-consultoria/</link>
+      <description>Smartphones serão mais potentes e terão bateria mais duradoura. Além disso, poderão rodar aplicações de IA mais pesadas.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/chips-com-3-e-ate-mesmo-2-nanometros-vao-ganhar-os-celulares-preve-consultoria/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/10/iphone-15-capas-1-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 24 Jun 2025 21:37:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Galaxy S24 Ultra (256 GB) tem 48% OFF em até 12x no AliExpress</title>
+      <link>https://tecnoblog.net/achados/galaxy-s24-ultra-256-gb-tem-48-off-em-ate-12x-no-aliexpress/</link>
+      <description>Galaxy S24 Ultra tem tela AMOLED com 2.600 nits, Snapdragon 8 Gen 3 e acabamento em titânio; celular Samsung pode ser parcelado em até 12x sem juros</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-s24-ultra-256-gb-tem-48-off-em-ate-12x-no-aliexpress/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/01/galaxy-s24-ultra-tem-4-cameras-com-zoom-optico-de-ate-5x-foto-thassius-velosotecnoblog-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 24 Jun 2025 21:58:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
