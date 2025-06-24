@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 24 Jun 2025 15:13:00 +0000</lastBuildDate>
-    <item>
-      <title>Uso de IA reduz o aprendizado e pensamento crítico, revela pesquisa</title>
-      <link>https://tecnoblog.net/noticias/uso-de-ia-reduz-aprendizado-e-o-pensamento-critico-revela-pesquisa/</link>
-      <description>Estudo do MIT monitorou e comparou o funcionamento do cérebro entre três grupos. Usuários do ChatGPT apresentaram menor engajamento neural.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/uso-de-ia-reduz-aprendizado-e-o-pensamento-critico-revela-pesquisa/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/cerebro-chatgpt-mit-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 20 Jun 2025 14:06:02 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 24 Jun 2025 16:14:51 +0000</lastBuildDate>
     <item>
       <title>Baratinho do dia: Moto G35 de 256 GB com 43% OFF no Mercado Livre</title>
       <link>https://tecnoblog.net/achados/baratinho-do-dia-moto-g35-de-256-gb-com-43-off-no-mercado-livre/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/deezer-lanca-primeiro-sistema-que-detecta-musicas-geradas-por-ia/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/01/deezer-palco-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 24 Jun 2025 14:40:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Motorola Edge 50 Ultra (512 GB) tem menor preço que já vimos em oferta do Magalu</title>
+      <link>https://tecnoblog.net/achados/motorola-edge-50-ultra-512-gb-tem-menor-preco-que-ja-vimos-em-oferta-do-magalu/</link>
+      <description>Motorola Edge 50 Ultra leva tela POLED, taxa de atualização 144 Hz e chip Snapdragon 8S Gen 3; celular Motorola fica até 42% mais barato em oferta no Magazine Luiza</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/motorola-edge-50-ultra-512-gb-tem-menor-preco-que-ja-vimos-em-oferta-do-magalu/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/motorola-edge-50-ultra-achado-do-dia-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 24 Jun 2025 16:12:49 +0000</pubDate>
     </item>
   </channel>
 </rss>
