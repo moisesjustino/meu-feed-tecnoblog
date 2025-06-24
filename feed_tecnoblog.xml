@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 24 Jun 2025 13:28:34 +0000</lastBuildDate>
-    <item>
-      <title>Trump estende pela terceira vez prazo para banir TikTok</title>
-      <link>https://tecnoblog.net/noticias/trump-estende-pela-terceira-vez-prazo-para-banir-tiktok/</link>
-      <description>Governo concede mais 90 dias para negociação da rede social. Congressistas republicanos e democratas começam a demonstrar incômodo com prorrogações.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/trump-estende-pela-terceira-vez-prazo-para-banir-tiktok/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/08/capa-tiktok_3_thumb_tb-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 19 Jun 2025 20:34:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sony confirma que o PS6 está em desenvolvimento</title>
-      <link>https://tecnoblog.net/noticias/sony-confirma-que-o-ps6-esta-em-desenvolvimento/</link>
-      <description>CEO da Sony Interactive Entertainment declarou que PlayStation 6 já é o "foco principal" da companhia. Mas console não deve chegar antes de 2028.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/sony-confirma-que-o-ps6-esta-em-desenvolvimento/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2020/12/comprar-jogos-ps5-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 20 Jun 2025 13:16:11 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 24 Jun 2025 14:12:36 +0000</lastBuildDate>
     <item>
       <title>Megavazamento expõe 16 bilhões de senhas na internet; veja como se proteger</title>
       <link>https://tecnoblog.net/noticias/megavazamento-expoe-16-bilhoes-de-senhas-na-internet-veja-como-se-proteger/</link>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-a26-256-gb-tem-ram-de-8-gb-e-41-off-em-ate-12x-com-cupom/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/04/galaxy-a26-5g-achados-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Tue, 24 Jun 2025 13:12:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>iOS 26: Apple corrige o principal problema do Liquid Glass</title>
+      <link>https://tecnoblog.net/noticias/ios-26-apple-corrige-o-principal-problema-do-liquid-glass/</link>
+      <description>Design Liquid Glass do iOS 26 podia deixar interface confusa, principalmente na Central de Controle. Segunda versão beta corrige problema.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/ios-26-apple-corrige-o-principal-problema-do-liquid-glass/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/20250609_174950-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 24 Jun 2025 13:47:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Samsung Unpacked será em julho; veja o que esperar do Flip 7 FE</title>
+      <link>https://tecnoblog.net/noticias/samsung-unpacked-sera-em-julho-veja-o-que-esperar-do-flip-7-fe/</link>
+      <description>Evento será realizado em Nova York. Novo chip Exynos 2500 deve estrear no modelo principal, o que reduziria a dependência da Qualcomm.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/samsung-unpacked-sera-em-julho-veja-o-que-esperar-do-flip-7-fe/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/unpacked-9-de-julho-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 24 Jun 2025 14:00:49 +0000</pubDate>
     </item>
   </channel>
 </rss>
