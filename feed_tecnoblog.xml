@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 24 Jun 2025 19:09:50 +0000</lastBuildDate>
-    <item>
-      <title>Kindle agora permite ajustar espaçamento entre palavras e caracteres</title>
-      <link>https://tecnoblog.net/noticias/kindle-agora-permite-ajustar-espacamento-entre-palavras-e-caracteres/</link>
-      <description>Modelos mais recentes do Kindle ganharam atualização de software que traz configurações de espaçamento entre caracteres, palavras e até parágrafos.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/kindle-agora-permite-ajustar-espacamento-entre-palavras-e-caracteres/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/kindle-espacamento-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 20 Jun 2025 18:30:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Galaxy Tab S6 Lite 4G (128 GB) tem 43% OFF com cupom no Mercado Livre</title>
-      <link>https://tecnoblog.net/achados/galaxy-tab-s6-lite-4g-128-gb-tem-43-off-com-cupom-no-mercado-livre/</link>
-      <description>Galaxy Tab S6 Lite (2024) tem tela de 10,4 polegadas, processador Exynos 1280 e caneta S Pen inclusa; oferta do tablet Samsung pode ser aproveitada com cupom no Mercado Livre</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-tab-s6-lite-4g-128-gb-tem-43-off-com-cupom-no-mercado-livre/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/04/samsung-galaxy-tab-s6-lite-review-10-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 20 Jun 2025 19:26:59 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 24 Jun 2025 20:13:38 +0000</lastBuildDate>
     <item>
       <title>Reddit pode usar escaneamento de íris da World ID para verificar usuários</title>
       <link>https://tecnoblog.net/noticias/reddit-pode-usar-escaneamento-de-iris-da-world-id-para-verificar-usuarios/</link>
@@ -111,6 +95,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-a35-256-gb-tem-46-off-em-ate-12x-com-cupom-no-mercado-livre/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/12/galaxy-a35-5g-imagem-thassius-velosotecnoblog-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 23 Jun 2025 17:39:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>O que é ransomware? Veja como funciona essa ameaça cibernética</title>
+      <link>https://tecnoblog.net/responde/o-que-e-ransomware-veja-como-funciona-essa-ameaca-cibernetica/</link>
+      <description>Existem ransomwares de criptografia, que criptografa arquivos e exigem pagamentos pela chave de descriptografia, e de bloqueio de tela, que impedem o acesso ao sistema</description>
+      <guid isPermaLink="false">https://tecnoblog.net/responde/o-que-e-ransomware-veja-como-funciona-essa-ameaca-cibernetica/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/01/especial-3_megavazamento-cpf_capa2x-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 23 Jun 2025 20:06:00 +0000</pubDate>
     </item>
     <item>
       <title>Xbox começa a testar biblioteca integrada com jogos da Steam</title>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-tab-s6-lite-4g-128-gb-tem-49-off-em-oferta-no-mercado-livre/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/05/Galaxy-Tab-S6-Lite-acompanha-caneta-S-Pen-foto-Paulo-HigaTecnoblog-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Tue, 24 Jun 2025 17:33:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anthropic vence processo sobre uso de livros físicos para treinar IA</title>
+      <link>https://tecnoblog.net/noticias/anthropic-vence-processo-sobre-uso-de-livros-para-treinar-ia/</link>
+      <description>Juiz equipara situação ao uso para aprendizado de crianças em idade escolar. Decisão favorável à empresa é limitada ao uso de obras compradas legalmente.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/anthropic-vence-processo-sobre-uso-de-livros-para-treinar-ia/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/10/db3165778de297272875d36a822f671d8009aaec-2880x1620-1-340x191.webp" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 24 Jun 2025 19:43:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
