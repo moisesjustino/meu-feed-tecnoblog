@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 24 Jun 2025 14:12:36 +0000</lastBuildDate>
-    <item>
-      <title>Megavazamento expõe 16 bilhões de senhas na internet; veja como se proteger</title>
-      <link>https://tecnoblog.net/noticias/megavazamento-expoe-16-bilhoes-de-senhas-na-internet-veja-como-se-proteger/</link>
-      <description>Vazamento afeta contas associadas ao Google, Apple, Facebook e outras plataformas. Entenda como funciona e saiba o que fazer para se manter seguro.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/megavazamento-expoe-16-bilhoes-de-senhas-na-internet-veja-como-se-proteger/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/07/capa-cyberseguranca-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 20 Jun 2025 13:33:11 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 24 Jun 2025 15:13:00 +0000</lastBuildDate>
     <item>
       <title>Uso de IA reduz o aprendizado e pensamento crítico, revela pesquisa</title>
       <link>https://tecnoblog.net/noticias/uso-de-ia-reduz-aprendizado-e-o-pensamento-critico-revela-pesquisa/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/samsung-unpacked-sera-em-julho-veja-o-que-esperar-do-flip-7-fe/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/unpacked-9-de-julho-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Tue, 24 Jun 2025 14:00:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Deezer lança primeiro sistema que detecta músicas geradas por IA</title>
+      <link>https://tecnoblog.net/noticias/deezer-lanca-primeiro-sistema-que-detecta-musicas-geradas-por-ia/</link>
+      <description>Plataforma vai aplicar selo em álbuns com faixas sintéticas. Detecção cobre músicas de ferramentas como Suno e Udio.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/deezer-lanca-primeiro-sistema-que-detecta-musicas-geradas-por-ia/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/01/deezer-palco-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 24 Jun 2025 14:40:42 +0000</pubDate>
     </item>
   </channel>
 </rss>
