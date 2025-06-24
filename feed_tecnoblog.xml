@@ -7,71 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 24 Jun 2025 20:13:38 +0000</lastBuildDate>
-    <item>
-      <title>Reddit pode usar escaneamento de íris da World ID para verificar usuários</title>
-      <link>https://tecnoblog.net/noticias/reddit-pode-usar-escaneamento-de-iris-da-world-id-para-verificar-usuarios/</link>
-      <description>Plataforma estaria em negociações com a empresa de Sam Altman para usar o Orb, segundo site. Objetivo seria comprovar que usuários são humanos e diferenciá-los de bots.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/reddit-pode-usar-escaneamento-de-iris-da-world-id-para-verificar-usuarios/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/11/world-id-orb-1-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 20 Jun 2025 21:13:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Galaxy S24 Ultra (256 GB) tem 53% de desconto com cupom no Magalu</title>
-      <link>https://tecnoblog.net/achados/galaxy-s24-ultra-256-gb-tem-53-de-desconto-com-cupom-no-magalu/</link>
-      <description>Galaxy S24 Ultra é equipado com tela AMOLED Dinâmico 2x, processador Snapdragon 8 Gen 3 e câmera de 200 MP; o celular Samsung sai por menos da metade do preço na oferta</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-s24-ultra-256-gb-tem-53-de-desconto-com-cupom-no-magalu/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/11/galaxy-s24-ultra-na-mao-foto-thassius-veloso-tecnoblog-achou-correu-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 20 Jun 2025 21:57:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sem almoço: iFood fica fora do ar em plena tarde de sábado</title>
-      <link>https://tecnoblog.net/noticias/sem-almoco-ifood-fica-fora-do-ar-em-plena-tarde-de-sabado/</link>
-      <description>Pane afeta o aplicativo para Android. Clientes se queixam do problema nas redes sociais neste sábado.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/sem-almoco-ifood-fica-fora-do-ar-em-plena-tarde-de-sabado/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/05/ifood_capa-1_tb-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Sat, 21 Jun 2025 16:58:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>iFood libera correção para problema no Android; veja o que fazer</title>
-      <link>https://tecnoblog.net/noticias/ifood-libera-correcao-para-problema-no-android-veja-o-que-fazer/</link>
-      <description>Empresa pretende notificar usuários sobre a importância da atualização. Recurso pode ser baixado manualmente pela Google Play Store.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/ifood-libera-correcao-para-problema-no-android-veja-o-que-fazer/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/screenshot_20250621_181707_google-play-store-edited-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sat, 21 Jun 2025 21:24:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Momento histórico: Bill Gates e Linus Torvalds se encontram pela 1ª vez</title>
-      <link>https://tecnoblog.net/noticias/momento-historico-bill-gates-e-linus-torvalds-se-encontram-pela-1a-vez/</link>
-      <description>Foto mostra encontro inédito entre Bill Gates e Linus Torvalds. Após décadas de visões opostas, os dois participaram de jantar oferecido por executivo da Microsoft.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/momento-historico-bill-gates-e-linus-torvalds-se-encontram-pela-1a-vez/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/bill-gates-linus-torvalds-capa-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 23 Jun 2025 13:44:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nvidia e Foxconn querem usar robôs humanoides em nova fábrica</title>
-      <link>https://tecnoblog.net/noticias/nvidia-e-foxconn-querem-usar-robos-humanoides-em-nova-fabrica/</link>
-      <description>Unidade da Foxconn em Houston, nos EUA, pode produzir servidores da Nvidia com robôs humanoides. Operação está prevista para começar no início de 2026.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/nvidia-e-foxconn-querem-usar-robos-humanoides-em-nova-fabrica/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/nvidia-robos-humanoides-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 23 Jun 2025 13:50:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>7,3 Tb/s! Maior ataque DDoS da história atinge cliente da Cloudflare</title>
-      <link>https://tecnoblog.net/noticias/73-tb-s-maior-ataque-ddos-da-historia-atinge-cliente-da-cloudflare/</link>
-      <description>A ofensiva veio de botnet com base na arquitetura Mirai, conhecida por infectar dispositivos de IoT como câmeras e roteadores.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/73-tb-s-maior-ataque-ddos-da-historia-atinge-cliente-da-cloudflare/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/11/capa-tbr-ddos-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 23 Jun 2025 14:22:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Será o fim do hackintosh? macOS 26 deve acabar com o OpenCore</title>
-      <link>https://tecnoblog.net/noticias/fim-do-hackintosh-macos-26-deve-matar-o-opencore/</link>
-      <description>Apple encerra a arquitetura x86_64 no macOS Tahoe 26 e impossibilita compatibilidade com processadores Intel, limitando ferramentas de patch.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/fim-do-hackintosh-macos-26-deve-matar-o-opencore/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/04/Capa-TBR-MacOS-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 23 Jun 2025 14:37:42 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 24 Jun 2025 21:11:11 +0000</lastBuildDate>
     <item>
       <title>Uber lança modalidade que reserva carro Black por até 4 horas</title>
       <link>https://tecnoblog.net/noticias/uber-lanca-modalidade-que-reserva-carro-black-por-ate-4-horas/</link>
@@ -111,6 +47,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/xbox-comeca-a-testar-biblioteca-com-jogos-da-steam/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/Gs8Sx4Oa0AAy63F-340x191.jpeg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 23 Jun 2025 20:06:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>O que é malware? Veja como funciona e quais são os tipos de ameaças</title>
+      <link>https://tecnoblog.net/responde/o-que-e-malware-veja-como-funciona-e-quais-sao-os-tipos-de-ameacas/</link>
+      <description>Um malware é um software malicioso criado para danificar, roubar dados ou controlar sistemas de computador, comprometendo a segurança e a privacidade das vítimas</description>
+      <guid isPermaLink="false">https://tecnoblog.net/responde/o-que-e-malware-veja-como-funciona-e-quais-sao-os-tipos-de-ameacas/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/09/malware-ilustracao-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 23 Jun 2025 20:12:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>O que é a Tecnologia da Informação e Comunicação? Veja tipos e exemplos da categoria</title>
+      <link>https://tecnoblog.net/responde/o-que-e-a-tecnologia-da-informacao-e-comunicacao-veja-tipos-e-exemplos-da-categoria/</link>
+      <description>Inteligência artificial, computação em nuvem e cibersegurança são alguns dos conceitos que fazem parte da Tecnologia da Informação e Comunicação</description>
+      <guid isPermaLink="false">https://tecnoblog.net/responde/o-que-e-a-tecnologia-da-informacao-e-comunicacao-veja-tipos-e-exemplos-da-categoria/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/ilustracao-da-tecnologia-de-informacao-e-comunicacao-1-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 23 Jun 2025 20:36:09 +0000</pubDate>
     </item>
     <item>
       <title>EUA proíbem WhatsApp na Câmara de Representantes</title>
@@ -223,6 +175,54 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/anthropic-vence-processo-sobre-uso-de-livros-para-treinar-ia/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/10/db3165778de297272875d36a822f671d8009aaec-2880x1620-1-340x191.webp" length="0" type="image/jpeg"/>
       <pubDate>Tue, 24 Jun 2025 19:43:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google presenteia Linux Foundation com protocolo de agentes de IA</title>
+      <link>https://tecnoblog.net/noticias/google-presenteia-linux-foundation-com-protocolo-de-agentes-de-ia/</link>
+      <description>Projeto Agent2Agent terá governança neutra e apoio de mais de 100 empresas, incluindo AWS e Microsoft. Iniciativa permite que agentes de IA colaborem entre si.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/google-presenteia-linux-foundation-com-protocolo-de-agentes-de-ia/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/05/capa-ia-google-2_tb-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 24 Jun 2025 20:29:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft revela mais opções para quem quer manter o Windows 10</title>
+      <link>https://tecnoblog.net/noticias/microsoft-revela-mais-opcoes-para-quem-quer-manter-o-windows-10/</link>
+      <description>Microsoft vai encerrar suporte ao Windows 10 em outubro de 2025. Usuários domésticos terão três opções para receber updates de segurança por um ano.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/microsoft-revela-mais-opcoes-para-quem-quer-manter-o-windows-10/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/03/windows-10-tela-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 24 Jun 2025 20:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>iPhone 15 (256 GB) tem 40% de desconto no Mercado Livre e câmera de 48 MP</title>
+      <link>https://tecnoblog.net/achados/iphone-15-256-gb-tem-40-de-desconto-no-mercado-livre-e-camera-48-mp/</link>
+      <description>iPhone 15 de 256 GB tem display OLED, processador Apple A16 Bionic e câmera de 48 MP; celular sai por menos de R$ 4.900 em oferta no Mercado Livre</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/iphone-15-256-gb-tem-40-de-desconto-no-mercado-livre-e-camera-48-mp/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/04/iphone-15-lancamento-apple-cupertino-6-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 24 Jun 2025 20:30:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>O crime tem antena própria</title>
+      <link>https://tecnoblog.net/tecnocast/o-crime-tem-antena-propria/</link>
+      <description>Sem descrição breve.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/tecnocast/o-crime-tem-antena-propria/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/tecnocast-381_capa-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 24 Jun 2025 20:55:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pane afeta Caixa, Receita Federal e outros serviços digitais do governo</title>
+      <link>https://tecnoblog.net/noticias/fora-do-ar-caixa-receita-federal-e-gov-br/</link>
+      <description>Instabilidade afeta ferramentas do e-CAC, e-Social e Nota Fiscal Eletrônica.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/fora-do-ar-caixa-receita-federal-e-gov-br/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/captura-de-tela-2025-06-24-as-17-56-47-edited-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 24 Jun 2025 21:00:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Em gesto inédito, Google passa a integrar o Conar</title>
+      <link>https://tecnoblog.net/noticias/em-gesto-inedito-google-passa-a-integrar-o-conar/</link>
+      <description>Gigante da tecnologia é a primeira big tech internacional a fazer parte do conselho de ética na publicidade do Brasil. STF ainda debate responsabilização de plataformas.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/em-gesto-inedito-google-passa-a-integrar-o-conar/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/03/google-2-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 24 Jun 2025 21:09:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
