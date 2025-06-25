@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 25 Jun 2025 17:11:50 +0000</lastBuildDate>
-    <item>
-      <title>O que é a Tecnologia da Informação e Comunicação? Veja tipos e exemplos da categoria</title>
-      <link>https://tecnoblog.net/responde/o-que-e-a-tecnologia-da-informacao-e-comunicacao-veja-tipos-e-exemplos-da-categoria/</link>
-      <description>Inteligência artificial, computação em nuvem e cibersegurança são alguns dos conceitos que fazem parte da Tecnologia da Informação e Comunicação</description>
-      <guid isPermaLink="false">https://tecnoblog.net/responde/o-que-e-a-tecnologia-da-informacao-e-comunicacao-veja-tipos-e-exemplos-da-categoria/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/ilustracao-da-tecnologia-de-informacao-e-comunicacao-1-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 23 Jun 2025 20:36:09 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 25 Jun 2025 18:17:00 +0000</lastBuildDate>
     <item>
       <title>EUA proíbem WhatsApp na Câmara de Representantes</title>
       <link>https://tecnoblog.net/noticias/eua-proibem-whatsapp-na-camara-de-representantes/</link>
@@ -217,12 +209,20 @@
       <pubDate>Wed, 25 Jun 2025 15:04:45 +0000</pubDate>
     </item>
     <item>
-      <title>Pode testar aí! A Alexa não sabe contar uma hora e meia</title>
+      <title>Alexa do Brasil não sabe contar direito e erra um simples timer</title>
       <link>https://tecnoblog.net/noticias/pode-testar-ai-a-alexa-nao-sabe-contar-uma-hora-e-meia/</link>
       <description>Problema afeta falantes do português. Alexa confunde “meia” com o número seis ao configurar alarmes.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/pode-testar-ai-a-alexa-nao-sabe-contar-uma-hora-e-meia/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/20250625_123520-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Wed, 25 Jun 2025 15:58:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>iPhone 16e (256 GB) tem 37% OFF na melhor oferta desde lançamento</title>
+      <link>https://tecnoblog.net/achados/iphone-16e-256-gb-tem-37-off-na-melhor-oferta-desde-lancamento/</link>
+      <description>iPhone 16 com 256 GB, câmera de 48 MP e processador Apple A18 sai por menos de R$ 4,2 mil cupom no Magalu; oferta é a melhor registrada até o momento</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/iphone-16e-256-gb-tem-37-off-na-melhor-oferta-desde-lancamento/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/03/iphone-16e-achados-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 25 Jun 2025 17:21:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
