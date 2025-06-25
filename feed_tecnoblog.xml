@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 25 Jun 2025 13:28:50 +0000</lastBuildDate>
-    <item>
-      <title>O que é ransomware? Veja como funciona essa ameaça cibernética</title>
-      <link>https://tecnoblog.net/responde/o-que-e-ransomware-veja-como-funciona-essa-ameaca-cibernetica/</link>
-      <description>Existem ransomwares de criptografia, que criptografa arquivos e exigem pagamentos pela chave de descriptografia, e de bloqueio de tela, que impedem o acesso ao sistema</description>
-      <guid isPermaLink="false">https://tecnoblog.net/responde/o-que-e-ransomware-veja-como-funciona-essa-ameaca-cibernetica/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/01/especial-3_megavazamento-cpf_capa2x-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 23 Jun 2025 20:06:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 25 Jun 2025 14:12:21 +0000</lastBuildDate>
     <item>
       <title>Xbox começa a testar biblioteca integrada com jogos da Steam</title>
       <link>https://tecnoblog.net/noticias/xbox-comeca-a-testar-biblioteca-com-jogos-da-steam/</link>
@@ -221,8 +213,16 @@
       <link>https://tecnoblog.net/noticias/samsung-pode-abandonar-a-s-pen-no-proximo-celular-galaxy-s/</link>
       <description>Rumor indica mudança para atender design mais fino nos dispositivos. Caneta já perdeu funções Bluetooth no Galaxy S25 Ultra.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/samsung-pode-abandonar-a-s-pen-no-proximo-celular-galaxy-s/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2021/01/galaxy-s21-ultra-s-pen-1-1-e1610595349305-340x191.jpg" length="0" type="image/jpeg"/>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2020/09/samsung-galaxy-note-20-ultra-review-6-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Wed, 25 Jun 2025 13:27:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chrome copia iPhone e agora deixa usar barra de endereço na parte inferior</title>
+      <link>https://tecnoblog.net/noticias/chrome-copia-iphone-e-agora-deixa-usar-barra-de-endereco-na-parte-inferior/</link>
+      <description>Usuário do Google Chrome para Android agora pode mover a barra de endereços para a parte inferior ou deixá-la no topo do navegador.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/chrome-copia-iphone-e-agora-deixa-usar-barra-de-endereco-na-parte-inferior/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/chrome-android-barra-endereco-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 25 Jun 2025 13:35:54 +0000</pubDate>
     </item>
   </channel>
 </rss>
