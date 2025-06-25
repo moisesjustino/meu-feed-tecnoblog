@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 25 Jun 2025 14:12:21 +0000</lastBuildDate>
-    <item>
-      <title>Xbox começa a testar biblioteca integrada com jogos da Steam</title>
-      <link>https://tecnoblog.net/noticias/xbox-comeca-a-testar-biblioteca-com-jogos-da-steam/</link>
-      <description>Nova biblioteca está disponível para testadores do Xbox Insider, no app para PC Windows. Versão final da novidade chega até o fim do ano, com os portáteis ROG Xbox Ally.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/xbox-comeca-a-testar-biblioteca-com-jogos-da-steam/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/Gs8Sx4Oa0AAy63F-340x191.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 23 Jun 2025 20:06:22 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 25 Jun 2025 15:13:22 +0000</lastBuildDate>
     <item>
       <title>O que é malware? Veja como funciona e quais são os tipos de ameaças</title>
       <link>https://tecnoblog.net/responde/o-que-e-malware-veja-como-funciona-e-quais-sao-os-tipos-de-ameacas/</link>
@@ -209,7 +201,7 @@
       <pubDate>Tue, 24 Jun 2025 21:58:25 +0000</pubDate>
     </item>
     <item>
-      <title>Samsung pode abandonar a S Pen no próximo celular Galaxy S</title>
+      <title>Samsung pode abandonar de vez a S Pen no Galaxy S27</title>
       <link>https://tecnoblog.net/noticias/samsung-pode-abandonar-a-s-pen-no-proximo-celular-galaxy-s/</link>
       <description>Rumor indica mudança para atender design mais fino nos dispositivos. Caneta já perdeu funções Bluetooth no Galaxy S25 Ultra.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/samsung-pode-abandonar-a-s-pen-no-proximo-celular-galaxy-s/</guid>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/chrome-copia-iphone-e-agora-deixa-usar-barra-de-endereco-na-parte-inferior/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/chrome-android-barra-endereco-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Wed, 25 Jun 2025 13:35:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Galaxy A25 5G fica R$ 1 mil reais mais barato em oferta do Mercado Livre</title>
+      <link>https://tecnoblog.net/achados/galaxy-a25-5g-fica-r-1-mil-reais-mais-barato-em-oferta-do-mercado-livre/</link>
+      <description>Galaxy A25 5G de 128 GB é equipado com tela Super AMOLED de 120 Hz e chip Exynos 1280; celular Samsung recebe 48% de desconto e pode ser parcelado em até 12x</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-a25-5g-fica-r-1-mil-reais-mais-barato-em-oferta-do-mercado-livre/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/03/galaxy-a25-imagem-divulgacaosamsung-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 25 Jun 2025 15:04:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
