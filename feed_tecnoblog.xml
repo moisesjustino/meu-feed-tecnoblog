@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 25 Jun 2025 15:13:22 +0000</lastBuildDate>
-    <item>
-      <title>O que é malware? Veja como funciona e quais são os tipos de ameaças</title>
-      <link>https://tecnoblog.net/responde/o-que-e-malware-veja-como-funciona-e-quais-sao-os-tipos-de-ameacas/</link>
-      <description>Um malware é um software malicioso criado para danificar, roubar dados ou controlar sistemas de computador, comprometendo a segurança e a privacidade das vítimas</description>
-      <guid isPermaLink="false">https://tecnoblog.net/responde/o-que-e-malware-veja-como-funciona-e-quais-sao-os-tipos-de-ameacas/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/09/malware-ilustracao-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 23 Jun 2025 20:12:04 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 25 Jun 2025 16:15:16 +0000</lastBuildDate>
     <item>
       <title>O que é a Tecnologia da Informação e Comunicação? Veja tipos e exemplos da categoria</title>
       <link>https://tecnoblog.net/responde/o-que-e-a-tecnologia-da-informacao-e-comunicacao-veja-tipos-e-exemplos-da-categoria/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-a25-5g-fica-r-1-mil-reais-mais-barato-em-oferta-do-mercado-livre/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/03/galaxy-a25-imagem-divulgacaosamsung-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Wed, 25 Jun 2025 15:04:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pode testar aí! A Alexa não sabe contar uma hora e meia</title>
+      <link>https://tecnoblog.net/noticias/pode-testar-ai-a-alexa-nao-sabe-contar-uma-hora-e-meia/</link>
+      <description>Problema afeta falantes do português. Alexa confunde “meia” com o número seis ao configurar alarmes.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/pode-testar-ai-a-alexa-nao-sabe-contar-uma-hora-e-meia/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/20250625_123520-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 25 Jun 2025 15:58:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
