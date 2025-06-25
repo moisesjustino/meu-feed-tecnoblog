@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 25 Jun 2025 21:11:32 +0000</lastBuildDate>
-    <item>
-      <title>Dez anos depois, dono de site de torrent é condenado à prisão</title>
-      <link>https://tecnoblog.net/noticias/dez-anos-depois-dono-de-site-de-torrent-e-condenado-a-prisao/</link>
-      <description>Decisão inédita na Grécia sinaliza endurecimento contra pirataria digital. Além da prisão, o homem terá que pagar multa e custos do processo.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/dez-anos-depois-dono-de-site-de-torrent-e-condenado-a-prisao/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/12/pirataria-software-capa-3-nov-2022-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 24 Jun 2025 16:31:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft prepara demissões em massa na divisão Xbox</title>
-      <link>https://tecnoblog.net/noticias/microsoft-prepara-demissoes-em-massa-na-divisao-xbox/</link>
-      <description>Novos cortes podem começar na próxima semana e atingem também outras áreas. Esta seria a quarta grande demissão na divisão Xbox em apenas 18 meses.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/microsoft-prepara-demissoes-em-massa-na-divisao-xbox/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/04/xbox-s_capa-1_tb-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 24 Jun 2025 16:52:33 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 25 Jun 2025 22:11:21 +0000</lastBuildDate>
     <item>
       <title>Google Chrome abandona versões antigas do Android</title>
       <link>https://tecnoblog.net/noticias/google-chrome-abandona-versoes-antigas-do-android/</link>
@@ -185,9 +169,9 @@
       <pubDate>Wed, 25 Jun 2025 18:44:53 +0000</pubDate>
     </item>
     <item>
-      <title>Google muda Android para o Gemini acessar mais dados seus</title>
+      <title>Google promete Android mais poderoso após mudança no Gemini; entenda</title>
       <link>https://tecnoblog.net/noticias/google-muda-android-para-o-gemini-acessar-mais-dados-seus/</link>
-      <description>Gemini poderá interagir com Telefone e WhatsApp, mesmo com a Atividade de Apps desativada. Usuários poderão usar o assistente nos apps sem manter o histórico salvo.</description>
+      <description>Sistema de IA poderá interagir com Telefone e WhatsApp, mesmo com a Atividade de Apps desativada. Usuários poderão usar o assistente nos apps sem manter o histórico salvo.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/google-muda-android-para-o-gemini-acessar-mais-dados-seus/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/08/capa-android-13-3-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Wed, 25 Jun 2025 19:33:25 +0000</pubDate>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/moto-g35-128-gb-tem-49-off-em-oferta-imperdivel-do-mercado-livre/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/motog35-achou-correu-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Wed, 25 Jun 2025 20:16:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nova pulseira da Xiaomi passa pela Anatel antes do lançamento global</title>
+      <link>https://tecnoblog.net/noticias/xiaomi-smart-band-10-passa-pela-anatel-e-ja-pode-chegar-ao-brasil/</link>
+      <description>A Xiaomi Smart Band será apresentada durante um evento marcado para esta quinta-feira. Modelo tem autonomia para até 21 dias.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/xiaomi-smart-band-10-passa-pela-anatel-e-ja-pode-chegar-ao-brasil/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/xiaomi-smart-band-10-official-teaser-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 25 Jun 2025 21:25:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sony é alvo de ação coletiva por preços abusivos na PlayStation Store</title>
+      <link>https://tecnoblog.net/noticias/sony-e-alvo-de-acao-coletiva-por-precos-abusivos-na-playstation-store/</link>
+      <description>Consumidores na Holanda alegam pagar até 47% a mais por jogos digitais. Ação acusa a Sony de monopolizar a PS Store e eliminar a concorrência.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/sony-e-alvo-de-acao-coletiva-por-precos-abusivos-na-playstation-store/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/04/ps5_capa-2_tb-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 25 Jun 2025 21:26:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
