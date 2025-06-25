@@ -7,39 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 25 Jun 2025 18:17:00 +0000</lastBuildDate>
-    <item>
-      <title>EUA proíbem WhatsApp na Câmara de Representantes</title>
-      <link>https://tecnoblog.net/noticias/eua-proibem-whatsapp-na-camara-de-representantes/</link>
-      <description>Órgão legislativo aponta "alto risco" por falta de transparência com dados armazenados. Meta discorda da decisão e defende o app.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/eua-proibem-whatsapp-na-camara-de-representantes/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/08/capa-whats-fora_thumb_tb-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 23 Jun 2025 21:07:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Moto G35 (128 GB) com tela de 120 Hz tem 40% OFF no Mercado Livre</title>
-      <link>https://tecnoblog.net/achados/moto-g35-128-gb-com-tela-de-120-hz-tem-40-off-no-mercado-livre/</link>
-      <description>Moto G35 possui taxa de atualização 120 Hz, câmera principal de 50 MP com suporte de IA e 8 GB de RAM Boost inteligente; celular Motorola tem desconto no Pix na promoção</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/moto-g35-128-gb-com-tela-de-120-hz-tem-40-off-no-mercado-livre/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/03/Moto-G35-tem-RAM-expansivel-ate-12-GB-foto-Motorola-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 23 Jun 2025 21:10:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Motorola Edge 50 Fusion de 256 GB tem 48% de desconto no Magalu</title>
-      <link>https://tecnoblog.net/achados/motorola-edge-50-fusion-de-256-gb-tem-48-de-desconto-no-magalu/</link>
-      <description>Motorola Edge 50 Fusion em oferta tem tela POLED de 120 Hz até 1.600 nits e câmera Sony de 50 MP com OIS e tecnologia de pixel binning</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/motorola-edge-50-fusion-de-256-gb-tem-48-de-desconto-no-magalu/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/01/motorola-edge-50-fusion-foto-thassius-velosotecnoblog-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 23 Jun 2025 22:26:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Criador do Super Smash Bros. defende uso de IA no desenvolvimento de games</title>
-      <link>https://tecnoblog.net/noticias/criador-do-super-smash-bros-defende-uso-de-ia-no-desenvolvimento-de-games/</link>
-      <description>Para Masahiro Sakurai, o desenvolvimento de jogos AAA se tornou “insustentável”. O uso de IA generativa deve acelerar a produção de títulos extensos.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/criador-do-super-smash-bros-defende-uso-de-ia-no-desenvolvimento-de-games/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/masahiro-sakurai-ia-jogos-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 23 Jun 2025 22:53:02 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 25 Jun 2025 19:08:53 +0000</lastBuildDate>
     <item>
       <title>Galaxy A26 (256 GB) tem RAM de 8 GB e 41% OFF em até 12x com cupom</title>
       <link>https://tecnoblog.net/achados/galaxy-a26-256-gb-tem-ram-de-8-gb-e-41-off-em-ate-12x-com-cupom/</link>
@@ -113,12 +81,28 @@
       <pubDate>Tue, 24 Jun 2025 17:33:21 +0000</pubDate>
     </item>
     <item>
+      <title>Robôs domésticos: conheça a categoria de produtos que auxiliam no dia a dia da casa</title>
+      <link>https://tecnoblog.net/responde/robos-domesticos-conheca-a-categoria-de-produtos-que-auxiliam-no-dia-a-dia-da-casa/</link>
+      <description>Um robô doméstico pode ajudar a automatizar tarefas diárias para simplificar a vida das pessoas, colaborando com a limpeza e segurança de uma residência</description>
+      <guid isPermaLink="false">https://tecnoblog.net/responde/robos-domesticos-conheca-a-categoria-de-produtos-que-auxiliam-no-dia-a-dia-da-casa/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2021/08/eufy-robovac-11s-13-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 24 Jun 2025 19:23:37 +0000</pubDate>
+    </item>
+    <item>
       <title>Anthropic vence processo sobre uso de livros físicos para treinar IA</title>
       <link>https://tecnoblog.net/noticias/anthropic-vence-processo-sobre-uso-de-livros-para-treinar-ia/</link>
       <description>Juiz equipara situação ao uso para aprendizado de crianças em idade escolar. Decisão favorável à empresa é limitada ao uso de obras compradas legalmente.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/anthropic-vence-processo-sobre-uso-de-livros-para-treinar-ia/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/10/db3165778de297272875d36a822f671d8009aaec-2880x1620-1-340x191.webp" length="0" type="image/jpeg"/>
       <pubDate>Tue, 24 Jun 2025 19:43:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Jogar no PC ou console? Entenda o que muda de um para outro</title>
+      <link>https://tecnoblog.net/responde/jogar-no-pc-ou-console-entenda-o-que-muda-de-um-para-outro/</link>
+      <description>Um PC gamer oferece ampla personalização de desempenho e hardware, enquanto um console apresenta uma experiência mais simples e conveniente</description>
+      <guid isPermaLink="false">https://tecnoblog.net/responde/jogar-no-pc-ou-console-entenda-o-que-muda-de-um-para-outro/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/capa-tbr-pc-ou-console-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 24 Jun 2025 20:03:23 +0000</pubDate>
     </item>
     <item>
       <title>Google presenteia Linux Foundation com protocolo de agentes de IA</title>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/iphone-16e-256-gb-tem-37-off-na-melhor-oferta-desde-lancamento/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/03/iphone-16e-achados-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Wed, 25 Jun 2025 17:21:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Usuários do iPhone ficam furiosos com Apple nos EUA por causa de filme</title>
+      <link>https://tecnoblog.net/noticias/usuarios-do-iphone-ficam-furiosos-com-apple-nos-eua-por-causa-de-filme/</link>
+      <description>Apple promoveu filme sobre Fórmula 1 usando notificação no Apple Wallet. Ação irritou usuários do iPhone nos Estados Unidos.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/usuarios-do-iphone-ficam-furiosos-com-apple-nos-eua-por-causa-de-filme/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/f1-filme-capa-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 25 Jun 2025 18:30:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Governo propõe penas maiores para furto de celular</title>
+      <link>https://tecnoblog.net/noticias/governo-propoe-penas-maiores-para-furto-de-celular/</link>
+      <description>Ministério da Justiça enviou projeto ao Congresso para aumentar a pena de furto. Texto prevê punição até 50% maior em casos envolvendo smartphones.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/governo-propoe-penas-maiores-para-furto-de-celular/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/05/roubo-android-15-03-e1715868060167-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 25 Jun 2025 18:44:53 +0000</pubDate>
     </item>
   </channel>
 </rss>
