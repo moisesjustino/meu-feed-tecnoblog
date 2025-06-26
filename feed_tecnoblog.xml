@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 26 Jun 2025 10:12:57 +0000</lastBuildDate>
-    <item>
-      <title>Google Chrome abandona versões antigas do Android</title>
-      <link>https://tecnoblog.net/noticias/google-chrome-abandona-versoes-antigas-do-android/</link>
-      <description>Google vai encerrar suporte ao Chrome no Android 8.0 e 9.0. Navegador exigirá Android 10 ou superior a partir da versão 139, a ser lançada em agosto de 2025.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/google-chrome-abandona-versoes-antigas-do-android/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/11/google-chrome-capa-2-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 24 Jun 2025 17:01:24 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 26 Jun 2025 11:10:40 +0000</lastBuildDate>
     <item>
       <title>Galaxy Tab S6 Lite 4G (128 GB) tem 49% OFF em oferta no Mercado Livre</title>
       <link>https://tecnoblog.net/achados/galaxy-tab-s6-lite-4g-128-gb-tem-49-off-em-oferta-no-mercado-livre/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/sony-e-alvo-de-acao-coletiva-por-precos-abusivos-na-playstation-store/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/04/ps5_capa-2_tb-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Wed, 25 Jun 2025 21:26:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Amazon libera Audible para mais assinantes</title>
+      <link>https://tecnoblog.net/noticias/amazon-libera-audible-para-mais-assinantes/</link>
+      <description>Assinantes poderão ouvir o livro selecionado quando quiserem. Mudança de título é possível a cada novo ciclo.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/amazon-libera-audible-para-mais-assinantes/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/09/audible-no-br-capa-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 26 Jun 2025 11:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
