@@ -7,31 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 26 Jun 2025 16:14:52 +0000</lastBuildDate>
-    <item>
-      <title>Jogar no PC ou console? Entenda o que muda de um para outro</title>
-      <link>https://tecnoblog.net/responde/jogar-no-pc-ou-console-entenda-o-que-muda-de-um-para-outro/</link>
-      <description>Um PC gamer oferece ampla personalização de desempenho e hardware, enquanto um console apresenta uma experiência mais simples e conveniente</description>
-      <guid isPermaLink="false">https://tecnoblog.net/responde/jogar-no-pc-ou-console-entenda-o-que-muda-de-um-para-outro/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/capa-tbr-pc-ou-console-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 24 Jun 2025 20:03:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google presenteia Linux Foundation com protocolo de agentes de IA</title>
-      <link>https://tecnoblog.net/noticias/google-presenteia-linux-foundation-com-protocolo-de-agentes-de-ia/</link>
-      <description>Projeto Agent2Agent terá governança neutra e apoio de mais de 100 empresas, incluindo AWS e Microsoft. Iniciativa permite que agentes de IA colaborem entre si.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/google-presenteia-linux-foundation-com-protocolo-de-agentes-de-ia/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/05/capa-ia-google-2_tb-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 24 Jun 2025 20:29:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft revela mais opções para quem quer manter o Windows 10</title>
-      <link>https://tecnoblog.net/noticias/microsoft-revela-mais-opcoes-para-quem-quer-manter-o-windows-10/</link>
-      <description>Microsoft vai encerrar suporte ao Windows 10 em outubro de 2025. Usuários domésticos terão três opções para receber updates de segurança por um ano.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/microsoft-revela-mais-opcoes-para-quem-quer-manter-o-windows-10/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/03/windows-10-tela-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 24 Jun 2025 20:30:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 26 Jun 2025 17:11:17 +0000</lastBuildDate>
     <item>
       <title>iPhone 15 (256 GB) tem 40% de desconto no Mercado Livre e câmera de 48 MP</title>
       <link>https://tecnoblog.net/achados/iphone-15-256-gb-tem-40-de-desconto-no-mercado-livre-e-camera-48-mp/</link>
@@ -119,6 +95,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/iphone-16e-256-gb-tem-37-off-na-melhor-oferta-desde-lancamento/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/03/iphone-16e-achados-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Wed, 25 Jun 2025 17:21:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>O que é trojan? Saiba como funciona e veja os tipos de cavalo de Troia</title>
+      <link>https://tecnoblog.net/responde/o-que-e-trojan-saiba-como-funciona-e-veja-os-tipos-de-cavalo-de-troia/</link>
+      <description>Um trojan é um malware usado por cibercriminosos para infectar computadores, permitindo controlar dispositivos remotamente, roubar dados ou causar danos aos sistemas</description>
+      <guid isPermaLink="false">https://tecnoblog.net/responde/o-que-e-trojan-saiba-como-funciona-e-veja-os-tipos-de-cavalo-de-troia/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/tbr-spoofing-02-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 25 Jun 2025 18:25:30 +0000</pubDate>
     </item>
     <item>
       <title>Usuários do iPhone ficam furiosos com Apple nos EUA por causa de filme</title>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-s24-plus-256-gb-com-12-gb-de-ram-tem-51-off-em-oferta-na-amazon/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/galaxy-s24-plus-oferta-recomendada-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Thu, 26 Jun 2025 15:38:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft tenta pôr Copilot em empresas, mas funcionários preferem ChatGPT</title>
+      <link>https://tecnoblog.net/noticias/microsoft-tenta-por-copilot-em-empresas-mas-funcionarios-preferem-chatgpt/</link>
+      <description>Familiaridade de funcionários com o ChatGPT dificulta aceitação do Microsoft Copilot, mesmo com ambas as ferramentas oferecendo recursos parecidos.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/microsoft-tenta-por-copilot-em-empresas-mas-funcionarios-preferem-chatgpt/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/11/capa-copilot-1-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 26 Jun 2025 16:23:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nintendo é notificada pelo Procon por cláusula que permite bloquear Switch</title>
+      <link>https://tecnoblog.net/noticias/nintendo-e-notificada-pelo-procon-por-clausula-que-permite-bloquear-switch/</link>
+      <description>Empresa mudou os termos de uso para cancelar contas envolvidas em "uso não autorizado". Procon-SP vê cláusula como ilegal e cobra critérios objetivos.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/nintendo-e-notificada-pelo-procon-por-clausula-que-permite-bloquear-switch/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/atendimento-liberdade-6-edited-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 26 Jun 2025 16:45:39 +0000</pubDate>
     </item>
   </channel>
 </rss>
