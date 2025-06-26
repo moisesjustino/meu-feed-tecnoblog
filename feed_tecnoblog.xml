@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 26 Jun 2025 20:13:07 +0000</lastBuildDate>
-    <item>
-      <title>Samsung pode abandonar de vez a S Pen no Galaxy S27</title>
-      <link>https://tecnoblog.net/noticias/samsung-pode-abandonar-a-s-pen-no-proximo-celular-galaxy-s/</link>
-      <description>Rumor indica mudança para atender design mais fino nos dispositivos. Caneta já perdeu funções Bluetooth no Galaxy S25 Ultra.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/samsung-pode-abandonar-a-s-pen-no-proximo-celular-galaxy-s/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2020/09/samsung-galaxy-note-20-ultra-review-6-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 25 Jun 2025 13:27:26 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 26 Jun 2025 21:11:05 +0000</lastBuildDate>
     <item>
       <title>Chrome copia iPhone e agora deixa usar barra de endereço na parte inferior</title>
       <link>https://tecnoblog.net/noticias/chrome-copia-iphone-e-agora-deixa-usar-barra-de-endereco-na-parte-inferior/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/conheca-a-nova-tela-de-erro-do-windows-que-nao-e-mais-azul/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/bsod-tela-azul-edited-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Thu, 26 Jun 2025 19:49:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>iPhone dobrável pode ter tela levemente menor que a dos rivais</title>
+      <link>https://tecnoblog.net/noticias/iphone-dobravel-pode-ter-tela-levemente-menor-que-a-dos-rivais/</link>
+      <description>Vazamento revela tela de 7,58 polegadas, mais compacta que o previsto em rumores anteriores. Display seria menor que o do Galaxy Z Fold 6.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/iphone-dobravel-pode-ter-tela-levemente-menor-que-a-dos-rivais/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/07/capa-iphone-dobravel-3-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 26 Jun 2025 20:55:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
