@@ -7,31 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 26 Jun 2025 19:09:25 +0000</lastBuildDate>
-    <item>
-      <title>Em gesto inédito, Google passa a integrar entidade brasileira de publicidade</title>
-      <link>https://tecnoblog.net/noticias/em-gesto-inedito-google-passa-a-integrar-o-conar/</link>
-      <description>Gigante da tecnologia é primeira big tech internacional a fazer parte do Conar. Empresa defende ecossistema mais saudável e confiável.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/em-gesto-inedito-google-passa-a-integrar-o-conar/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/03/google-2-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 24 Jun 2025 21:09:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Celulares com 3 ou 2 nanômetros vão se espalhar, prevê consultoria</title>
-      <link>https://tecnoblog.net/noticias/chips-com-3-e-ate-mesmo-2-nanometros-vao-ganhar-os-celulares-preve-consultoria/</link>
-      <description>Smartphones serão mais potentes e terão bateria mais duradoura. Além disso, poderão rodar aplicações de IA mais pesadas.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/chips-com-3-e-ate-mesmo-2-nanometros-vao-ganhar-os-celulares-preve-consultoria/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/10/iphone-15-capas-1-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 24 Jun 2025 21:37:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Galaxy S24 Ultra (256 GB) tem 48% OFF em até 12x no AliExpress</title>
-      <link>https://tecnoblog.net/achados/galaxy-s24-ultra-256-gb-tem-48-off-em-ate-12x-no-aliexpress/</link>
-      <description>Galaxy S24 Ultra tem tela AMOLED com 2.600 nits, Snapdragon 8 Gen 3 e acabamento em titânio; celular Samsung pode ser parcelado em até 12x sem juros</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-s24-ultra-256-gb-tem-48-off-em-ate-12x-no-aliexpress/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/01/galaxy-s24-ultra-tem-4-cameras-com-zoom-optico-de-ate-5x-foto-thassius-velosotecnoblog-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 24 Jun 2025 21:58:25 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 26 Jun 2025 20:13:07 +0000</lastBuildDate>
     <item>
       <title>Samsung pode abandonar de vez a S Pen no Galaxy S27</title>
       <link>https://tecnoblog.net/noticias/samsung-pode-abandonar-a-s-pen-no-proximo-celular-galaxy-s/</link>
@@ -197,7 +173,7 @@
       <link>https://tecnoblog.net/noticias/nintendo-e-notificada-pelo-procon-por-clausula-que-permite-bloquear-switch/</link>
       <description>Empresa mudou os termos de uso para cancelar contas envolvidas em "uso não autorizado". Procon-SP vê cláusula como ilegal e cobra critérios objetivos.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/nintendo-e-notificada-pelo-procon-por-clausula-que-permite-bloquear-switch/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/atendimento-liberdade-6-edited-340x191.jpg" length="0" type="image/jpeg"/>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/capa-procon-x-nintendo-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Thu, 26 Jun 2025 16:45:39 +0000</pubDate>
     </item>
     <item>
@@ -223,6 +199,30 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-watch-7-40-mm-tem-53-de-desconto-em-ate-12x-no-mercado-livre/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/galaxy-watch-7-oferta-recomendada-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Thu, 26 Jun 2025 18:59:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Galaxy S24 (256 GB) tem menor preço em meses em oferta no Magalu</title>
+      <link>https://tecnoblog.net/achados/galaxy-s24-256-gb-tem-menor-preco-em-meses-em-oferta-no-magalu/</link>
+      <description>Galaxy S24 de 256 GB tem tela de AMOLED Dinâmico com brilho até 2.600 nits, processador Exynos 2400 com bom desempenho e promete sete atualizações do Android</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-s24-256-gb-tem-menor-preco-em-meses-em-oferta-no-magalu/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/02/Galaxy-S24-em-oferta-Foto-Thassius-VelosoTecnoblog-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 26 Jun 2025 19:27:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Diablo IV e King of Fighters XV chegam ao PlayStation Plus em julho</title>
+      <link>https://tecnoblog.net/noticias/diablo-iv-e-king-of-fighters-xv-chegam-ao-playstation-plus-em-julho/</link>
+      <description>Diablo IV, King of Fighters XV e Jusant serão liberados no PS Plus a partir de 1º de julho. Sony também anuncia torneios para celebrar os 15 anos da plataforma.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/diablo-iv-e-king-of-fighters-xv-chegam-ao-playstation-plus-em-julho/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/diablo-iv-psn-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 26 Jun 2025 19:40:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Conheça a nova tela de erro do Windows (que não é mais azul)</title>
+      <link>https://tecnoblog.net/noticias/conheca-a-nova-tela-de-erro-do-windows-que-nao-e-mais-azul/</link>
+      <description>Windows 11 24H2 aposentará a tradicional Tela Azul da Morte. Interface de erro será preta e terá menos informações.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/conheca-a-nova-tela-de-erro-do-windows-que-nao-e-mais-azul/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/bsod-tela-azul-edited-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 26 Jun 2025 19:49:46 +0000</pubDate>
     </item>
   </channel>
 </rss>
