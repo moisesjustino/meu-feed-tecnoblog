@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 26 Jun 2025 18:16:34 +0000</lastBuildDate>
-    <item>
-      <title>O crime tem antena própria</title>
-      <link>https://tecnoblog.net/tecnocast/o-crime-tem-antena-propria/</link>
-      <description>Sem descrição breve.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/tecnocast/o-crime-tem-antena-propria/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/tecnocast-381_capa-2-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 24 Jun 2025 20:55:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pane afeta Caixa, Receita Federal e outros serviços digitais do governo</title>
-      <link>https://tecnoblog.net/noticias/fora-do-ar-caixa-receita-federal-e-gov-br/</link>
-      <description>Instabilidade afeta ferramentas do e-CAC, e-Social e Nota Fiscal Eletrônica.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/fora-do-ar-caixa-receita-federal-e-gov-br/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/captura-de-tela-2025-06-24-as-17-56-47-edited-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 24 Jun 2025 21:00:06 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 26 Jun 2025 19:09:25 +0000</lastBuildDate>
     <item>
       <title>Em gesto inédito, Google passa a integrar entidade brasileira de publicidade</title>
       <link>https://tecnoblog.net/noticias/em-gesto-inedito-google-passa-a-integrar-o-conar/</link>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/moto-g84-5g-256-gb-fica-36-mais-barato-em-promocao-no-mercado-livre/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/06/motorola-moto-g84-imagem-thassius-velosotecnoblog-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Thu, 26 Jun 2025 17:31:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Uber e Loggi anunciam parceria para entregar pacotes em todo o Brasil</title>
+      <link>https://tecnoblog.net/noticias/uber-e-loggi-anunciam-parceria-para-entregar-pacotes-em-todo-o-brasil/</link>
+      <description>Parceria entre Uber e Loggi forma o serviço Flash Nacional. Novidade amplia capacidade do Uber Flash para longas distâncias.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/uber-e-loggi-anunciam-parceria-para-entregar-pacotes-em-todo-o-brasil/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/04/uber_capa-1_tb-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 26 Jun 2025 18:32:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Galaxy Watch 7 (40 mm) tem 53% de desconto em até 12x no Mercado Livre</title>
+      <link>https://tecnoblog.net/achados/galaxy-watch-7-40-mm-tem-53-de-desconto-em-ate-12x-no-mercado-livre/</link>
+      <description>Galaxy Watch 7 40 mm Bluetooth tem processador Exynos W1000, sensor BioActive com 13 LEDs e suporte do Galaxy AI; smartwatch Samsung pode ser parcelado em até 12x sem juros</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-watch-7-40-mm-tem-53-de-desconto-em-ate-12x-no-mercado-livre/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/galaxy-watch-7-oferta-recomendada-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 26 Jun 2025 18:59:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
