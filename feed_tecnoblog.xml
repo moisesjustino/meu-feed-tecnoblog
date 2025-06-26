@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 26 Jun 2025 14:11:42 +0000</lastBuildDate>
-    <item>
-      <title>Robôs domésticos: conheça a categoria de produtos que auxiliam no dia a dia da casa</title>
-      <link>https://tecnoblog.net/responde/robos-domesticos-conheca-a-categoria-de-produtos-que-auxiliam-no-dia-a-dia-da-casa/</link>
-      <description>Um robô doméstico pode ajudar a automatizar tarefas diárias para simplificar a vida das pessoas, colaborando com a limpeza e segurança de uma residência</description>
-      <guid isPermaLink="false">https://tecnoblog.net/responde/robos-domesticos-conheca-a-categoria-de-produtos-que-auxiliam-no-dia-a-dia-da-casa/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2021/08/eufy-robovac-11s-13-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 24 Jun 2025 19:23:37 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 26 Jun 2025 15:12:55 +0000</lastBuildDate>
     <item>
       <title>Anthropic vence processo sobre uso de livros físicos para treinar IA</title>
       <link>https://tecnoblog.net/noticias/anthropic-vence-processo-sobre-uso-de-livros-para-treinar-ia/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/motorola-razr-50-ultra-512-gb-tem-promocao-historica-no-mercado-livre/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/04/Tela-externa-de-4-polegadas-do-Razr-50-Ultra-e-a-maior-da-categoria-diz-Motorola-Imagem-Giovanni-Santa-Rosa-Tecnoblog-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Thu, 26 Jun 2025 12:51:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Senador dos EUA quer escala 4×3 para evitar demissões causadas pela IA</title>
+      <link>https://tecnoblog.net/noticias/senador-dos-eua-quer-escala-4x3-para-evitar-demissoes-causadas-pela-ia/</link>
+      <description>Bernie Sanders defende semana de trabalho de 32 horas impulsionada pela IA. Senador apresentou projeto de lei sobre o tema em 2024.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/senador-dos-eua-quer-escala-4x3-para-evitar-demissoes-causadas-pela-ia/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/senador-bernie-sanders-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 26 Jun 2025 14:30:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
