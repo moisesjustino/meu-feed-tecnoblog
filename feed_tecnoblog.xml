@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 27 Jun 2025 18:16:34 +0000</lastBuildDate>
-    <item>
-      <title>É oficial: HDMI 2.2 dobra largura de banda e suporta vídeos em 16K</title>
-      <link>https://tecnoblog.net/noticias/e-oficial-hdmi-2-2-dobra-largura-de-banda-e-suporta-videos-em-16k/</link>
-      <description>Especificação aumenta a largura de banda para 96 Gb/s e introduz o selo Ultra96 para cabos. Fabricantes já podem aderir ao novo padrão.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/e-oficial-hdmi-2-2-dobra-largura-de-banda-e-suporta-videos-em-16k/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/10/conector-hdmi-a-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 25 Jun 2025 20:05:06 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 27 Jun 2025 19:09:14 +0000</lastBuildDate>
     <item>
       <title>Moto G35 (128 GB) tem 49% OFF em oferta imperdível do Mercado Livre</title>
       <link>https://tecnoblog.net/achados/moto-g35-128-gb-tem-49-off-em-oferta-imperdivel-do-mercado-livre/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/para-poucos-msi-anuncia-pc-gamer-com-tema-de-toy-story/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/pc-gamer-toy-story-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Fri, 27 Jun 2025 18:13:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Galaxy Tab S10 FE Plus (128 GB) tem 38% OFF em até 10x na Amazon</title>
+      <link>https://tecnoblog.net/achados/galaxy-tab-s10-fe-plus-128-gb-tem-38-off-em-ate-10x-na-amazon/</link>
+      <description>Galaxy S10 FE Plus (128 GB) tem tela de 13,1 polegadas que acompanha caneta S Pen e processador Exynos 1580 da Samsung; tablet tem oferta com parcelamento</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-tab-s10-fe-plus-128-gb-tem-38-off-em-ate-10x-na-amazon/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/05/Galaxy-Tab-S10-FE-tem-tela-de-109-polegadas-foto-Giovanni-Santa-RosaTecnoblog-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 27 Jun 2025 18:27:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
