@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 27 Jun 2025 21:10:45 +0000</lastBuildDate>
-    <item>
-      <title>Amazon libera audiolivros da Audible para mais assinantes</title>
-      <link>https://tecnoblog.net/noticias/amazon-libera-audible-para-mais-assinantes/</link>
-      <description>Assinantes poderão ouvir o livro selecionado quando quiserem. Mudança de título é possível a cada novo ciclo.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/amazon-libera-audible-para-mais-assinantes/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/09/audible-no-br-capa-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 26 Jun 2025 11:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 27 Jun 2025 22:11:42 +0000</lastBuildDate>
     <item>
       <title>Motorola Razr 50 Ultra (512 GB) tem promoção histórica no Mercado Livre</title>
       <link>https://tecnoblog.net/achados/motorola-razr-50-ultra-512-gb-tem-promocao-historica-no-mercado-livre/</link>
@@ -217,12 +209,20 @@
       <pubDate>Fri, 27 Jun 2025 19:18:42 +0000</pubDate>
     </item>
     <item>
-      <title>Exclusivo: Motorola lança Moto G86 no Brasil; saiba o preço</title>
+      <title>Motorola lança Moto G86 no Brasil; saiba o preço</title>
       <link>https://tecnoblog.net/noticias/exclusivo-motorola-lanca-moto-g86-no-brasil-saiba-o-preco/</link>
       <description>Smartphone com processador Mediatek Dimensity 7300 é vendido por R$ 2.499. Modelo conta ainda com tela de 6,67 polegadas.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/exclusivo-motorola-lanca-moto-g86-no-brasil-saiba-o-preco/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/moto-g86-divulgacao-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Fri, 27 Jun 2025 19:46:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Galaxy S24 FE tem 40% de desconto em oferta com cupom no Magalu</title>
+      <link>https://tecnoblog.net/achados/galaxy-s24-fe-tem-40-de-desconto-em-oferta-com-cupom-no-magalu/</link>
+      <description>Galaxy S24 FE de 128 GB tem tela AMOLED de 120 Hz, câmera de 50 MP com estabilização óptica e mais de R$ 1.600 de desconto em promoção</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-s24-fe-tem-40-de-desconto-em-oferta-com-cupom-no-magalu/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/04/Galaxy-S24-FE-tem-tela-AMOLED-foto-Giovanni-Santa-RosaTecnoblog-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 27 Jun 2025 21:21:54 +0000</pubDate>
     </item>
   </channel>
 </rss>
