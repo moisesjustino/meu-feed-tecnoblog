@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 27 Jun 2025 13:25:26 +0000</lastBuildDate>
-    <item>
-      <title>iPhone 16e (256 GB) tem 37% OFF na melhor oferta desde lançamento</title>
-      <link>https://tecnoblog.net/achados/iphone-16e-256-gb-tem-37-off-na-melhor-oferta-desde-lancamento/</link>
-      <description>iPhone 16 com 256 GB, câmera de 48 MP e processador Apple A18 sai por menos de R$ 4,2 mil cupom no Magalu; oferta é a melhor registrada até o momento</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/iphone-16e-256-gb-tem-37-off-na-melhor-oferta-desde-lancamento/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/03/iphone-16e-achados-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 25 Jun 2025 17:21:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>O que é trojan? Saiba como funciona e veja os tipos de cavalo de Troia</title>
-      <link>https://tecnoblog.net/responde/o-que-e-trojan-saiba-como-funciona-e-veja-os-tipos-de-cavalo-de-troia/</link>
-      <description>Um trojan é um malware usado por cibercriminosos para infectar computadores, permitindo controlar dispositivos remotamente, roubar dados ou causar danos aos sistemas</description>
-      <guid isPermaLink="false">https://tecnoblog.net/responde/o-que-e-trojan-saiba-como-funciona-e-veja-os-tipos-de-cavalo-de-troia/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/tbr-spoofing-02-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 25 Jun 2025 18:25:30 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 27 Jun 2025 14:11:55 +0000</lastBuildDate>
     <item>
       <title>Usuários do iPhone ficam furiosos com Apple nos EUA por causa de filme</title>
       <link>https://tecnoblog.net/noticias/usuarios-do-iphone-ficam-furiosos-com-apple-nos-eua-por-causa-de-filme/</link>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/trump-phone-sera-fabricado-nos-eua-nao-e-bem-assim/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/trump-mobile-t1-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Fri, 27 Jun 2025 10:47:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google Brasil desmente boato de que trancou X após decisão do STF</title>
+      <link>https://tecnoblog.net/noticias/google-brasil-desmente-boato-de-que-trancou-x-apos-decisao-do-stf/</link>
+      <description>Estratégia de comunicação foca nos perfis do Google Brasil no Instagram e TikTok. Mudança ocorreu em 2024.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/google-brasil-desmente-boato-de-que-trancou-x-apos-decisao-do-stf/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/08/google-ia-capa-1-edited-1-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 27 Jun 2025 13:45:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ask Photos: Google Fotos melhora busca via IA com solução inusitada</title>
+      <link>https://tecnoblog.net/noticias/ask-photos-google-fotos-melhora-busca-via-ia-com-solucao-inusitada/</link>
+      <description>Ferramenta do Google Fotos usa IA do Gemini para encontrar imagens específicas, mas agora alterna resultados com buscador clássico.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/ask-photos-google-fotos-melhora-busca-via-ia-com-solucao-inusitada/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/ask-photos-google-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 27 Jun 2025 14:01:40 +0000</pubDate>
     </item>
   </channel>
 </rss>
