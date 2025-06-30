@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 30 Jun 2025 17:10:36 +0000</lastBuildDate>
-    <item>
-      <title>Moto G84 5G (256 GB) fica 36% mais barato em promoção no Mercado Livre</title>
-      <link>https://tecnoblog.net/achados/moto-g84-5g-256-gb-fica-36-mais-barato-em-promocao-no-mercado-livre/</link>
-      <description>Moto G84 5G da Motorola em promoção tem armazenamento de 256 GB, RAM de 8 GB e tela POLED com taxa de atualização de 120 Hz na ficha técnica</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/moto-g84-5g-256-gb-fica-36-mais-barato-em-promocao-no-mercado-livre/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/06/motorola-moto-g84-imagem-thassius-velosotecnoblog-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 26 Jun 2025 17:31:25 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 30 Jun 2025 18:16:46 +0000</lastBuildDate>
     <item>
       <title>Uber e Loggi anunciam parceria para entregar pacotes em todo o Brasil</title>
       <link>https://tecnoblog.net/noticias/uber-e-loggi-anunciam-parceria-para-entregar-pacotes-em-todo-o-brasil/</link>
@@ -169,14 +161,6 @@
       <pubDate>Fri, 27 Jun 2025 19:18:42 +0000</pubDate>
     </item>
     <item>
-      <title>Motorola lança Moto G86 no Brasil; saiba o preço</title>
-      <link>https://tecnoblog.net/noticias/exclusivo-motorola-lanca-moto-g86-no-brasil-saiba-o-preco/</link>
-      <description>Smartphone com processador Mediatek Dimensity 7300 é vendido por R$ 2.499. Modelo conta ainda com tela de 6,67 polegadas.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/exclusivo-motorola-lanca-moto-g86-no-brasil-saiba-o-preco/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/moto-g86-divulgacao-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 27 Jun 2025 19:46:23 +0000</pubDate>
-    </item>
-    <item>
       <title>Galaxy S24 FE tem 40% de desconto em oferta com cupom no Magalu</title>
       <link>https://tecnoblog.net/achados/galaxy-s24-fe-tem-40-de-desconto-em-oferta-com-cupom-no-magalu/</link>
       <description>Galaxy S24 FE de 128 GB tem tela AMOLED de 120 Hz, câmera de 50 MP com estabilização óptica e mais de R$ 1.600 de desconto em promoção</description>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/procon-multa-uber-e-99-por-servico-de-moto-em-sao-paulo/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/01/99moto-sp-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 30 Jun 2025 15:45:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Android vai alertar quando seu celular se conectar a uma antena falsa</title>
+      <link>https://tecnoblog.net/noticias/android-vai-alertar-quando-seu-celular-se-conectar-a-uma-antena-falsa/</link>
+      <description>Sistema identificará redes sem criptografia como possível sinal de ataque. Expectativa é que funcionalidade seja nativa nos aparelhos lançados com Android 16.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/android-vai-alertar-quando-seu-celular-se-conectar-a-uma-antena-falsa/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/05/capa-telecom-3_tb-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 30 Jun 2025 17:31:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Motorola Edge 50 Neo 5G (256 GB) tem câmera da Sony e 45% OFF na Amazon</title>
+      <link>https://tecnoblog.net/achados/motorola-edge-50-neo-5g-256-gb-tem-camera-da-sony-e-45-off-na-amazon/</link>
+      <description>Motorola Edge 50 Neo de 256 GB tem câmera Sony de 50 MP, tela POLED com 3.000 nits de brilho e RAM de 8 GB expansíveis até 16 GB via RAM Virtual</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/motorola-edge-50-neo-5g-256-gb-tem-camera-da-sony-e-45-off-na-amazon/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/Motorola-Edge-50-Neo-tem-camera-traseira-tripla-foto-Motorola-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 30 Jun 2025 17:56:26 +0000</pubDate>
     </item>
   </channel>
 </rss>
