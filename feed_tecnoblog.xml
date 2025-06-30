@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 30 Jun 2025 13:27:37 +0000</lastBuildDate>
-    <item>
-      <title>Senador dos EUA quer escala 4×3 para evitar demissões causadas pela IA</title>
-      <link>https://tecnoblog.net/noticias/senador-dos-eua-quer-escala-4x3-para-evitar-demissoes-causadas-pela-ia/</link>
-      <description>Bernie Sanders defende semana de trabalho de 32 horas impulsionada pela IA. Senador apresentou projeto de lei sobre o tema em 2024.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/senador-dos-eua-quer-escala-4x3-para-evitar-demissoes-causadas-pela-ia/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/senador-bernie-sanders-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 26 Jun 2025 14:30:27 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 30 Jun 2025 14:12:12 +0000</lastBuildDate>
     <item>
       <title>Galaxy S24 Plus (256 GB) com 12 GB de RAM tem 51% OFF em oferta na Amazon</title>
       <link>https://tecnoblog.net/achados/galaxy-s24-plus-256-gb-com-12-gb-de-ram-tem-51-off-em-oferta-na-amazon/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/iphone-17-o-que-esperar-do-proximo-smartphone-da-apple/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/10/iphone-15-capas-5-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Sun, 29 Jun 2025 13:29:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sony alega “condições desafiadoras” e jogos de PS5 ficam mais caros no Brasil</title>
+      <link>https://tecnoblog.net/noticias/sony-alega-condicoes-desafiadoras-e-jogos-de-ps5-ficam-mais-caros-no-brasil/</link>
+      <description>Sony confirma aumento nos preços de jogos do PlayStation 5 no Brasil. É o caso de Death Stranding 2: On the Beach, que agora custa a partir de R$ 399,90.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/sony-alega-condicoes-desafiadoras-e-jogos-de-ps5-ficam-mais-caros-no-brasil/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/death-stranding-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 30 Jun 2025 14:09:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
