@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 30 Jun 2025 20:12:52 +0000</lastBuildDate>
-    <item>
-      <title>Diablo IV e King of Fighters XV chegam ao PlayStation Plus em julho</title>
-      <link>https://tecnoblog.net/noticias/diablo-iv-e-king-of-fighters-xv-chegam-ao-playstation-plus-em-julho/</link>
-      <description>Diablo IV, King of Fighters XV e Jusant serão liberados no PS Plus a partir de 1º de julho. Sony também anuncia torneios para celebrar os 15 anos da plataforma.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/diablo-iv-e-king-of-fighters-xv-chegam-ao-playstation-plus-em-julho/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/diablo-iv-psn-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 26 Jun 2025 19:40:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>O que é KaiOS? Entenda as limitações do sistema operacional dos feature phones</title>
-      <link>https://tecnoblog.net/responde/o-que-e-kaios-entenda-as-limitacoes-do-sistema-operacional-dos-feature-phones/</link>
-      <description>O KaiOS oferece recursos avançados para celulares básicos, como loja de aplicativos e acesso à internet, além de interface otimizada para teclados físicos</description>
-      <guid isPermaLink="false">https://tecnoblog.net/responde/o-que-e-kaios-entenda-as-limitacoes-do-sistema-operacional-dos-feature-phones/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/04/Capa-TBR-KaiOS-2-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 26 Jun 2025 19:45:37 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 30 Jun 2025 21:10:55 +0000</lastBuildDate>
     <item>
       <title>Conheça a nova tela de erro do Windows (que não é mais azul)</title>
       <link>https://tecnoblog.net/noticias/conheca-a-nova-tela-de-erro-do-windows-que-nao-e-mais-azul/</link>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/nada-de-windows-12-microsoft-confirma-windows-11-25h2-ainda-neste-ano/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/07/windows-11-4-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 30 Jun 2025 19:48:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Banda criada por IA já soma mais de 400 mil ouvintes no Spotify</title>
+      <link>https://tecnoblog.net/noticias/banda-criada-por-ia-ja-soma-mais-de-400-mil-ouvintes-no-spotify/</link>
+      <description>Velvet Sundown surgiu há menos de um mês, mas já conquistou milhares de ouvintes com seus álbuns de rock psicodélico e visual suspeito.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/banda-criada-por-ia-ja-soma-mais-de-400-mil-ouvintes-no-spotify/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/banda-criada-por-ia-edited-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 30 Jun 2025 20:19:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kuiper dá novo passo para oferecer internet via satélite no Brasil</title>
+      <link>https://tecnoblog.net/noticias/kuiper-da-novo-passo-para-oferecer-internet-via-satelite-no-brasil/</link>
+      <description>Provedor da Amazon tem até agosto para iniciar operação comercial no país. Equipamento faz a comunicação entre solo e espaço.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/kuiper-da-novo-passo-para-oferecer-internet-via-satelite-no-brasil/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/2000x1125-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 30 Jun 2025 20:55:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
