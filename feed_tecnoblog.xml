@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 01 Jul 2025 19:09:13 +0000</lastBuildDate>
-    <item>
-      <title>O que é adware? Confira variações e exemplos desse tipo de software</title>
-      <link>https://tecnoblog.net/responde/o-que-e-adware-confira-variacoes-e-exemplos-desse-tipo-de-software/</link>
-      <description>Um adware exibe anúncios aos usuários em troca de acesso a aplicativos ou serviços gratuitos, mas pode ser usado para crimes cibernéticos</description>
-      <guid isPermaLink="false">https://tecnoblog.net/responde/o-que-e-adware-confira-variacoes-e-exemplos-desse-tipo-de-software/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/adware-tolight-me-dediko-edited-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 27 Jun 2025 19:06:33 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 01 Jul 2025 20:13:13 +0000</lastBuildDate>
     <item>
       <title>iPhone 16 (128 GB) com chip A18 tem desconto imperdível no Mercado Livre</title>
       <link>https://tecnoblog.net/achados/iphone-16-128-gb-com-chip-a18-tem-desconto-imperdivel-no-mercado-livre/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/iphone-16e-128-gb-esta-com-melhor-preco-historico-em-oferta-na-amazon/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/03/iphone-16e-achados-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Tue, 01 Jul 2025 18:10:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pix: novas regras entram em vigor para combater fraudes</title>
+      <link>https://tecnoblog.net/noticias/pix-novas-regras-entram-em-vigor-para-combater-fraudes/</link>
+      <description>Novas regras estabelecidas pelo Banco Central devem prevenir uso de chaves Pix em nome de pessoas falecidas ou de empresas encerradas.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/pix-novas-regras-entram-em-vigor-para-combater-fraudes/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/03/pix_capa-1_tb-340x191.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 01 Jul 2025 19:33:26 +0000</pubDate>
     </item>
   </channel>
 </rss>
