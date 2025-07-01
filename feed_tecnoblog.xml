@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 01 Jul 2025 11:10:40 +0000</lastBuildDate>
-    <item>
-      <title>Você usaria? Nova IA do Happn sugere locais para o primeiro encontro</title>
-      <link>https://tecnoblog.net/noticias/voce-usaria-nova-ia-do-happn-sugere-locais-para-o-primeiro-encontro/</link>
-      <description>Ferramenta Perfect Date analisa perfis das duas pessoas para indicar locais como bares e parques. App garante que não lê conversas para gerar sugestões.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/voce-usaria-nova-ia-do-happn-sugere-locais-para-o-primeiro-encontro/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/happn-ia-encontro-perfeito-edited-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 27 Jun 2025 10:17:20 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 01 Jul 2025 12:23:55 +0000</lastBuildDate>
     <item>
       <title>Trump Phone não será mais “fabricado nos EUA”, indica site oficial</title>
       <link>https://tecnoblog.net/noticias/trump-phone-sera-fabricado-nos-eua-nao-e-bem-assim/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/cade-recomenda-que-apple-seja-condenada-por-danos-a-ordem-economica-no-brasil/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/09/capa-iphone-16-no-brasil-2-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 30 Jun 2025 22:19:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>iPhone 16 tem 41% OFF na melhor oferta que já vimos no Mercado Livre</title>
+      <link>https://tecnoblog.net/achados/iphone-16-tem-41-off-na-melhor-oferta-que-ja-vimos-no-mercado-livre/</link>
+      <description>iPhone 16 de 128 GB tem chip Apple A18 de última geração, tela Super Retina XDR OLED com até 2.000 nits de brilho e câmera dupla com sensor de 48 MP</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/iphone-16-tem-41-off-na-melhor-oferta-que-ja-vimos-no-mercado-livre/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/01/iphone-16-imagem-thassius-velosotecnoblog-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 01 Jul 2025 12:14:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
