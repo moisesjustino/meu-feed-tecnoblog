@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 01 Jul 2025 13:27:44 +0000</lastBuildDate>
-    <item>
-      <title>Google Brasil desmente boato de que trancou X após decisão do STF</title>
-      <link>https://tecnoblog.net/noticias/google-brasil-desmente-boato-de-que-trancou-x-apos-decisao-do-stf/</link>
-      <description>Estratégia de comunicação foca nos perfis do Google Brasil no Instagram e TikTok. Mudança ocorreu em 2024.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/google-brasil-desmente-boato-de-que-trancou-x-apos-decisao-do-stf/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/08/google-ia-capa-1-edited-1-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 27 Jun 2025 13:45:59 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 01 Jul 2025 14:11:54 +0000</lastBuildDate>
     <item>
       <title>Ask Photos: Google Fotos melhora busca via IA com solução inusitada</title>
       <link>https://tecnoblog.net/noticias/ask-photos-google-fotos-melhora-busca-via-ia-com-solucao-inusitada/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/iphone-15-tem-44-de-desconto-em-promocao-na-amazon/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/iPhone15-achado-do-dia-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Tue, 01 Jul 2025 13:15:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cloudflare declara guerra a bots que rastreiam sites para treinar IA</title>
+      <link>https://tecnoblog.net/noticias/cloudflare-declara-guerra-a-bots-que-rastreiam-sites-para-treinar-ia/</link>
+      <description>Administradores de sites que usam a Cloudflare poderão até cobrar para que bots de serviços de IA rastreiem suas páginas.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/cloudflare-declara-guerra-a-bots-que-rastreiam-sites-para-treinar-ia/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/06/ia-2-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 01 Jul 2025 13:45:26 +0000</pubDate>
     </item>
   </channel>
 </rss>
