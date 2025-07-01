@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 01 Jul 2025 15:12:53 +0000</lastBuildDate>
-    <item>
-      <title>Ask Photos: Google Fotos melhora busca via IA com solução inusitada</title>
-      <link>https://tecnoblog.net/noticias/ask-photos-google-fotos-melhora-busca-via-ia-com-solucao-inusitada/</link>
-      <description>Ferramenta do Google Fotos usa IA do Gemini para encontrar imagens específicas, mas agora alterna resultados com buscador clássico.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/ask-photos-google-fotos-melhora-busca-via-ia-com-solucao-inusitada/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/ask-photos-google-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 27 Jun 2025 14:01:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Motorola Edge 50 Fusion (256 GB) com tela POLED tem 46% OFF em oferta</title>
-      <link>https://tecnoblog.net/achados/motorola-edge-50-fusion-256-gb-com-tela-poled-tem-46-off-em-oferta/</link>
-      <description>Motorola Edge 50 Fusion de 256 GB tem tela POLED, câmera Sony com Moto AI e processador Snapdragon 6 Gen 1; celular recebe desconto no Pix em oferta na Amazon</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/motorola-edge-50-fusion-256-gb-com-tela-poled-tem-46-off-em-oferta/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/01/motorola-edge-50-fusion-foto-thassius-velosotecnoblog-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 27 Jun 2025 15:04:30 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 01 Jul 2025 16:15:19 +0000</lastBuildDate>
     <item>
       <title>Nova IA escuta e resume os áudios recebidos no WhatsApp</title>
       <link>https://tecnoblog.net/noticias/ia-popular-no-whatsapp-ganha-funcao-de-resumir-audios/</link>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/cloudflare-declara-guerra-a-bots-que-rastreiam-sites-para-treinar-ia/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/06/ia-2-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Tue, 01 Jul 2025 13:45:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Correios passam a vender celulares, eletrônicos e outros produtos em loja virtual</title>
+      <link>https://tecnoblog.net/noticias/correios-passam-a-vender-celulares-eletronicos-e-outros-produtos-em-loja-virtual/</link>
+      <description>Mais Correios chega com mais de 500 mil produtos para entrega em todo o Brasil. A plataforma pretende diversificar os serviços da estatal.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/correios-passam-a-vender-celulares-eletronicos-e-outros-produtos-em-loja-virtual/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/marca-do-mais-correios-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 01 Jul 2025 15:21:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>WhatsApp: usuário vai decidir se quer receber ligação de empresa</title>
+      <link>https://tecnoblog.net/noticias/whatsapp-usuario-vai-decidir-se-quer-receber-ligacao-de-empresa/</link>
+      <description>Recurso visa facilitar atendimentos corporativos. Usuário poderá escolher horário para receber ligação ou optar por mensagens.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/whatsapp-usuario-vai-decidir-se-quer-receber-ligacao-de-empresa/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/03/whatsapp-capa-3-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 01 Jul 2025 15:38:41 +0000</pubDate>
     </item>
   </channel>
 </rss>
