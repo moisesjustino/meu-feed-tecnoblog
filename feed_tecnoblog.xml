@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 02 Jul 2025 15:12:53 +0000</lastBuildDate>
-    <item>
-      <title>Procon multa Uber e 99 por serviço de moto em São Paulo</title>
-      <link>https://tecnoblog.net/noticias/procon-multa-uber-e-99-por-servico-de-moto-em-sao-paulo/</link>
-      <description>Uber recebeu multa de R$ 13,7 milhões e 99 foi penalizada em R$ 3,5 milhões pelo Procon-SP. As duas empresas podem recorrer.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/procon-multa-uber-e-99-por-servico-de-moto-em-sao-paulo/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/01/99moto-sp-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 30 Jun 2025 15:45:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Android vai alertar quando seu celular se conectar a uma antena falsa</title>
-      <link>https://tecnoblog.net/noticias/android-vai-alertar-quando-seu-celular-se-conectar-a-uma-antena-falsa/</link>
-      <description>Sistema identificará redes sem criptografia como possível sinal de ataque. Expectativa é que funcionalidade seja nativa nos aparelhos lançados com Android 16.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/android-vai-alertar-quando-seu-celular-se-conectar-a-uma-antena-falsa/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/05/capa-telecom-3_tb-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 30 Jun 2025 17:31:48 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 02 Jul 2025 16:14:35 +0000</lastBuildDate>
     <item>
       <title>O que é rootkit? Entenda o funcionamento desse tipo de malware</title>
       <link>https://tecnoblog.net/responde/o-que-e-rootkit/</link>
@@ -217,12 +201,28 @@
       <pubDate>Wed, 02 Jul 2025 13:56:32 +0000</pubDate>
     </item>
     <item>
-      <title>Carro voador chega em 2026 e promete driblar o trânsito</title>
+      <title>Carro voador passa por novo teste e deve chegar aos céus em 2026</title>
       <link>https://tecnoblog.net/noticias/carro-voador-chega-em-2026-e-promete-driblar-o-transito/</link>
-      <description>Joby Aviation concluiu o primeiro teste do carro voador elétrico em Dubai. Região quer táxis aéreos já em 2026 para superar o engarrafamento urbano.</description>
+      <description>Dubai pretende usar novo táxi aéreo para desafogar o trânsito da cidade. Veículo percorre até 160 quilômetros.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/carro-voador-chega-em-2026-e-promete-driblar-o-transito/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/carro-voador-joby-2-340x191.png" length="0" type="image/jpeg"/>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/carro-voador-340x191.gif" length="0" type="image/jpeg"/>
       <pubDate>Wed, 02 Jul 2025 14:49:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Moto G55 (256 GB) com câmera de 50 MP tem 36% OFF em oferta na Amazon</title>
+      <link>https://tecnoblog.net/achados/moto-g55-256-gb-com-camera-de-50-mp-tem-36-off-em-oferta-na-amazon/</link>
+      <description>Moto G55 oferece taxa de atualização de tela 120 Hz, câmera de 50 MP com recurso de IA e bateria de 5.000 mAh; promoção é válida exclusivamente no Pix</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/moto-g55-256-gb-com-camera-de-50-mp-tem-36-off-em-oferta-na-amazon/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/02/Moto-G55-Imagem-DivulgacaoMotorola-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 02 Jul 2025 15:34:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft confirma segunda onda de demissões e corta 9 mil funcionários</title>
+      <link>https://tecnoblog.net/noticias/microsoft-confirma-segunda-onda-de-demissoes-e-corta-9-000-funcionarios/</link>
+      <description>Divisão Xbox é a mais impactada pela decisão. Nova rodada de demissões afeta 4% da força de trabalho da Microsoft no mundo todo.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/microsoft-confirma-segunda-onda-de-demissoes-e-corta-9-000-funcionarios/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/10/satya-nadella-sorrindo-edited-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 02 Jul 2025 15:48:41 +0000</pubDate>
     </item>
   </channel>
 </rss>
