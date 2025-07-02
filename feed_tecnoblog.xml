@@ -7,31 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 02 Jul 2025 18:17:01 +0000</lastBuildDate>
-    <item>
-      <title>Nubank: clientes criticam indisponibilidade e inesperado bloqueio de saldo</title>
-      <link>https://tecnoblog.net/noticias/nubank-esta-fora-do-ar-na-tarde-de-hoje/</link>
-      <description>Clientes encontram dificuldades para realizar operações pelo app do Nubank para celular. Banco confirma problema.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/nubank-esta-fora-do-ar-na-tarde-de-hoje/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/04/nubank_capa-5_tb-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 30 Jun 2025 18:41:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Galaxy S24 FE com tela AMOLED Dinâmico tem 39% OFF em promoção no Magalu</title>
-      <link>https://tecnoblog.net/achados/galaxy-s24-fe-com-tela-amoled-dinamico-tem-39-off-em-promocao-no-magalu/</link>
-      <description>Galaxy S24 FE de 128 GB leva tela AMOLED Dinâmico, processador Exynos 2400e e câmera de 50 MP que grava em 8K; oferta pode ser aproveita exclusivamente à vista no Pix</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-s24-fe-com-tela-amoled-dinamico-tem-39-off-em-promocao-no-magalu/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/05/galaxy-s24-fe-achados-tecnoblog-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 30 Jun 2025 19:12:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nada de Windows 12! Microsoft confirma Windows 11 25H2 ainda neste ano</title>
-      <link>https://tecnoblog.net/noticias/nada-de-windows-12-microsoft-confirma-windows-11-25h2-ainda-neste-ano/</link>
-      <description>Atualização de outono do sistema operacional manterá a base da versão 24H2, prometendo uma instalação rápida. Foco da empresa segue no Windows 11.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/nada-de-windows-12-microsoft-confirma-windows-11-25h2-ainda-neste-ano/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/07/windows-11-4-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 30 Jun 2025 19:48:12 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 02 Jul 2025 19:09:05 +0000</lastBuildDate>
     <item>
       <title>Banda criada por IA já soma mais de 400 mil ouvintes no Spotify</title>
       <link>https://tecnoblog.net/noticias/banda-criada-por-ia-ja-soma-mais-de-400-mil-ouvintes-no-spotify/</link>
@@ -223,6 +199,30 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/iphone-15-chega-a-45-de-desconto-em-oferta-com-cupom-no-mercado-livre/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/iphone15-oferta-recomendada-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Wed, 02 Jul 2025 17:35:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>O IOF baixou: qual a melhor opção nesse cenário?</title>
+      <link>https://tecnoblog.net/publieditoriais/o-iof-baixou-qual-a-melhor-opcao-nesse-cenario/</link>
+      <description>O Congresso Nacional derrubou o recente aumento das alíquotas do IOF. Essa é uma das razões para você abrir uma conta internacional na Nomad.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/publieditoriais/o-iof-baixou-qual-a-melhor-opcao-nesse-cenario/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/nomad-cartao-capa-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 02 Jul 2025 18:35:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackers fazem ataque e roubam R$ 1 bilhão; detalhes são desconhecidos</title>
+      <link>https://tecnoblog.net/noticias/ataque-hacker-leva-a-roubo-de-r-1-bilhao/</link>
+      <description>A empresa CMSW, que intermedeia transações do Pix, sofreu ataque que pode ter desviado até R$ 1 bi. Banco Central cortou conexão ao sistema enquanto investiga.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/ataque-hacker-leva-a-roubo-de-r-1-bilhao/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2021/06/dinheiro-e-divida-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 02 Jul 2025 18:45:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Crunchyroll é flagrada usando ChatGPT para traduzir animes</title>
+      <link>https://tecnoblog.net/noticias/crunchyroll-e-flagrada-usando-chatgpt-para-traduzir-animes/</link>
+      <description>Prompt escapou nas legendas do anime Necronomico and the Cosmic Horror Show. Plataforma não comentou o caso, mas já admitiu no passado testar IA nas traduções.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/crunchyroll-e-flagrada-usando-chatgpt-para-traduzir-animes/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2021/04/crunchyroll-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 02 Jul 2025 18:46:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
