@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 02 Jul 2025 13:27:07 +0000</lastBuildDate>
-    <item>
-      <title>iPhone 16e tem menor preço que já vimos em oferta com 34% de desconto</title>
-      <link>https://tecnoblog.net/achados/iphone-16e-tem-menor-preco-que-ja-vimos-em-oferta-com-42-de-desconto/</link>
-      <description>iPhone 16e de 128 GB tem chip A18 que oferece alto desempenho e tela Super Retina XDR OLED sem bordas; oferta na Amazon é a menor que já vimos da versão do celular da Apple</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/iphone-16e-tem-menor-preco-que-ja-vimos-em-oferta-com-42-de-desconto/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/03/iphone-16e-super-desconto-tb-achados-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 30 Jun 2025 15:14:44 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 02 Jul 2025 14:12:12 +0000</lastBuildDate>
     <item>
       <title>“Xbox está morto”, afirma cofundadora do videogame na Microsoft</title>
       <link>https://tecnoblog.net/noticias/xbox-esta-morto-diz-cofundadora-da-divisao-de-games-da-microsoft/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/anuncios-no-gmail-estao-na-mira-da-franca-e-podem-custar-caro-ao-google/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/gmail_capa-2_tb-edited-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Wed, 02 Jul 2025 11:30:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>One UI 8 terá função que ativa várias proteções de uma só vez</title>
+      <link>https://tecnoblog.net/noticias/one-ui-8-tera-funcao-que-ativa-varias-protecoes-de-uma-so-vez/</link>
+      <description>Nova função da One UI 8 bloqueia sideloading, acesso via USB e redes 2G com um toque. Novidade da Samsung exige o Android 16.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/one-ui-8-tera-funcao-que-ativa-varias-protecoes-de-uma-so-vez/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/protecao-avancada-one-ui-8-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 02 Jul 2025 13:56:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
