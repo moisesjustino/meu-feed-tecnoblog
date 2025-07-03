@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 03 Jul 2025 22:11:27 +0000</lastBuildDate>
-    <item>
-      <title>Pix: novas regras entram em vigor para combater fraudes</title>
-      <link>https://tecnoblog.net/noticias/pix-novas-regras-entram-em-vigor-para-combater-fraudes/</link>
-      <description>Novas regras estabelecidas pelo Banco Central devem prevenir uso de chaves Pix em nome de pessoas falecidas ou de empresas encerradas.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/pix-novas-regras-entram-em-vigor-para-combater-fraudes/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/03/pix_capa-1_tb-340x191.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 01 Jul 2025 19:33:26 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 03 Jul 2025 23:11:31 +0000</lastBuildDate>
     <item>
       <title>O que é memória RAM? Veja para que serve, como funciona e quais são os tipos</title>
       <link>https://tecnoblog.net/responde/o-que-e-memoria-ram/</link>
@@ -217,12 +209,20 @@
       <pubDate>Thu, 03 Jul 2025 20:31:41 +0000</pubDate>
     </item>
     <item>
-      <title>Estúdio de games anuncia encerramento após demissões na Microsoft</title>
+      <title>Estúdio de games chega ao fim após demissões na Microsoft</title>
       <link>https://tecnoblog.net/noticias/estudio-de-games-anuncia-encerramento-apos-demissoes-na-microsoft/</link>
       <description>Romero Games, fundada pelo co-criador de Doom, confirmou o fim das atividades após ter jogo cancelado. Demissões em massa na Microsoft afetaram a divisão de games.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/estudio-de-games-anuncia-encerramento-apos-demissoes-na-microsoft/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/image-asset-5-edited-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Thu, 03 Jul 2025 21:44:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Lorde lançou um CD que não toca na maioria dos aparelhos</title>
+      <link>https://tecnoblog.net/noticias/a-lorde-lancou-um-cd-que-nao-toca-na-maioria-dos-aparelhos/</link>
+      <description>Técnica utilizada para atingir translucidez pode ser a causa do problema. O álbum Virgin é muito aguardado pelos fãs da cantora.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/a-lorde-lancou-um-cd-que-nao-toca-na-maioria-dos-aparelhos/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/lorde-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 03 Jul 2025 22:43:31 +0000</pubDate>
     </item>
   </channel>
 </rss>
