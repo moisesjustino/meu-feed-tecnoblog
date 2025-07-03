@@ -7,31 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 03 Jul 2025 19:09:21 +0000</lastBuildDate>
-    <item>
-      <title>WhatsApp: usuário vai decidir se quer receber ligação de empresa</title>
-      <link>https://tecnoblog.net/noticias/whatsapp-usuario-vai-decidir-se-quer-receber-ligacao-de-empresa/</link>
-      <description>Recurso visa facilitar atendimentos corporativos. Usuário poderá escolher horário para receber ligação ou optar por mensagens.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/whatsapp-usuario-vai-decidir-se-quer-receber-ligacao-de-empresa/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/03/whatsapp-capa-3-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 01 Jul 2025 15:38:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Apple pode reformular Siri com tecnologia da OpenAI ou Anthropic</title>
-      <link>https://tecnoblog.net/noticias/apple-pensa-em-usar-modelos-da-openai-ou-anthropic-para-melhorar-siri/</link>
-      <description>Decisão representaria mudança estratégica ao priorizar tecnologia de terceiros em vez de modelos próprios da Apple para revitalizar assistente virtual.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/apple-pensa-em-usar-modelos-da-openai-ou-anthropic-para-melhorar-siri/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/12/capas-apple-06-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 01 Jul 2025 17:42:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Jovi homologa no Brasil mais um celular com bateria de 6.000 mAh</title>
-      <link>https://tecnoblog.net/noticias/jovi-homologa-no-brasil-mais-um-celular-com-bateria-de-6-000-mah/</link>
-      <description>Certificado na Anatel mostra que novo smartphone se chamará Jovi Y29s 5G e, além da bateria com 6.000 mAh, deverá trazer um carregador de 44 W.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/jovi-homologa-no-brasil-mais-um-celular-com-bateria-de-6-000-mah/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/05/20250529_071547-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 01 Jul 2025 17:43:57 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 03 Jul 2025 20:11:59 +0000</lastBuildDate>
     <item>
       <title>Estúdio sofre críticas e admite que usou IA em game</title>
       <link>https://tecnoblog.net/noticias/estudio-sofre-criticas-e-admite-que-usou-ia-em-game/</link>
@@ -219,10 +195,34 @@
     <item>
       <title>Vem aí? Apple estuda lançar iPhone ou iPad com tela enrolável</title>
       <link>https://tecnoblog.net/noticias/vem-ai-apple-estuda-lancar-iphone-ou-ipad-com-tela-enrolavel/</link>
-      <description>Nova patente descreve estrutura com rolos internos que desenrolam a tela. Solução tentaria evitar vincos e desgaste das dobradiças, comum em alguns dobráveis atuais.</description>
+      <description>Nova patente descreve estrutura com rolos internos que desenrolam a tela. Solução tentaria evitar vincos e desgaste das dobradiças, comuns em alguns dobráveis atuais.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/vem-ai-apple-estuda-lancar-iphone-ou-ipad-com-tela-enrolavel/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/iphone-14-pro-e-13-pro-1-edited-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Thu, 03 Jul 2025 19:07:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>iPhone 15 (128 GB) tem 45% OFF em oferta na Amazon</title>
+      <link>https://tecnoblog.net/achados/iphone-15-128-gb-tem-45-off-em-oferta-na-amazon/</link>
+      <description>iPhone 15 possui tela Super Retina XDR de 6,1 polegadas, chip Apple A16 Bionic e câmera principal de 48 MP; condição da oferta é exclusivamente à vista no Pix</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/iphone-15-128-gb-tem-45-off-em-oferta-na-amazon/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/05/iphone-15-imagem-thassius-velosotecnoblog-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 03 Jul 2025 19:11:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Provedor de fibra lança combo com internet móvel grátis por um ano</title>
+      <link>https://tecnoblog.net/noticias/provedor-de-fibra-lanca-combo-com-internet-movel-gratis-por-um-ano/</link>
+      <description>Promoção da Brisanet para julho oferece internet móvel de 20 GB por mês na contratação da banda larga fixa de 600 ou 700 Mb/s.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/provedor-de-fibra-lanca-combo-com-internet-movel-gratis-por-um-ano/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2021/05/loja-brisanet-e1620072958501-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 03 Jul 2025 19:14:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Falha grave no site da Centauro expõe dados de clientes</title>
+      <link>https://tecnoblog.net/noticias/falha-grave-no-site-da-centauro-expoe-dados-de-usuarios/</link>
+      <description>Qualquer pessoa pode acessar contas com email ou CPF. Informações como cartões e endereço estavam visíveis.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/falha-grave-no-site-da-centauro-expoe-dados-de-usuarios/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/centauro-logo-edited-340x191.webp" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 03 Jul 2025 19:25:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
