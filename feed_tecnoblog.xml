@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 03 Jul 2025 20:11:59 +0000</lastBuildDate>
-    <item>
-      <title>Estúdio sofre críticas e admite que usou IA em game</title>
-      <link>https://tecnoblog.net/noticias/estudio-sofre-criticas-e-admite-que-usou-ia-em-game/</link>
-      <description>11 bit Studios admite ter usado IA para traduções e texto no recém-lançado The Alters. Apesar das críticas, estúdio deve continuar usando a tecnologia.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/estudio-sofre-criticas-e-admite-que-usou-ia-em-game/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/0-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 01 Jul 2025 17:59:57 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 03 Jul 2025 21:10:52 +0000</lastBuildDate>
     <item>
       <title>iPhone 16e (128 GB) está com melhor preço histórico em oferta na Amazon</title>
       <link>https://tecnoblog.net/achados/iphone-16e-128-gb-esta-com-melhor-preco-historico-em-oferta-na-amazon/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/falha-grave-no-site-da-centauro-expoe-dados-de-usuarios/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/centauro-logo-edited-340x191.webp" length="0" type="image/jpeg"/>
       <pubDate>Thu, 03 Jul 2025 19:25:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Meta acusa UE de ilegalidade por vetar seu modelo de assinatura</title>
+      <link>https://tecnoblog.net/noticias/meta-acusa-ue-de-ilegalidade-por-vetar-seu-modelo-de-assinatura/</link>
+      <description>Comissão Europeia aplicou uma multa de 200 milhões de euros à Meta, que vai recorrer. Plataforma afirma que exigências do órgão reduzem eficácia dos anúncios.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/meta-acusa-ue-de-ilegalidade-por-vetar-seu-modelo-de-assinatura/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/02/Capa-Mark-Zuckerberg-03-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 03 Jul 2025 20:31:41 +0000</pubDate>
     </item>
   </channel>
 </rss>
