@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 03 Jul 2025 18:16:36 +0000</lastBuildDate>
-    <item>
-      <title>Cloudflare declara guerra a bots que rastreiam sites para treinar IA</title>
-      <link>https://tecnoblog.net/noticias/cloudflare-declara-guerra-a-bots-que-rastreiam-sites-para-treinar-ia/</link>
-      <description>Administradores de sites que usam a Cloudflare poderão até cobrar para que bots de serviços de IA rastreiem suas páginas.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/cloudflare-declara-guerra-a-bots-que-rastreiam-sites-para-treinar-ia/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/06/ia-2-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 01 Jul 2025 13:45:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Correios passam a vender celulares, eletrônicos e outros produtos em loja virtual</title>
-      <link>https://tecnoblog.net/noticias/correios-passam-a-vender-celulares-eletronicos-e-outros-produtos-em-loja-virtual/</link>
-      <description>Mais Correios chega com mais de 500 mil produtos para entrega em todo o Brasil. A plataforma pretende diversificar os serviços da estatal.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/correios-passam-a-vender-celulares-eletronicos-e-outros-produtos-em-loja-virtual/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/marca-do-mais-correios-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 01 Jul 2025 15:21:25 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 03 Jul 2025 19:09:21 +0000</lastBuildDate>
     <item>
       <title>WhatsApp: usuário vai decidir se quer receber ligação de empresa</title>
       <link>https://tecnoblog.net/noticias/whatsapp-usuario-vai-decidir-se-quer-receber-ligacao-de-empresa/</link>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/windows-11-atualizacoes-recentes-irritam-usuarios-por-causa-de-bugs/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/07/windows-11-1-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Thu, 03 Jul 2025 16:15:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Galaxy A56 5G (256 GB) fica 41% mais barato com cupom no Mercado Livre</title>
+      <link>https://tecnoblog.net/achados/galaxy-a56-5g-256-gb-fica-49-mais-barato-com-cupom-no-mercado-livre/</link>
+      <description>Samsung Galaxy A56 de 256 GB com tela Super AMOLED de 120 Hz e câmera de 50 MP com estabilização óptica promete ser atualizado até o Android 21</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-a56-5g-256-gb-fica-49-mais-barato-com-cupom-no-mercado-livre/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/04/Galaxy-A56-tem-camera-de-50-MP-foto-Thassius-VelosoTecnoblog-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 03 Jul 2025 18:24:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vem aí? Apple estuda lançar iPhone ou iPad com tela enrolável</title>
+      <link>https://tecnoblog.net/noticias/vem-ai-apple-estuda-lancar-iphone-ou-ipad-com-tela-enrolavel/</link>
+      <description>Nova patente descreve estrutura com rolos internos que desenrolam a tela. Solução tentaria evitar vincos e desgaste das dobradiças, comum em alguns dobráveis atuais.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/vem-ai-apple-estuda-lancar-iphone-ou-ipad-com-tela-enrolavel/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/iphone-14-pro-e-13-pro-1-edited-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 03 Jul 2025 19:07:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
