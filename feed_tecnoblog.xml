@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 03 Jul 2025 16:14:50 +0000</lastBuildDate>
-    <item>
-      <title>iPhone 15 tem 44% de desconto em promoção na Amazon</title>
-      <link>https://tecnoblog.net/achados/iphone-15-tem-44-de-desconto-em-promocao-na-amazon/</link>
-      <description>iPhone 15 de 128 GB possui tela Super Retina XDR OLED, processador A16 Bionic e câmera principal de 48 MP; celular da Apple sai por quase metade do preço original na oferta</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/iphone-15-tem-44-de-desconto-em-promocao-na-amazon/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/iPhone15-achado-do-dia-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 02 Jul 2025 17:35:44 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 03 Jul 2025 17:12:51 +0000</lastBuildDate>
     <item>
       <title>Cloudflare declara guerra a bots que rastreiam sites para treinar IA</title>
       <link>https://tecnoblog.net/noticias/cloudflare-declara-guerra-a-bots-que-rastreiam-sites-para-treinar-ia/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/gigante-chines-planeja-lancar-nova-empresa-de-celulares-no-brasil/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/capa-tecno-no-brasil-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Thu, 03 Jul 2025 15:14:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Windows 11: atualizações recentes irritam usuários por causa de bugs</title>
+      <link>https://tecnoblog.net/noticias/windows-11-atualizacoes-recentes-irritam-usuarios-por-causa-de-bugs/</link>
+      <description>Atualizações para Windows 11 liberadas desde junho de 2025 pela Microsoft têm causado falhas incômodas em alguns computadores.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/windows-11-atualizacoes-recentes-irritam-usuarios-por-causa-de-bugs/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/07/windows-11-1-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 03 Jul 2025 16:15:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
