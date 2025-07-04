@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 04 Jul 2025 19:09:10 +0000</lastBuildDate>
-    <item>
-      <title>O IOF baixou: qual a melhor opção nesse cenário?</title>
-      <link>https://tecnoblog.net/publieditoriais/o-iof-baixou-qual-a-melhor-opcao-nesse-cenario/</link>
-      <description>O Congresso Nacional derrubou o recente aumento das alíquotas do IOF. Essa é uma das razões para você abrir uma conta internacional na Nomad.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/publieditoriais/o-iof-baixou-qual-a-melhor-opcao-nesse-cenario/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/nomad-cartao-capa-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 02 Jul 2025 18:35:10 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 04 Jul 2025 20:12:51 +0000</lastBuildDate>
     <item>
       <title>Hackers fazem ataque e roubam R$ 1 bilhão; detalhes são desconhecidos</title>
       <link>https://tecnoblog.net/noticias/ataque-hacker-leva-a-roubo-de-r-1-bilhao/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/iphone-16e-tem-38-off-em-promocao-com-cupom-no-magalu/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/03/iphone-16e-super-desconto-tb-achados-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Fri, 04 Jul 2025 19:08:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Galaxy S25 (256 GB) fica 38% mais barato com cupom no Magalu</title>
+      <link>https://tecnoblog.net/achados/galaxy-s25-256-gb-fica-38-mais-barato-com-cupom-no-magalu/</link>
+      <description>Samsung Galaxy S25 de 256 GB tem processador Snapdragon 8 Elite, tela Dynamic AMOLED até 2.600 nits e câmera tripla com sensor de 50 MP e estabilização óptica</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-s25-256-gb-fica-38-mais-barato-com-cupom-no-magalu/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/galaxy-s24-traz-processador-snapdragon-8-elite-da-qualcomm-foto-thassius-velosotecnoblog-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 04 Jul 2025 19:50:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
