@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 04 Jul 2025 12:22:48 +0000</lastBuildDate>
-    <item>
-      <title>O que é memória RAM? Veja para que serve, como funciona e quais são os tipos</title>
-      <link>https://tecnoblog.net/responde/o-que-e-memoria-ram/</link>
-      <description>A função da memória RAM é armazenar temporariamente dados e programas que estão em execução pelo celular ou PC, permitindo o acesso rápido para o processador</description>
-      <guid isPermaLink="false">https://tecnoblog.net/responde/o-que-e-memoria-ram/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/01/memoria-ram-tecnoblog-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 01 Jul 2025 19:55:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Telefónica avalia vender parte da Vivo e focar na Europa</title>
-      <link>https://tecnoblog.net/noticias/telefonica-pode-vender-parte-da-vivo-por-expansao-na-europa/</link>
-      <description>Grupo avalia se desfazer de até 20% da operação no país para bancar expansão no mercado europeu. Brasil ficou de fora da reestruturação na América Latina até agora.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/telefonica-pode-vender-parte-da-vivo-por-expansao-na-europa/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/04/vivo-celular-capa-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 01 Jul 2025 20:17:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 04 Jul 2025 13:25:41 +0000</lastBuildDate>
     <item>
       <title>Apenas 7% dos brasileiros trocam de smartphone todo ano, aponta pesquisa</title>
       <link>https://tecnoblog.net/noticias/apenas-7-dos-brasileiros-trocam-de-smartphone-todo-ano-aponta-pesquisa/</link>
@@ -111,6 +95,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/crunchyroll-e-flagrada-usando-chatgpt-para-traduzir-animes/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/solo-leveling-segunda-temporada-1-340x191.webp" length="0" type="image/jpeg"/>
       <pubDate>Wed, 02 Jul 2025 18:46:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>O que é hardware? Confira as funções e exemplos dos componentes eletrônicos</title>
+      <link>https://tecnoblog.net/responde/o-que-e-hardware/</link>
+      <description>Hardwares são responsáveis pela execução de comandos e tarefas em aparelhos eletrônicos, além de abrigar e carregar softwares no dispositivo</description>
+      <guid isPermaLink="false">https://tecnoblog.net/responde/o-que-e-hardware/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/Capa-TBR-O-que-e-Hardware-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 02 Jul 2025 20:10:40 +0000</pubDate>
     </item>
     <item>
       <title>TV Samsung QLED de 65″ tem 35% de desconto com cupom no Mercado Livre</title>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/a-lorde-lancou-um-cd-que-nao-toca-na-maioria-dos-aparelhos/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/lorde-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Thu, 03 Jul 2025 22:43:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Suspeito de ataque hacker ao Pix é preso pela Polícia Civil</title>
+      <link>https://tecnoblog.net/noticias/suspeito-de-ataque-hacker-ao-pix-e-preso-pela-policia-civil/</link>
+      <description>Funcionário da CMSW, que conecta bancos ao sistema do Banco Central, teria dado senha sigilosa a hackers. Ataque afetou ao menos seis instituições financeiras.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/suspeito-de-ataque-hacker-ao-pix-e-preso-pela-policia-civil/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/01/hacker-codigo-tela-escuro-computador-desktop-monitor-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 04 Jul 2025 13:16:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
