@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 04 Jul 2025 13:25:41 +0000</lastBuildDate>
-    <item>
-      <title>Apenas 7% dos brasileiros trocam de smartphone todo ano, aponta pesquisa</title>
-      <link>https://tecnoblog.net/noticias/apenas-7-dos-brasileiros-trocam-de-smartphone-todo-ano-aponta-pesquisa/</link>
-      <description>Novo levantamento observou o perfil de consumo de smartphones no Brasil. Maioria leva mais tempo para adquirir um novo aparelho e poucos se importam com IA.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/apenas-7-dos-brasileiros-trocam-de-smartphone-todo-ano-aponta-pesquisa/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/pessoa-fala-ao-telefone-edited-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 02 Jul 2025 11:02:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Anúncios no Gmail estão na mira da França e podem custar caro ao Google</title>
-      <link>https://tecnoblog.net/noticias/anuncios-no-gmail-estao-na-mira-da-franca-e-podem-custar-caro-ao-google/</link>
-      <description>Órgão regulador pode aplicar multa de 525 milhões de euros por inserir anúncios no Gmail sem consentimento claro, usando design considerado enganoso.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/anuncios-no-gmail-estao-na-mira-da-franca-e-podem-custar-caro-ao-google/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/gmail_capa-2_tb-edited-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 02 Jul 2025 11:30:51 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 04 Jul 2025 14:11:50 +0000</lastBuildDate>
     <item>
       <title>One UI 8 terá função que ativa várias proteções de uma só vez</title>
       <link>https://tecnoblog.net/noticias/one-ui-8-tera-funcao-que-ativa-varias-protecoes-de-uma-so-vez/</link>
@@ -111,6 +95,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/tv-samsung-qled-de-65-tem-35-de-desconto-com-cupom-no-mercado-livre/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/05/TV-Samsung-oferta-recomendada-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Wed, 02 Jul 2025 20:30:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>O que é a One UI? Veja as vantagens da interface da Samsung para celulares Android</title>
+      <link>https://tecnoblog.net/responde/o-que-e-a-one-ui-veja-as-vantagens-da-interface-da-samsung-para-celulares-android/</link>
+      <description>A One UI da Samsung oferece um design limpo com ampla personalização do Android, facilidade de acesso a elementos interativos e integração com ecossistema Galaxy</description>
+      <guid isPermaLink="false">https://tecnoblog.net/responde/o-que-e-a-one-ui-veja-as-vantagens-da-interface-da-samsung-para-celulares-android/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/05/Capa-TBR-OneUI-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 02 Jul 2025 20:52:46 +0000</pubDate>
     </item>
     <item>
       <title>Honor lança o Magic V5, celular dobrável mais fino do mundo</title>
@@ -217,12 +209,20 @@
       <pubDate>Thu, 03 Jul 2025 22:43:31 +0000</pubDate>
     </item>
     <item>
-      <title>Suspeito de ataque hacker ao Pix é preso pela Polícia Civil</title>
+      <title>Suspeito de ataque hacker a bancos é preso pela Polícia Civil</title>
       <link>https://tecnoblog.net/noticias/suspeito-de-ataque-hacker-ao-pix-e-preso-pela-policia-civil/</link>
       <description>Funcionário da CMSW, que conecta bancos ao sistema do Banco Central, teria dado senha sigilosa a hackers. Ataque afetou ao menos seis instituições financeiras.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/suspeito-de-ataque-hacker-ao-pix-e-preso-pela-policia-civil/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/01/hacker-codigo-tela-escuro-computador-desktop-monitor-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Fri, 04 Jul 2025 13:16:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Por que a Nvidia pode se tornar a empresa mais valiosa da história?</title>
+      <link>https://tecnoblog.net/noticias/por-que-a-nvidia-pode-se-tornar-a-empresa-mais-valiosa-da-historia/</link>
+      <description>Nvidia atingiu brevemente valor de mercado de US$ 3,92 trilhões nesta semana e pode superar recorde da Apple em um futuro próximo.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/por-que-a-nvidia-pode-se-tornar-a-empresa-mais-valiosa-da-historia/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/05/nvidia-video_capa-1_tb-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 04 Jul 2025 13:36:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
