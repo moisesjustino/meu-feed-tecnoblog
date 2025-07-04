@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 04 Jul 2025 21:11:17 +0000</lastBuildDate>
-    <item>
-      <title>Hackers fazem ataque e roubam R$ 1 bilhão; detalhes são desconhecidos</title>
-      <link>https://tecnoblog.net/noticias/ataque-hacker-leva-a-roubo-de-r-1-bilhao/</link>
-      <description>A empresa CMSW, que intermedeia transações do Pix, sofreu ataque que pode ter desviado até R$ 1 bi. Banco Central cortou conexão ao sistema enquanto investiga.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/ataque-hacker-leva-a-roubo-de-r-1-bilhao/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/01/seguranca-capa-8-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 02 Jul 2025 18:45:14 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 04 Jul 2025 22:11:34 +0000</lastBuildDate>
     <item>
       <title>Crunchyroll é flagrada usando ChatGPT para traduzir animes</title>
       <link>https://tecnoblog.net/noticias/crunchyroll-e-flagrada-usando-chatgpt-para-traduzir-animes/</link>
@@ -59,10 +51,10 @@
     <item>
       <title>Galaxy Z Flip 6 tem menor preço que já vimos em oferta no Mercado Livre</title>
       <link>https://tecnoblog.net/achados/galaxy-z-flip-6-tem-menor-preco-que-ja-vimos-em-oferta-no-mercado-livre/</link>
-      <description>Galaxy Z Flip 6 (256 GB) tem tela AMOLED dobrável de 2.600 nits, processador Snapdragon 8 Gen 3 de alto desempenho e 58% de desconto em promoção</description>
+      <description>Galaxy Z Flip 6 leva telas AMOLED, memória RAM de 12 GB, chip Snapdragon 8 Gen 3 e câmera principal aprimorada para 50 MP; celular dobrável tem o menor preço que já vimos</description>
       <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-z-flip-6-tem-menor-preco-que-ja-vimos-em-oferta-no-mercado-livre/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/09/galaxy-z-flip-6-foto-thassius-velosotecnoblogcaosamsung-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 03 Jul 2025 13:43:07 +0000</pubDate>
+      <pubDate>Fri, 04 Jul 2025 17:33:25 +0000</pubDate>
     </item>
     <item>
       <title>FaceTime no iOS 26 beta congela se detectar nudez</title>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-s25-256-gb-fica-38-mais-barato-com-cupom-no-magalu/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/galaxy-s24-traz-processador-snapdragon-8-elite-da-qualcomm-foto-thassius-velosotecnoblog-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Fri, 04 Jul 2025 19:50:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Executivo da Microsoft sugere que funcionários demitidos usem IA para desabafar</title>
+      <link>https://tecnoblog.net/noticias/executivo-da-microsoft-sugere-que-funcionarios-demitidos-usem-ia-para-desabafar/</link>
+      <description>Produtor da Microsoft, que confirmou layoff de 9 mil há poucos dias, aconselhou o uso do Copilot para reduzir a "carga emocional" das demissões.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/executivo-da-microsoft-sugere-que-funcionarios-demitidos-usem-ia-para-desabafar/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/matt-microsoft-edited-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 04 Jul 2025 21:13:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
