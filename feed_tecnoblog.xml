@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 07 Jul 2025 20:13:25 +0000</lastBuildDate>
-    <item>
-      <title>Windows 11: atualizações recentes irritam usuários por causa de bugs</title>
-      <link>https://tecnoblog.net/noticias/windows-11-atualizacoes-recentes-irritam-usuarios-por-causa-de-bugs/</link>
-      <description>Atualizações para Windows 11 liberadas desde junho de 2025 pela Microsoft têm causado falhas incômodas em alguns computadores.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/windows-11-atualizacoes-recentes-irritam-usuarios-por-causa-de-bugs/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/07/windows-11-1-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 03 Jul 2025 16:15:15 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 07 Jul 2025 21:11:03 +0000</lastBuildDate>
     <item>
       <title>Galaxy A56 5G (256 GB) fica 41% mais barato com cupom no Mercado Livre</title>
       <link>https://tecnoblog.net/achados/galaxy-a56-5g-256-gb-fica-49-mais-barato-com-cupom-no-mercado-livre/</link>
@@ -211,7 +203,7 @@
     <item>
       <title>Nubank fora do ar? Clientes relatam falha para pagar boletos</title>
       <link>https://tecnoblog.net/noticias/nubank-fora-do-ar-clientes-relatam-falha-para-pagar-boletos/</link>
-      <description>Usuários reclamam de dificuldades para efetuar o pagamento de boletos no app. DownDetector registrou reclamações a partir das 6h40 desta segunda (07).</description>
+      <description>Usuários reclamam de dificuldades para efetuar o pagamento de boletos no app. DownDetector registrou reclamações a partir das 6h40 desta segunda-feira (07/07).</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/nubank-fora-do-ar-clientes-relatam-falha-para-pagar-boletos/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/07/capa-nu-fora-do-ar-2-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 07 Jul 2025 17:54:05 +0000</pubDate>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/tiktok-pode-ter-versao-so-para-usuarios-dos-eua-para-evitar-banimento/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/08/capa-tiktok_thumb_tb-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 07 Jul 2025 19:07:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cientistas escondem comandos em papers para manipular IA</title>
+      <link>https://tecnoblog.net/noticias/cientistas-escondem-comandos-em-papers-para-manipular-ia/</link>
+      <description>Pesquisadores ocultaram comandos em artigos científicos para que IAs aprovassem seus estudos. Prática foi detectada em ao menos 14 instituições em oito países.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/cientistas-escondem-comandos-em-papers-para-manipular-ia/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/06/ia-2-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 07 Jul 2025 20:36:22 +0000</pubDate>
     </item>
   </channel>
 </rss>
