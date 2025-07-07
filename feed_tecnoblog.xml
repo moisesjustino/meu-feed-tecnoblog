@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 07 Jul 2025 17:11:09 +0000</lastBuildDate>
-    <item>
-      <title>Galaxy Z Flip 6 tem menor preço que já vimos em oferta no Mercado Livre</title>
-      <link>https://tecnoblog.net/achados/galaxy-z-flip-6-tem-menor-preco-que-ja-vimos-em-oferta-no-mercado-livre/</link>
-      <description>Galaxy Z Flip 6 leva telas AMOLED, memória RAM de 12 GB, chip Snapdragon 8 Gen 3 e câmera principal aprimorada para 50 MP; celular dobrável tem o menor preço que já vimos</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-z-flip-6-tem-menor-preco-que-ja-vimos-em-oferta-no-mercado-livre/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/09/galaxy-z-flip-6-foto-thassius-velosotecnoblogcaosamsung-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 04 Jul 2025 17:33:25 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 07 Jul 2025 18:16:46 +0000</lastBuildDate>
     <item>
       <title>FaceTime no iOS 26 beta congela se detectar nudez</title>
       <link>https://tecnoblog.net/noticias/facetime-no-ios-26-beta-congela-se-detectar-nudez/</link>
@@ -61,7 +53,7 @@
       <link>https://tecnoblog.net/noticias/provedor-de-fibra-lanca-combo-com-internet-movel-gratis-por-um-ano/</link>
       <description>Promoção da Brisanet para julho oferece internet móvel de 20 GB por mês na contratação da banda larga fixa de 600 ou 700 Mb/s.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/provedor-de-fibra-lanca-combo-com-internet-movel-gratis-por-um-ano/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2021/05/loja-brisanet-e1620072958501-340x191.jpg" length="0" type="image/jpeg"/>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/brisanet-chamada-5g-340x191.jpeg" length="0" type="image/jpeg"/>
       <pubDate>Thu, 03 Jul 2025 19:14:04 +0000</pubDate>
     </item>
     <item>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/galaxy-z-fold-7-z-flip-7-e-flip-7-fe-tem-ficha-tecnica-vazada/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/01/samsung-flip-variados-capa-11-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 07 Jul 2025 16:03:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nubank fora do ar? Clientes relatam falha para pagar boletos</title>
+      <link>https://tecnoblog.net/noticias/nubank-fora-do-ar-clientes-relatam-falha-para-pagar-boletos/</link>
+      <description>Usuários questionam dificuldades para efetuar o pagamento de boletos no app. DownDetector registrou reclamações a partir das 6h40 desta segunda (07).</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/nubank-fora-do-ar-clientes-relatam-falha-para-pagar-boletos/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/07/capa-nu-fora-do-ar-2-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 07 Jul 2025 17:54:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
