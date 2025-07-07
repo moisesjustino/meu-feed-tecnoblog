@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 07 Jul 2025 12:23:30 +0000</lastBuildDate>
-    <item>
-      <title>Crunchyroll é flagrada usando ChatGPT para traduzir animes</title>
-      <link>https://tecnoblog.net/noticias/crunchyroll-e-flagrada-usando-chatgpt-para-traduzir-animes/</link>
-      <description>Prompt escapou nas legendas do anime Necronomico and the Cosmic Horror Show. Plataforma não comentou o caso, mas já admitiu no passado testar IA nas traduções.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/crunchyroll-e-flagrada-usando-chatgpt-para-traduzir-animes/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/solo-leveling-segunda-temporada-1-340x191.webp" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 02 Jul 2025 18:46:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>O que é hardware? Confira as funções e exemplos dos componentes eletrônicos</title>
-      <link>https://tecnoblog.net/responde/o-que-e-hardware/</link>
-      <description>Hardwares são responsáveis pela execução de comandos e tarefas em aparelhos eletrônicos, além de abrigar e carregar softwares no dispositivo</description>
-      <guid isPermaLink="false">https://tecnoblog.net/responde/o-que-e-hardware/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/Capa-TBR-O-que-e-Hardware-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 02 Jul 2025 20:10:40 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 07 Jul 2025 13:27:45 +0000</lastBuildDate>
     <item>
       <title>TV Samsung QLED de 65″ tem 35% de desconto com cupom no Mercado Livre</title>
       <link>https://tecnoblog.net/achados/tv-samsung-qled-de-65-tem-35-de-desconto-com-cupom-no-mercado-livre/</link>
@@ -111,6 +95,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/falha-grave-no-site-da-centauro-expoe-dados-de-usuarios/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/centauro-logo-edited-340x191.webp" length="0" type="image/jpeg"/>
       <pubDate>Thu, 03 Jul 2025 19:25:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>O que é um Ultrabook? Conheça as características da classe de notebooks</title>
+      <link>https://tecnoblog.net/responde/o-que-e-um-ultrabook-conheca-as-caracteristicas-da-classe-de-notebooks/</link>
+      <description>Um Ultrabook se destaca pelo design extremamente fino combinado com alto desempenho e bateria de longa duração, sendo ideal para portabilidade e produtividade</description>
+      <guid isPermaLink="false">https://tecnoblog.net/responde/o-que-e-um-ultrabook-conheca-as-caracteristicas-da-classe-de-notebooks/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/03/Asus-Zenbook-A14-Foto-Thassius-Veloso-Tecnoblog-3-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 03 Jul 2025 19:43:56 +0000</pubDate>
     </item>
     <item>
       <title>Meta acusa UE de ilegalidade por vetar seu modelo de assinatura</title>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/executivo-da-microsoft-sugere-que-funcionarios-demitidos-usem-ia-para-desabafar/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/matt-microsoft-edited-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Fri, 04 Jul 2025 21:13:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>WhatsApp testa função que agrupa conversas em tópicos</title>
+      <link>https://tecnoblog.net/noticias/whatsapp-testa-funcao-que-agrupa-conversas-em-topicos/</link>
+      <description>Nova funcionalidade agrupa mensagens encadeadas por assunto. Testes ocorrem nas versões beta do WhatsApp para Android e iPhone.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/whatsapp-testa-funcao-que-agrupa-conversas-em-topicos/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/03/whatsapp-capa-2-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 07 Jul 2025 13:23:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
