@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 08 Jul 2025 21:11:32 +0000</lastBuildDate>
-    <item>
-      <title>Windows 11 enfim supera Windows 10 em número de usuários</title>
-      <link>https://tecnoblog.net/noticias/windows-11-enfim-supera-windows-10-em-numero-de-usuarios/</link>
-      <description>Dados da Statcounter mostram Windows 11 superando Windows 10 em participação no mercado pela primeira vez, mas com diferença pequena.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/windows-11-enfim-supera-windows-10-em-numero-de-usuarios/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/03/windows-10-tela-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 04 Jul 2025 18:36:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Meta quer que bots iniciem conversas com as pessoas</title>
-      <link>https://tecnoblog.net/noticias/meta-quer-que-bots-iniciem-conversas-com-as-pessoas/</link>
-      <description>Histórico de conversas do usuário será usado para que IAs puxem papo após um tempo. Função deve chegar aos chatbots personalizados.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/meta-quer-que-bots-iniciem-conversas-com-as-pessoas/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/10/capa-meta-ai-2-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 04 Jul 2025 18:50:58 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 08 Jul 2025 22:11:53 +0000</lastBuildDate>
     <item>
       <title>iPhone 16e tem 38% OFF em promoção com cupom no Magalu</title>
       <link>https://tecnoblog.net/achados/iphone-16e-tem-38-off-em-promocao-com-cupom-no-magalu/</link>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/tv-samsung-qled-50-tem-oferta-exclusiva-com-49-off-em-ate-10x-na-amazon/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/03/Samsung-TV-QLED-Q60D-4K-tem-processador-com-IA-foto-Thassius-VelosoTecnoblog-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Tue, 08 Jul 2025 20:02:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gmail ganha ferramenta para reduzir quantidade de e-mails indesejados</title>
+      <link>https://tecnoblog.net/noticias/gmail-ganha-ferramenta-para-reduzir-quantidade-de-e-mails-indesejados/</link>
+      <description>Novidade na interface do Gmail centraliza assinaturas e facilita o cancelamento de newsletters e listas com apenas um clique</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/gmail-ganha-ferramenta-para-reduzir-quantidade-de-e-mails-indesejados/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/05/gmail_capa-2_tb-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 08 Jul 2025 21:48:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sony expulsa desenvolvedora da PlayStation Store após denúncias de golpe</title>
+      <link>https://tecnoblog.net/noticias/sony-expulsa-desenvolvedora-da-playstation-store-apos-denuncias-de-golpe/</link>
+      <description>Empresa responsável por versões enganosas de títulos populares para PC já não aparece mais na loja virtual do PlayStation.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/sony-expulsa-desenvolvedora-da-playstation-store-apos-denuncias-de-golpe/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2020/10/O-que-significa-o-fim-da-PlayStation-Store-para-PS3-PS-Vita-e-PSP004-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 08 Jul 2025 21:52:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
