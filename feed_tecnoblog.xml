@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 08 Jul 2025 16:15:06 +0000</lastBuildDate>
-    <item>
-      <title>Polícia prende suspeito de facilitar ataque cibernético a bancos</title>
-      <link>https://tecnoblog.net/noticias/suspeito-de-ataque-hacker-ao-pix-e-preso-pela-policia-civil/</link>
-      <description>Funcionário da CMSW, que conecta bancos ao sistema do Banco Central, teria dado senha sigilosa a hackers. Ataque afetou ao menos seis instituições financeiras.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/suspeito-de-ataque-hacker-ao-pix-e-preso-pela-policia-civil/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/joao-nazareno-roque-edited-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 04 Jul 2025 13:16:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Por que a Nvidia pode se tornar a empresa mais valiosa da história?</title>
-      <link>https://tecnoblog.net/noticias/por-que-a-nvidia-pode-se-tornar-a-empresa-mais-valiosa-da-historia/</link>
-      <description>Nvidia atingiu brevemente valor de mercado de US$ 3,92 trilhões nesta semana e pode superar recorde da Apple em um futuro próximo.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/por-que-a-nvidia-pode-se-tornar-a-empresa-mais-valiosa-da-historia/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/05/nvidia-video_capa-1_tb-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 04 Jul 2025 13:36:05 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 08 Jul 2025 17:11:48 +0000</lastBuildDate>
     <item>
       <title>PicPay é flagrado fazendo publicidade de bet nas notificações</title>
       <link>https://tecnoblog.net/noticias/picpay-explica-publicidade-de-bet-em-app-de-banco/</link>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-a56-128-gb-recebe-39-de-desconto-em-promocao-no-mercado-livre/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/05/GalaxyA56-oferta-recomendada-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Tue, 08 Jul 2025 15:19:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Windows 11 pode ganhar função que muda papel de parede usando IA</title>
+      <link>https://tecnoblog.net/noticias/windows-11-pode-ganhar-funcao-que-muda-papel-de-parede-usando-ia/</link>
+      <description>Surgiram mais rumores sobre o Windows 11 ganhando papel de parede dinâmico baseado em IA. Recurso deve trocar plano de fundo com base nas preferências do usuário.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/windows-11-pode-ganhar-funcao-que-muda-papel-de-parede-usando-ia/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/02/windows-11-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 08 Jul 2025 16:39:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Apple pode lançar iPhone 17e no primeiro semestre de 2026</title>
+      <link>https://tecnoblog.net/noticias/apple-pode-lancar-iphone-17e-no-primeiro-semestre-de-2026/</link>
+      <description>Com bom desempenho comercial em mercados como Japão e México, linha menos cara deve ganhar novo aparelho já na primeira metade de 2026.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/apple-pode-lancar-iphone-17e-no-primeiro-semestre-de-2026/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/03/1000014205-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 08 Jul 2025 16:41:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
