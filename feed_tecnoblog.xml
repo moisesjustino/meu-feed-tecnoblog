@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 07 Jul 2025 23:11:28 +0000</lastBuildDate>
-    <item>
-      <title>iPhone 15 (128 GB) tem 45% OFF em oferta na Amazon</title>
-      <link>https://tecnoblog.net/achados/iphone-15-128-gb-tem-45-off-em-oferta-na-amazon/</link>
-      <description>iPhone 15 possui tela Super Retina XDR de 6,1 polegadas, chip Apple A16 Bionic e câmera principal de 48 MP; condição da oferta é exclusivamente à vista no Pix</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/iphone-15-128-gb-tem-45-off-em-oferta-na-amazon/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/05/iphone-15-imagem-thassius-velosotecnoblog-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 03 Jul 2025 19:11:53 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 08 Jul 2025 00:59:34 +0000</lastBuildDate>
     <item>
       <title>Provedor de fibra lança combo com internet móvel grátis por um ano</title>
       <link>https://tecnoblog.net/noticias/provedor-de-fibra-lanca-combo-com-internet-movel-gratis-por-um-ano/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-s24-ultra-256-gb-com-camera-de-200-mp-recebe-51-off-em-promocao/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/07/galaxy-s24-ultra-foto-thassius-velosotecnoblog-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 07 Jul 2025 21:32:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Huawei é acusada de copiar IA da Alibaba por meio de denúncia anônima; empresa nega</title>
+      <link>https://tecnoblog.net/noticias/huawei-e-acusada-de-copiar-ia-da-alibaba-por-meio-de-denuncia-anonima-empresa-nega/</link>
+      <description>Entidade desconhecida alega que modelo da Huawei seria “reciclado” a partir do Qwen 2.5 da rival; acusação gera debate entre especialistas chineses.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/huawei-e-acusada-de-copiar-ia-da-alibaba-por-meio-de-denuncia-anonima-empresa-nega/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/01/huawei-capa-4-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 07 Jul 2025 23:45:43 +0000</pubDate>
     </item>
   </channel>
 </rss>
