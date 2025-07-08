@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 08 Jul 2025 17:11:48 +0000</lastBuildDate>
-    <item>
-      <title>PicPay é flagrado fazendo publicidade de bet nas notificações</title>
-      <link>https://tecnoblog.net/noticias/picpay-explica-publicidade-de-bet-em-app-de-banco/</link>
-      <description>Banco digital enviou notificação com link para site de apostas. Mensagem não indicava que era anúncio.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/picpay-explica-publicidade-de-bet-em-app-de-banco/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/04/picpay_capa_tb-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 04 Jul 2025 14:33:07 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 08 Jul 2025 18:16:47 +0000</lastBuildDate>
     <item>
       <title>Realme C71 passa na Anatel e deve ser lançado no Brasil em breve</title>
       <link>https://tecnoblog.net/noticias/realme-c71-passa-na-anatel-e-deve-ser-lancado-no-brasil-em-breve/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/apple-pode-lancar-iphone-17e-no-primeiro-semestre-de-2026/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/03/1000014205-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 08 Jul 2025 16:41:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Itaú: 10 milhões de clientes já migraram para super app</title>
+      <link>https://tecnoblog.net/noticias/itau-10-milhoes-de-clientes-ja-migraram-para-super-app/</link>
+      <description>Super app unifica serviços do Itaú, Itaú Cartões e Iti. Supermigração começou em julho de 2024 e deve ser finalizada no fim de 2025.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/itau-10-milhoes-de-clientes-ja-migraram-para-super-app/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/app-itau-iphone-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 08 Jul 2025 18:13:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
