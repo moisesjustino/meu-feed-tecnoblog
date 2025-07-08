@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 08 Jul 2025 15:12:48 +0000</lastBuildDate>
-    <item>
-      <title>A Lorde lançou um CD que não toca na maioria dos aparelhos</title>
-      <link>https://tecnoblog.net/noticias/a-lorde-lancou-um-cd-que-nao-toca-na-maioria-dos-aparelhos/</link>
-      <description>Técnica utilizada para atingir translucidez pode ser a causa do problema. O álbum Virgin é muito aguardado pelos fãs da cantora.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/a-lorde-lancou-um-cd-que-nao-toca-na-maioria-dos-aparelhos/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/lorde-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 03 Jul 2025 22:43:31 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 08 Jul 2025 16:15:06 +0000</lastBuildDate>
     <item>
       <title>Polícia prende suspeito de facilitar ataque cibernético a bancos</title>
       <link>https://tecnoblog.net/noticias/suspeito-de-ataque-hacker-ao-pix-e-preso-pela-policia-civil/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/cofundador-do-twitter-lanca-app-de-mensagens-que-funciona-sem-internet/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/03/bluetooth-3_capa_tb-340x191.jpeg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 08 Jul 2025 13:51:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Galaxy A56 (128 GB) recebe 39% de desconto em promoção no Mercado Livre</title>
+      <link>https://tecnoblog.net/achados/galaxy-a56-128-gb-recebe-39-de-desconto-em-promocao-no-mercado-livre/</link>
+      <description>Galaxy A56 possui tela Super AMOLED de 120 Hz, chip Exynos 1580 e câmera principal de 50 MP; oferta do celular da Samsung de 128 GB é válida somente à vista no Pix</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-a56-128-gb-recebe-39-de-desconto-em-promocao-no-mercado-livre/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/05/GalaxyA56-oferta-recomendada-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 08 Jul 2025 15:19:51 +0000</pubDate>
     </item>
   </channel>
 </rss>
