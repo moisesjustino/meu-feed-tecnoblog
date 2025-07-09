@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 09 Jul 2025 20:13:10 +0000</lastBuildDate>
-    <item>
-      <title>Microsoft Edge está mais rápido, mas talvez você não perceba</title>
-      <link>https://tecnoblog.net/noticias/microsoft-edge-esta-mais-rapido-mas-talvez-voce-nao-perceba/</link>
-      <description>Navegador Edge atinge marca de renderização inicial abaixo de 300 ms, mas diferença pode não ser perceptível para o usuário comum.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/microsoft-edge-esta-mais-rapido-mas-talvez-voce-nao-perceba/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2020/03/microsoft-edge-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 08 Jul 2025 13:43:55 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 09 Jul 2025 21:11:20 +0000</lastBuildDate>
     <item>
       <title>iPhone 16 (256 GB) tem 33% de desconto em oferta na Amazon</title>
       <link>https://tecnoblog.net/achados/iphone-16-256-gb-tem-33-de-desconto-em-oferta-na-amazon/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/e-oficial-warner-volta-atras-e-max-volta-a-ser-hbo-max/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/05/Capa-HBO-Max-2025-01-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Wed, 09 Jul 2025 19:00:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Teams testa threads, automação com emojis e mais</title>
+      <link>https://tecnoblog.net/noticias/microsoft-teams-ganha-threads-automacao-com-emojis-e-mais/</link>
+      <description>Novas funções estão disponíveis para todos os usuários no programa Public Preview. Atualização integra agentes inteligentes e IA generativa ao fluxo de trabalho.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/microsoft-teams-ganha-threads-automacao-com-emojis-e-mais/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/04/notebook-microsof-teams-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 09 Jul 2025 20:59:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
