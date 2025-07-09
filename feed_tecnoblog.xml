@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 09 Jul 2025 22:11:56 +0000</lastBuildDate>
-    <item>
-      <title>Windows 11 pode ganhar função que muda papel de parede usando IA</title>
-      <link>https://tecnoblog.net/noticias/windows-11-pode-ganhar-funcao-que-muda-papel-de-parede-usando-ia/</link>
-      <description>Surgiram mais rumores sobre o Windows 11 ganhando papel de parede dinâmico baseado em IA. Recurso deve trocar plano de fundo com base nas preferências do usuário.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/windows-11-pode-ganhar-funcao-que-muda-papel-de-parede-usando-ia/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/02/windows-11-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 08 Jul 2025 16:39:12 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 09 Jul 2025 23:11:44 +0000</lastBuildDate>
     <item>
       <title>Apple pode lançar iPhone 17e no primeiro semestre de 2026</title>
       <link>https://tecnoblog.net/noticias/apple-pode-lancar-iphone-17e-no-primeiro-semestre-de-2026/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-watch-ultra-tem-53-off-apos-chegada-de-nova-geracao-do-galaxy-watch/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/Samsung-Galaxy-Watch-Ultra-tem-caixa-de-titanio-Foto-Thassius-VelosoTecnoblog-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Wed, 09 Jul 2025 22:11:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Esquenta Prime Day: Galaxy Ring e outros acessórios com até 43% OFF</title>
+      <link>https://tecnoblog.net/achados/esquenta-prime-day-galaxy-ring-e-outros-acessorios-com-ate-42-off/</link>
+      <description>Ofertas que antecedem o Amazon Prime Day incluem Galaxy Ring, mouse Logitech e headset Havit; descontos exclusivos vão até 43% em acessórios para celular e notebook</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/esquenta-prime-day-galaxy-ring-e-outros-acessorios-com-ate-42-off/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/galaxy-ring-esta-em-promocao-foto-thassius-velosotecnoblog-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 09 Jul 2025 23:05:31 +0000</pubDate>
     </item>
   </channel>
 </rss>
