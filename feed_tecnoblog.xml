@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 10 Jul 2025 16:15:06 +0000</lastBuildDate>
-    <item>
-      <title>Sony expulsa desenvolvedora da PlayStation Store após denúncias de golpe</title>
-      <link>https://tecnoblog.net/noticias/sony-expulsa-desenvolvedora-da-playstation-store-apos-denuncias-de-golpe/</link>
-      <description>Empresa responsável por versões enganosas de títulos populares para PC já não aparece mais na loja virtual do PlayStation.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/sony-expulsa-desenvolvedora-da-playstation-store-apos-denuncias-de-golpe/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2020/10/O-que-significa-o-fim-da-PlayStation-Store-para-PS3-PS-Vita-e-PSP004-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 08 Jul 2025 21:52:47 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 10 Jul 2025 17:13:35 +0000</lastBuildDate>
     <item>
       <title>Ubisoft quer obrigar jogadores a destruírem cópias de games descontinuados</title>
       <link>https://tecnoblog.net/noticias/ubisoft-quer-obrigar-jogadores-a-destruirem-copias-de-games-descontinuados/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/motorola-edge-50-fusion-com-chip-snapdragon-tem-46-off-em-oferta-com-cupom/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/01/motorola-edge-50-fusion-foto-thassius-velosotecnoblog-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Thu, 10 Jul 2025 16:07:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI prepara navegador com ChatGPT para competir com o Chrome</title>
+      <link>https://tecnoblog.net/noticias/openai-prepara-navegador-com-chatgpt-para-competir-com-o-chrome/</link>
+      <description>Navegador pretende expandir a coleta de dados dos usuários para personalizar serviços. Estratégia visa rivalizar com o Google Chrome.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/openai-prepara-navegador-com-chatgpt-para-competir-com-o-chrome/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/06/sam-altman-1-capa-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 10 Jul 2025 17:07:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
