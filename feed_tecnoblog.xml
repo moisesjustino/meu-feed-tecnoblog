@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 10 Jul 2025 21:12:15 +0000</lastBuildDate>
-    <item>
-      <title>Galaxy Z Flip 7 e Flip 7 FE: dobráveis da Samsung chegam com refinamentos</title>
-      <link>https://tecnoblog.net/noticias/galaxy-z-flip-7-e-flip-7-fe-dobraveis-da-samsung-chegam-com-refinamentos/</link>
-      <description>Samsung Galaxy Z Flip 7 tem telas AMOLED de 120 Hz, chip Exynos 2500 e câmera de 50 MP. Modelo FE traz telas ligeiramente menores e chip Exynos 2400.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/galaxy-z-flip-7-e-flip-7-fe-dobraveis-da-samsung-chegam-com-refinamentos/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/samsung-galaxy-z-flip-7-2-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 09 Jul 2025 14:01:23 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 10 Jul 2025 22:11:45 +0000</lastBuildDate>
     <item>
       <title>Galaxy Watch 8 chega com Gemini, design mais fino e volta da versão Classic</title>
       <link>https://tecnoblog.net/noticias/galaxy-watch-8-chega-com-gemini-design-mais-fino-e-volta-da-versao-classic/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/uber-expande-conta-senior-para-todo-o-brasil/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/06/uber_capa-2_tb-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Thu, 10 Jul 2025 19:51:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Galaxy S24 FE (256 GB) fica 47% mais barato em oferta no Magalu</title>
+      <link>https://tecnoblog.net/achados/galaxy-s24-fe-256-gb-fica-47-mais-barato-em-oferta-no-magalu/</link>
+      <description>Galaxy S24 FE apresenta tela AMOLED Dinâmico 2x de 6,7 polegadas, processador Exynos 2400e e câmera de 50 MP que grava em 8K; oferta do celular da Samsung é exclusiva no Pix</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-s24-fe-256-gb-fica-47-mais-barato-em-oferta-no-magalu/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/04/Galaxy-S24-FE-tem-tela-AMOLED-foto-Giovanni-Santa-RosaTecnoblog-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 10 Jul 2025 21:55:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
