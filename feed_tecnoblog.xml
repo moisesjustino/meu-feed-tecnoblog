@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 10 Jul 2025 22:11:45 +0000</lastBuildDate>
-    <item>
-      <title>Galaxy Watch 8 chega com Gemini, design mais fino e volta da versão Classic</title>
-      <link>https://tecnoblog.net/noticias/galaxy-watch-8-chega-com-gemini-design-mais-fino-e-volta-da-versao-classic/</link>
-      <description>Novo smartwatch da Samsung monitora ritmo circadiano, sugere refeições com base em antioxidantes e recomenda treinos após teste de corrida</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/galaxy-watch-8-chega-com-gemini-design-mais-fino-e-volta-da-versao-classic/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/watch-8-pulso-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 09 Jul 2025 14:02:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 10 Jul 2025 23:12:10 +0000</lastBuildDate>
     <item>
       <title>Como baixar músicas do YouTube de modo fácil e rápido</title>
       <link>https://tecnoblog.net/publieditoriais/como-baixar-musicas-do-youtube-de-modo-facil-e-rapido/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-s24-fe-256-gb-fica-47-mais-barato-em-oferta-no-magalu/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/04/Galaxy-S24-FE-tem-tela-AMOLED-foto-Giovanni-Santa-RosaTecnoblog-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Thu, 10 Jul 2025 21:55:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Alexa dá pau e para de controlar Spotify e outros dispositivos</title>
+      <link>https://tecnoblog.net/noticias/alexa-da-pau-e-para-de-controlar-spotify-e-outros-dispositivos/</link>
+      <description>Usuários postaram reclamações nas redes sociais. A Amazon ainda não se pronunciou sobre o assunto.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/alexa-da-pau-e-para-de-controlar-spotify-e-outros-dispositivos/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/02/Echo-Dot-4_Capa_TB-edited-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 10 Jul 2025 22:13:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
