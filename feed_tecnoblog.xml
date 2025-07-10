@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 10 Jul 2025 11:10:52 +0000</lastBuildDate>
-    <item>
-      <title>Apple pode lançar iPhone 17e no primeiro semestre de 2026</title>
-      <link>https://tecnoblog.net/noticias/apple-pode-lancar-iphone-17e-no-primeiro-semestre-de-2026/</link>
-      <description>Com bom desempenho comercial em mercados como Japão e México, linha menos cara deve ganhar novo aparelho já na primeira metade de 2026.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/apple-pode-lancar-iphone-17e-no-primeiro-semestre-de-2026/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/03/1000014205-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 08 Jul 2025 16:41:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Itaú: 10 milhões de clientes já migraram para super app</title>
-      <link>https://tecnoblog.net/noticias/itau-10-milhoes-de-clientes-ja-migraram-para-super-app/</link>
-      <description>Super app unifica serviços do Itaú, Itaú Cartões e Iti. Supermigração começou em julho de 2024 e deve ser finalizada no fim de 2025.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/itau-10-milhoes-de-clientes-ja-migraram-para-super-app/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/app-itau-iphone-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 08 Jul 2025 18:13:15 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 10 Jul 2025 12:23:55 +0000</lastBuildDate>
     <item>
       <title>O que são redes sociais? Confira a história e principais exemplos dessas plataformas</title>
       <link>https://tecnoblog.net/responde/o-que-sao-redes-sociais-confira-a-historia-e-principais-exemplos-dessas-plataformas/</link>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/esquenta-prime-day-galaxy-ring-e-outros-acessorios-com-ate-42-off/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/galaxy-ring-esta-em-promocao-foto-thassius-velosotecnoblog-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Wed, 09 Jul 2025 23:05:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Esquenta Prime Day: Echo Dot e mais Amazon com Alexa têm até 29% OFF</title>
+      <link>https://tecnoblog.net/achados/esquenta-prime-day-echo-dot-e-mais-amazon-com-alexa-tem-ate-29-off/</link>
+      <description>Echo Dot, Fire TV e mais dispositivos com Alexa tem oferta a partir de R$ 299 na Amazon durante o Esquenta Prime Day; descontos exclusivos têm opção de parcelamento</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/esquenta-prime-day-echo-dot-e-mais-amazon-com-alexa-tem-ate-29-off/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/06/amazon-echo-dot-4-4-2048x1152-achado-do-dia-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 10 Jul 2025 11:58:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Outlook fora do ar: e-mail da Microsoft tem falha global nesta quinta (10)</title>
+      <link>https://tecnoblog.net/noticias/outlook-fora-do-ar-e-mail-da-microsoft-tem-falha-global-nesta-quinta-10/</link>
+      <description>Problema afeta site, cliente de desktop e apps para celular. Usuários estão sem acesso a suas caixas de entrada.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/outlook-fora-do-ar-e-mail-da-microsoft-tem-falha-global-nesta-quinta-10/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/03/capa-outlook_tb-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 10 Jul 2025 12:09:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
