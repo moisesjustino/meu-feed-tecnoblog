@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 11 Jul 2025 18:16:52 +0000</lastBuildDate>
-    <item>
-      <title>ChatGPT é líder em faturamento em lojas de apps no Brasil</title>
-      <link>https://tecnoblog.net/noticias/chatgpt-e-lider-em-faturamento-em-lojas-de-apps-no-brasil/</link>
-      <description>Receita nas lojas móveis representa só uma fração dos ganhos da empresa, que tem valor de mercado estimado em US$ 300 bilhões</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/chatgpt-e-lider-em-faturamento-em-lojas-de-apps-no-brasil/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/06/chatgpt-2_capa-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 09 Jul 2025 18:43:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Motorola provoca Samsung e divulga Razr Day durante o Unpacked</title>
-      <link>https://tecnoblog.net/noticias/motorola-provoca-samsung-e-divulga-razr-day-durante-o-unpacked/</link>
-      <description>Motorola oferece fones Moto Buds+ por R$ 1 na compra do Razr 60 Ultra. Promoção é válida apenas nesta quarta-feira (09/07), data do Galaxy Unpacked.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/motorola-provoca-samsung-e-divulga-razr-day-durante-o-unpacked/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/04/razr-60-ultra-4-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 09 Jul 2025 18:57:29 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 11 Jul 2025 19:09:53 +0000</lastBuildDate>
     <item>
       <title>É oficial: Warner volta atrás e Max retoma nome HBO Max</title>
       <link>https://tecnoblog.net/noticias/e-oficial-warner-volta-atras-e-max-volta-a-ser-hbo-max/</link>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/iphone-16e-fica-38-mais-barato-em-promocao-no-mercado-livre/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/03/iphone-16e-super-desconto-tb-achados-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Fri, 11 Jul 2025 17:11:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Galaxy Watch 7 recebe 57% de desconto em oferta no Magalu</title>
+      <link>https://tecnoblog.net/achados/galaxy-watch-7-recebe-57-de-desconto-em-oferta-no-magalu/</link>
+      <description>Galaxy Watch 7 (40 mm) BT tem BioActive com 13 sensores, 32 GB de armazenamento e tela Super AMOLED de 1,5 polegada; oferta do smartwatch é exclusiva por pagamento via Pix</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-watch-7-recebe-57-de-desconto-em-oferta-no-magalu/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/galaxy-watch-7-oferta-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 11 Jul 2025 18:47:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>CEO da Intel: é “tarde demais” para alcançar a concorrência em IA</title>
+      <link>https://tecnoblog.net/noticias/ceo-da-intel-e-tarde-demais-para-alcancar-a-concorrencia-em-ia/</link>
+      <description>Lip-Bu Tan, atual CEO, reconheceu a dificuldade da Intel em alcançar a concorrência em IA, uma aparente referência à Nvidia.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/ceo-da-intel-e-tarde-demais-para-alcancar-a-concorrencia-em-ia/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/03/lip-bu-tan-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 11 Jul 2025 18:53:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
