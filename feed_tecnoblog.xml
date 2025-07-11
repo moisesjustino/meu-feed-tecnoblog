@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 11 Jul 2025 13:27:09 +0000</lastBuildDate>
-    <item>
-      <title>X perde líder: Linda Yaccarino não é mais CEO da rede social</title>
-      <link>https://tecnoblog.net/noticias/x-perde-lider-linda-yaccarino-nao-e-mais-ceo-da-rede-social/</link>
-      <description>Linda Yaccarino deixou o cargo de CEO do X (ex-Twitter) após dois anos de gestão. O motivo não foi revelado, mas especula-se que tenha relação com a xAI.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/x-perde-lider-linda-yaccarino-nao-e-mais-ceo-da-rede-social/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/07/twitter-mudou-de-nome_capa_tb-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 09 Jul 2025 17:29:51 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 11 Jul 2025 14:12:45 +0000</lastBuildDate>
     <item>
       <title>O que é uma big tech? Saiba como surgiram e quais são as principais do mundo</title>
       <link>https://tecnoblog.net/responde/o-que-e-uma-big-tech-saiba-como-surgiram-e-quais-sao-as-principais-do-mundo/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/supercomputador-brasileiro-santos-dumont-recebe-atualizacao-e-suporte-a-ia/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/supercomputador-santos-dumont-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Fri, 11 Jul 2025 12:47:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Jovi lança mais três celulares no Brasil; saiba os preços</title>
+      <link>https://tecnoblog.net/noticias/jovi-lanca-mais-tres-celulares-no-brasil-saiba-os-precos/</link>
+      <description>Jovi Y29s 5G é destaque com chip MediaTek Dimensity 6300 e bateria de 6.000 mAh. Jovi Y19s e Jovi Y29 LTE também foram anunciados.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/jovi-lanca-mais-tres-celulares-no-brasil-saiba-os-precos/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/jovi-y29-capa-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 11 Jul 2025 14:04:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
