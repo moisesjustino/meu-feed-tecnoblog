@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 11 Jul 2025 14:12:45 +0000</lastBuildDate>
-    <item>
-      <title>O que é uma big tech? Saiba como surgiram e quais são as principais do mundo</title>
-      <link>https://tecnoblog.net/responde/o-que-e-uma-big-tech-saiba-como-surgiram-e-quais-sao-as-principais-do-mundo/</link>
-      <description>As big techs influenciam a economia e sociedade global ao dominar mercados, criar produtos e serviços usados por vários usuários e realizar investimentos em inovação</description>
-      <guid isPermaLink="false">https://tecnoblog.net/responde/o-que-e-uma-big-tech-saiba-como-surgiram-e-quais-sao-as-principais-do-mundo/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2020/07/predio-google-tecnoblog-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 09 Jul 2025 17:33:43 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 11 Jul 2025 15:12:54 +0000</lastBuildDate>
     <item>
       <title>iPhone 15 tem desconto de 46% em promoção na Amazon</title>
       <link>https://tecnoblog.net/achados/iphone-15-tem-desconto-de-46-em-promocao-na-amazon/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/jovi-lanca-mais-tres-celulares-no-brasil-saiba-os-precos/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/jovi-y29-capa-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Fri, 11 Jul 2025 14:04:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gemini ganha recurso para transformar fotos em vídeos usando Veo 3</title>
+      <link>https://tecnoblog.net/noticias/gemini-ganha-recurso-para-transformar-fotos-em-videos-usando-veo-3/</link>
+      <description>Ferramenta gera clipes de até 8 segundos a partir de imagens estáticas. Uso requer plano pago de IA e tem limites diários.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/gemini-ganha-recurso-para-transformar-fotos-em-videos-usando-veo-3/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/02/capa-gemini_tb-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 11 Jul 2025 14:52:10 +0000</pubDate>
     </item>
   </channel>
 </rss>
