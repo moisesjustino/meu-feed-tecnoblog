@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 11 Jul 2025 19:09:53 +0000</lastBuildDate>
-    <item>
-      <title>É oficial: Warner volta atrás e Max retoma nome HBO Max</title>
-      <link>https://tecnoblog.net/noticias/e-oficial-warner-volta-atras-e-max-volta-a-ser-hbo-max/</link>
-      <description>Warner oficializa volta da HBO Max nesta quarta-feira (09/07), com apps e site já atualizados com o nome. Mudança desfaz o rebrand polêmico do streaming.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/e-oficial-warner-volta-atras-e-max-volta-a-ser-hbo-max/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/05/Capa-HBO-Max-2025-01-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 09 Jul 2025 19:00:55 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 11 Jul 2025 20:13:29 +0000</lastBuildDate>
     <item>
       <title>Microsoft Teams testa threads, automação com emojis e mais</title>
       <link>https://tecnoblog.net/noticias/microsoft-teams-ganha-threads-automacao-com-emojis-e-mais/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/ceo-da-intel-e-tarde-demais-para-alcancar-a-concorrencia-em-ia/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/03/lip-bu-tan-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Fri, 11 Jul 2025 18:53:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Galaxy S24 FE (128 GB) tem menor preço que já vimos com cupom no Magalu</title>
+      <link>https://tecnoblog.net/achados/galaxy-s24-fe-128-gb-tem-menor-preco-que-ja-vimos-com-cupom-no-magalu/</link>
+      <description>Galaxy S24 FE de 128 GB tem RAM de 8 GB, Exynos 2400e da Samsung e tela AMOLED de 120 Hz; celular está 45% mais barato no Magazine Luiza</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-s24-fe-128-gb-tem-menor-preco-que-ja-vimos-com-cupom-no-magalu/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/03/Galaxy-S24-FE-promete-7-anos-de-Android-foto-Giovanni-Santa-Rosa-Tecnoblog-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 11 Jul 2025 20:11:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
