@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 11 Jul 2025 22:11:41 +0000</lastBuildDate>
-    <item>
-      <title>Galaxy Watch Ultra tem 53% OFF após chegada de nova geração do Galaxy Watch</title>
-      <link>https://tecnoblog.net/achados/galaxy-watch-ultra-tem-53-off-apos-chegada-de-nova-geracao-do-galaxy-watch/</link>
-      <description>Galaxy Watch Ultra tem menor preço desde o lançamento oficial em oferta no Mercado Livre; smartwatch possui tela Super AMOLED, GPS de dupla frequência e botão rápido para acesso a esportes</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-watch-ultra-tem-53-off-apos-chegada-de-nova-geracao-do-galaxy-watch/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/Samsung-Galaxy-Watch-Ultra-tem-caixa-de-titanio-Foto-Thassius-VelosoTecnoblog-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 09 Jul 2025 22:11:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Esquenta Prime Day: Galaxy Ring e outros acessórios com até 43% OFF</title>
-      <link>https://tecnoblog.net/achados/esquenta-prime-day-galaxy-ring-e-outros-acessorios-com-ate-42-off/</link>
-      <description>Ofertas que antecedem o Amazon Prime Day incluem Galaxy Ring, mouse Logitech e headset Havit; descontos exclusivos vão até 43% em acessórios para celular e notebook</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/esquenta-prime-day-galaxy-ring-e-outros-acessorios-com-ate-42-off/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/galaxy-ring-esta-em-promocao-foto-thassius-velosotecnoblog-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 09 Jul 2025 23:05:31 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 11 Jul 2025 23:11:50 +0000</lastBuildDate>
     <item>
       <title>Esquenta Prime Day: Echo Dot e mais dispositivos Alexa têm até 29% OFF na Amazon</title>
       <link>https://tecnoblog.net/achados/esquenta-prime-day-echo-dot-e-mais-amazon-com-alexa-tem-ate-29-off/</link>
@@ -111,6 +95,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/uber-expande-conta-senior-para-todo-o-brasil/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/06/uber_capa-2_tb-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Thu, 10 Jul 2025 19:51:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>O que é Internet das Coisas (IoT)? Entenda como funciona e veja exemplos de aplicações</title>
+      <link>https://tecnoblog.net/responde/o-que-e-internet-das-coisas-iot-entenda-como-funciona-e-veja-exemplos-de-aplicacoes/</link>
+      <description>A Internet das Coisas tem potencial para tornar vários setores mais eficientes, como Indústria, Saúde, Agricultura, Varejo e Meio Urbano</description>
+      <guid isPermaLink="false">https://tecnoblog.net/responde/o-que-e-internet-das-coisas-iot-entenda-como-funciona-e-veja-exemplos-de-aplicacoes/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/10/capa-internet-das-coisas-tbr-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 10 Jul 2025 20:40:06 +0000</pubDate>
     </item>
     <item>
       <title>Galaxy S24 FE (256 GB) fica 47% mais barato em oferta no Magalu</title>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-s25-edge-512-gb-tem-o-menor-preco-desde-lancamento-na-amazon/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/galaxy-s25-edge-achado-do-dia-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Fri, 11 Jul 2025 21:57:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Uso de IA pode atrapalhar desenvolvedores e atrasar tarefas, mostra estudo</title>
+      <link>https://tecnoblog.net/noticias/uso-de-ia-pode-atrapalhar-desenvolvedores-e-atrasar-tarefas-mostra-estudo/</link>
+      <description>Estudo com 16 profissionais experientes mostra que assistentes podem gerar falsa sensação de agilidade e aumentar tempo de entrega em projetos open-source</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/uso-de-ia-pode-atrapalhar-desenvolvedores-e-atrasar-tarefas-mostra-estudo/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/06/capas-iasartboard-2-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 11 Jul 2025 22:57:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
