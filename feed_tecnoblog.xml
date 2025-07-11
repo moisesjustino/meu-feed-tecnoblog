@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 11 Jul 2025 12:23:15 +0000</lastBuildDate>
-    <item>
-      <title>Como baixar músicas do YouTube de modo fácil e rápido</title>
-      <link>https://tecnoblog.net/publieditoriais/como-baixar-musicas-do-youtube-de-modo-facil-e-rapido/</link>
-      <description>Com o EaseUS Video Downloader, você pode fazer download de música (áudio) diretamente em seu computador; veja como.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/publieditoriais/como-baixar-musicas-do-youtube-de-modo-facil-e-rapido/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/easus-baixar-musica-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 09 Jul 2025 15:37:34 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 11 Jul 2025 13:27:09 +0000</lastBuildDate>
     <item>
       <title>X perde líder: Linda Yaccarino não é mais CEO da rede social</title>
       <link>https://tecnoblog.net/noticias/x-perde-lider-linda-yaccarino-nao-e-mais-ceo-da-rede-social/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/alexa-da-pau-e-para-de-controlar-spotify-e-outros-dispositivos/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/02/Echo-Dot-4_Capa_TB-edited-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Thu, 10 Jul 2025 22:13:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Supercomputador brasileiro Santos Dumont recebe atualização e suporte à IA</title>
+      <link>https://tecnoblog.net/noticias/supercomputador-brasileiro-santos-dumont-recebe-atualizacao-e-suporte-a-ia/</link>
+      <description>Máquina do LNCC agora atinge 18,85 petaflops e usa hardware avançado da Nvidia, Intel e AMD. Upgrade faz parte dos investimentos para avanços em IA no país.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/supercomputador-brasileiro-santos-dumont-recebe-atualizacao-e-suporte-a-ia/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/supercomputador-santos-dumont-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 11 Jul 2025 12:47:37 +0000</pubDate>
     </item>
   </channel>
 </rss>
