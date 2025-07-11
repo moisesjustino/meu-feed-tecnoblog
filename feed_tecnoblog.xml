@@ -7,31 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 11 Jul 2025 20:13:29 +0000</lastBuildDate>
-    <item>
-      <title>Microsoft Teams testa threads, automação com emojis e mais</title>
-      <link>https://tecnoblog.net/noticias/microsoft-teams-ganha-threads-automacao-com-emojis-e-mais/</link>
-      <description>Novas funções estão disponíveis para todos os usuários no programa Public Preview. Atualização integra agentes inteligentes e IA generativa ao fluxo de trabalho.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/microsoft-teams-ganha-threads-automacao-com-emojis-e-mais/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/04/notebook-microsof-teams-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 09 Jul 2025 20:59:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nvidia alcança marca de US$ 4 trilhões de valor de mercado</title>
-      <link>https://tecnoblog.net/noticias/nvidia-alcanca-marca-de-us-4-trilhoes-de-valor-de-mercado/</link>
-      <description>Empresa valorizou 1.400% em cinco anos e atingiu receita anual de US$ 148,5 bilhões. CEO critica barreiras à venda de chips para o mercado chinês.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/nvidia-alcanca-marca-de-us-4-trilhoes-de-valor-de-mercado/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/05/nvidia-video_capa-1_tb-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 09 Jul 2025 21:28:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>WhatsApp testa nova exibição de GIFs no app para Android</title>
-      <link>https://tecnoblog.net/noticias/whatsapp-testa-nova-exibicao-de-gifs-no-app-para-android/</link>
-      <description>Recurso muda a grade do teclado de GIFs para três colunas. Novidade está disponível apenas para testadores na versão beta do app para Android.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/whatsapp-testa-nova-exibicao-de-gifs-no-app-para-android/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/03/whatsapp-capa-3-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 09 Jul 2025 21:32:09 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 11 Jul 2025 21:11:20 +0000</lastBuildDate>
     <item>
       <title>O ChatGPT está te deixando mais preguiçoso?</title>
       <link>https://tecnoblog.net/tecnocast/o-chatgpt-esta-te-deixando-mais-preguicoso/</link>
@@ -111,6 +87,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/openai-prepara-navegador-com-chatgpt-para-competir-com-o-chrome/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/06/sam-altman-1-capa-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Thu, 10 Jul 2025 17:07:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>O que é Man-in-the-Middle? Conheça os principais tipos de ataque dessa ameaça</title>
+      <link>https://tecnoblog.net/responde/o-que-e-man-in-the-middle-conheca-os-principais-tipos-de-ataque-dessa-ameaca/</link>
+      <description>O objetivo de ataques Man-in-the-Middle é interceptar e manipular a comunicação entre duas partes sem o conhecimento das vítimas, visando o roubo de dados e espionagem</description>
+      <guid isPermaLink="false">https://tecnoblog.net/responde/o-que-e-man-in-the-middle-conheca-os-principais-tipos-de-ataque-dessa-ameaca/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2021/03/hacker-3342696_1920-e1614714640861-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 10 Jul 2025 17:14:22 +0000</pubDate>
     </item>
     <item>
       <title>Galaxy A36 5G (256 GB) tem 52% OFF na melhor oferta desde lançamento</title>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-s24-fe-128-gb-tem-menor-preco-que-ja-vimos-com-cupom-no-magalu/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/03/Galaxy-S24-FE-promete-7-anos-de-Android-foto-Giovanni-Santa-Rosa-Tecnoblog-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Fri, 11 Jul 2025 20:11:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Galaxy AI: Samsung garante que alguns recursos serão gratuitos para sempre</title>
+      <link>https://tecnoblog.net/noticias/galaxy-ai-samsung-garante-que-alguns-recursos-serao-gratuitos-para-sempre/</link>
+      <description>Funções desenvolvidas pela própria Samsung e embarcadas nos celulares, como Intérprete e Zoom Nightography, seguirão disponíveis sem custos</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/galaxy-ai-samsung-garante-que-alguns-recursos-serao-gratuitos-para-sempre/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/flip-e-fold-7-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 11 Jul 2025 20:21:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Windows 11 ganha função que faz sistema corrigir falhas sozinho</title>
+      <link>https://tecnoblog.net/noticias/windows-11-ganha-funcao-que-faz-sistema-corrigir-falhas-sozinho/</link>
+      <description>Quick Machine Recovery (Recuperação Rápida de Máquina) pode resolver problemas que impedem Windows 11 de inicializar corretamente.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/windows-11-ganha-funcao-que-faz-sistema-corrigir-falhas-sozinho/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/03/windows-11-3-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 11 Jul 2025 20:45:37 +0000</pubDate>
     </item>
   </channel>
 </rss>
