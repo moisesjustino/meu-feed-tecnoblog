@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 14 Jul 2025 16:15:33 +0000</lastBuildDate>
-    <item>
-      <title>Polícia Federal deflagra operação contra sites falsos do ENEM</title>
-      <link>https://tecnoblog.net/noticias/policia-federal-deflagra-operacao-contra-sites-falsos-do-enem/</link>
-      <description>Operação Só Oficial faz parte de investigações contra falsas páginas de inscrição para o ENEM. Fraude gerou pelo menos R$ 3 milhões em prejuízo a candidatos.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/policia-federal-deflagra-operacao-contra-sites-falsos-do-enem/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/operacao-pf-enem-edited-340x191.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 10 Jul 2025 13:34:03 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 14 Jul 2025 17:12:51 +0000</lastBuildDate>
     <item>
       <title>Galaxy A56 5G tem 42% de desconto com cupom no Mercado Livre</title>
       <link>https://tecnoblog.net/achados/galaxy-a56-5g-tem-42-de-desconto-com-cupom-no-mercado-livre/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/primeiras-impressoes-do-galaxy-z-fold-7/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/capa-24-horas-com-smartphone-b-thumbs-1-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 14 Jul 2025 15:45:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Galaxy A26 tem oferta imperdível com cupom exclusivo no Mercado Livre</title>
+      <link>https://tecnoblog.net/achados/galaxy-a26-tem-oferta-imperdivel-com-cupom-exclusivo-no-mercado-livre/</link>
+      <description>Galaxy A26 de 256 GB possui tela Super AMOLED de 6,7 polegadas com taxa de 120 Hz, chip Exynos 1280 e suporte ao Galaxy AI; promoção é exclusiva para assinante Meli+</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-a26-tem-oferta-imperdivel-com-cupom-exclusivo-no-mercado-livre/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/04/galaxy-a26-5g-achados-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 14 Jul 2025 16:18:22 +0000</pubDate>
     </item>
   </channel>
 </rss>
