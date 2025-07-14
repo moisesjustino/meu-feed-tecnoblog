@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 14 Jul 2025 20:14:05 +0000</lastBuildDate>
-    <item>
-      <title>O que é Man-in-the-Middle? Conheça os principais tipos de ataque dessa ameaça</title>
-      <link>https://tecnoblog.net/responde/o-que-e-man-in-the-middle-conheca-os-principais-tipos-de-ataque-dessa-ameaca/</link>
-      <description>O objetivo de ataques Man-in-the-Middle é interceptar e manipular a comunicação entre duas partes sem o conhecimento das vítimas, visando o roubo de dados e espionagem</description>
-      <guid isPermaLink="false">https://tecnoblog.net/responde/o-que-e-man-in-the-middle-conheca-os-principais-tipos-de-ataque-dessa-ameaca/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2021/03/hacker-3342696_1920-e1614714640861-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 10 Jul 2025 17:14:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Galaxy A36 5G (256 GB) tem 52% OFF na melhor oferta desde lançamento</title>
-      <link>https://tecnoblog.net/achados/galaxy-a36-5g-256-gb-tem-52-off-na-melhor-oferta-desde-lancamento/</link>
-      <description>Galaxy A36 de 256 GB tem RAM de 8 GB, tela Super AMOLED de 120 Hz e processador Snapdragon 6 Gen 3; celular custa menos da metade do preço original no Mercado Livre</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-a36-5g-256-gb-tem-52-off-na-melhor-oferta-desde-lancamento/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/05/GalaxyA36-oferta-recomendada-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 10 Jul 2025 19:03:17 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 14 Jul 2025 21:11:49 +0000</lastBuildDate>
     <item>
       <title>Nintendo volta atrás e libera dono de Switch 2 banido por jogo usado</title>
       <link>https://tecnoblog.net/noticias/nintendo-volta-atras-e-libera-dono-de-switch-2-banido-por-jogo-usado/</link>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/desenvolvedor-usa-grok-4-para-criar-prototipo-de-game-completo/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/ilustracao-do-grok-da-xai-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 14 Jul 2025 19:05:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Galaxy Tab S10 Plus tem 38% OFF em até 10x em promoção da Amazon</title>
+      <link>https://tecnoblog.net/achados/galaxy-tab-s10-plus-tem-38-off-em-ate-10x-em-promocao-da-amazon/</link>
+      <description>Galaxy Tab S10 Plus (512 GB) é tablet Samsung com tela AMOLED Dinâmica de 12,4 polegadas, RAM de 12 GB e acompanha capa com teclado e caneta S Pen</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-tab-s10-plus-tem-38-off-em-ate-10x-em-promocao-da-amazon/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/Samsung-Galaxy-Tab-S10-Plus-tem-tela-AMOLED-de-124-polegadas-foto-Giovanni-Santa-RosaTecnoblog-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 14 Jul 2025 20:49:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Governo lança cadastro para combater venda de celulares roubados</title>
+      <link>https://tecnoblog.net/noticias/governo-lanca-cadastro-para-combater-venda-de-celulares-roubados/</link>
+      <description>Plataforma usa bases da Anatel e da segurança pública para ajudar na checagem de celulares antes da compra e inibir comércio irregular</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/governo-lanca-cadastro-para-combater-venda-de-celulares-roubados/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/12/celular-seguro-thassius-veloso-tecnoblog-1-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 14 Jul 2025 21:06:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
