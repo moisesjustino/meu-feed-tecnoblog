@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 14 Jul 2025 14:13:38 +0000</lastBuildDate>
-    <item>
-      <title>Esquenta Prime Day: Echo Dot e mais dispositivos Alexa têm até 29% OFF na Amazon</title>
-      <link>https://tecnoblog.net/achados/esquenta-prime-day-echo-dot-e-mais-amazon-com-alexa-tem-ate-29-off/</link>
-      <description>Echo Dot, Fire TV e mais dispositivos com Alexa tem oferta a partir de R$ 299 na Amazon durante o Esquenta Prime Day; descontos exclusivos têm opção de parcelamento</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/esquenta-prime-day-echo-dot-e-mais-amazon-com-alexa-tem-ate-29-off/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/06/amazon-echo-dot-4-4-2048x1152-achado-do-dia-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 10 Jul 2025 11:58:52 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 14 Jul 2025 15:13:36 +0000</lastBuildDate>
     <item>
       <title>Outlook fora do ar: e-mail da Microsoft volta a funcionar após falha</title>
       <link>https://tecnoblog.net/noticias/outlook-fora-do-ar-e-mail-da-microsoft-tem-falha-global-nesta-quinta-10/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/uso-de-ia-pode-atrapalhar-desenvolvedores-e-atrasar-tarefas-mostra-estudo/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/06/capas-iasartboard-2-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Fri, 11 Jul 2025 22:57:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Motorola dá três meses grátis de Perplexity Pro nos Razr 60 e Edge 60</title>
+      <link>https://tecnoblog.net/noticias/motorola-da-tres-meses-gratis-de-perplexity-pro-nos-razr-60-e-edge-60/</link>
+      <description>Parceria integra o Perplexity à Moto AI e garante acesso à versão profissional da ferramenta. Benefício é ativado na primeira configuração no celular.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/motorola-da-tres-meses-gratis-de-perplexity-pro-nos-razr-60-e-edge-60/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/04/razr-60-3-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 14 Jul 2025 15:11:53 +0000</pubDate>
     </item>
   </channel>
 </rss>
