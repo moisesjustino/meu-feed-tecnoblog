@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 14 Jul 2025 15:13:36 +0000</lastBuildDate>
-    <item>
-      <title>Outlook fora do ar: e-mail da Microsoft volta a funcionar após falha</title>
-      <link>https://tecnoblog.net/noticias/outlook-fora-do-ar-e-mail-da-microsoft-tem-falha-global-nesta-quinta-10/</link>
-      <description>Problema afeta site, cliente de desktop e apps para celular. Usuários estão com dificuldade para acessar suas caixas de entrada.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/outlook-fora-do-ar-e-mail-da-microsoft-tem-falha-global-nesta-quinta-10/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/03/capa-outlook_tb-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 10 Jul 2025 12:09:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>YouTube aperta o cerco contra vídeos repetitivos e feitos por IA</title>
-      <link>https://tecnoblog.net/noticias/youtube-aperta-o-cerco-contra-videos-repetitivos-e-feitos-por-ia/</link>
-      <description>Plataforma do Google vai alterar políticas de monetização para combater vídeos "produzidos em massa". Mudança começa em 15/07.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/youtube-aperta-o-cerco-contra-videos-repetitivos-e-feitos-por-ia/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/04/youtube-celular-3-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 10 Jul 2025 13:30:59 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 14 Jul 2025 16:15:33 +0000</lastBuildDate>
     <item>
       <title>Polícia Federal deflagra operação contra sites falsos do ENEM</title>
       <link>https://tecnoblog.net/noticias/policia-federal-deflagra-operacao-contra-sites-falsos-do-enem/</link>
@@ -217,12 +201,28 @@
       <pubDate>Fri, 11 Jul 2025 22:57:27 +0000</pubDate>
     </item>
     <item>
-      <title>Motorola dá três meses grátis de Perplexity Pro nos Razr 60 e Edge 60</title>
+      <title>Motorola libera acesso grátis ao Perplexity Pro nos Razr 60 e Edge 60</title>
       <link>https://tecnoblog.net/noticias/motorola-da-tres-meses-gratis-de-perplexity-pro-nos-razr-60-e-edge-60/</link>
-      <description>Parceria integra o Perplexity à Moto AI e garante acesso à versão profissional da ferramenta. Benefício é ativado na primeira configuração no celular.</description>
+      <description>Parceria integra a IA Perplexity à Moto AI e garante três meses de acesso à versão profissional da ferramenta. Benefício é ativado na primeira configuração no celular.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/motorola-da-tres-meses-gratis-de-perplexity-pro-nos-razr-60-e-edge-60/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/04/razr-60-3-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 14 Jul 2025 15:11:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google vai unificar Android e ChromeOS, diz executivo</title>
+      <link>https://tecnoblog.net/noticias/google-vai-unificar-android-e-chromeos-diz-executivo/</link>
+      <description>Declaração foi feita em conversa informal com jornalista. Fusão busca aproximar plataformas e competir com rivais como o iPad.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/google-vai-unificar-android-e-chromeos-diz-executivo/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/03/android-13-3-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 14 Jul 2025 15:18:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Primeiras impressões do Galaxy Z Fold 7</title>
+      <link>https://tecnoblog.net/noticias/primeiras-impressoes-do-galaxy-z-fold-7/</link>
+      <description>Com engenharia refinada, o novo smartphone dobrável da Samsung se destaca pelas telas maiores, corpo mais fino e um poderoso salto na câmera principal de 200 MP. A evolução, no entanto, cobra um preço mais alto e sacrifica o suporte à caneta S Pen.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/primeiras-impressoes-do-galaxy-z-fold-7/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/capa-24-horas-com-smartphone-b-thumbs-1-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 14 Jul 2025 15:45:50 +0000</pubDate>
     </item>
   </channel>
 </rss>
