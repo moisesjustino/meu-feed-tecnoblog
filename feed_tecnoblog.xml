@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 15 Jul 2025 15:11:37 +0000</lastBuildDate>
-    <item>
-      <title>Gemini ganha recurso para transformar fotos em vídeos usando Veo 3</title>
-      <link>https://tecnoblog.net/noticias/gemini-ganha-recurso-para-transformar-fotos-em-videos-usando-veo-3/</link>
-      <description>Ferramenta gera clipes de até 8 segundos a partir de imagens estáticas. Uso requer plano pago de IA e tem limites diários.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/gemini-ganha-recurso-para-transformar-fotos-em-videos-usando-veo-3/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/02/capa-gemini_tb-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 11 Jul 2025 14:52:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Windows 11 começa a receber a “Tela Preta da Morte”</title>
-      <link>https://tecnoblog.net/noticias/windows-11-comeca-a-receber-a-tela-preta-da-morte/</link>
-      <description>"Tela Azul da Morte" do Windows 11 está sendo substituída por versão com fundo preto. Mudança começou a ser liberada no Release Preview do sistema.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/windows-11-comeca-a-receber-a-tela-preta-da-morte/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/erro-windows-11-24h2-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 11 Jul 2025 16:28:30 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 15 Jul 2025 16:15:36 +0000</lastBuildDate>
     <item>
       <title>HBO Max esbarra em regra e não consegue mudar o nome no X/Twitter</title>
       <link>https://tecnoblog.net/noticias/hbo-max-esbarra-em-regra-e-nao-consegue-mudar-o-nome-no-x-twitter/</link>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/publieditoriais/liberty-4-nc-fones-da-soundcore-tem-som-caprichado-e-cancelamento-de-ruido/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/fones-liberty-4-nc-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 15 Jul 2025 13:00:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Governo estuda fim da taxa das blusinhas, diz site</title>
+      <link>https://tecnoblog.net/noticias/governo-estuda-fim-da-taxa-das-blusinhas-diz-site/</link>
+      <description>Decisão buscaria reduzir desgaste político e melhorar relação com a China. Taxa incide em compras de até US$ 50 e divide consumidores e varejistas.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/governo-estuda-fim-da-taxa-das-blusinhas-diz-site/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/05/shopee_capa-3_tb-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 15 Jul 2025 15:31:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Starlink aprova novo roteador Wi-Fi no Brasil</title>
+      <link>https://tecnoblog.net/noticias/starlink-aprova-novo-roteador-wi-fi-no-brasil/</link>
+      <description>Starlink UTR-251 foi aprovado pela FCC em abril e agora pela Anatel no Brasil. Equipamento é compatível com Wi-Fi 6 em frequências de 2,4 GHz a 5,8 GHz.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/starlink-aprova-novo-roteador-wi-fi-no-brasil/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/roteador-wifi-starlink-4-geracao-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 15 Jul 2025 16:08:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
