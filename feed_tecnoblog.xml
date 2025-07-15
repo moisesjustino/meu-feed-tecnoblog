@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 15 Jul 2025 12:25:06 +0000</lastBuildDate>
-    <item>
-      <title>Supercomputador brasileiro Santos Dumont recebe atualização e suporte à IA</title>
-      <link>https://tecnoblog.net/noticias/supercomputador-brasileiro-santos-dumont-recebe-atualizacao-e-suporte-a-ia/</link>
-      <description>Máquina do LNCC agora atinge 18,85 petaflops e usa hardware avançado da Nvidia, Intel e AMD. Upgrade faz parte dos investimentos para avanços em IA no país.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/supercomputador-brasileiro-santos-dumont-recebe-atualizacao-e-suporte-a-ia/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/supercomputador-santos-dumont-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 11 Jul 2025 12:47:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Jovi lança mais três celulares no Brasil; saiba os preços</title>
-      <link>https://tecnoblog.net/noticias/jovi-lanca-mais-tres-celulares-no-brasil-saiba-os-precos/</link>
-      <description>Jovi Y29s 5G é destaque com chip MediaTek Dimensity 6300 e bateria de 6.000 mAh. Jovi Y19s e Jovi Y29 LTE também foram anunciados.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/jovi-lanca-mais-tres-celulares-no-brasil-saiba-os-precos/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/jovi-y29-capa-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 11 Jul 2025 14:04:25 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 15 Jul 2025 13:31:06 +0000</lastBuildDate>
     <item>
       <title>Gemini ganha recurso para transformar fotos em vídeos usando Veo 3</title>
       <link>https://tecnoblog.net/noticias/gemini-ganha-recurso-para-transformar-fotos-em-videos-usando-veo-3/</link>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/amazon-prime-day-galaxy-a56-e-mais-celulares-samsung-com-ate-51-off/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/05/Galaxya56-achou-correu-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Tue, 15 Jul 2025 11:53:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Galaxy S25 (256 GB) tem 40% de desconto em até 12x no Amazon Prime Day</title>
+      <link>https://tecnoblog.net/achados/galaxy-s25-256-gb-tem-40-de-desconto-em-ate-12x-no-amazon-prime-day/</link>
+      <description>Samsung Galaxy S25 tem processador Snapdragon 8 Elite poderoso, câmera tripla com zoom óptico que filma em 8K e tela AMOLED de 120 Hz até 2.600 nits</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-s25-256-gb-tem-40-de-desconto-em-ate-12x-no-amazon-prime-day/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/galaxy-s24-traz-processador-snapdragon-8-elite-da-qualcomm-foto-thassius-velosotecnoblog-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 15 Jul 2025 12:45:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Liberty 4 NC: fones da Soundcore têm som caprichado e cancelamento de ruído</title>
+      <link>https://tecnoblog.net/publieditoriais/liberty-4-nc-fones-da-soundcore-tem-som-caprichado-e-cancelamento-de-ruido/</link>
+      <description>Fones sem fio Liberty 4 NC têm drivers de 11 mm, conectividade LDAC e tecnologia de cancelamento que reduz ruídos externos em até 98,5%.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/publieditoriais/liberty-4-nc-fones-da-soundcore-tem-som-caprichado-e-cancelamento-de-ruido/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/fones-liberty-4-nc-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 15 Jul 2025 13:00:50 +0000</pubDate>
     </item>
   </channel>
 </rss>
