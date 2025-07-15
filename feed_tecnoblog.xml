@@ -7,31 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 15 Jul 2025 18:18:04 +0000</lastBuildDate>
-    <item>
-      <title>CEO da Intel: é “tarde demais” para alcançar a concorrência em IA</title>
-      <link>https://tecnoblog.net/noticias/ceo-da-intel-e-tarde-demais-para-alcancar-a-concorrencia-em-ia/</link>
-      <description>Lip-Bu Tan, atual CEO, reconheceu a dificuldade da Intel em alcançar a concorrência em IA, uma aparente referência à Nvidia.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/ceo-da-intel-e-tarde-demais-para-alcancar-a-concorrencia-em-ia/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/03/lip-bu-tan-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 11 Jul 2025 18:53:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Galaxy S24 FE (128 GB) tem menor preço que já vimos com cupom no Magalu</title>
-      <link>https://tecnoblog.net/achados/galaxy-s24-fe-128-gb-tem-menor-preco-que-ja-vimos-com-cupom-no-magalu/</link>
-      <description>Galaxy S24 FE de 128 GB tem RAM de 8 GB, Exynos 2400e da Samsung e tela AMOLED de 120 Hz; celular está 45% mais barato no Magazine Luiza</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-s24-fe-128-gb-tem-menor-preco-que-ja-vimos-com-cupom-no-magalu/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/03/Galaxy-S24-FE-promete-7-anos-de-Android-foto-Giovanni-Santa-Rosa-Tecnoblog-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 11 Jul 2025 20:11:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Galaxy AI: Samsung garante que alguns recursos serão gratuitos para sempre</title>
-      <link>https://tecnoblog.net/noticias/galaxy-ai-samsung-garante-que-alguns-recursos-serao-gratuitos-para-sempre/</link>
-      <description>Funções desenvolvidas pela própria Samsung e embarcadas nos celulares, como Intérprete e Zoom Nightography, seguirão disponíveis sem custos</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/galaxy-ai-samsung-garante-que-alguns-recursos-serao-gratuitos-para-sempre/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/flip-e-fold-7-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 11 Jul 2025 20:21:35 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 15 Jul 2025 19:12:00 +0000</lastBuildDate>
     <item>
       <title>Windows 11 ganha função que faz sistema corrigir falhas sozinho</title>
       <link>https://tecnoblog.net/noticias/windows-11-ganha-funcao-que-faz-sistema-corrigir-falhas-sozinho/</link>
@@ -119,6 +95,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/desenvolvedor-usa-grok-4-para-criar-prototipo-de-game-completo/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/ilustracao-do-grok-da-xai-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 14 Jul 2025 19:05:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>O que é um app? Conheça os diferentes tipos de aplicativos</title>
+      <link>https://tecnoblog.net/responde/o-que-e-um-app-conheca-os-diferentes-tipos-de-aplicativos/</link>
+      <description>Um aplicativo serve para executar tarefas específicas e fornecer funções que auxiliam os usuários em diversas atividades, como comunicação, entretenimento e produtividade</description>
+      <guid isPermaLink="false">https://tecnoblog.net/responde/o-que-e-um-app-conheca-os-diferentes-tipos-de-aplicativos/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/10/threads-icone-aplicativo-ios-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 14 Jul 2025 19:09:13 +0000</pubDate>
     </item>
     <item>
       <title>Galaxy Tab S10 Plus tem 38% OFF em até 10x em promoção da Amazon</title>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/microsoft-testa-funcao-no-windows-11-para-melhorar-a-bateria-do-notebook/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/05/img_3826-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 15 Jul 2025 18:01:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Amazon Prime Day: notebooks Dell, Asus e mais têm descontos exclusivos</title>
+      <link>https://tecnoblog.net/achados/amazon-prime-day-notebooks-dell-asus-e-mais-tem-descontos-exclusivos/</link>
+      <description>Notebooks Dell e de outras marcas com armazenamento SSD e RAM de 8 GB têm descontos exclusivos e opção de parcelamento em no mínimo 10x durante o Amazon Prime Day</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/amazon-prime-day-notebooks-dell-asus-e-mais-tem-descontos-exclusivos/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/11/notebook-basico-dell-inspiron-15-imagem-divulgacaodell-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 15 Jul 2025 18:58:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Amazon Prime Day: TVs Samsung de 32” a 65” têm ofertas com até 43% OFF</title>
+      <link>https://tecnoblog.net/achados/amazon-prime-day-tvs-samsung-de-32-a-65-tem-ofertas-com-ate-43-off/</link>
+      <description>Amazon Prime Day tem promoções exclusivas de TVs Samsung QLED, OLED e Crystal UHD de 32 a 65 polegadas; ofertas em até 12x sem juros apenas para clientes Prime</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/amazon-prime-day-tvs-samsung-de-32-a-65-tem-ofertas-com-ate-43-off/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/tv-samsung-qled-l503c-32-achados-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 15 Jul 2025 19:00:10 +0000</pubDate>
     </item>
   </channel>
 </rss>
