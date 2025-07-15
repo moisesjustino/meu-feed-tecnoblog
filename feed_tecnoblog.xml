@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 15 Jul 2025 19:12:00 +0000</lastBuildDate>
-    <item>
-      <title>Windows 11 ganha função que faz sistema corrigir falhas sozinho</title>
-      <link>https://tecnoblog.net/noticias/windows-11-ganha-funcao-que-faz-sistema-corrigir-falhas-sozinho/</link>
-      <description>Quick Machine Recovery (Recuperação Rápida de Máquina) pode resolver problemas que impedem Windows 11 de inicializar corretamente.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/windows-11-ganha-funcao-que-faz-sistema-corrigir-falhas-sozinho/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/03/windows-11-3-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 11 Jul 2025 20:45:37 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 15 Jul 2025 20:14:02 +0000</lastBuildDate>
     <item>
       <title>O que é um roteador? Veja para que serve e como funciona o dispositivo de rede</title>
       <link>https://tecnoblog.net/responde/o-que-e-um-roteador-veja-para-que-serve-e-como-funciona-o-dispositivo-de-rede/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/amazon-prime-day-tvs-samsung-de-32-a-65-tem-ofertas-com-ate-43-off/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/tv-samsung-qled-l503c-32-achados-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Tue, 15 Jul 2025 19:00:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Grok: xAI diz que consertou comportamento preconceituoso da IA</title>
+      <link>https://tecnoblog.net/noticias/grok-4-xai-diz-que-consertou-comportamento-preconceituoso-da-ia/</link>
+      <description>Respostas problemáticas do Grok incluíam declarações antissemitas e controvérsias envolvendo Elon Musk. xAI anunciou que fez alterações na IA para prevenir problema.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/grok-4-xai-diz-que-consertou-comportamento-preconceituoso-da-ia/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/11/grok-edited-340x191.webp" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 15 Jul 2025 20:06:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
