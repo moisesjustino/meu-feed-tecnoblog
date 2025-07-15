@@ -7,39 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 15 Jul 2025 11:11:18 +0000</lastBuildDate>
-    <item>
-      <title>Uber expande conta sênior para todo o Brasil</title>
-      <link>https://tecnoblog.net/noticias/uber-expande-conta-senior-para-todo-o-brasil/</link>
-      <description>Uber lançou conta sênior no Brasil para tornar aplicativo mais acessível a idosos. Recurso passou por testes em algumas capitais e será expandido para o país inteiro.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/uber-expande-conta-senior-para-todo-o-brasil/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/06/uber_capa-2_tb-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 10 Jul 2025 19:51:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>O que é Internet das Coisas (IoT)? Entenda como funciona e veja exemplos de aplicações</title>
-      <link>https://tecnoblog.net/responde/o-que-e-internet-das-coisas-iot-entenda-como-funciona-e-veja-exemplos-de-aplicacoes/</link>
-      <description>A Internet das Coisas tem potencial para tornar vários setores mais eficientes, como Indústria, Saúde, Agricultura, Varejo e Meio Urbano</description>
-      <guid isPermaLink="false">https://tecnoblog.net/responde/o-que-e-internet-das-coisas-iot-entenda-como-funciona-e-veja-exemplos-de-aplicacoes/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/10/capa-internet-das-coisas-tbr-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 10 Jul 2025 20:40:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Galaxy S24 FE (256 GB) fica 47% mais barato em oferta no Magalu</title>
-      <link>https://tecnoblog.net/achados/galaxy-s24-fe-256-gb-fica-47-mais-barato-em-oferta-no-magalu/</link>
-      <description>Galaxy S24 FE apresenta tela AMOLED Dinâmico 2x de 6,7 polegadas, processador Exynos 2400e e câmera de 50 MP que grava em 8K; oferta do celular da Samsung é exclusiva no Pix</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-s24-fe-256-gb-fica-47-mais-barato-em-oferta-no-magalu/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/04/Galaxy-S24-FE-tem-tela-AMOLED-foto-Giovanni-Santa-RosaTecnoblog-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 10 Jul 2025 21:55:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Alexa dá pau e para de controlar Spotify e outros dispositivos</title>
-      <link>https://tecnoblog.net/noticias/alexa-da-pau-e-para-de-controlar-spotify-e-outros-dispositivos/</link>
-      <description>Usuários postaram reclamações nas redes sociais. A Amazon ainda não se pronunciou sobre o assunto.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/alexa-da-pau-e-para-de-controlar-spotify-e-outros-dispositivos/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/02/Echo-Dot-4_Capa_TB-edited-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 10 Jul 2025 22:13:20 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 15 Jul 2025 12:25:06 +0000</lastBuildDate>
     <item>
       <title>Supercomputador brasileiro Santos Dumont recebe atualização e suporte à IA</title>
       <link>https://tecnoblog.net/noticias/supercomputador-brasileiro-santos-dumont-recebe-atualizacao-e-suporte-a-ia/</link>
@@ -127,6 +95,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/windows-11-ganha-funcao-que-faz-sistema-corrigir-falhas-sozinho/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/03/windows-11-3-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Fri, 11 Jul 2025 20:45:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>O que é um roteador? Veja para que serve e como funciona o dispositivo de rede</title>
+      <link>https://tecnoblog.net/responde/o-que-e-um-roteador-veja-para-que-serve-e-como-funciona-o-dispositivo-de-rede/</link>
+      <description>Um roteador atua como um controlador de tráfego, conectando múltiplas redes de computador, encaminhando pacotes de dados e direcionando informações</description>
+      <guid isPermaLink="false">https://tecnoblog.net/responde/o-que-e-um-roteador-veja-para-que-serve-e-como-funciona-o-dispositivo-de-rede/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/03/roteadores-3_capa_tb-340x191.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 11 Jul 2025 20:52:46 +0000</pubDate>
     </item>
     <item>
       <title>Galaxy S25 Edge (512 GB) tem o menor preço desde lançamento na Amazon</title>
@@ -223,6 +199,30 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/meta-esta-construindo-mega-data-centers-para-ia-anuncia-zuckerberg/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/02/Capa-Mark-Zuckerberg-04-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 14 Jul 2025 21:35:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kindle e Kindle Paperwhite têm 26% de desconto no Amazon Prime Day</title>
+      <link>https://tecnoblog.net/achados/kindle-e-kindle-paperwhite-tem-26-de-desconto-no-amazon-prime-day/</link>
+      <description>Prime Day traz descontos exclusivos para os e-readers Kindle, Kindle Paperwhite e Signature Edition; ofertas com parcelamento em até 10x ou 12x começam a partir de R$ 479</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/kindle-e-kindle-paperwhite-tem-26-de-desconto-no-amazon-prime-day/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/05/Kindle-2024-tem-tela-tao-brilhante-quanto-a-do-Paperwhite-foto-Laura-CanalTecnoblog-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 15 Jul 2025 11:21:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Galaxy A36 5G (128 GB) tem 41% OFF em até 12x no Amazon Prime Day</title>
+      <link>https://tecnoblog.net/achados/galaxy-a36-5g-128-gb-tem-41-off-em-ate-12x-no-amazon-prime-day/</link>
+      <description>Galaxy A36 5G sai por menos de R$ 1.600 em oferta exclusiva, e traz chip Snapdragon e tela AMOLED de 120 Hz na ficha técnica</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-a36-5g-128-gb-tem-41-off-em-ate-12x-no-amazon-prime-day/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/05/GalaxyA36-oferta-recomendada-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 15 Jul 2025 11:30:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Amazon Prime Day: Galaxy A56 e mais celulares Samsung com até 51% OFF</title>
+      <link>https://tecnoblog.net/achados/amazon-prime-day-galaxy-a56-e-mais-celulares-samsung-com-ate-51-off/</link>
+      <description>Galazy A56 (256 GB), Z Fold 6 (256 GB) e mais smartphones Samsung têm descontos exclusivos e opção de parcelamento para assinantes Amazon Prime; confira destaques</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/amazon-prime-day-galaxy-a56-e-mais-celulares-samsung-com-ate-51-off/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/05/Galaxya56-achou-correu-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 15 Jul 2025 11:53:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
