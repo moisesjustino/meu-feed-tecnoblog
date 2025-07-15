@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 15 Jul 2025 20:14:02 +0000</lastBuildDate>
-    <item>
-      <title>O que é um roteador? Veja para que serve e como funciona o dispositivo de rede</title>
-      <link>https://tecnoblog.net/responde/o-que-e-um-roteador-veja-para-que-serve-e-como-funciona-o-dispositivo-de-rede/</link>
-      <description>Um roteador atua como um controlador de tráfego, conectando múltiplas redes de computador, encaminhando pacotes de dados e direcionando informações</description>
-      <guid isPermaLink="false">https://tecnoblog.net/responde/o-que-e-um-roteador-veja-para-que-serve-e-como-funciona-o-dispositivo-de-rede/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/03/roteadores-3_capa_tb-340x191.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 11 Jul 2025 20:52:46 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 15 Jul 2025 21:10:50 +0000</lastBuildDate>
     <item>
       <title>Galaxy S25 Edge (512 GB) tem o menor preço desde lançamento na Amazon</title>
       <link>https://tecnoblog.net/achados/galaxy-s25-edge-512-gb-tem-o-menor-preco-desde-lancamento-na-amazon/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/grok-4-xai-diz-que-consertou-comportamento-preconceituoso-da-ia/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/11/grok-edited-340x191.webp" length="0" type="image/jpeg"/>
       <pubDate>Tue, 15 Jul 2025 20:06:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Facebook também vai barrar conteúdo inautêntico criado por IA</title>
+      <link>https://tecnoblog.net/noticias/facebook-vai-barrar-conteudo-inautentico-criado-por-ia/</link>
+      <description>Plataforma deve cortar monetização de contas que usem indevidamente conteúdo de terceiros e limitar alcance de posts. Movimento segue linha parecida à do YouTube.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/facebook-vai-barrar-conteudo-inautentico-criado-por-ia/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/11/facebook-capa-4-nov-2022-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 15 Jul 2025 20:18:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
