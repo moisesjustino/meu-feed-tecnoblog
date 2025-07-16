@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 16 Jul 2025 14:11:54 +0000</lastBuildDate>
-    <item>
-      <title>Testamos o novo Galaxy Z Fold 7 por 24 horas; confira nossas impressões</title>
-      <link>https://tecnoblog.net/noticias/primeiras-impressoes-do-galaxy-z-fold-7/</link>
-      <description>Com engenharia refinada, o novo smartphone dobrável da Samsung se destaca pelas telas maiores e corpo mais fino. A evolução, no entanto, cobra um preço mais alto e sacrifica a caneta S Pen.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/primeiras-impressoes-do-galaxy-z-fold-7/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/capa-24-horas-com-smartphone-b-thumbs-1-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 14 Jul 2025 15:45:50 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 16 Jul 2025 15:13:16 +0000</lastBuildDate>
     <item>
       <title>Galaxy A26 tem oferta imperdível com cupom exclusivo no Mercado Livre</title>
       <link>https://tecnoblog.net/achados/galaxy-a26-tem-oferta-imperdivel-com-cupom-exclusivo-no-mercado-livre/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/samsung-galaxy-ai-estara-em-400-milhoes-de-dispositivos-ate-o-fim-do-ano/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/01/img_1372-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Wed, 16 Jul 2025 13:25:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft 365 deixará de receber novas funções no Windows 10 em 2026</title>
+      <link>https://tecnoblog.net/noticias/microsoft-365-deixara-de-receber-novas-funcoes-no-windows-10-em-2026/</link>
+      <description>Ferramentas como Word, Excel e PowerPoint receberão novas funcionalidades somente até agosto de 2026 em computadores com Windows 10.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/microsoft-365-deixara-de-receber-novas-funcoes-no-windows-10-em-2026/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/01/microsoft-office-365-personal-28-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 16 Jul 2025 14:28:57 +0000</pubDate>
     </item>
   </channel>
 </rss>
