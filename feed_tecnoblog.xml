@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 16 Jul 2025 18:17:40 +0000</lastBuildDate>
-    <item>
-      <title>O que é um app? Conheça os diferentes tipos de aplicativos</title>
-      <link>https://tecnoblog.net/responde/o-que-e-um-app-conheca-os-diferentes-tipos-de-aplicativos/</link>
-      <description>Um aplicativo serve para executar tarefas específicas e fornecer funções que auxiliam os usuários em diversas atividades, como comunicação, entretenimento e produtividade</description>
-      <guid isPermaLink="false">https://tecnoblog.net/responde/o-que-e-um-app-conheca-os-diferentes-tipos-de-aplicativos/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/10/threads-icone-aplicativo-ios-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 14 Jul 2025 19:09:13 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 16 Jul 2025 19:11:42 +0000</lastBuildDate>
     <item>
       <title>Galaxy Tab S10 Plus tem 38% OFF em até 10x em promoção da Amazon</title>
       <link>https://tecnoblog.net/achados/galaxy-tab-s10-plus-tem-38-off-em-ate-10x-em-promocao-da-amazon/</link>
@@ -65,7 +57,7 @@
       <pubDate>Tue, 15 Jul 2025 11:53:30 +0000</pubDate>
     </item>
     <item>
-      <title>Galaxy S25 (256 GB) tem 40% de desconto em até 12x no Amazon Prime Day</title>
+      <title>Galaxy S25 (256 GB) tem 41% de desconto em até 12x no Amazon Prime Day</title>
       <link>https://tecnoblog.net/achados/galaxy-s25-256-gb-tem-40-de-desconto-em-ate-12x-no-amazon-prime-day/</link>
       <description>Samsung Galaxy S25 tem processador Snapdragon 8 Elite poderoso, câmera tripla com zoom óptico que filma em 8K e tela AMOLED de 120 Hz até 2.600 nits</description>
       <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-s25-256-gb-tem-40-de-desconto-em-ate-12x-no-amazon-prime-day/</guid>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/tarifa-do-brasil-contra-eua-sera-devastadora-para-setor-de-tic-alerta-empresario/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/data-center-elea-digital-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Wed, 16 Jul 2025 17:36:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Estúdio de Candy Crush está trocando funcionários por IA que eles criaram</title>
+      <link>https://tecnoblog.net/noticias/estudio-de-candy-crush-esta-trocando-funcionarios-por-ia-que-eles-criaram/</link>
+      <description>Cortes na King, estúdio de Candy Crush, devem afetar cerca de 200 funcionários, que estariam sendo substituídos por ferramentas internas de IA.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/estudio-de-candy-crush-esta-trocando-funcionarios-por-ia-que-eles-criaram/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2021/08/candy-crush-saga-340x191.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 16 Jul 2025 19:02:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
