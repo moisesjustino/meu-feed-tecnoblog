@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 16 Jul 2025 12:24:57 +0000</lastBuildDate>
-    <item>
-      <title>Google vai unificar Android e ChromeOS, diz executivo</title>
-      <link>https://tecnoblog.net/noticias/google-vai-unificar-android-e-chromeos-diz-executivo/</link>
-      <description>Declaração foi feita em conversa informal com jornalista. Fusão busca aproximar plataformas e competir com rivais como o iPad.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/google-vai-unificar-android-e-chromeos-diz-executivo/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/03/android-13-3-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 14 Jul 2025 15:18:25 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 16 Jul 2025 13:31:46 +0000</lastBuildDate>
     <item>
       <title>Testamos o novo Galaxy Z Fold 7 por 24 horas; confira nossas impressões</title>
       <link>https://tecnoblog.net/noticias/primeiras-impressoes-do-galaxy-z-fold-7/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/anatel-desativa-mais-uma-antena-falsa-usada-para-golpes-via-sms/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/deteccao-sinal-erb-fake-anatel-340x191.jpeg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 15 Jul 2025 22:40:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Samsung: Galaxy AI estará em 400 milhões de dispositivos até o fim do ano</title>
+      <link>https://tecnoblog.net/noticias/samsung-galaxy-ai-estara-em-400-milhoes-de-dispositivos-ate-o-fim-do-ano/</link>
+      <description>Meta é levar o Galaxy AI a mais aparelhos até o fim de 2025. IA é adotada por usuários de modelos topo de linha, mas não é decisiva na compra de celulares no Brasil.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/samsung-galaxy-ai-estara-em-400-milhoes-de-dispositivos-ate-o-fim-do-ano/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/01/img_1372-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 16 Jul 2025 13:25:37 +0000</pubDate>
     </item>
   </channel>
 </rss>
