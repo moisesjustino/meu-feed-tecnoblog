@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 17 Jul 2025 18:17:47 +0000</lastBuildDate>
-    <item>
-      <title>Amazon Prime Day: notebooks Dell, Asus e mais têm descontos exclusivos</title>
-      <link>https://tecnoblog.net/achados/amazon-prime-day-notebooks-dell-asus-e-mais-tem-descontos-exclusivos/</link>
-      <description>Notebooks Dell e de outras marcas com armazenamento SSD e RAM de 8 GB têm descontos exclusivos e opção de parcelamento em no mínimo 10x durante o Amazon Prime Day</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/amazon-prime-day-notebooks-dell-asus-e-mais-tem-descontos-exclusivos/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/11/notebook-basico-dell-inspiron-15-imagem-divulgacaodell-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 15 Jul 2025 18:58:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Amazon Prime Day: TVs Samsung de 32” a 65” têm ofertas com até 43% OFF</title>
-      <link>https://tecnoblog.net/achados/amazon-prime-day-tvs-samsung-de-32-a-65-tem-ofertas-com-ate-43-off/</link>
-      <description>Amazon Prime Day tem promoções exclusivas de TVs Samsung QLED, OLED e Crystal UHD de 32 a 65 polegadas; ofertas em até 12x sem juros apenas para clientes Prime</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/amazon-prime-day-tvs-samsung-de-32-a-65-tem-ofertas-com-ate-43-off/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/tv-samsung-qled-l503c-32-achados-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 15 Jul 2025 19:00:10 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 17 Jul 2025 19:11:54 +0000</lastBuildDate>
     <item>
       <title>O que é Debian? Conheça as vantagens do sistema operacional baseado em Linux</title>
       <link>https://tecnoblog.net/responde/o-que-e-debian-conheca-as-vantagens-do-sistema-operacional-baseado-em-linux/</link>
@@ -111,6 +95,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/moto-g86-com-tela-poled-tem-oferta-exclusiva-em-ate-12x-no-amazon-prime-day/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/moto-g86-achados-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Wed, 16 Jul 2025 16:21:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>O que é o Content ID do YouTube? Saiba como funciona o sistema de identificação do Google</title>
+      <link>https://tecnoblog.net/responde/o-que-e-o-content-id-do-youtube-saiba-como-funciona-o-sistema-de-identificacao-do-google/</link>
+      <description>O Content ID do YouTube permite que detentores de direitos autorais identifiquem e gerenciam o uso das obras em vídeos da plataforma</description>
+      <guid isPermaLink="false">https://tecnoblog.net/responde/o-que-e-o-content-id-do-youtube-saiba-como-funciona-o-sistema-de-identificacao-do-google/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/04/Capas-Youtube-02-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 16 Jul 2025 17:02:40 +0000</pubDate>
     </item>
     <item>
       <title>Tarifa do Brasil contra EUA será “devastadora” para setor de TIC, alerta empresário</title>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/mercedes-benz-integra-microsoft-teams-para-permitir-reunioes-enquanto-dirige/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/25c0198_002-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Thu, 17 Jul 2025 17:23:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>AMD lança chip Ryzen Threadripper de 96 núcleos por US$ 11.699</title>
+      <link>https://tecnoblog.net/noticias/amd-lanca-chip-ryzen-threadripper-de-96-nucleos-por-us-11-699/</link>
+      <description>AMD renovou linha Ryzen Threadripper PRO. São cinco chips Zen 5, com o Ryzen Threadripper PRO 9995WX se destacando com seus 96 núcleos.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/amd-lanca-chip-ryzen-threadripper-de-96-nucleos-por-us-11-699/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/amd-ryzen-threadripper-9000-series-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 17 Jul 2025 18:54:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
