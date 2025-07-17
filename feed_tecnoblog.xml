@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 17 Jul 2025 17:12:56 +0000</lastBuildDate>
-    <item>
-      <title>Microsoft testa função no Windows 11 para melhorar a bateria do notebook</title>
-      <link>https://tecnoblog.net/noticias/microsoft-testa-funcao-no-windows-11-para-melhorar-a-bateria-do-notebook/</link>
-      <description>Windows 11 terá modo de "economia de energia adaptável" para otimizar a bateria. Funcionalidade reduz consumo sem diminuir o brilho da tela.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/microsoft-testa-funcao-no-windows-11-para-melhorar-a-bateria-do-notebook/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/05/img_3826-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 15 Jul 2025 18:01:43 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 17 Jul 2025 18:17:47 +0000</lastBuildDate>
     <item>
       <title>Amazon Prime Day: notebooks Dell, Asus e mais têm descontos exclusivos</title>
       <link>https://tecnoblog.net/achados/amazon-prime-day-notebooks-dell-asus-e-mais-tem-descontos-exclusivos/</link>
@@ -213,7 +205,7 @@
       <link>https://tecnoblog.net/noticias/delta-adota-ia-para-cobrar-mais-de-passageiros-de-aviao/</link>
       <description>Tecnologia será usada em tempo real para estimar quanto cada passageiro está disposto a pagar. Meta é atingir 20% das vendas até o fim do ano.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/delta-adota-ia-para-cobrar-mais-de-passageiros-de-aviao/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/08/cabine-aviao-suhyeon-choi-unsplash-e1693431615304-340x191.jpg" length="0" type="image/jpeg"/>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/aviao-aerojet-unsplash-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Thu, 17 Jul 2025 16:09:06 +0000</pubDate>
     </item>
     <item>
@@ -221,8 +213,16 @@
       <link>https://tecnoblog.net/noticias/wetransfer-promete-que-dados-pessoais-nao-serao-usados-para-treinar-ia/</link>
       <description>Após críticas aos novos termos, WeTransfer diz que não mudou forma de tratar dados. Empresa de compartilhamento em nuvem nega uso de arquivos para treinar IA.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/wetransfer-promete-que-dados-pessoais-nao-serao-usados-para-treinar-ia/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/06/ia-4-340x191.png" length="0" type="image/jpeg"/>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/wetransfer-edited-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Thu, 17 Jul 2025 16:24:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mercedes-Benz integra Microsoft Teams para permitir reuniões enquanto dirige</title>
+      <link>https://tecnoblog.net/noticias/mercedes-benz-integra-microsoft-teams-para-permitir-reunioes-enquanto-dirige/</link>
+      <description>Recurso permite entrar em chamadas da plataforma durante o trajeto. Novidade estreia no novo CLA, mas pode chegar a outros veículos com o sistema MB.OS.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/mercedes-benz-integra-microsoft-teams-para-permitir-reunioes-enquanto-dirige/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/25c0198_002-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 17 Jul 2025 17:23:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
