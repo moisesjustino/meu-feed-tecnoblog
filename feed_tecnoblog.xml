@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 17 Jul 2025 13:31:27 +0000</lastBuildDate>
-    <item>
-      <title>Galaxy S25 (256 GB) tem 41% de desconto em até 12x no Amazon Prime Day</title>
-      <link>https://tecnoblog.net/achados/galaxy-s25-256-gb-tem-40-de-desconto-em-ate-12x-no-amazon-prime-day/</link>
-      <description>Samsung Galaxy S25 tem processador Snapdragon 8 Elite poderoso, câmera tripla com zoom óptico que filma em 8K e tela AMOLED de 120 Hz até 2.600 nits</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-s25-256-gb-tem-40-de-desconto-em-ate-12x-no-amazon-prime-day/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/galaxy-s24-traz-processador-snapdragon-8-elite-da-qualcomm-foto-thassius-velosotecnoblog-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 15 Jul 2025 12:45:57 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 17 Jul 2025 14:11:44 +0000</lastBuildDate>
     <item>
       <title>Liberty 4 NC: fones da Soundcore têm som caprichado e cancelamento de ruído</title>
       <link>https://tecnoblog.net/publieditoriais/liberty-4-nc-fones-da-soundcore-tem-som-caprichado-e-cancelamento-de-ruido/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/whatsapp-facilita-contato-com-a-equipe-de-suporte-tecnico/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/whatsapp-capa-3-edited-1-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Thu, 17 Jul 2025 08:22:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Youtuber italiano pode ser preso por vídeos de emuladores de jogos</title>
+      <link>https://tecnoblog.net/noticias/youtuber-italiano-pode-ser-preso-por-videos-de-emuladores-de-jogos/</link>
+      <description>Francesco Salicini, criador do canal Once Were Nerd, é investigado pela Guardia di Finanza por suposta promoção de pirataria de jogos.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/youtuber-italiano-pode-ser-preso-por-videos-de-emuladores-de-jogos/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/once-were-nerd-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 17 Jul 2025 13:42:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
