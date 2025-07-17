@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 17 Jul 2025 16:15:36 +0000</lastBuildDate>
-    <item>
-      <title>Nvidia vai retomar vendas de GPUs para a China após sinal verde dos EUA</title>
-      <link>https://tecnoblog.net/noticias/nvidia-vai-retomar-vendas-de-gpus-para-a-china-apos-sinal-verde-dos-eua/</link>
-      <description>Decisão é vista como vitória parcial para o CEO Jensen Huang, que criticava as barreiras comerciais. GPUs H20 devem retornar para o mercado chinês em breve.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/nvidia-vai-retomar-vendas-de-gpus-para-a-china-apos-sinal-verde-dos-eua/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/05/nvidia-video_capa-1_tb-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 15 Jul 2025 17:50:25 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 17 Jul 2025 17:12:56 +0000</lastBuildDate>
     <item>
       <title>Microsoft testa função no Windows 11 para melhorar a bateria do notebook</title>
       <link>https://tecnoblog.net/noticias/microsoft-testa-funcao-no-windows-11-para-melhorar-a-bateria-do-notebook/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/delta-adota-ia-para-cobrar-mais-de-passageiros-de-aviao/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/08/cabine-aviao-suhyeon-choi-unsplash-e1693431615304-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Thu, 17 Jul 2025 16:09:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>WeTransfer promete que dados pessoais não serão usados para treinar IA</title>
+      <link>https://tecnoblog.net/noticias/wetransfer-promete-que-dados-pessoais-nao-serao-usados-para-treinar-ia/</link>
+      <description>Após críticas aos novos termos, WeTransfer diz que não mudou forma de tratar dados. Empresa de compartilhamento em nuvem nega uso de arquivos para treinar IA.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/wetransfer-promete-que-dados-pessoais-nao-serao-usados-para-treinar-ia/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/06/ia-4-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 17 Jul 2025 16:24:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
