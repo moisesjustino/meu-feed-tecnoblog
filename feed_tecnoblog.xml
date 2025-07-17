@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 17 Jul 2025 08:17:26 +0000</lastBuildDate>
-    <item>
-      <title>Amazon Prime Day: Galaxy A56 e mais celulares Samsung com até 51% OFF</title>
-      <link>https://tecnoblog.net/achados/amazon-prime-day-galaxy-a56-e-mais-celulares-samsung-com-ate-51-off/</link>
-      <description>Galazy A56 (256 GB), Z Fold 6 (256 GB) e mais smartphones Samsung têm descontos exclusivos e opção de parcelamento para assinantes Amazon Prime; confira destaques</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/amazon-prime-day-galaxy-a56-e-mais-celulares-samsung-com-ate-51-off/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/05/Galaxya56-achou-correu-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 15 Jul 2025 11:53:30 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 17 Jul 2025 09:16:35 +0000</lastBuildDate>
     <item>
       <title>Galaxy S25 (256 GB) tem 41% de desconto em até 12x no Amazon Prime Day</title>
       <link>https://tecnoblog.net/achados/galaxy-s25-256-gb-tem-40-de-desconto-em-ate-12x-no-amazon-prime-day/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/xbox-testa-funcao-para-transmitir-jogos-do-console-para-o-pc/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/xbox-jogos-pc-340x191.webp" length="0" type="image/jpeg"/>
       <pubDate>Wed, 16 Jul 2025 22:49:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>WhatsApp facilita contato com a equipe de suporte técnico</title>
+      <link>https://tecnoblog.net/noticias/whatsapp-facilita-contato-com-a-equipe-de-suporte-tecnico/</link>
+      <description>Mudança pretende agilizar a resolução de problemas no app e já está disponível para usuários no iOS, Android e PC. Respostas iniciais são dadas por IA.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/whatsapp-facilita-contato-com-a-equipe-de-suporte-tecnico/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/whatsapp-capa-3-edited-1-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 17 Jul 2025 08:22:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
