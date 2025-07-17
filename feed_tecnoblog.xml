@@ -7,31 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 17 Jul 2025 19:11:54 +0000</lastBuildDate>
-    <item>
-      <title>O que é Debian? Conheça as vantagens do sistema operacional baseado em Linux</title>
-      <link>https://tecnoblog.net/responde/o-que-e-debian-conheca-as-vantagens-do-sistema-operacional-baseado-em-linux/</link>
-      <description>Debian é um sistema operacional de código aberto com foco em estabilidade, segurança e ampla biblioteca de softwares, servindo de base para diversas distribuições Linux</description>
-      <guid isPermaLink="false">https://tecnoblog.net/responde/o-que-e-debian-conheca-as-vantagens-do-sistema-operacional-baseado-em-linux/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/05/Capa-TBR-Debian-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 15 Jul 2025 19:33:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Grok: xAI diz que consertou comportamento preconceituoso da IA</title>
-      <link>https://tecnoblog.net/noticias/grok-4-xai-diz-que-consertou-comportamento-preconceituoso-da-ia/</link>
-      <description>Respostas problemáticas do Grok incluíam declarações antissemitas e controvérsias envolvendo Elon Musk. xAI anunciou que fez alterações na IA para prevenir problema.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/grok-4-xai-diz-que-consertou-comportamento-preconceituoso-da-ia/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/11/grok-edited-340x191.webp" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 15 Jul 2025 20:06:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Facebook também vai barrar conteúdo inautêntico criado por IA</title>
-      <link>https://tecnoblog.net/noticias/facebook-vai-barrar-conteudo-inautentico-criado-por-ia/</link>
-      <description>Plataforma deve cortar monetização de contas que usem indevidamente conteúdo de terceiros e limitar alcance de posts. Movimento segue linha parecida à do YouTube.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/facebook-vai-barrar-conteudo-inautentico-criado-por-ia/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/11/facebook-capa-4-nov-2022-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 15 Jul 2025 20:18:47 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 17 Jul 2025 21:11:40 +0000</lastBuildDate>
     <item>
       <title>iPhone 15 Plus (512GB) atinge menor preço histórico em 10x no Prime Day</title>
       <link>https://tecnoblog.net/achados/iphone-15-plus-512gb-atinge-menor-preco-historico-em-10x-no-prime-day/</link>
@@ -111,6 +87,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/tarifa-do-brasil-contra-eua-sera-devastadora-para-setor-de-tic-alerta-empresario/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/data-center-elea-digital-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Wed, 16 Jul 2025 17:36:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>O que é linguagem de marcação? Entenda para que serve e veja exemplos de linguagens</title>
+      <link>https://tecnoblog.net/responde/o-que-e-linguagem-de-marcacao-entenda-para-que-serve-e-veja-exemplos-de-linguagens/</link>
+      <description>Linguagens de marcação como HTML e XML podem ser usadas na estruturação de páginas da web, arquivos de texto e documentos</description>
+      <guid isPermaLink="false">https://tecnoblog.net/responde/o-que-e-linguagem-de-marcacao-entenda-para-que-serve-e-veja-exemplos-de-linguagens/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2021/02/o_que_e_html_pixabay-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 16 Jul 2025 18:28:51 +0000</pubDate>
     </item>
     <item>
       <title>Estúdio de Candy Crush está trocando funcionários por IA que eles mesmos criaram</title>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/amd-lanca-chip-ryzen-threadripper-de-96-nucleos-por-us-11-699/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/amd-ryzen-threadripper-9000-series-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Thu, 17 Jul 2025 18:54:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Empresas de mídia derrubam site que burlava paywalls</title>
+      <link>https://tecnoblog.net/noticias/empresas-de-midia-derrubam-site-que-burlava-paywalls/</link>
+      <description>12ft.io, popular para contornar paywalls na internet, foi derrubado após ação da News/Media Alliance. Usuários já relatavam instabilidade há dias.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/empresas-de-midia-derrubam-site-que-burlava-paywalls/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/12ftio-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 17 Jul 2025 20:27:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Firefox finalmente ganha suporte a WebGPU (e o que é isso?)</title>
+      <link>https://tecnoblog.net/noticias/firefox-finalmente-ganha-suporte-a-webgpu-e-o-que-e-isso/</link>
+      <description>Firefox 141 chega em 22 de julho de 2025 e promete suporte à API WebGPU. Novidade permite uso da GPU para tarefas avançadas.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/firefox-finalmente-ganha-suporte-a-webgpu-e-o-que-e-isso/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/06/firefox-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 17 Jul 2025 20:44:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
