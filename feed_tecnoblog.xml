@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 18 Jul 2025 22:11:52 +0000</lastBuildDate>
-    <item>
-      <title>Prime Day: Huawei Watch 5 e mais relógios inteligentes com até 50% OFF</title>
-      <link>https://tecnoblog.net/achados/prime-day-huawei-watch-5-e-mais-relogios-inteligentes-com-ate-50-off/</link>
-      <description>Huawei Watch 5, Huawei Band 10 e mais smartwatches da marca estão com descontos exclusivos e opção de parcelamento em até 12x para assinantes no Amazon Prime Day</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/prime-day-huawei-watch-5-e-mais-relogios-inteligentes-com-ate-50-off/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/huawei-watch-5-tem-visor-curvo-foto-thassius-velosotecnoblog-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 16 Jul 2025 19:19:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Exclusivo: JBL homologa soundbar e caixa de som inédita na Anatel; veja fotos</title>
-      <link>https://tecnoblog.net/noticias/exclusivo-jbl-homologa-soundbar-e-caixa-de-som-inedita-na-anatel-veja-fotos/</link>
-      <description>Com a certificação, JBL Grip e JBL Bar 1000 MK2 já podem ser vendidas no Brasil. Caixa de som tem luzes customizáveis, enquanto soundbar terá som surround de 960 W.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/exclusivo-jbl-homologa-soundbar-e-caixa-de-som-inedita-na-anatel-veja-fotos/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/ls_jbl_bar_1000mk2_front_0164_x4-edited-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 16 Jul 2025 19:46:27 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 18 Jul 2025 23:12:02 +0000</lastBuildDate>
     <item>
       <title>Samsung pode adotar tecnologia similar ao MagSafe na linha Galaxy</title>
       <link>https://tecnoblog.net/noticias/samsung-pode-adotar-tecnologia-similar-ao-magsafe-na-linha-galaxy/</link>
@@ -111,6 +95,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/mercedes-benz-integra-microsoft-teams-para-permitir-reunioes-enquanto-dirige/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/25c0198_002-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Thu, 17 Jul 2025 17:23:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>O que é linguagem de programação? Conheça as mais usadas no desenvolvimento de software</title>
+      <link>https://tecnoblog.net/responde/o-que-e-linguagem-de-programacao-conheca-as-mais-usadas-no-desenvolvimento-de-software/</link>
+      <description>Linguagens de programação como Python, C# e Java podem ser usadas no desenvolvimento de aplicativos, softwares, páginas da web e até IA</description>
+      <guid isPermaLink="false">https://tecnoblog.net/responde/o-que-e-linguagem-de-programacao-conheca-as-mais-usadas-no-desenvolvimento-de-software/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/04/python-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 17 Jul 2025 18:50:06 +0000</pubDate>
     </item>
     <item>
       <title>AMD lança chip Ryzen Threadripper de 96 núcleos por US$ 11.699</title>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/microsoft-encerra-loja-de-filmes-e-tv-no-xbox-e-windows/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/captura-de-tela-2025-07-18-145106-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Fri, 18 Jul 2025 18:14:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>iFood dobrou a taxa de serviço? Plataforma faz mistério sobre cobrança</title>
+      <link>https://tecnoblog.net/noticias/ifood-dobrou-a-taxa-de-servico-plataforma-faz-misterio-sobre-cobranca/</link>
+      <description>Testes do Tecnoblog apontam que a taxa pode subir à noite. iFood não explicou os critérios usados para calcular o valor.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/ifood-dobrou-a-taxa-de-servico-plataforma-faz-misterio-sobre-cobranca/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/capa-ifood-x-dinheiro-v1-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 18 Jul 2025 22:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
