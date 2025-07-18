@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 18 Jul 2025 12:24:33 +0000</lastBuildDate>
-    <item>
-      <title>Samsung: Galaxy AI estará em 400 milhões de dispositivos até o fim do ano</title>
-      <link>https://tecnoblog.net/noticias/samsung-galaxy-ai-estara-em-400-milhoes-de-dispositivos-ate-o-fim-do-ano/</link>
-      <description>Meta é levar o Galaxy AI a mais aparelhos até o fim de 2025. IA é adotada por usuários de modelos topo de linha, mas não é decisiva na compra de celulares no Brasil.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/samsung-galaxy-ai-estara-em-400-milhoes-de-dispositivos-ate-o-fim-do-ano/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/01/img_1372-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 16 Jul 2025 13:25:37 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 18 Jul 2025 13:31:19 +0000</lastBuildDate>
     <item>
       <title>Microsoft 365 deixará de receber novas funções no Windows 10 em 2026</title>
       <link>https://tecnoblog.net/noticias/microsoft-365-deixara-de-receber-novas-funcoes-no-windows-10-em-2026/</link>
@@ -203,7 +195,7 @@
     <item>
       <title>ChatGPT ganha agente para realizar tarefas em computadores</title>
       <link>https://tecnoblog.net/noticias/chatgpt-ganha-agente-para-realizar-tarefas-em-computadores/</link>
-      <description>Agente pode acessar calendário, buscar restaurantes e criar apresentações, mas ações como enviar e-mails exigem aval do usuário</description>
+      <description>Agente pode acessar calendário, buscar restaurantes e criar apresentações, mas ações como enviar e-mails exigem aval do usuário.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/chatgpt-ganha-agente-para-realizar-tarefas-em-computadores/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/06/chatgpt-3_capa-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Thu, 17 Jul 2025 21:14:13 +0000</pubDate>
@@ -219,10 +211,18 @@
     <item>
       <title>Pé Grande, orca e mais: conheça os novos emojis que chegarão aos celulares</title>
       <link>https://tecnoblog.net/noticias/pe-grande-orca-e-mais-conheca-os-novos-emojis-que-chegarao-aos-celulares/</link>
-      <description>Novos emojis chegam ao iOS 26! Apple deve integrar as novas figurinhas em futuras atualizações pontuais</description>
+      <description>Consórcio Unicode aprovou os emojis após análise de mais de 160 sugestões. Lançamento deve ocorrer no iOS 26, da Apple, mas também em outros sistemas operacionais.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/pe-grande-orca-e-mais-conheca-os-novos-emojis-que-chegarao-aos-celulares/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/novos-emojis-ios-340x191.webp" length="0" type="image/jpeg"/>
       <pubDate>Fri, 18 Jul 2025 10:12:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Apple processa “leaker” famoso por vazar segredos do iOS 26</title>
+      <link>https://tecnoblog.net/noticias/apple-processa-leaker-famoso-por-vazar-segredos-do-ios-26/</link>
+      <description>Jon Prosser foi acusado de coordenar invasão de iPhone de engenheiro de software da Apple para descobrir e vazar novidades do iOS 26.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/apple-processa-leaker-famoso-por-vazar-segredos-do-ios-26/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/jon-prosser-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 18 Jul 2025 13:14:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
