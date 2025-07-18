@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 18 Jul 2025 16:17:07 +0000</lastBuildDate>
-    <item>
-      <title>Moto G86 com tela POLED tem oferta exclusiva em até 12x no Amazon Prime Day</title>
-      <link>https://tecnoblog.net/achados/moto-g86-com-tela-poled-tem-oferta-exclusiva-em-ate-12x-no-amazon-prime-day/</link>
-      <description>Moto G86, lançamento da Motorola em 2025, traz tela POLED de 6,7 polegadas, câmera selfie de 32 MP e 256 GB de armazenamento; oferta exclusiva para membros do Amazon Prime</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/moto-g86-com-tela-poled-tem-oferta-exclusiva-em-ate-12x-no-amazon-prime-day/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/moto-g86-achados-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 16 Jul 2025 16:21:40 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 18 Jul 2025 17:14:28 +0000</lastBuildDate>
     <item>
       <title>O que é o Content ID do YouTube? Saiba como funciona o sistema de identificação do Google</title>
       <link>https://tecnoblog.net/responde/o-que-e-o-content-id-do-youtube-saiba-como-funciona-o-sistema-de-identificacao-do-google/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-tab-s10-ultra-512-gb-sai-por-metade-do-preco-original-na-amazon/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/02/Samsung-Galaxy-Tab-S10-Ultra-Imagem--340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Fri, 18 Jul 2025 15:23:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft se desculpa por bugs na atualização do Windows</title>
+      <link>https://tecnoblog.net/noticias/microsoft-se-desculpa-por-bugs-na-atualizacao-do-windows/</link>
+      <description>Atualização KB5060829 do Windows 11 causou um erro no Firewall. Microsoft classificou falha como resolvida, mas admitiu o engano e pediu desculpas.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/microsoft-se-desculpa-por-bugs-na-atualizacao-do-windows/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/03/windows-11-2-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 18 Jul 2025 16:57:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
