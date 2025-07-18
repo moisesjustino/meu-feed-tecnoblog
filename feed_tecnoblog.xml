@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 18 Jul 2025 15:12:37 +0000</lastBuildDate>
-    <item>
-      <title>Copilot poderá ver tudo o que aparece na tela do Windows 11</title>
-      <link>https://tecnoblog.net/noticias/copilot-podera-ver-tudo-o-que-aparece-na-tela-do-windows-11/</link>
-      <description>Microsoft testa função no Windows 11 que compartilha área de trabalho com o Copilot Vision para a IA dar respostas contextualizadas.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/copilot-podera-ver-tudo-o-que-aparece-na-tela-do-windows-11/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/copilot-vision-tela-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 16 Jul 2025 16:06:13 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 18 Jul 2025 16:17:07 +0000</lastBuildDate>
     <item>
       <title>Moto G86 com tela POLED tem oferta exclusiva em até 12x no Amazon Prime Day</title>
       <link>https://tecnoblog.net/achados/moto-g86-com-tela-poled-tem-oferta-exclusiva-em-ate-12x-no-amazon-prime-day/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/este-robo-humanoide-e-capaz-de-trocar-a-propria-bateria/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/walker-s2-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Fri, 18 Jul 2025 14:52:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Galaxy Tab S10 Ultra (512 GB) sai por metade do preço original na Amazon</title>
+      <link>https://tecnoblog.net/achados/galaxy-tab-s10-ultra-512-gb-sai-por-metade-do-preco-original-na-amazon/</link>
+      <description>Galaxy Tab S10 Ultra tem tela AMOLED Dinâmico de 14,6", 12 GB de RAM e suporte ao Galaxy AI; tablet da Samsung chega ao preço indicado no Pix e com cupom na Amazon</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-tab-s10-ultra-512-gb-sai-por-metade-do-preco-original-na-amazon/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/02/Samsung-Galaxy-Tab-S10-Ultra-Imagem--340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 18 Jul 2025 15:23:59 +0000</pubDate>
     </item>
   </channel>
 </rss>
