@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 21 Jul 2025 13:33:17 +0000</lastBuildDate>
-    <item>
-      <title>Samsung pode adotar tecnologia similar ao MagSafe na linha Galaxy</title>
-      <link>https://tecnoblog.net/noticias/samsung-pode-adotar-tecnologia-similar-ao-magsafe-na-linha-galaxy/</link>
-      <description>Galaxy S25 já suporta carregamento sem fio no padrão Qi2, mas sem ímãs, tecnologia que pode ser incorporada à futura série Galaxy S26.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/samsung-pode-adotar-tecnologia-similar-ao-magsafe-na-linha-galaxy/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2020/10/apple-magsafe-iphone-12-340x191.gif" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 16 Jul 2025 21:46:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Xbox testa função para transmitir jogos do console para o PC</title>
-      <link>https://tecnoblog.net/noticias/xbox-testa-funcao-para-transmitir-jogos-do-console-para-o-pc/</link>
-      <description>Função "Console Streaming" já está disponível para Xbox Insiders com assinatura do Game Pass Ultimate.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/xbox-testa-funcao-para-transmitir-jogos-do-console-para-o-pc/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/xbox-jogos-pc-340x191.webp" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 16 Jul 2025 22:49:29 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 21 Jul 2025 14:14:44 +0000</lastBuildDate>
     <item>
       <title>WhatsApp facilita contato com a equipe de suporte técnico</title>
       <link>https://tecnoblog.net/noticias/whatsapp-facilita-contato-com-a-equipe-de-suporte-tecnico/</link>
@@ -111,6 +95,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/amd-lanca-chip-ryzen-threadripper-de-96-nucleos-por-us-11-699/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/amd-ryzen-threadripper-9000-series-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Thu, 17 Jul 2025 18:54:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>O que é exploit? Confira os tipos dessa ameaça contra softwares e hardwares</title>
+      <link>https://tecnoblog.net/responde/o-que-e-exploit-confira-os-tipos-dessa-ameaca-contra-softwares-e-hardwares/</link>
+      <description>Na computação, exploit refere-se a técnicas e programas usados para explorar vulnerabilidades, falhas ou bugs de um sistema</description>
+      <guid isPermaLink="false">https://tecnoblog.net/responde/o-que-e-exploit-confira-os-tipos-dessa-ameaca-contra-softwares-e-hardwares/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/ilustracao-de-exploit-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 17 Jul 2025 20:25:44 +0000</pubDate>
     </item>
     <item>
       <title>Empresas de mídia derrubam site que burlava paywalls</title>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/ifood-dobrou-a-taxa-de-servico-plataforma-faz-misterio-sobre-cobranca/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/capa-ifood-x-dinheiro-v1-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Fri, 18 Jul 2025 22:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Programador vence IA da OpenAI em maratona mundial de 10 horas</title>
+      <link>https://tecnoblog.net/noticias/programador-vence-ia-da-openai-em-maratona-mundial-de-10-horas/</link>
+      <description>Modelo de inteligência artificial ficou em segundo lugar, mas superou outros 10 programadores de elite. Apesar da derrota, OpenAI celebra resultado como marco inédito.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/programador-vence-ia-da-openai-em-maratona-mundial-de-10-horas/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/psyho-heuristic-340x191.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 21 Jul 2025 14:06:10 +0000</pubDate>
     </item>
   </channel>
 </rss>
