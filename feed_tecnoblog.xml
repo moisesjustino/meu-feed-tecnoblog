@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 21 Jul 2025 20:14:01 +0000</lastBuildDate>
-    <item>
-      <title>WeTransfer promete que dados pessoais não serão usados para treinar IA</title>
-      <link>https://tecnoblog.net/noticias/wetransfer-promete-que-dados-pessoais-nao-serao-usados-para-treinar-ia/</link>
-      <description>Após críticas aos novos termos, WeTransfer diz que não mudou forma de tratar dados. Empresa de compartilhamento em nuvem nega uso de arquivos para treinar IA.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/wetransfer-promete-que-dados-pessoais-nao-serao-usados-para-treinar-ia/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/wetransfer-edited-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 17 Jul 2025 16:24:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mercedes-Benz integra Microsoft Teams para permitir reuniões enquanto dirige</title>
-      <link>https://tecnoblog.net/noticias/mercedes-benz-integra-microsoft-teams-para-permitir-reunioes-enquanto-dirige/</link>
-      <description>Recurso permite entrar em chamadas da plataforma durante o trajeto. Novidade estreia no novo CLA, mas pode chegar a outros veículos com o sistema MB.OS.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/mercedes-benz-integra-microsoft-teams-para-permitir-reunioes-enquanto-dirige/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/25c0198_002-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 17 Jul 2025 17:23:32 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 21 Jul 2025 21:11:51 +0000</lastBuildDate>
     <item>
       <title>O que é linguagem de programação? Conheça as mais usadas no desenvolvimento de software</title>
       <link>https://tecnoblog.net/responde/o-que-e-linguagem-de-programacao-conheca-as-mais-usadas-no-desenvolvimento-de-software/</link>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/openai-faz-migracao-parcial-para-infraestrutura-de-nuvem-do-google/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/06/openai-3_capa-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 21 Jul 2025 17:28:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bradesco divulga novas regras para sala VIP da Mastercard em Guarulhos</title>
+      <link>https://tecnoblog.net/noticias/bradesco-divulga-novas-regras-para-sala-vip-da-mastercard-em-guarulhos/</link>
+      <description>Banco exigirá R$ 15 mil em gastos por trimestre para acesso aos lounges no Aeroporto de Guarulhos. Mudança passa a valer a partir de setembro.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/bradesco-divulga-novas-regras-para-sala-vip-da-mastercard-em-guarulhos/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/captura-de-tela-2025-07-21-172605-edited-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 21 Jul 2025 20:17:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>LibreOffice acusa Microsoft de tática para aprisionar usuários no Office</title>
+      <link>https://tecnoblog.net/noticias/libreoffice-acusa-microsoft-de-tatica-para-aprisionar-usuarios-no-office/</link>
+      <description>Responsável pelo LibreOffice, The Document Foundation diz que Microsoft usa esquemas XML complexos no 365 (Office) para dificultar compatibilidade com outras suítes.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/libreoffice-acusa-microsoft-de-tatica-para-aprisionar-usuarios-no-office/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/01/microsoft-office-365-personal-14-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 21 Jul 2025 20:18:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
