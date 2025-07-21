@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 21 Jul 2025 22:12:46 +0000</lastBuildDate>
-    <item>
-      <title>AMD lança chip Ryzen Threadripper de 96 núcleos por US$ 11.699</title>
-      <link>https://tecnoblog.net/noticias/amd-lanca-chip-ryzen-threadripper-de-96-nucleos-por-us-11-699/</link>
-      <description>AMD renovou linha Ryzen Threadripper PRO. São cinco chips Zen 5, com o Ryzen Threadripper PRO 9995WX se destacando com seus 96 núcleos.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/amd-lanca-chip-ryzen-threadripper-de-96-nucleos-por-us-11-699/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/amd-ryzen-threadripper-9000-series-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 17 Jul 2025 18:54:58 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 21 Jul 2025 23:12:16 +0000</lastBuildDate>
     <item>
       <title>O que é exploit? Confira os tipos dessa ameaça contra softwares e hardwares</title>
       <link>https://tecnoblog.net/responde/o-que-e-exploit-confira-os-tipos-dessa-ameaca-contra-softwares-e-hardwares/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/italia-quer-cobrar-imposto-sobre-perfis-gratuitos-redes-sociais-sao-contra/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/06/capa-whats-face-insta_tb-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 21 Jul 2025 21:14:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Galaxy S25 Ultra (256 GB) com câmera de 200 MP tem oferta histórica no Magalu</title>
+      <link>https://tecnoblog.net/achados/galaxy-s25-ultra-256-gb-com-camera-de-200-mp-tem-oferta-historica-no-magalu/</link>
+      <description>Galaxy S25 Ultra, lançamento da Samsung em 2025, tem câmera principal de 200 MP, tela AMOLED Dinâmico de 6,9" e chip Snapdragon 8 Elite; oferta com 51% OFF  no Pix</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-s25-ultra-256-gb-com-camera-de-200-mp-tem-oferta-historica-no-magalu/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/Samsung-Galaxy-S25-Ultra-tem-camera-de-200-MP-foto-Thassius-VelosoTecnoblog-1-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 21 Jul 2025 22:16:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
