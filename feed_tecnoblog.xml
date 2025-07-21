@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 21 Jul 2025 21:11:51 +0000</lastBuildDate>
-    <item>
-      <title>O que é linguagem de programação? Conheça as mais usadas no desenvolvimento de software</title>
-      <link>https://tecnoblog.net/responde/o-que-e-linguagem-de-programacao-conheca-as-mais-usadas-no-desenvolvimento-de-software/</link>
-      <description>Linguagens de programação como Python, C# e Java podem ser usadas no desenvolvimento de aplicativos, softwares, páginas da web e até IA</description>
-      <guid isPermaLink="false">https://tecnoblog.net/responde/o-que-e-linguagem-de-programacao-conheca-as-mais-usadas-no-desenvolvimento-de-software/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/04/python-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 17 Jul 2025 18:50:06 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 21 Jul 2025 22:12:46 +0000</lastBuildDate>
     <item>
       <title>AMD lança chip Ryzen Threadripper de 96 núcleos por US$ 11.699</title>
       <link>https://tecnoblog.net/noticias/amd-lanca-chip-ryzen-threadripper-de-96-nucleos-por-us-11-699/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/libreoffice-acusa-microsoft-de-tatica-para-aprisionar-usuarios-no-office/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/01/microsoft-office-365-personal-14-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 21 Jul 2025 20:18:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Itália quer cobrar imposto sobre perfis gratuitos; redes sociais são contra</title>
+      <link>https://tecnoblog.net/noticias/italia-quer-cobrar-imposto-sobre-perfis-gratuitos-redes-sociais-sao-contra/</link>
+      <description>Governo italiano alega que uso gratuito das contas em troca de dados é uma transação econômica. Caso pode impactar outros setores na União Europeia.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/italia-quer-cobrar-imposto-sobre-perfis-gratuitos-redes-sociais-sao-contra/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/06/capa-whats-face-insta_tb-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 21 Jul 2025 21:14:39 +0000</pubDate>
     </item>
   </channel>
 </rss>
