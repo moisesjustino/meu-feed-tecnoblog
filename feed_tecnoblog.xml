@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 22 Jul 2025 16:15:36 +0000</lastBuildDate>
-    <item>
-      <title>Pé Grande, orca e mais: conheça os novos emojis que chegarão aos celulares</title>
-      <link>https://tecnoblog.net/noticias/pe-grande-orca-e-mais-conheca-os-novos-emojis-que-chegarao-aos-celulares/</link>
-      <description>Consórcio Unicode aprovou os emojis após análise de mais de 160 sugestões. Lançamento deve ocorrer no iOS 26, da Apple, mas também em outros sistemas operacionais.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/pe-grande-orca-e-mais-conheca-os-novos-emojis-que-chegarao-aos-celulares/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/thumb-novos-emojis-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 18 Jul 2025 10:12:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Apple processa “leaker” famoso por vazar segredos do iOS 26</title>
-      <link>https://tecnoblog.net/noticias/apple-processa-leaker-famoso-por-vazar-segredos-do-ios-26/</link>
-      <description>Jon Prosser foi acusado de coordenar invasão de iPhone de engenheiro de software da Apple para descobrir e vazar novidades do iOS 26.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/apple-processa-leaker-famoso-por-vazar-segredos-do-ios-26/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/jon-prosser-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 18 Jul 2025 13:14:04 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 22 Jul 2025 17:14:20 +0000</lastBuildDate>
     <item>
       <title>Este robô humanoide é capaz de trocar a própria bateria</title>
       <link>https://tecnoblog.net/noticias/este-robo-humanoide-e-capaz-de-trocar-a-propria-bateria/</link>
@@ -111,6 +95,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/programador-vence-ia-da-openai-em-maratona-mundial-de-10-horas/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/psyho-heuristic-340x191.jpeg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 21 Jul 2025 14:06:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>O que são empresas de tecnologia? Conheça os tipos de companhias do mercado tech</title>
+      <link>https://tecnoblog.net/responde/o-que-sao-empresas-de-tecnologia-conheca-os-tipos-de-companhias-do-mercado-tech/</link>
+      <description>Empresas precisam integrar a cadeia produtiva da indústria de tecnologia para serem oficialmente classificadas como companhias tech</description>
+      <guid isPermaLink="false">https://tecnoblog.net/responde/o-que-sao-empresas-de-tecnologia-conheca-os-tipos-de-companhias-do-mercado-tech/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/ilustracao-de-empresas-de-tecnologia-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 21 Jul 2025 14:50:39 +0000</pubDate>
     </item>
     <item>
       <title>Itaú Emps: banco lança assessoria financeira para empreendedores baseada em IA</title>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/reino-unido-deve-proibir-pagamento-de-resgates-em-ciberataques/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/01/hacker-codigo-tela-escuro-computador-desktop-monitor-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 22 Jul 2025 16:13:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>A marca Nokia de celular pode voltar. Sim, de novo</title>
+      <link>https://tecnoblog.net/noticias/a-marca-nokia-de-celular-pode-voltar-sim-de-novo/</link>
+      <description>Empresa quer continuar presente no mercado após o fim do licenciamento com a HMD Global, previsto para 2026. Nokia pode alavancar distribuição com novo parceiro.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/a-marca-nokia-de-celular-pode-voltar-sim-de-novo/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/11/nokia-no-brasil-capa-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 22 Jul 2025 16:55:10 +0000</pubDate>
     </item>
   </channel>
 </rss>
