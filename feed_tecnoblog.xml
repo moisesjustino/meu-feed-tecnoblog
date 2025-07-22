@@ -7,31 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 22 Jul 2025 14:14:45 +0000</lastBuildDate>
-    <item>
-      <title>Firefox finalmente ganha suporte a WebGPU (e o que é isso?)</title>
-      <link>https://tecnoblog.net/noticias/firefox-finalmente-ganha-suporte-a-webgpu-e-o-que-e-isso/</link>
-      <description>Firefox 141 chega em 22 de julho de 2025 e promete suporte à API WebGPU. Novidade permite uso da GPU para tarefas avançadas.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/firefox-finalmente-ganha-suporte-a-webgpu-e-o-que-e-isso/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/06/firefox-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 17 Jul 2025 20:44:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>ChatGPT ganha agente para realizar tarefas em computadores</title>
-      <link>https://tecnoblog.net/noticias/chatgpt-ganha-agente-para-realizar-tarefas-em-computadores/</link>
-      <description>Agente pode acessar calendário, buscar restaurantes e criar apresentações, mas ações como enviar e-mails exigem aval do usuário.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/chatgpt-ganha-agente-para-realizar-tarefas-em-computadores/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/06/chatgpt-3_capa-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 17 Jul 2025 21:14:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>O que é vírus de computador? Saiba como funciona e os principais tipos de ameaça</title>
-      <link>https://tecnoblog.net/responde/o-que-e-virus/</link>
-      <description>Vírus de computador podem causar diferentes tipos de danos, como excluir e corromper arquivos, interromper operações de sistemas e até bloquear o uso do PC</description>
-      <guid isPermaLink="false">https://tecnoblog.net/responde/o-que-e-virus/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/12/pirataria-software-capa-3-nov-2022-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 17 Jul 2025 21:18:32 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 22 Jul 2025 15:13:25 +0000</lastBuildDate>
     <item>
       <title>O que é carteira digital? Saiba como funciona o sistema de alocação e pagamentos</title>
       <link>https://tecnoblog.net/responde/o-que-e-carteira-digital-saiba-como-funciona-o-sistema-de-alocacao-e-pagamentos/</link>
@@ -119,6 +95,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/microsoft-encerra-loja-de-filmes-e-tv-no-xbox-e-windows/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/captura-de-tela-2025-07-18-145106-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Fri, 18 Jul 2025 18:14:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>O que é NFT? Saiba como funcionam os tokens não fungíveis</title>
+      <link>https://tecnoblog.net/responde/o-que-e-nft-non-fungible-tokens/</link>
+      <description>NFTs são registros digitais únicos em blockchain que comprovam a propriedade exclusiva de um item, como uma arte, música, vídeo ou outros bens digitais colecionáveis</description>
+      <guid isPermaLink="false">https://tecnoblog.net/responde/o-que-e-nft-non-fungible-tokens/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/02/ilustra-TBR-NFT-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 18 Jul 2025 20:16:40 +0000</pubDate>
     </item>
     <item>
       <title>iFood dobrou a taxa de serviço? Plataforma faz mistério sobre cobrança</title>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/microsoft-sharepoint-tem-falha-critica-que-expoe-dados-de-empresas/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/microsoft-sharepoint-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 22 Jul 2025 13:58:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Galaxy A56 com tela de 120 Hz tem 42% de desconto em oferta com cupom</title>
+      <link>https://tecnoblog.net/achados/galaxy-a56-com-tela-de-120-hz-tem-42-de-desconto-em-oferta-com-cupom/</link>
+      <description>Galaxy A56 possui tela Super AMOLED de 120 Hz, chip Exynos 1580 e câmera principal de 50 MP com OIS; oferta do celular da Samsung de 128 GB é válida no Mercado Livre</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-a56-com-tela-de-120-hz-tem-42-de-desconto-em-oferta-com-cupom/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/05/GalaxyA56-oferta-recomendada-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 22 Jul 2025 15:04:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>YouTube derruba quase 11 mil canais de propaganda estatal</title>
+      <link>https://tecnoblog.net/noticias/youtube-derruba-quase-11-mil-canais-de-propaganda-estatal/</link>
+      <description>Plataforma do Google removeu rede de canais ligados à desinformação, principalmente da China e Rússia. Ação visa combater manipulação online.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/youtube-derruba-quase-11-mil-canais-de-propaganda-estatal/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/04/youtube-celular-3-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 22 Jul 2025 15:08:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
