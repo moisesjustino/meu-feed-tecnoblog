@@ -7,47 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 22 Jul 2025 20:14:13 +0000</lastBuildDate>
-    <item>
-      <title>Microsoft se desculpa por bugs na atualização do Windows</title>
-      <link>https://tecnoblog.net/noticias/microsoft-se-desculpa-por-bugs-na-atualizacao-do-windows/</link>
-      <description>Atualização KB5060829 do Windows 11 causou um erro no firewall. Microsoft classificou falha como resolvida, mas admitiu o engano e pediu desculpas.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/microsoft-se-desculpa-por-bugs-na-atualizacao-do-windows/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/03/windows-11-2-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 18 Jul 2025 16:57:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Motorola Edge 60 Fusion tem menor preço histórico em oferta até 3x sem juros</title>
-      <link>https://tecnoblog.net/achados/motorola-edge-60-fusion-tem-menor-preco-historico-em-oferta-ate-3x-sem-juros/</link>
-      <description>Edge 60 Fusion, lançamento da Motorola em 2025, tem tela POLED de 6,7", câmera Sony Litia 700C de 50 MP e bateria de 5.200 mAh; oferta com menor preço histórico no Pontofrio</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/motorola-edge-60-fusion-tem-menor-preco-historico-em-oferta-ate-3x-sem-juros/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/motorola-edge-60-fusion-achados-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 18 Jul 2025 17:31:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Netflix começa a usar IA para produzir séries e filmes</title>
-      <link>https://tecnoblog.net/noticias/netflix-comeca-a-usar-ia-para-produzir-series-e-filmes/</link>
-      <description>Série O Eternauta teve cena produzida com auxílio da IA generativa. Netflix dá a entender que uso da inteligência artificial será comum em filmes e séries da plataforma.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/netflix-comeca-a-usar-ia-para-produzir-series-e-filmes/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/02/netflix-2-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 18 Jul 2025 17:36:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Galaxy Buds 3 tem menor preço que já vimos com 55% OFF no Mercado Livre</title>
-      <link>https://tecnoblog.net/achados/galaxy-buds-3-tem-menor-preco-que-ja-vimos-com-55-off-no-mercado-livre/</link>
-      <description>Galaxy Buds 3 com cancelamento ativo de ruído e IA da Samsung integrada sai por menos de R$ 800 em promoção com cupom no Mercado Livre</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-buds-3-tem-menor-preco-que-ja-vimos-com-55-off-no-mercado-livre/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/05/Galaxy-buds-3-modelo-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 18 Jul 2025 18:06:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft encerra loja de filmes e TV no Xbox e Windows</title>
-      <link>https://tecnoblog.net/noticias/microsoft-encerra-loja-de-filmes-e-tv-no-xbox-e-windows/</link>
-      <description>Não é mais possível adquirir novos filmes ou programas de TV via Microsoft Store. Usuários ainda podem acessar conteúdos comprados anteriormente pelo app Filmes e TV.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/microsoft-encerra-loja-de-filmes-e-tv-no-xbox-e-windows/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/captura-de-tela-2025-07-18-145106-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 18 Jul 2025 18:14:49 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 22 Jul 2025 21:11:59 +0000</lastBuildDate>
     <item>
       <title>O que é NFT? Saiba como funcionam os tokens não fungíveis</title>
       <link>https://tecnoblog.net/responde/o-que-e-nft-non-fungible-tokens/</link>
@@ -127,6 +87,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/openai-faz-migracao-parcial-para-infraestrutura-de-nuvem-do-google/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/06/openai-3_capa-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 21 Jul 2025 17:28:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>O que fazer em caso de vazamento de dados pessoais?</title>
+      <link>https://tecnoblog.net/responde/o-que-fazer-em-caso-de-vazamento-de-dados-pessoais/</link>
+      <description>Dados pessoais vazados são informações privadas, como senhas, endereços de e-mail e dados bancários, que acabam nas mãos de criminosos devido a falhas de segurança</description>
+      <guid isPermaLink="false">https://tecnoblog.net/responde/o-que-fazer-em-caso-de-vazamento-de-dados-pessoais/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2021/02/Vazamento-Dados-cpf-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 21 Jul 2025 17:54:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>O que é HTML? Entenda para que serve e como funciona a linguagem de marcação</title>
+      <link>https://tecnoblog.net/responde/o-que-e-html-entenda-para-que-serve-e-como-funciona-a-linguagem-de-marcacao/</link>
+      <description>O HTML é compatível com os navegadores modernos e de fácil aprendizado; a linguagem é usada na criação de páginas da internet</description>
+      <guid isPermaLink="false">https://tecnoblog.net/responde/o-que-e-html-entenda-para-que-serve-e-como-funciona-a-linguagem-de-marcacao/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2021/05/O-que-e-o-W3C-pankaj-patel-unsplash-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 21 Jul 2025 18:37:51 +0000</pubDate>
     </item>
     <item>
       <title>Bradesco divulga novas regras para sala VIP da Mastercard em Guarulhos</title>
@@ -223,6 +199,30 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/antes-mesmo-do-tarifaco-governo-do-brasil-comecou-a-trabalhar-em-gps-nacional/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/10/gps-celular-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 22 Jul 2025 19:33:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Galaxy S24 FE (128 GB) tem 42% de desconto com oferta em até 12x sem juros</title>
+      <link>https://tecnoblog.net/achados/galaxy-s24-fe-128-gb-tem-42-de-desconto-com-oferta-em-ate-12x-sem-juros/</link>
+      <description>Galaxy S24 FE tem tela AMOLED Dinâmico de 6,7", chip Exynos 2400e, bateria de 4.700 mAh e filma em 8K; oferta válida pelo celular com 128 GB em até 12x sem juros na Amazon</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-s24-fe-128-gb-tem-42-de-desconto-com-oferta-em-ate-12x-sem-juros/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/03/Galaxy-S24-FE-promete-7-anos-de-Android-foto-Giovanni-Santa-Rosa-Tecnoblog-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 22 Jul 2025 20:56:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>O app de mensagens offline e a batalha contra os bots</title>
+      <link>https://tecnoblog.net/tecnocast/o-app-de-mensagens-offline-e-a-batalha-contra-os-bots/</link>
+      <description>Sem descrição breve.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/tecnocast/o-app-de-mensagens-offline-e-a-batalha-contra-os-bots/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/tecnocast-383_capa-2-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 22 Jul 2025 21:08:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Clear Linux: distribuição da Intel pouco conhecida chega ao fim</title>
+      <link>https://tecnoblog.net/noticias/clear-linux-distribuicao-da-intel-pouco-conhecida-chega-ao-fim/</link>
+      <description>Intel anunciou decisão de descontinuar a distribuição Clear Linux OS, que era otimizada para seus processadores. Projeto existiu por dez anos.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/clear-linux-distribuicao-da-intel-pouco-conhecida-chega-ao-fim/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/clear-linux-os-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 22 Jul 2025 21:10:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
