@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 22 Jul 2025 13:32:38 +0000</lastBuildDate>
-    <item>
-      <title>Empresas de mídia derrubam site que burlava paywalls</title>
-      <link>https://tecnoblog.net/noticias/empresas-de-midia-derrubam-site-que-burlava-paywalls/</link>
-      <description>12ft.io, popular para contornar paywalls na internet, foi derrubado após ação da News/Media Alliance. Usuários já relatavam instabilidade há dias.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/empresas-de-midia-derrubam-site-que-burlava-paywalls/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/12ftio-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 17 Jul 2025 20:27:05 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 22 Jul 2025 14:14:45 +0000</lastBuildDate>
     <item>
       <title>Firefox finalmente ganha suporte a WebGPU (e o que é isso?)</title>
       <link>https://tecnoblog.net/noticias/firefox-finalmente-ganha-suporte-a-webgpu-e-o-que-e-isso/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/keeta-avalia-usar-drones-para-entregas-de-comida-no-brasil/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/keeta-drone-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Tue, 22 Jul 2025 12:39:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft SharePoint tem falha crítica que expõe dados de empresas</title>
+      <link>https://tecnoblog.net/noticias/microsoft-sharepoint-tem-falha-critica-que-expoe-dados-de-empresas/</link>
+      <description>Vulnerabilidade de dia zero no SharePoint foi explorada por hackers. Microsoft publicou atualização de emergência logo após os primeiros registros de ataques.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/microsoft-sharepoint-tem-falha-critica-que-expoe-dados-de-empresas/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/microsoft-sharepoint-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 22 Jul 2025 13:58:49 +0000</pubDate>
     </item>
   </channel>
 </rss>
