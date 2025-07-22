@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 22 Jul 2025 22:11:59 +0000</lastBuildDate>
-    <item>
-      <title>O que é NFT? Saiba como funcionam os tokens não fungíveis</title>
-      <link>https://tecnoblog.net/responde/o-que-e-nft-non-fungible-tokens/</link>
-      <description>NFTs são registros digitais únicos em blockchain que comprovam a propriedade exclusiva de um item, como uma arte, música, vídeo ou outros bens digitais colecionáveis</description>
-      <guid isPermaLink="false">https://tecnoblog.net/responde/o-que-e-nft-non-fungible-tokens/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/02/ilustra-TBR-NFT-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 18 Jul 2025 20:16:40 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 22 Jul 2025 23:12:18 +0000</lastBuildDate>
     <item>
       <title>iFood dobrou a taxa de serviço? Plataforma faz mistério sobre cobrança</title>
       <link>https://tecnoblog.net/noticias/ifood-dobrou-a-taxa-de-servico-plataforma-faz-misterio-sobre-cobranca/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/clear-linux-distribuicao-da-intel-pouco-conhecida-chega-ao-fim/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/clear-linux-os-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 22 Jul 2025 21:10:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Instagram está exibindo anúncios impossíveis de pular para mais pessoas</title>
+      <link>https://tecnoblog.net/noticias/instagram-esta-exibindo-anuncios-impossiveis-de-pular-para-mais-pessoas/</link>
+      <description>Formato de "ad breaks" já foi visto por usuários nos EUA e na Europa, inclusive logo ao abrir o aplicativo. Testes começaram em 2024.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/instagram-esta-exibindo-anuncios-impossiveis-de-pular-para-mais-pessoas/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/03/instagram-capa-1-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 22 Jul 2025 23:07:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
