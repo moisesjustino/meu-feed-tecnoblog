@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 22 Jul 2025 15:13:25 +0000</lastBuildDate>
-    <item>
-      <title>O que é carteira digital? Saiba como funciona o sistema de alocação e pagamentos</title>
-      <link>https://tecnoblog.net/responde/o-que-e-carteira-digital-saiba-como-funciona-o-sistema-de-alocacao-e-pagamentos/</link>
-      <description>Carteiras digitais servem para guardar versões digitais de cartões e documentos em um único sistema, de modo a substituir carteiras físicas</description>
-      <guid isPermaLink="false">https://tecnoblog.net/responde/o-que-e-carteira-digital-saiba-como-funciona-o-sistema-de-alocacao-e-pagamentos/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/ilustracao-de-carteira-digital-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 17 Jul 2025 21:21:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Galaxy S25 (256 GB) recebe 40% OFF com promoção em até 12x na Amazon</title>
-      <link>https://tecnoblog.net/achados/galaxy-s25-256-gb-recebe-40-off-com-promocao-em-ate-12x-na-amazon/</link>
-      <description>Galaxy S25 de 256 GB leva tela AMOLED Dinâmico 2x, chip Snapdragon 8 Elite e memória RAM de 12 GB; celular da Samsung pode ser parcelado em até 12x</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-s25-256-gb-recebe-40-off-com-promocao-em-ate-12x-na-amazon/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/galaxy-s24-traz-processador-snapdragon-8-elite-da-qualcomm-foto-thassius-velosotecnoblog-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 17 Jul 2025 21:54:36 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 22 Jul 2025 16:15:36 +0000</lastBuildDate>
     <item>
       <title>Pé Grande, orca e mais: conheça os novos emojis que chegarão aos celulares</title>
       <link>https://tecnoblog.net/noticias/pe-grande-orca-e-mais-conheca-os-novos-emojis-que-chegarao-aos-celulares/</link>
@@ -111,6 +95,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/ifood-dobrou-a-taxa-de-servico-plataforma-faz-misterio-sobre-cobranca/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/capa-ifood-x-dinheiro-v1-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Fri, 18 Jul 2025 22:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Do B2B ao SaaS: conheça modelos de negócios de startups, big techs e e-commerces</title>
+      <link>https://tecnoblog.net/responde/do-b2b-ao-saas-conheca-modelos-de-negocios-de-startups-big-techs-e-e-commerces/</link>
+      <description>Modelos de negócios servem para definir e nortear a estruturação operacional de uma empresa, independentemente da área de atuação</description>
+      <guid isPermaLink="false">https://tecnoblog.net/responde/do-b2b-ao-saas-conheca-modelos-de-negocios-de-startups-big-techs-e-e-commerces/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/capa-tbr-modelos-de-negocio-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 21 Jul 2025 12:52:17 +0000</pubDate>
     </item>
     <item>
       <title>Programador vence IA da OpenAI em maratona mundial de 10 horas</title>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/youtube-derruba-quase-11-mil-canais-de-propaganda-estatal/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/04/youtube-celular-3-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Tue, 22 Jul 2025 15:08:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Reino Unido deve proibir pagamento de resgates em ciberataques</title>
+      <link>https://tecnoblog.net/noticias/reino-unido-deve-proibir-pagamento-de-resgates-em-ciberataques/</link>
+      <description>Medida impedirá que órgãos públicos, como escolas e hospitais, paguem resgates após ataques de ransomware. Ação tenta enfraquecer modelo de negócio de cibercriminosos.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/reino-unido-deve-proibir-pagamento-de-resgates-em-ciberataques/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/01/hacker-codigo-tela-escuro-computador-desktop-monitor-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 22 Jul 2025 16:13:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
