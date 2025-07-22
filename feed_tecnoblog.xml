@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 22 Jul 2025 12:24:48 +0000</lastBuildDate>
-    <item>
-      <title>O que é exploit? Confira os tipos dessa ameaça contra softwares e hardwares</title>
-      <link>https://tecnoblog.net/responde/o-que-e-exploit-confira-os-tipos-dessa-ameaca-contra-softwares-e-hardwares/</link>
-      <description>Na computação, exploit refere-se a técnicas e programas usados para explorar vulnerabilidades, falhas ou bugs de um sistema</description>
-      <guid isPermaLink="false">https://tecnoblog.net/responde/o-que-e-exploit-confira-os-tipos-dessa-ameaca-contra-softwares-e-hardwares/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/ilustracao-de-exploit-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 17 Jul 2025 20:25:44 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 22 Jul 2025 13:32:38 +0000</lastBuildDate>
     <item>
       <title>Empresas de mídia derrubam site que burlava paywalls</title>
       <link>https://tecnoblog.net/noticias/empresas-de-midia-derrubam-site-que-burlava-paywalls/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-s25-ultra-256-gb-com-camera-de-200-mp-tem-oferta-historica-no-magalu/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/Samsung-Galaxy-S25-Ultra-tem-camera-de-200-MP-foto-Thassius-VelosoTecnoblog-1-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 21 Jul 2025 22:16:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Keeta avalia usar drones para entregas de comida no Brasil</title>
+      <link>https://tecnoblog.net/noticias/keeta-avalia-usar-drones-para-entregas-de-comida-no-brasil/</link>
+      <description>Empresa chinesa chega para competir com o iFood e diz que atual regulamentação brasileira inviabiliza o uso da tecnologia. Anac prepara novas regras para o setor.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/keeta-avalia-usar-drones-para-entregas-de-comida-no-brasil/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/keeta-drone-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 22 Jul 2025 12:39:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
