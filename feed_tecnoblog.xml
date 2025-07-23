@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 23 Jul 2025 22:12:36 +0000</lastBuildDate>
-    <item>
-      <title>Keeta avalia usar drones para entregas de comida no Brasil</title>
-      <link>https://tecnoblog.net/noticias/keeta-avalia-usar-drones-para-entregas-de-comida-no-brasil/</link>
-      <description>Empresa chinesa chega para competir com o iFood e diz que atual regulamentação brasileira inviabiliza o uso da tecnologia. Anac prepara novas regras para o setor.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/keeta-avalia-usar-drones-para-entregas-de-comida-no-brasil/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/keeta-drone-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 22 Jul 2025 12:39:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft SharePoint tem falha crítica que expõe dados de empresas</title>
-      <link>https://tecnoblog.net/noticias/microsoft-sharepoint-tem-falha-critica-que-expoe-dados-de-empresas/</link>
-      <description>Vulnerabilidade de dia zero no SharePoint foi explorada por hackers. Microsoft publicou atualização de emergência logo após os primeiros registros de ataques.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/microsoft-sharepoint-tem-falha-critica-que-expoe-dados-de-empresas/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/microsoft-sharepoint-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 22 Jul 2025 13:58:49 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 23 Jul 2025 23:12:34 +0000</lastBuildDate>
     <item>
       <title>Galaxy A56 com tela de 120 Hz tem 42% de desconto em oferta com cupom</title>
       <link>https://tecnoblog.net/achados/galaxy-a56-com-tela-de-120-hz-tem-42-de-desconto-em-oferta-com-cupom/</link>
@@ -111,6 +95,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/clear-linux-distribuicao-da-intel-pouco-conhecida-chega-ao-fim/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/clear-linux-os-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 22 Jul 2025 21:10:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>O que é tecnologia? Confira as principais áreas tecnológicas do mercado</title>
+      <link>https://tecnoblog.net/responde/o-que-e-tecnologia-confira-as-principais-areas-tecnologicas-do-mercado/</link>
+      <description>A tecnologia é fundamental para o desenvolvimento da sociedade como um todo, já que aprimora técnicas passadas e soluciona novos problemas</description>
+      <guid isPermaLink="false">https://tecnoblog.net/responde/o-que-e-tecnologia-confira-as-principais-areas-tecnologicas-do-mercado/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/ilustracao-de-tecnologia-2-1-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 22 Jul 2025 21:21:09 +0000</pubDate>
     </item>
     <item>
       <title>Instagram está exibindo anúncios impossíveis de pular para mais pessoas</title>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/uber-testa-opcao-para-passageiras-escolherem-motoristas-mulheres/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/06/uber_capa-2_tb-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Wed, 23 Jul 2025 19:20:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dia dos Pais: celulares e mais produtos Samsung com até 63% OFF no Mercado Livre</title>
+      <link>https://tecnoblog.net/achados/dia-dos-pais-celulares-e-mais-produtos-samsung-com-ate-63-off-no-mercado-livre/</link>
+      <description>Galaxy Watch 7, Galaxy Z Flip 6, S24 Plus e outros produtos Samsung estão com preços especiais e possibilidades de parcelamento para o Dia dos Pais no Mercado Livre</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/dia-dos-pais-celulares-e-mais-produtos-samsung-com-ate-63-off-no-mercado-livre/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/galaxy-s24-plus-oferta-recomendada-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 23 Jul 2025 23:06:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
