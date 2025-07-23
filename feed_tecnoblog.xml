@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 23 Jul 2025 15:13:58 +0000</lastBuildDate>
-    <item>
-      <title>OpenAI faz migração parcial para infraestrutura de nuvem do Google</title>
-      <link>https://tecnoblog.net/noticias/openai-faz-migracao-parcial-para-infraestrutura-de-nuvem-do-google/</link>
-      <description>Com escassez de GPUs, OpenAI busca alternativas na rival para manter o ritmo de desenvolvimento. Dona do ChatGPT tenta reduzir instabilidades.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/openai-faz-migracao-parcial-para-infraestrutura-de-nuvem-do-google/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/06/openai-3_capa-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 21 Jul 2025 17:28:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>O que fazer em caso de vazamento de dados pessoais?</title>
-      <link>https://tecnoblog.net/responde/o-que-fazer-em-caso-de-vazamento-de-dados-pessoais/</link>
-      <description>Dados pessoais vazados são informações privadas, como senhas, endereços de e-mail e dados bancários, que acabam nas mãos de criminosos devido a falhas de segurança</description>
-      <guid isPermaLink="false">https://tecnoblog.net/responde/o-que-fazer-em-caso-de-vazamento-de-dados-pessoais/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2021/02/Vazamento-Dados-cpf-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 21 Jul 2025 17:54:17 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 23 Jul 2025 16:16:06 +0000</lastBuildDate>
     <item>
       <title>O que é HTML? Entenda para que serve e como funciona a linguagem de marcação</title>
       <link>https://tecnoblog.net/responde/o-que-e-html-entenda-para-que-serve-e-como-funciona-a-linguagem-de-marcacao/</link>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/nada-e-eterno-diz-ceo-da-ubisoft-sobre-games-antigos/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/yves-guillemot-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Wed, 23 Jul 2025 15:09:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Novo golpe assusta por usar dados reais de compra na Amazon</title>
+      <link>https://tecnoblog.net/noticias/novo-golpe-assusta-por-usar-dados-reais-de-compra-na-amazon/</link>
+      <description>Falsos entregadores estão usando o nome da transportadora Total Express para aplicar golpes. Mensagens pedem taxa para liberar compras feitas na Amazon.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/novo-golpe-assusta-por-usar-dados-reais-de-compra-na-amazon/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/capa-amazon-2_thumb_tb-edited-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 23 Jul 2025 15:21:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google Chrome deve finalmente ganhar abas verticais</title>
+      <link>https://tecnoblog.net/noticias/google-chrome-deve-finalmente-ganhar-abas-verticais/</link>
+      <description>Google Chrome pode adotar recurso já presente em rivais como Edge e Firefox. Referência às abas verticais apareceu em código do projeto Chromium.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/google-chrome-deve-finalmente-ganhar-abas-verticais/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/11/google-chrome-capa-3-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 23 Jul 2025 16:03:16 +0000</pubDate>
     </item>
   </channel>
 </rss>
