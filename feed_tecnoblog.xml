@@ -7,31 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 23 Jul 2025 14:14:39 +0000</lastBuildDate>
-    <item>
-      <title>WhatsApp planeja abandonar app nativo do Windows</title>
-      <link>https://tecnoblog.net/noticias/whatsapp-planeja-abandonar-app-nativo-do-windows/</link>
-      <description>Meta testa app baseado em navegador no lugar da versão nativa. Mudança pode acelerar chegada de novos recursos, mas afetaria desempenho.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/whatsapp-planeja-abandonar-app-nativo-do-windows/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/whatsapp-capa-3-edited-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 21 Jul 2025 16:10:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nubank inicia testes do novo NuCoin com prêmios para cartão de débito</title>
-      <link>https://tecnoblog.net/noticias/nubank-inicia-testes-do-novo-nucoin-com-premios-para-cartao-de-debito/</link>
-      <description>Nova versão do programa de recompensas chegará de forma gradual aos clientes. Adesão será opcional e feita pelo app do Nubank.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/nubank-inicia-testes-do-novo-nucoin-com-premios-para-cartao-de-debito/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/04/nubank_capa-5_tb-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 21 Jul 2025 16:40:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Motorola Edge 50 Ultra (512 GB) tem menor preço que já vimos na Amazon</title>
-      <link>https://tecnoblog.net/achados/motorola-edge-50-ultra-512-gb-tem-menor-preco-que-ja-vimos-na-amazon/</link>
-      <description>Edge 50 Ultra apresenta tela POLED de 144 Hz, chip Snapdragon 8S Gen 3, 24 GB com RAM Boost e câmera teleobjetiva de 64 MP; oferta no Pix com 43% OFF na Amazon</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/motorola-edge-50-ultra-512-gb-tem-menor-preco-que-ja-vimos-na-amazon/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/motorola-edge-50-ultra-achado-do-dia-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 21 Jul 2025 16:48:49 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 23 Jul 2025 15:13:58 +0000</lastBuildDate>
     <item>
       <title>OpenAI faz migração parcial para infraestrutura de nuvem do Google</title>
       <link>https://tecnoblog.net/noticias/openai-faz-migracao-parcial-para-infraestrutura-de-nuvem-do-google/</link>
@@ -111,6 +87,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-a56-com-tela-de-120-hz-tem-42-de-desconto-em-oferta-com-cupom/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/05/GalaxyA56-oferta-recomendada-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Tue, 22 Jul 2025 15:04:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>O que é fibra óptica? Veja os sinais compatíveis com esse meio de transmissão</title>
+      <link>https://tecnoblog.net/responde/o-que-e-fibra-optica-veja-os-sinais-compativeis-com-esse-meio-de-transmissao/</link>
+      <description>A fibra óptica serve para transmitir dados em alta velocidade por meio de pulso de luz, proporcionando conexões de internet rápidas e comunicação de longa distância</description>
+      <guid isPermaLink="false">https://tecnoblog.net/responde/o-que-e-fibra-optica-veja-os-sinais-compativeis-com-esse-meio-de-transmissao/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/04/fibra-optica-capa-tecnoblog-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 22 Jul 2025 15:06:43 +0000</pubDate>
     </item>
     <item>
       <title>YouTube derruba quase 11 mil canais de propaganda estatal</title>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/proton-lanca-lumo-assistente-de-ia-focado-em-privacidade/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/proton-lumo-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Wed, 23 Jul 2025 14:03:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nubank revela chip físico do NuCel e muda formato dos planos</title>
+      <link>https://tecnoblog.net/noticias/nubank-revela-chip-fisico-do-nucel-e-muda-formato-dos-planos/</link>
+      <description>Novos planos do NuCel têm até 35 GB por R$ 70. Chip físico poderá ser solicitado sem custo no app do banco.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/nubank-revela-chip-fisico-do-nucel-e-muda-formato-dos-planos/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/capa-chip-nubank-v2-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 23 Jul 2025 14:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>“Nada é eterno”, diz CEO da Ubisoft sobre games antigos</title>
+      <link>https://tecnoblog.net/noticias/nada-e-eterno-diz-ceo-da-ubisoft-sobre-games-antigos/</link>
+      <description>Yves Guillemot afirma que suporte a jogos não pode ser para sempre. Declaração responde à campanha Stop Killing Games, que cobra acesso contínuo a títulos antigos.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/nada-e-eterno-diz-ceo-da-ubisoft-sobre-games-antigos/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/yves-guillemot-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 23 Jul 2025 15:09:48 +0000</pubDate>
     </item>
   </channel>
 </rss>
