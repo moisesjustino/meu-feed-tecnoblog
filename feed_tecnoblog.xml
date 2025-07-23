@@ -7,39 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 23 Jul 2025 16:16:06 +0000</lastBuildDate>
-    <item>
-      <title>O que é HTML? Entenda para que serve e como funciona a linguagem de marcação</title>
-      <link>https://tecnoblog.net/responde/o-que-e-html-entenda-para-que-serve-e-como-funciona-a-linguagem-de-marcacao/</link>
-      <description>O HTML é compatível com os navegadores modernos e de fácil aprendizado; a linguagem é usada na criação de páginas da internet</description>
-      <guid isPermaLink="false">https://tecnoblog.net/responde/o-que-e-html-entenda-para-que-serve-e-como-funciona-a-linguagem-de-marcacao/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2021/05/O-que-e-o-W3C-pankaj-patel-unsplash-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 21 Jul 2025 18:37:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bradesco divulga novas regras para sala VIP da Mastercard em Guarulhos</title>
-      <link>https://tecnoblog.net/noticias/bradesco-divulga-novas-regras-para-sala-vip-da-mastercard-em-guarulhos/</link>
-      <description>Banco exigirá R$ 15 mil em gastos por trimestre para acesso aos lounges no Aeroporto de Guarulhos. Mudança passa a valer a partir de setembro.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/bradesco-divulga-novas-regras-para-sala-vip-da-mastercard-em-guarulhos/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/captura-de-tela-2025-07-21-172605-edited-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 21 Jul 2025 20:17:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>LibreOffice acusa Microsoft de tática para aprisionar usuários no Office</title>
-      <link>https://tecnoblog.net/noticias/libreoffice-acusa-microsoft-de-tatica-para-aprisionar-usuarios-no-office/</link>
-      <description>Responsável pelo LibreOffice, The Document Foundation diz que Microsoft usa esquemas XML complexos no 365 (Office) para dificultar compatibilidade com outras suítes.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/libreoffice-acusa-microsoft-de-tatica-para-aprisionar-usuarios-no-office/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/01/microsoft-office-365-personal-14-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 21 Jul 2025 20:18:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Itália quer cobrar imposto sobre perfis gratuitos; redes sociais são contra</title>
-      <link>https://tecnoblog.net/noticias/italia-quer-cobrar-imposto-sobre-perfis-gratuitos-redes-sociais-sao-contra/</link>
-      <description>Governo italiano alega que uso gratuito das contas em troca de dados é uma transação econômica. Caso pode impactar outros setores na União Europeia.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/italia-quer-cobrar-imposto-sobre-perfis-gratuitos-redes-sociais-sao-contra/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/06/capa-whats-face-insta_tb-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 21 Jul 2025 21:14:39 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 23 Jul 2025 17:14:49 +0000</lastBuildDate>
     <item>
       <title>Galaxy S25 Ultra (256 GB) com câmera de 200 MP tem oferta histórica no Magalu</title>
       <link>https://tecnoblog.net/achados/galaxy-s25-ultra-256-gb-com-camera-de-200-mp-tem-oferta-historica-no-magalu/</link>
@@ -111,6 +79,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/chatgpt-mais-que-dobra-numero-de-prompts-por-dia-25-bilhoes/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/06/chatgpt-3_capa-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Tue, 22 Jul 2025 18:46:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quais são os tipos de redes de computadores? Veja as diferenças entre WAN, LAN, PAN e MAN</title>
+      <link>https://tecnoblog.net/responde/quais-sao-os-tipos-de-rede-de-computadores-veja-as-diferencas-entre-wan-lan-pan-e-man/</link>
+      <description>Redes de computadores são divididas em tipos de acordo com sua área de abrangência; saiba qual o uso das diferentes redes existentes</description>
+      <guid isPermaLink="false">https://tecnoblog.net/responde/quais-sao-os-tipos-de-rede-de-computadores-veja-as-diferencas-entre-wan-lan-pan-e-man/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2016/04/cabo-rede-internet-banda-larga-ethernet-conexao-7-100x100.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 22 Jul 2025 18:46:27 +0000</pubDate>
     </item>
     <item>
       <title>Antes mesmo do tarifaço, governo do Brasil começou a trabalhar em GPS nacional</title>
@@ -223,6 +199,30 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/google-chrome-deve-finalmente-ganhar-abas-verticais/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/11/google-chrome-capa-3-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Wed, 23 Jul 2025 16:03:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Motorola Razr 50 Ultra (512 GB) tem menor preço histórico no Mercado Livre</title>
+      <link>https://tecnoblog.net/achados/motorola-razr-50-ultra-512-gb-tem-menor-preco-historico-no-mercado-livre/</link>
+      <description>Razr 50 Ultra possui duas telas POLED de 165 Hz, chip Snapdragon 8s Gen 3 e câmera principal de 50 MP com OIS; celular dobrável da Motorola chega a 61% de desconto na oferta</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/motorola-razr-50-ultra-512-gb-tem-menor-preco-historico-no-mercado-livre/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/05/Tela-externa-de-4-polegadas-do-Razr-50-Ultra-e-a-maior-da-categoria-diz-Motorola-Imagem-Giovanni-Santa-Rosa-Tecnoblog-1-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 23 Jul 2025 16:40:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Respostas com IA derrubam cliques no Google pela metade</title>
+      <link>https://tecnoblog.net/noticias/respostas-com-ia-derrubam-cliques-no-google-pela-metade/</link>
+      <description>Visão Geral por IA do Google reduz em quase 50% a taxa de cliques em sites. Dados sugerem mudança no papel da big tech como canal de tráfego.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/respostas-com-ia-derrubam-cliques-no-google-pela-metade/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/08/google-ia-capa-1-edited-1-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 23 Jul 2025 16:47:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Apple lança AppleCare One, com consertos e seguro para três aparelhos</title>
+      <link>https://tecnoblog.net/noticias/apple-lanca-applecare-one-com-consertos-e-seguro-para-tres-aparelhos/</link>
+      <description>Plano combina suporte técnico, seguro contra roubo e cobertura para danos acidentais para múltiplos dispositivos nos EUA</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/apple-lanca-applecare-one-com-consertos-e-seguro-para-tres-aparelhos/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/04/apple_capa-5-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 23 Jul 2025 16:48:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
