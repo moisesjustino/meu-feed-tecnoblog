@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 23 Jul 2025 19:11:59 +0000</lastBuildDate>
-    <item>
-      <title>Galaxy S25 Ultra (256 GB) com câmera de 200 MP tem oferta histórica no Magalu</title>
-      <link>https://tecnoblog.net/achados/galaxy-s25-ultra-256-gb-com-camera-de-200-mp-tem-oferta-historica-no-magalu/</link>
-      <description>Galaxy S25 Ultra, lançamento da Samsung em 2025, tem câmera principal de 200 MP, tela AMOLED Dinâmico de 6,9" e chip Snapdragon 8 Elite; oferta com 51% OFF  no Pix</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-s25-ultra-256-gb-com-camera-de-200-mp-tem-oferta-historica-no-magalu/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/Samsung-Galaxy-S25-Ultra-tem-camera-de-200-MP-foto-Thassius-VelosoTecnoblog-1-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 21 Jul 2025 22:16:38 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 23 Jul 2025 20:13:54 +0000</lastBuildDate>
     <item>
       <title>Keeta avalia usar drones para entregas de comida no Brasil</title>
       <link>https://tecnoblog.net/noticias/keeta-avalia-usar-drones-para-entregas-de-comida-no-brasil/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/apple-lanca-applecare-one-com-consertos-e-seguro-para-tres-aparelhos/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/04/apple_capa-5-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Wed, 23 Jul 2025 16:48:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Uber testa opção para passageiras escolherem motoristas mulheres</title>
+      <link>https://tecnoblog.net/noticias/uber-testa-opcao-para-passageiras-escolherem-motoristas-mulheres/</link>
+      <description>Função permite que usuárias nos EUA definam preferência por condutoras nas viagens. Ainda não há previsão de disponibilidade no Brasil.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/uber-testa-opcao-para-passageiras-escolherem-motoristas-mulheres/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/06/uber_capa-2_tb-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 23 Jul 2025 19:20:42 +0000</pubDate>
     </item>
   </channel>
 </rss>
