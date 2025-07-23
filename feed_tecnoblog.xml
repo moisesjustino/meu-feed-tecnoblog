@@ -7,39 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 23 Jul 2025 11:11:32 +0000</lastBuildDate>
-    <item>
-      <title>iFood dobrou a taxa de serviço? Plataforma faz mistério sobre cobrança</title>
-      <link>https://tecnoblog.net/noticias/ifood-dobrou-a-taxa-de-servico-plataforma-faz-misterio-sobre-cobranca/</link>
-      <description>Testes do Tecnoblog apontam que a taxa pode subir à noite. iFood não explicou os critérios usados para calcular o valor.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/ifood-dobrou-a-taxa-de-servico-plataforma-faz-misterio-sobre-cobranca/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/capa-ifood-x-dinheiro-v1-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 18 Jul 2025 22:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Do B2B ao SaaS: conheça modelos de negócios de startups, big techs e e-commerces</title>
-      <link>https://tecnoblog.net/responde/do-b2b-ao-saas-conheca-modelos-de-negocios-de-startups-big-techs-e-e-commerces/</link>
-      <description>Modelos de negócios servem para definir e nortear a estruturação operacional de uma empresa, independentemente da área de atuação</description>
-      <guid isPermaLink="false">https://tecnoblog.net/responde/do-b2b-ao-saas-conheca-modelos-de-negocios-de-startups-big-techs-e-e-commerces/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/capa-tbr-modelos-de-negocio-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 21 Jul 2025 12:52:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Programador vence IA da OpenAI em maratona mundial de 10 horas</title>
-      <link>https://tecnoblog.net/noticias/programador-vence-ia-da-openai-em-maratona-mundial-de-10-horas/</link>
-      <description>Modelo de inteligência artificial ficou em segundo lugar, mas superou outros 10 programadores de elite. Apesar da derrota, OpenAI celebra resultado como marco inédito.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/programador-vence-ia-da-openai-em-maratona-mundial-de-10-horas/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/psyho-heuristic-340x191.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 21 Jul 2025 14:06:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>O que são empresas de tecnologia? Conheça os tipos de companhias do mercado tech</title>
-      <link>https://tecnoblog.net/responde/o-que-sao-empresas-de-tecnologia-conheca-os-tipos-de-companhias-do-mercado-tech/</link>
-      <description>Empresas precisam integrar a cadeia produtiva da indústria de tecnologia para serem oficialmente classificadas como companhias tech</description>
-      <guid isPermaLink="false">https://tecnoblog.net/responde/o-que-sao-empresas-de-tecnologia-conheca-os-tipos-de-companhias-do-mercado-tech/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/ilustracao-de-empresas-de-tecnologia-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 21 Jul 2025 14:50:39 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 23 Jul 2025 12:25:09 +0000</lastBuildDate>
     <item>
       <title>Itaú Emps: banco lança assessoria financeira para empreendedores baseada em IA</title>
       <link>https://tecnoblog.net/noticias/itau-emps-banco-lanca-assessoria-financeira-para-empreendedores-baseada-em-ia/</link>
@@ -223,6 +191,38 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/instagram-esta-exibindo-anuncios-impossiveis-de-pular-para-mais-pessoas/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/03/instagram-capa-1-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 22 Jul 2025 23:07:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Assinatura digital do Gov.br cresce 90% no primeiro semestre de 2025</title>
+      <link>https://tecnoblog.net/noticias/assinatura-digital-do-gov-br-cresce-90-no-primeiro-semestre-de-2025/</link>
+      <description>Uso da ferramenta cresceu 90% em comparação ao mesmo período de 2024 e já ultrapassa 95 milhões de assinaturas digitais no ano.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/assinatura-digital-do-gov-br-cresce-90-no-primeiro-semestre-de-2025/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/gov-br_-edited-340x191.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 23 Jul 2025 11:23:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>245 TB! Conheça o SSD japonês com a maior capacidade do mundo</title>
+      <link>https://tecnoblog.net/noticias/245-tb-conheca-o-ssd-japones-com-a-maior-capacidade-do-mundo/</link>
+      <description>Destinada a data centers e IA, novidade armazena vastos dados com eficiência e baixa latência. Produto da Kioxia conta com com PCIe 5.0 e NVMe 2.0.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/245-tb-conheca-o-ssd-japones-com-a-maior-capacidade-do-mundo/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/lc9_serise_group-edited-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 23 Jul 2025 11:39:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nova função do WhatsApp deve ajudar usuários que se esquecem de responder mensagens</title>
+      <link>https://tecnoblog.net/noticias/nova-funcao-do-whatsapp-deve-ajudar-usuarios-que-se-esquecem-de-responder-mensagens/</link>
+      <description>Nova ferramenta permite agendar alertas para revisar mensagens importantes depois de um determinado período. A função já está disponível para parte dos usuários do beta.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/nova-funcao-do-whatsapp-deve-ajudar-usuarios-que-se-esquecem-de-responder-mensagens/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/capa-whatsapp-agendado-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 23 Jul 2025 11:48:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Spotify publica música com IA em perfil de artista já falecido (e sem permissão)</title>
+      <link>https://tecnoblog.net/noticias/spotify-publica-musica-com-ia-em-perfil-de-artista-ja-falecido-e-sem-permissao/</link>
+      <description>Sem autorização de herdeiros ou gravadoras, plataforma chegou a divulgar faixa inédita no perfil do cantor Blaze Foley, que morreu em 1989.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/spotify-publica-musica-com-ia-em-perfil-de-artista-ja-falecido-e-sem-permissao/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/05/spotify_capa-2_tb-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 23 Jul 2025 12:08:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
