@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 24 Jul 2025 17:13:30 +0000</lastBuildDate>
-    <item>
-      <title>O app de mensagens offline e a batalha contra os bots</title>
-      <link>https://tecnoblog.net/tecnocast/o-app-de-mensagens-offline-e-a-batalha-contra-os-bots/</link>
-      <description>Sem descrição breve.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/tecnocast/o-app-de-mensagens-offline-e-a-batalha-contra-os-bots/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/tecnocast-383_capa-2-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 22 Jul 2025 21:08:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Clear Linux: distribuição da Intel pouco conhecida chega ao fim</title>
-      <link>https://tecnoblog.net/noticias/clear-linux-distribuicao-da-intel-pouco-conhecida-chega-ao-fim/</link>
-      <description>Intel anunciou decisão de descontinuar a distribuição Clear Linux OS, que era otimizada para seus processadores. Projeto existiu por dez anos.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/clear-linux-distribuicao-da-intel-pouco-conhecida-chega-ao-fim/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/clear-linux-os-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 22 Jul 2025 21:10:34 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 24 Jul 2025 18:18:04 +0000</lastBuildDate>
     <item>
       <title>O que é tecnologia? Confira as principais áreas tecnológicas do mercado</title>
       <link>https://tecnoblog.net/responde/o-que-e-tecnologia-confira-as-principais-areas-tecnologicas-do-mercado/</link>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/meta-desenvolve-pulseira-com-ia-que-controla-computadores-por-gestos/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/11/meta-capa-3-nov-2022-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Thu, 24 Jul 2025 17:02:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>CPU da Nvidia para PCs só deve chegar em 2026</title>
+      <link>https://tecnoblog.net/noticias/cpu-da-nvidia-para-pcs-so-deve-chegar-em-2026/</link>
+      <description>De codinome N1X, processador da Nvidia para PCs com Windows estaria sendo desenvolvido em parceria com a MediaTek com foco no setor corporativo.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/cpu-da-nvidia-para-pcs-so-deve-chegar-em-2026/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/05/chip-nvidia-mediatek-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 24 Jul 2025 17:57:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>iOS 26: Apple libera primeiro beta público; saiba como baixar</title>
+      <link>https://tecnoblog.net/noticias/ios-26-apple-libera-primeiro-beta-publico-saiba-como-baixar/</link>
+      <description>iPad, Mac, Apple Watch e outros produtos da marca também podem ser atualizados para versão de testes. Visual Liquid Glass é a principal novidade.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/ios-26-apple-libera-primeiro-beta-publico-saiba-como-baixar/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/20250609_174950-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 24 Jul 2025 18:01:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
