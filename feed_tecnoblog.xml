@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 24 Jul 2025 20:12:31 +0000</lastBuildDate>
-    <item>
-      <title>O que é tecnologia? Confira as principais áreas tecnológicas do mercado</title>
-      <link>https://tecnoblog.net/responde/o-que-e-tecnologia-confira-as-principais-areas-tecnologicas-do-mercado/</link>
-      <description>A tecnologia é fundamental para o desenvolvimento da sociedade como um todo, já que aprimora técnicas passadas e soluciona novos problemas</description>
-      <guid isPermaLink="false">https://tecnoblog.net/responde/o-que-e-tecnologia-confira-as-principais-areas-tecnologicas-do-mercado/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/ilustracao-de-tecnologia-2-1-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 22 Jul 2025 21:21:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Instagram está exibindo anúncios impossíveis de pular para mais pessoas</title>
-      <link>https://tecnoblog.net/noticias/instagram-esta-exibindo-anuncios-impossiveis-de-pular-para-mais-pessoas/</link>
-      <description>Formato de "ad breaks" já foi visto por usuários nos EUA e na Europa, inclusive logo ao abrir o aplicativo. Testes começaram em 2024.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/instagram-esta-exibindo-anuncios-impossiveis-de-pular-para-mais-pessoas/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/03/instagram-capa-1-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 22 Jul 2025 23:07:21 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 24 Jul 2025 21:12:19 +0000</lastBuildDate>
     <item>
       <title>Assinatura digital do Gov.br cresce 90% no primeiro semestre de 2025</title>
       <link>https://tecnoblog.net/noticias/assinatura-digital-do-gov-br-cresce-90-no-primeiro-semestre-de-2025/</link>
@@ -187,7 +171,7 @@
     <item>
       <title>Samsung lança o Fold 7 e mais aparelhos no Brasil; veja os preços</title>
       <link>https://tecnoblog.net/noticias/samsung-lanca-o-fold-7-e-mais-aparelhos-no-brasil-veja-os-precos/</link>
-      <description>Gigante sul-coreana faz evento com Flip 7, Flip 7 SE, Watch 8 e Watch 8 Classic. Smartphones rodam Android 16 e One UI 8.</description>
+      <description>Gigante sul-coreana faz evento com Flip 7, Flip 7 FE, Watch 8 e Watch 8 Classic. Smartphones rodam Android 16 e One UI 8.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/samsung-lanca-o-fold-7-e-mais-aparelhos-no-brasil-veja-os-precos/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/flip-e-fold-7-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Thu, 24 Jul 2025 15:20:29 +0000</pubDate>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/ios-26-apple-libera-primeiro-beta-publico-saiba-como-baixar/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/20250609_174950-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Thu, 24 Jul 2025 18:01:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Starlink fora do ar: usuários relatam instabilidade no mundo todo</title>
+      <link>https://tecnoblog.net/noticias/starlink-fora-do-ar-usuarios-relatam-instabilidade-no-mundo-todo/</link>
+      <description>Rede da Starlink está indisponível nesta quinta-feira (24/07). DownDetector soma mais de 2.200 alertas.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/starlink-fora-do-ar-usuarios-relatam-instabilidade-no-mundo-todo/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/05/starlink-antena-preto-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 24 Jul 2025 20:43:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google vai gerar roupas falsas usando IA para facilitar compras</title>
+      <link>https://tecnoblog.net/noticias/google-vai-gerar-roupas-falsas-usando-ia-para-facilitar-compras/</link>
+      <description>Usuários poderão descrever o que querem vestir, ver imagens criadas por IA e receber sugestões reais semelhantes em lojas online</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/google-vai-gerar-roupas-falsas-usando-ia-para-facilitar-compras/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/11/google-ia-capa-1-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 24 Jul 2025 20:54:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
