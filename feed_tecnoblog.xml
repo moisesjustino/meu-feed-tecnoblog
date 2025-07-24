@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 24 Jul 2025 15:12:56 +0000</lastBuildDate>
-    <item>
-      <title>Quais são os tipos de redes de computadores? Veja as diferenças entre WAN, LAN, PAN e MAN</title>
-      <link>https://tecnoblog.net/responde/quais-sao-os-tipos-de-rede-de-computadores-veja-as-diferencas-entre-wan-lan-pan-e-man/</link>
-      <description>Redes de computadores são divididas em tipos de acordo com sua área de abrangência; saiba qual o uso das diferentes redes existentes</description>
-      <guid isPermaLink="false">https://tecnoblog.net/responde/quais-sao-os-tipos-de-rede-de-computadores-veja-as-diferencas-entre-wan-lan-pan-e-man/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2016/04/cabo-rede-internet-banda-larga-ethernet-conexao-7-100x100.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 22 Jul 2025 18:46:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Antes mesmo do tarifaço, governo do Brasil começou a trabalhar em GPS nacional</title>
-      <link>https://tecnoblog.net/noticias/antes-mesmo-do-tarifaco-governo-do-brasil-comecou-a-trabalhar-em-gps-nacional/</link>
-      <description>Grupo de trabalho foi criado para propor sistema de navegação com tecnologia própria. Iniciativa busca reduzir dependência de serviços estrangeiros.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/antes-mesmo-do-tarifaco-governo-do-brasil-comecou-a-trabalhar-em-gps-nacional/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/10/gps-celular-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 22 Jul 2025 19:33:15 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 24 Jul 2025 16:14:40 +0000</lastBuildDate>
     <item>
       <title>Galaxy S24 FE (128 GB) tem 42% de desconto com oferta em até 12x sem juros</title>
       <link>https://tecnoblog.net/achados/galaxy-s24-fe-128-gb-tem-42-de-desconto-com-oferta-em-ate-12x-sem-juros/</link>
@@ -205,7 +189,7 @@
       <link>https://tecnoblog.net/noticias/esta-caixa-de-areia-autolimpante-deve-chegar-ao-brasil/</link>
       <description>Modelo Cura X1 da Amicura Pet tem conectividade Bluetooth e Wi-Fi. Produto foi homologado pela Anatel e já pode ser vendido no país.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/esta-caixa-de-areia-autolimpante-deve-chegar-ao-brasil/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/amicura-pet-x1-340x191.png" length="0" type="image/jpeg"/>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/caixa_catlink_scooper-edited-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Thu, 24 Jul 2025 13:50:51 +0000</pubDate>
     </item>
     <item>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/vazamento-do-cnj-expoe-dados-do-pix-de-mais-de-11-milhoes-de-pessoas/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/03/pix_capa-3_tb-340x191.jpeg" length="0" type="image/jpeg"/>
       <pubDate>Thu, 24 Jul 2025 14:37:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Samsung lança o Fold 7 e mais aparelhos no Brasil; veja os preços</title>
+      <link>https://tecnoblog.net/noticias/samsung-lanca-o-fold-7-e-mais-aparelhos-no-brasil-veja-os-precos/</link>
+      <description>Gigante sul-coreana faz evento com Flip 7, Flip 7 SE, Watch 8 e Watch 8 Classic. Smartphones rodam Android 16 e One UI 8.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/samsung-lanca-o-fold-7-e-mais-aparelhos-no-brasil-veja-os-precos/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/flip-e-fold-7-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 24 Jul 2025 15:20:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>iPhone 15 (256 GB) tem melhor preço em meses com oferta no Mercado Livre</title>
+      <link>https://tecnoblog.net/achados/iphone-15-256-gb-tem-melhor-preco-em-meses-com-oferta-no-mercado-livre/</link>
+      <description>iPhone 15 (256 GB) tem tela Super Retina XDR OLED com HDR10, chip Apple A16 Bionic e câmera principal de 48 MP; celular da Apple sai com 41% de desconto com cupom e no Pix</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/iphone-15-256-gb-tem-melhor-preco-em-meses-com-oferta-no-mercado-livre/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/04/iphone-15-lancamento-apple-cupertino-6-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 24 Jul 2025 16:09:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
