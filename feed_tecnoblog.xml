@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 24 Jul 2025 16:14:40 +0000</lastBuildDate>
-    <item>
-      <title>Galaxy S24 FE (128 GB) tem 42% de desconto com oferta em até 12x sem juros</title>
-      <link>https://tecnoblog.net/achados/galaxy-s24-fe-128-gb-tem-42-de-desconto-com-oferta-em-ate-12x-sem-juros/</link>
-      <description>Galaxy S24 FE tem tela AMOLED Dinâmico de 6,7", chip Exynos 2400e, bateria de 4.700 mAh e filma em 8K; oferta válida pelo celular com 128 GB em até 12x sem juros na Amazon</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-s24-fe-128-gb-tem-42-de-desconto-com-oferta-em-ate-12x-sem-juros/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/03/Galaxy-S24-FE-promete-7-anos-de-Android-foto-Giovanni-Santa-Rosa-Tecnoblog-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 22 Jul 2025 20:56:44 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 24 Jul 2025 17:13:30 +0000</lastBuildDate>
     <item>
       <title>O app de mensagens offline e a batalha contra os bots</title>
       <link>https://tecnoblog.net/tecnocast/o-app-de-mensagens-offline-e-a-batalha-contra-os-bots/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/iphone-15-256-gb-tem-melhor-preco-em-meses-com-oferta-no-mercado-livre/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/04/iphone-15-lancamento-apple-cupertino-6-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Thu, 24 Jul 2025 16:09:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Meta desenvolve pulseira com IA que controla computadores por gestos</title>
+      <link>https://tecnoblog.net/noticias/meta-desenvolve-pulseira-com-ia-que-controla-computadores-por-gestos/</link>
+      <description>Tecnologia baseada em sinais musculares e inteligência artificial mira realidade aumentada e acessibilidade. Ainda em fase de pesquisa, não há data para lançamento.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/meta-desenvolve-pulseira-com-ia-que-controla-computadores-por-gestos/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/11/meta-capa-3-nov-2022-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 24 Jul 2025 17:02:28 +0000</pubDate>
     </item>
   </channel>
 </rss>
