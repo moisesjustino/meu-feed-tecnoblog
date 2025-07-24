@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 24 Jul 2025 13:32:44 +0000</lastBuildDate>
-    <item>
-      <title>YouTube derruba quase 11 mil canais de propaganda estatal</title>
-      <link>https://tecnoblog.net/noticias/youtube-derruba-quase-11-mil-canais-de-propaganda-estatal/</link>
-      <description>Plataforma do Google removeu rede de canais ligados à desinformação, principalmente da China e Rússia. Ação visa combater manipulação online.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/youtube-derruba-quase-11-mil-canais-de-propaganda-estatal/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/04/youtube-celular-3-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 22 Jul 2025 15:08:47 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 24 Jul 2025 14:14:38 +0000</lastBuildDate>
     <item>
       <title>Reino Unido deve proibir pagamento de resgates em ciberataques</title>
       <link>https://tecnoblog.net/noticias/reino-unido-deve-proibir-pagamento-de-resgates-em-ciberataques/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/publieditoriais/tronsmart-renova-caixas-de-som-portateis-com-opcoes-para-todos-os-momentos/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/tronsmart-caixas-som-capa-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Thu, 24 Jul 2025 13:27:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Esta caixa de areia autolimpante deve chegar ao Brasil</title>
+      <link>https://tecnoblog.net/noticias/esta-caixa-de-areia-autolimpante-deve-chegar-ao-brasil/</link>
+      <description>Modelo Cura X1 da Amicura Pet tem conectividade Bluetooth e Wi-Fi. Produto foi homologado pela Anatel e já pode ser vendido no país.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/esta-caixa-de-areia-autolimpante-deve-chegar-ao-brasil/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/amicura-pet-x1-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 24 Jul 2025 13:50:51 +0000</pubDate>
     </item>
   </channel>
 </rss>
