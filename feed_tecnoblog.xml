@@ -7,47 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 24 Jul 2025 21:12:19 +0000</lastBuildDate>
-    <item>
-      <title>Assinatura digital do Gov.br cresce 90% no primeiro semestre de 2025</title>
-      <link>https://tecnoblog.net/noticias/assinatura-digital-do-gov-br-cresce-90-no-primeiro-semestre-de-2025/</link>
-      <description>Uso da ferramenta cresceu 90% em comparação ao mesmo período de 2024 e já ultrapassa 95 milhões de assinaturas digitais no ano.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/assinatura-digital-do-gov-br-cresce-90-no-primeiro-semestre-de-2025/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/gov-br_-edited-340x191.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 23 Jul 2025 11:23:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>245 TB! Conheça o SSD japonês com a maior capacidade do mundo</title>
-      <link>https://tecnoblog.net/noticias/245-tb-conheca-o-ssd-japones-com-a-maior-capacidade-do-mundo/</link>
-      <description>Destinada a data centers e IA, novidade armazena vastos dados com eficiência e baixa latência. Produto da Kioxia conta com com PCIe 5.0 e NVMe 2.0.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/245-tb-conheca-o-ssd-japones-com-a-maior-capacidade-do-mundo/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/lc9_serise_group-edited-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 23 Jul 2025 11:39:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nova função do WhatsApp deve ajudar usuários que se esquecem de responder mensagens</title>
-      <link>https://tecnoblog.net/noticias/nova-funcao-do-whatsapp-deve-ajudar-usuarios-que-se-esquecem-de-responder-mensagens/</link>
-      <description>Nova ferramenta permite agendar alertas para revisar mensagens importantes depois de um determinado período. A função já está disponível para parte dos usuários do beta.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/nova-funcao-do-whatsapp-deve-ajudar-usuarios-que-se-esquecem-de-responder-mensagens/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/capa-whatsapp-agendado-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 23 Jul 2025 11:48:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Spotify publica música com IA em perfil de artista já falecido (e sem permissão)</title>
-      <link>https://tecnoblog.net/noticias/spotify-publica-musica-com-ia-em-perfil-de-artista-ja-falecido-e-sem-permissao/</link>
-      <description>Sem autorização de herdeiros ou gravadoras, plataforma chegou a divulgar faixa inédita no perfil do cantor Blaze Foley, que morreu em 1989.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/spotify-publica-musica-com-ia-em-perfil-de-artista-ja-falecido-e-sem-permissao/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/05/spotify_capa-2_tb-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 23 Jul 2025 12:08:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>O que é ADSL? Confira vantagens e desvantagens da tecnologia</title>
-      <link>https://tecnoblog.net/responde/o-que-e-adsl-confira-vantagens-e-desvantagens-da-tecnologia/</link>
-      <description>A tecnologia ADSL permite a conexão de internet em alta velocidade por meio de linhas telefônicas já existentes, sem ocupar a linha para chamadas de voz</description>
-      <guid isPermaLink="false">https://tecnoblog.net/responde/o-que-e-adsl-confira-vantagens-e-desvantagens-da-tecnologia/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/09/largura-banda-larga-capa-2-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 23 Jul 2025 13:29:39 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 24 Jul 2025 22:12:44 +0000</lastBuildDate>
     <item>
       <title>Proton lança Lumo, assistente de IA focado em privacidade</title>
       <link>https://tecnoblog.net/noticias/proton-lanca-lumo-assistente-de-ia-focado-em-privacidade/</link>
@@ -113,12 +73,28 @@
       <pubDate>Wed, 23 Jul 2025 16:48:36 +0000</pubDate>
     </item>
     <item>
+      <title>O que é XML? Veja para que serve e como funciona a linguagem de marcação</title>
+      <link>https://tecnoblog.net/responde/o-que-e-xml-veja-para-que-serve-e-como-funciona-a-linguagem-de-marcacao/</link>
+      <description>O XML pode ser utilizado para configurar aplicações, estruturar documentos técnicos e transferir dados entre sistemas</description>
+      <guid isPermaLink="false">https://tecnoblog.net/responde/o-que-e-xml-veja-para-que-serve-e-como-funciona-a-linguagem-de-marcacao/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/codigo-xml-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 23 Jul 2025 18:31:24 +0000</pubDate>
+    </item>
+    <item>
       <title>Uber testa opção para passageiras escolherem motoristas mulheres</title>
       <link>https://tecnoblog.net/noticias/uber-testa-opcao-para-passageiras-escolherem-motoristas-mulheres/</link>
       <description>Função permite que usuárias nos EUA definam preferência por condutoras nas viagens. Ainda não há previsão de disponibilidade no Brasil.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/uber-testa-opcao-para-passageiras-escolherem-motoristas-mulheres/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/06/uber_capa-2_tb-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Wed, 23 Jul 2025 19:20:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>O que é Meta AI? Saiba o que dá para fazer com o assistente de IA da Meta</title>
+      <link>https://tecnoblog.net/responde/o-que-e-meta-ai-saiba-o-que-da-para-fazer-com-o-assistente-de-ia-da-meta/</link>
+      <description>A Meta AI é um assistente de inteligência artificial que serve para gerar novos conteúdos, buscar informações e solucionar problemas</description>
+      <guid isPermaLink="false">https://tecnoblog.net/responde/o-que-e-meta-ai-saiba-o-que-da-para-fazer-com-o-assistente-de-ia-da-meta/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/meta-ai-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 23 Jul 2025 20:18:51 +0000</pubDate>
     </item>
     <item>
       <title>Dia dos Pais: celulares e mais produtos Samsung com até 63% OFF no Mercado Livre</title>
@@ -209,7 +185,7 @@
       <pubDate>Thu, 24 Jul 2025 18:01:14 +0000</pubDate>
     </item>
     <item>
-      <title>Starlink fora do ar: usuários relatam instabilidade no mundo todo</title>
+      <title>Starlink fora do ar: clientes relatam instabilidade no mundo todo</title>
       <link>https://tecnoblog.net/noticias/starlink-fora-do-ar-usuarios-relatam-instabilidade-no-mundo-todo/</link>
       <description>Rede da Starlink está indisponível nesta quinta-feira (24/07). DownDetector soma mais de 2.200 alertas.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/starlink-fora-do-ar-usuarios-relatam-instabilidade-no-mundo-todo/</guid>
@@ -223,6 +199,30 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/google-vai-gerar-roupas-falsas-usando-ia-para-facilitar-compras/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/11/google-ia-capa-1-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Thu, 24 Jul 2025 20:54:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft começa a liberar suporte estendido para o Windows 10</title>
+      <link>https://tecnoblog.net/noticias/microsoft-comeca-a-liberar-suporte-estendido-para-o-windows-10/</link>
+      <description>Assistente que permite a usuários domésticos pedirem suporte estendido ao Windows 10 está sendo liberado progressivamente pela Microsoft.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/microsoft-comeca-a-liberar-suporte-estendido-para-o-windows-10/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/03/windows-10-tela-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 24 Jul 2025 21:29:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dia dos Pais: Galaxy A16 e mais celulares até R$ 1.500 com 256 GB para presentear</title>
+      <link>https://tecnoblog.net/achados/dia-dos-pais-galaxy-a16-e-mais-celulares-ate-r-1-500-com-256-gb-para-presentear/</link>
+      <description>Galaxy A16, Moto G75 e outros celulares com 256 GB que oferecem ótimo custo-benefício para dar de presente no Dia dos Pais; ofertas disponíveis com até 43% de desconto</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/dia-dos-pais-galaxy-a16-e-mais-celulares-ate-r-1-500-com-256-gb-para-presentear/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/05/GalaxyA16-oferta-recomendada-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 24 Jul 2025 22:09:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Saudades do Windows XP? Desenvolvedor recria sistema no navegador</title>
+      <link>https://tecnoblog.net/noticias/saudades-do-windows-xp-desenvolvedor-recria-sistema-no-navegador/</link>
+      <description>Projeto recria a interface clássica do sistema operacional da Microsoft e permite jogar Pinball 3D, Paciência e Campo Minado.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/saudades-do-windows-xp-desenvolvedor-recria-sistema-no-navegador/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/windows-xp-fake-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 24 Jul 2025 22:11:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
