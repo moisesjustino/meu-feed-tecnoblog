@@ -7,31 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 25 Jul 2025 19:11:51 +0000</lastBuildDate>
-    <item>
-      <title>Apple lança AppleCare One, com consertos e seguro para três aparelhos</title>
-      <link>https://tecnoblog.net/noticias/apple-lanca-applecare-one-com-consertos-e-seguro-para-tres-aparelhos/</link>
-      <description>Plano combina suporte técnico, seguro contra roubo e cobertura para danos acidentais para múltiplos dispositivos nos EUA.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/apple-lanca-applecare-one-com-consertos-e-seguro-para-tres-aparelhos/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/04/apple_capa-5-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 23 Jul 2025 16:48:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>O que é XML? Veja para que serve e como funciona a linguagem de marcação</title>
-      <link>https://tecnoblog.net/responde/o-que-e-xml-veja-para-que-serve-e-como-funciona-a-linguagem-de-marcacao/</link>
-      <description>O XML pode ser utilizado para configurar aplicações, estruturar documentos técnicos e transferir dados entre sistemas</description>
-      <guid isPermaLink="false">https://tecnoblog.net/responde/o-que-e-xml-veja-para-que-serve-e-como-funciona-a-linguagem-de-marcacao/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/codigo-xml-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 23 Jul 2025 18:31:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Uber testa opção para passageiras escolherem motoristas mulheres</title>
-      <link>https://tecnoblog.net/noticias/uber-testa-opcao-para-passageiras-escolherem-motoristas-mulheres/</link>
-      <description>Função permite que usuárias nos EUA definam preferência por condutoras nas viagens. Ainda não há previsão de disponibilidade no Brasil.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/uber-testa-opcao-para-passageiras-escolherem-motoristas-mulheres/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/06/uber_capa-2_tb-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 23 Jul 2025 19:20:42 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 25 Jul 2025 20:13:20 +0000</lastBuildDate>
     <item>
       <title>O que é Meta AI? Saiba o que dá para fazer com o assistente de IA da Meta</title>
       <link>https://tecnoblog.net/responde/o-que-e-meta-ai-saiba-o-que-da-para-fazer-com-o-assistente-de-ia-da-meta/</link>
@@ -111,6 +87,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/meta-desenvolve-pulseira-com-ia-que-controla-computadores-por-gestos/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/11/meta-capa-3-nov-2022-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Thu, 24 Jul 2025 17:02:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>O que é Alexa? Confira os principais recursos do assistente virtual da Amazon</title>
+      <link>https://tecnoblog.net/responde/o-que-e-alexa-confira-os-principais-recursos-do-assistente-virtual-da-amazon/</link>
+      <description>A Alexa permite usar comandos de voz para auxiliar em diferentes tarefas, como controlar dispositivos inteligentes, tornando a tecnologia mais intuitiva e conveniente</description>
+      <guid isPermaLink="false">https://tecnoblog.net/responde/o-que-e-alexa-confira-os-principais-recursos-do-assistente-virtual-da-amazon/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2019/11/ilustracao-de-amazon-echo-com-alexa-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 24 Jul 2025 17:43:40 +0000</pubDate>
     </item>
     <item>
       <title>CPU da Nvidia para PCs só deve chegar em 2026</title>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/microsoft-windows-11-24h2-e-a-versao-mais-confiavel-ja-lancada/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/06/dell-xps-16-2024-2-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Fri, 25 Jul 2025 17:58:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Brave e AdGuard bloqueiam polêmica função Recall no Windows</title>
+      <link>https://tecnoblog.net/noticias/brave-e-adguard-bloqueiam-polemica-funcao-recall-no-windows/</link>
+      <description>Ferramenta Recall registra capturas de tela automaticamente para auxiliar na recuperação de informações. Empresas alegam que recurso pode expor dados sensíveis.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/brave-e-adguard-bloqueiam-polemica-funcao-recall-no-windows/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/05/img_3766-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 25 Jul 2025 19:25:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>TV Samsung Q65D de 65″ e outras TVs em promoção para o Dia dos Pais</title>
+      <link>https://tecnoblog.net/achados/tv-samsung-q65d-de-65-e-outras-tvs-em-promocao-para-o-dia-dos-pais/</link>
+      <description>TV Samsung Q65D de 65", Smart TV LG 4K UHD 50UT8050 de 50" e outras televisões Samsung e LG estão a venda por preços especiais para o Dia dos Pais com até 42% de desconto</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/tv-samsung-q65d-de-65-e-outras-tvs-em-promocao-para-o-dia-dos-pais/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/05/TV-Samsung-Q65D-tem-tecnologia-QLED-imagem-Samsung-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 25 Jul 2025 19:50:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
