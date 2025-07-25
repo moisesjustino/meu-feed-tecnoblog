@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 25 Jul 2025 12:24:27 +0000</lastBuildDate>
-    <item>
-      <title>Proton lança Lumo, assistente de IA focado em privacidade</title>
-      <link>https://tecnoblog.net/noticias/proton-lanca-lumo-assistente-de-ia-focado-em-privacidade/</link>
-      <description>Lumo é um assistente de IA que usa criptografia de acesso zero da Proton e não armazena dados do usuário em seus servidores.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/proton-lanca-lumo-assistente-de-ia-focado-em-privacidade/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/proton-lumo-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 23 Jul 2025 14:03:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nubank revela chip físico do NuCel e muda formato dos planos</title>
-      <link>https://tecnoblog.net/noticias/nubank-revela-chip-fisico-do-nucel-e-muda-formato-dos-planos/</link>
-      <description>Novos planos do NuCel têm até 35 GB por R$ 70. Chip físico poderá ser solicitado sem custo no app do banco.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/nubank-revela-chip-fisico-do-nucel-e-muda-formato-dos-planos/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/capa-chip-nubank-v2-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 23 Jul 2025 14:30:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 25 Jul 2025 13:30:51 +0000</lastBuildDate>
     <item>
       <title>“Nada é eterno”, diz CEO da Ubisoft sobre games antigos</title>
       <link>https://tecnoblog.net/noticias/nada-e-eterno-diz-ceo-da-ubisoft-sobre-games-antigos/</link>
@@ -195,7 +179,7 @@
     <item>
       <title>Google vai gerar roupas falsas usando IA para facilitar compras</title>
       <link>https://tecnoblog.net/noticias/google-vai-gerar-roupas-falsas-usando-ia-para-facilitar-compras/</link>
-      <description>Usuários poderão descrever o que querem vestir, ver imagens criadas por IA e receber sugestões reais semelhantes em lojas online</description>
+      <description>Usuários poderão descrever o que querem vestir, ver imagens criadas por inteligência artificial e receber sugestões reais semelhantes em lojas online.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/google-vai-gerar-roupas-falsas-usando-ia-para-facilitar-compras/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/11/google-ia-capa-1-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Thu, 24 Jul 2025 20:54:23 +0000</pubDate>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/saudades-do-windows-xp-desenvolvedor-recria-sistema-no-navegador/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/windows-xp-fake-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Thu, 24 Jul 2025 22:11:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>PC portátil Zeenix Pro é finalmente lançado pela TecToy</title>
+      <link>https://tecnoblog.net/noticias/pc-portatil-zeenix-pro-e-finalmente-lancado-pela-tectoy/</link>
+      <description>Zeenix Pro tem chip Ryzen 7 6800U, tela de 6 polegadas e 512 GB de armazenamento. PC portátil para games da TecToy vem ainda com Windows 11.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/pc-portatil-zeenix-pro-e-finalmente-lancado-pela-tectoy/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/06/tectoy-zeenix-2-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 25 Jul 2025 13:00:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Apple: 60% dos brasileiros com iPhone usam esta proteção antirroubo</title>
+      <link>https://tecnoblog.net/noticias/apple-60-dos-brasileiros-com-iphone-usam-esta-protecao-antirroubo/</link>
+      <description>Proteção de Dispositivo Roubado bloqueia alterações importantes sem biometria. A Apple explica que, mesmo com senha, é necessário usar Face ID ou impressão digital.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/apple-60-dos-brasileiros-com-iphone-usam-esta-protecao-antirroubo/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/09/capa-iphone-16-no-brasil-3-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 25 Jul 2025 13:21:43 +0000</pubDate>
     </item>
   </channel>
 </rss>
