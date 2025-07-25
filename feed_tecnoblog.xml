@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 25 Jul 2025 16:15:06 +0000</lastBuildDate>
-    <item>
-      <title>Google Chrome deve finalmente ganhar abas verticais</title>
-      <link>https://tecnoblog.net/noticias/google-chrome-deve-finalmente-ganhar-abas-verticais/</link>
-      <description>Google Chrome pode adotar recurso já presente em rivais como Edge e Firefox. Referência às abas verticais apareceu em código do projeto Chromium.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/google-chrome-deve-finalmente-ganhar-abas-verticais/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/11/google-chrome-capa-3-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 23 Jul 2025 16:03:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Motorola Razr 50 Ultra (512 GB) tem menor preço histórico no Mercado Livre</title>
-      <link>https://tecnoblog.net/achados/motorola-razr-50-ultra-512-gb-tem-menor-preco-historico-no-mercado-livre/</link>
-      <description>Razr 50 Ultra possui duas telas POLED de 165 Hz, chip Snapdragon 8s Gen 3 e câmera principal de 50 MP com OIS; celular dobrável da Motorola chega a 61% de desconto na oferta</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/motorola-razr-50-ultra-512-gb-tem-menor-preco-historico-no-mercado-livre/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/05/Tela-externa-de-4-polegadas-do-Razr-50-Ultra-e-a-maior-da-categoria-diz-Motorola-Imagem-Giovanni-Santa-Rosa-Tecnoblog-1-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 23 Jul 2025 16:40:08 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 25 Jul 2025 17:13:34 +0000</lastBuildDate>
     <item>
       <title>Respostas com IA derrubam cliques no Google pela metade</title>
       <link>https://tecnoblog.net/noticias/respostas-com-ia-derrubam-cliques-no-google-pela-metade/</link>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/google-testa-ia-que-organiza-resultados-da-busca-em-categorias/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/google-ia-busca-web-guide-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Fri, 25 Jul 2025 15:40:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Intel não vai mais assinar “cheques em branco” para investimentos, diz CEO</title>
+      <link>https://tecnoblog.net/noticias/intel-nao-vai-mais-assinar-cheques-em-branco-para-investimentos-diz-ceo/</link>
+      <description>CEO alerta que empresa gastou demais sem demanda e confirma cortes em fábricas, demissões e possível abandono de tecnologia de 1,4 nm</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/intel-nao-vai-mais-assinar-cheques-em-branco-para-investimentos-diz-ceo/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/05/intel_capa-1_tb-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 25 Jul 2025 16:51:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Streaming cresce e TV por assinatura cai no Brasil</title>
+      <link>https://tecnoblog.net/noticias/streaming-cresce-e-tv-por-assinatura-cai-no-brasil/</link>
+      <description>IBGE aponta que 43,4% dos lares no Brasil usam streaming. TV por assinatura mantém queda e perde espaço para plataformas online.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/streaming-cresce-e-tv-por-assinatura-cai-no-brasil/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/O-que-e-streaming-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 25 Jul 2025 16:54:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
