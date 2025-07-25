@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 25 Jul 2025 17:13:34 +0000</lastBuildDate>
-    <item>
-      <title>Respostas com IA derrubam cliques no Google pela metade</title>
-      <link>https://tecnoblog.net/noticias/respostas-com-ia-derrubam-cliques-no-google-pela-metade/</link>
-      <description>Visão Geral por IA do Google reduz em quase 50% a taxa de cliques em sites. Dados sugerem mudança no papel da big tech como canal de tráfego.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/respostas-com-ia-derrubam-cliques-no-google-pela-metade/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/08/google-ia-capa-1-edited-1-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 23 Jul 2025 16:47:10 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 25 Jul 2025 18:17:45 +0000</lastBuildDate>
     <item>
       <title>Apple lança AppleCare One, com consertos e seguro para três aparelhos</title>
       <link>https://tecnoblog.net/noticias/apple-lanca-applecare-one-com-consertos-e-seguro-para-tres-aparelhos/</link>
@@ -211,7 +203,7 @@
     <item>
       <title>Intel não vai mais assinar “cheques em branco” para investimentos, diz CEO</title>
       <link>https://tecnoblog.net/noticias/intel-nao-vai-mais-assinar-cheques-em-branco-para-investimentos-diz-ceo/</link>
-      <description>CEO alerta que empresa gastou demais sem demanda e confirma cortes em fábricas, demissões e possível abandono de tecnologia de 1,4 nm</description>
+      <description>CEO alerta que empresa gastou demais sem demanda e confirma cortes em fábricas, demissões e possível abandono de tecnologia de 1,4 nm.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/intel-nao-vai-mais-assinar-cheques-em-branco-para-investimentos-diz-ceo/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/05/intel_capa-1_tb-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Fri, 25 Jul 2025 16:51:01 +0000</pubDate>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/streaming-cresce-e-tv-por-assinatura-cai-no-brasil/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/O-que-e-streaming-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Fri, 25 Jul 2025 16:54:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft: Windows 11 24H2 é a versão mais confiável já lançada</title>
+      <link>https://tecnoblog.net/noticias/microsoft-windows-11-24h2-e-a-versao-mais-confiavel-ja-lancada/</link>
+      <description>Suporte ao Windows 10 termina em outubro de 2025. Microsoft vem tentando convencer usuários e organizações a migrarem para o Windows 11.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/microsoft-windows-11-24h2-e-a-versao-mais-confiavel-ja-lancada/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/06/dell-xps-16-2024-2-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 25 Jul 2025 17:58:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
