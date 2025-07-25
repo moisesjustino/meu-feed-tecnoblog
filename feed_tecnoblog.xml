@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 25 Jul 2025 14:12:31 +0000</lastBuildDate>
-    <item>
-      <title>“Nada é eterno”, diz CEO da Ubisoft sobre games antigos</title>
-      <link>https://tecnoblog.net/noticias/nada-e-eterno-diz-ceo-da-ubisoft-sobre-games-antigos/</link>
-      <description>Yves Guillemot afirma que suporte a jogos não pode ser para sempre. Declaração responde à campanha Stop Killing Games, que cobra acesso contínuo a títulos antigos.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/nada-e-eterno-diz-ceo-da-ubisoft-sobre-games-antigos/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/yves-guillemot-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 23 Jul 2025 15:09:48 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 25 Jul 2025 15:13:20 +0000</lastBuildDate>
     <item>
       <title>Novo golpe assusta por usar dados reais de compra na Amazon</title>
       <link>https://tecnoblog.net/noticias/novo-golpe-assusta-por-usar-dados-reais-de-compra-na-amazon/</link>
@@ -217,12 +209,20 @@
       <pubDate>Fri, 25 Jul 2025 13:00:21 +0000</pubDate>
     </item>
     <item>
-      <title>Apple: 60% dos brasileiros com iPhone usam esta proteção antirroubo</title>
+      <title>40% dos brasileiros com iPhone ainda precisam ativar proteção antirroubo</title>
       <link>https://tecnoblog.net/noticias/apple-60-dos-brasileiros-com-iphone-usam-esta-protecao-antirroubo/</link>
       <description>Proteção de Dispositivo Roubado bloqueia alterações importantes sem biometria. A Apple explica que, mesmo com senha, é necessário usar Face ID ou impressão digital.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/apple-60-dos-brasileiros-com-iphone-usam-esta-protecao-antirroubo/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/09/capa-iphone-16-no-brasil-3-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Fri, 25 Jul 2025 13:21:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Adobe Creative Cloud ficará mais caro no Brasil; veja preços</title>
+      <link>https://tecnoblog.net/noticias/adobe-creative-cloud-ficara-mais-caro-no-brasil-veja-precos/</link>
+      <description>Novo plano Adobe Creative Cloud Pro substitui pacote "Todos os Apps". Novidade tem foco em IA generativa, mas é mais cara.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/adobe-creative-cloud-ficara-mais-caro-no-brasil-veja-precos/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/05/creative-cloud-inteligencia-artificial-340x191.webp" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 25 Jul 2025 15:10:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
