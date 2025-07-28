@@ -7,39 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 28 Jul 2025 17:15:31 +0000</lastBuildDate>
-    <item>
-      <title>iOS 26: Apple libera primeiro beta público; saiba como baixar</title>
-      <link>https://tecnoblog.net/noticias/ios-26-apple-libera-primeiro-beta-publico-saiba-como-baixar/</link>
-      <description>iPad, Mac, Apple Watch e outros produtos da marca também podem ser atualizados para versão de testes. Visual Liquid Glass é a principal novidade.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/ios-26-apple-libera-primeiro-beta-publico-saiba-como-baixar/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/20250609_174950-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 24 Jul 2025 18:01:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Starlink fora do ar: clientes relatam instabilidade no mundo todo</title>
-      <link>https://tecnoblog.net/noticias/starlink-fora-do-ar-usuarios-relatam-instabilidade-no-mundo-todo/</link>
-      <description>Rede da Starlink ficou indisponível nesta quinta-feira (24/07). DownDetector registrou mais de 2.200 alertas.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/starlink-fora-do-ar-usuarios-relatam-instabilidade-no-mundo-todo/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/05/starlink-antena-preto-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 24 Jul 2025 20:43:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google vai gerar roupas falsas usando IA para facilitar compras</title>
-      <link>https://tecnoblog.net/noticias/google-vai-gerar-roupas-falsas-usando-ia-para-facilitar-compras/</link>
-      <description>Usuários poderão descrever o que querem vestir, ver imagens criadas por inteligência artificial e receber sugestões reais semelhantes em lojas online.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/google-vai-gerar-roupas-falsas-usando-ia-para-facilitar-compras/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/11/google-ia-capa-1-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 24 Jul 2025 20:54:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft começa a liberar suporte estendido para o Windows 10</title>
-      <link>https://tecnoblog.net/noticias/microsoft-comeca-a-liberar-suporte-estendido-para-o-windows-10/</link>
-      <description>Assistente que permite a usuários domésticos pedirem suporte estendido ao Windows 10 está sendo liberado progressivamente pela Microsoft.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/microsoft-comeca-a-liberar-suporte-estendido-para-o-windows-10/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/03/windows-10-tela-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 24 Jul 2025 21:29:52 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 28 Jul 2025 18:18:31 +0000</lastBuildDate>
     <item>
       <title>Dia dos Pais: Moto G75 e mais celulares até R$ 1.500 com 256 GB para presentear</title>
       <link>https://tecnoblog.net/achados/dia-dos-pais-galaxy-a16-e-mais-celulares-ate-r-1-500-com-256-gb-para-presentear/</link>
@@ -119,6 +87,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/streaming-cresce-e-tv-por-assinatura-cai-no-brasil/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/O-que-e-streaming-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Fri, 25 Jul 2025 16:54:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>O que é Siri? Veja as funções do assistente virtual da Apple</title>
+      <link>https://tecnoblog.net/responde/o-que-e-siri-veja-as-funcoes-do-assistente-virtual-da-apple/</link>
+      <description>A Siri está disponível na maioria dos produtos da Apple, incluindo iPhone, iPads, Apple Watches, Apple TVs, HomePods e computadores Mac</description>
+      <guid isPermaLink="false">https://tecnoblog.net/responde/o-que-e-siri-veja-as-funcoes-do-assistente-virtual-da-apple/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2019/10/siri-ios-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 25 Jul 2025 17:32:59 +0000</pubDate>
     </item>
     <item>
       <title>Microsoft: Windows 11 24H2 é a versão mais confiável já lançada</title>
@@ -223,6 +199,30 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/adeus-custom-roms-samsung-pode-impedir-desbloqueio-de-bootloader-com-one-ui-8/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/01/samsung-variados-capa-4-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 28 Jul 2025 16:18:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Linux 6.16 é anunciado com suporte melhorado a chips AMD, Intel e Nvidia</title>
+      <link>https://tecnoblog.net/noticias/linux-6-16-e-anunciado-com-suporte-melhorado-a-chips-amd-intel-e-nvidia/</link>
+      <description>Linus Torvalds anunciou kernel Linux 6.16 no último domingo. Versão inclui diversas melhorias, principalmente para chips AMD, Intel e Nvidia.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/linux-6-16-e-anunciado-com-suporte-melhorado-a-chips-amd-intel-e-nvidia/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/04/linux-linus-torvalds-tux-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 28 Jul 2025 17:30:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Galaxy S24 Ultra (256 GB) tem metade do preço original em oferta com cupom</title>
+      <link>https://tecnoblog.net/achados/galaxy-s24-ultra-256-gb-tem-metade-do-preco-original-em-oferta-com-cupom/</link>
+      <description>Galaxy S24 Ultra é equipado com tela AMOLED Dinâmico de 6,8", chip Snapdragon 8 Gen 3, câmera de 200 MP e corpo em titânio; oferta com cupom disponível no Mercado Livre</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-s24-ultra-256-gb-tem-metade-do-preco-original-em-oferta-com-cupom/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/11/galaxy-s24-ultra-na-mao-foto-thassius-veloso-tecnoblog-achou-correu-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 28 Jul 2025 17:53:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>WhatsApp testa botão que pode tornar novas conversas mais irritantes</title>
+      <link>https://tecnoblog.net/noticias/whatsapp-testa-botao-que-pode-tornar-novas-conversas-mais-irritantes/</link>
+      <description>Função em teste no Android sugere enviar um emoji de aceno para iniciar um papo no WhatsApp. Meta já usa função parecida com stickers no Messenger.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/whatsapp-testa-botao-que-pode-tornar-novas-conversas-mais-irritantes/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/06/whatsapp_capa-3_tb-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 28 Jul 2025 18:16:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
