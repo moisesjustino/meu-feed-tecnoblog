@@ -7,31 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 28 Jul 2025 19:13:25 +0000</lastBuildDate>
-    <item>
-      <title>Dia dos Pais: Moto G75 e mais celulares até R$ 1.500 com 256 GB para presentear</title>
-      <link>https://tecnoblog.net/achados/dia-dos-pais-galaxy-a16-e-mais-celulares-ate-r-1-500-com-256-gb-para-presentear/</link>
-      <description>Galaxy A16, Moto G75 e outros celulares com 256 GB que oferecem ótimo custo-benefício para dar de presente no Dia dos Pais; ofertas disponíveis com até 43% de desconto</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/dia-dos-pais-galaxy-a16-e-mais-celulares-ate-r-1-500-com-256-gb-para-presentear/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/05/GalaxyA16-oferta-recomendada-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 24 Jul 2025 22:09:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Saudades do Windows XP? Desenvolvedor recria sistema no navegador</title>
-      <link>https://tecnoblog.net/noticias/saudades-do-windows-xp-desenvolvedor-recria-sistema-no-navegador/</link>
-      <description>Projeto recria a interface clássica do sistema operacional da Microsoft e permite jogar Pinball 3D, Paciência e Campo Minado.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/saudades-do-windows-xp-desenvolvedor-recria-sistema-no-navegador/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/windows-xp-fake-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 24 Jul 2025 22:11:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>O que é QR Code? Entenda as funções e a estrutura desse tipo de código 2D</title>
-      <link>https://tecnoblog.net/responde/o-que-e-qr-code/</link>
-      <description>Exemplos de uso comuns do QR Code envolvem acesso a um cardápio digital, finalização de pagamentos, bem como validações de acesso em eventos</description>
-      <guid isPermaLink="false">https://tecnoblog.net/responde/o-que-e-qr-code/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/02/ilustracao-de-qr-code-2-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 24 Jul 2025 23:09:22 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 28 Jul 2025 20:14:11 +0000</lastBuildDate>
     <item>
       <title>PC portátil Zeenix Pro é finalmente lançado pela TecToy</title>
       <link>https://tecnoblog.net/noticias/pc-portatil-zeenix-pro-e-finalmente-lancado-pela-tectoy/</link>
@@ -223,6 +199,30 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/whatsapp-testa-botao-que-pode-tornar-novas-conversas-mais-irritantes/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/06/whatsapp_capa-3_tb-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 28 Jul 2025 18:16:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google Chrome vai usar IA para exibir reputação de lojas online</title>
+      <link>https://tecnoblog.net/noticias/google-chrome-vai-usar-ia-para-exibir-reputacao-de-lojas-online/</link>
+      <description>Ferramenta usa dados de sites de reviews para exibir reputação de empresas. Por enquanto, recurso só está disponível em inglês na versão desktop.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/google-chrome-vai-usar-ia-para-exibir-reputacao-de-lojas-online/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/11/google-chrome-capa-4-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 28 Jul 2025 19:36:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Novo bug? Microsoft oferece Windows 11 até para PCs incompatíveis</title>
+      <link>https://tecnoblog.net/noticias/novo-bug-microsoft-oferece-windows-11-ate-para-pcs-incompativeis/</link>
+      <description>Possível falha no Windows Update sugere atualização para máquinas que não conseguem rodar o Windows 11. Suporte ao Windows 10 termina em 14 de outubro.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/novo-bug-microsoft-oferece-windows-11-ate-para-pcs-incompativeis/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/07/windows-11-2-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 28 Jul 2025 19:43:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Processador N1X da Nvidia para PCs pode ter GPU similar à RTX 5070</title>
+      <link>https://tecnoblog.net/noticias/processador-n1x-da-nvidia-para-pcs-pode-ter-gpu-similar-a-rtx-5070/</link>
+      <description>Benchmark sugere que processador da Nvidia terá gráficos similares aos da RTX 5070. Chip N1X foi identificado com 20 núcleos de CPU.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/processador-n1x-da-nvidia-para-pcs-pode-ter-gpu-similar-a-rtx-5070/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/05/chip-nvidia-mediatek-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 28 Jul 2025 19:43:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
