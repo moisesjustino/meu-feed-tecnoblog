@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 28 Jul 2025 21:12:10 +0000</lastBuildDate>
-    <item>
-      <title>PC portátil Zeenix Pro é finalmente lançado pela TecToy</title>
-      <link>https://tecnoblog.net/noticias/pc-portatil-zeenix-pro-e-finalmente-lancado-pela-tectoy/</link>
-      <description>Zeenix Pro tem chip Ryzen 7 6800U, tela de 6 polegadas e 512 GB de armazenamento. PC portátil para games da TecToy vem ainda com Windows 11.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/pc-portatil-zeenix-pro-e-finalmente-lancado-pela-tectoy/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/06/tectoy-zeenix-2-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 25 Jul 2025 13:00:21 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 28 Jul 2025 22:12:32 +0000</lastBuildDate>
     <item>
       <title>40% dos brasileiros com iPhone ainda precisam ativar proteção antirroubo</title>
       <link>https://tecnoblog.net/noticias/apple-60-dos-brasileiros-com-iphone-usam-esta-protecao-antirroubo/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/processador-n1x-da-nvidia-para-pcs-pode-ter-gpu-similar-a-rtx-5070/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/05/chip-nvidia-mediatek-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 28 Jul 2025 19:43:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Edge ganha Copilot Mode, que promete realizar tarefas usando IA</title>
+      <link>https://tecnoblog.net/noticias/microsoft-edge-ganha-copilot-mode-que-promete-realizar-tarefas-usando-ia/</link>
+      <description>Recurso experimental do navegador da Microsoft entende linguagem natural, compara produtos e até encontra informações em vídeos</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/microsoft-edge-ganha-copilot-mode-que-promete-realizar-tarefas-usando-ia/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/capa-microsoft-edge-3-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 28 Jul 2025 21:34:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
