@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 28 Jul 2025 15:14:08 +0000</lastBuildDate>
-    <item>
-      <title>O que é Alexa? Confira os principais recursos do assistente virtual da Amazon</title>
-      <link>https://tecnoblog.net/responde/o-que-e-alexa-confira-os-principais-recursos-do-assistente-virtual-da-amazon/</link>
-      <description>A Alexa permite usar comandos de voz para auxiliar em diferentes tarefas, como controlar dispositivos inteligentes, tornando a tecnologia mais intuitiva e conveniente</description>
-      <guid isPermaLink="false">https://tecnoblog.net/responde/o-que-e-alexa-confira-os-principais-recursos-do-assistente-virtual-da-amazon/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2019/11/ilustracao-de-amazon-echo-com-alexa-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 24 Jul 2025 17:43:40 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 28 Jul 2025 16:16:20 +0000</lastBuildDate>
     <item>
       <title>CPU da Nvidia para PCs só deve chegar em 2026</title>
       <link>https://tecnoblog.net/noticias/cpu-da-nvidia-para-pcs-so-deve-chegar-em-2026/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/whatsapp-libera-no-brasil-opcao-de-adicionar-musica-ao-status/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/acione-musica-ao-seu-status-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 28 Jul 2025 14:46:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Engenhoso scanner faz sucesso ao organizar automaticamente cartas de Magic</title>
+      <link>https://tecnoblog.net/noticias/engenhoso-scanner-faz-sucesso-ao-organizar-automaticamente-cartas-de-magic/</link>
+      <description>CardMill também funciona com Pokémon TCG e Yu-Gi-Oh. Projeto já levantou mais de US$ 1 milhão em contribuições no Kickstarter.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/engenhoso-scanner-faz-sucesso-ao-organizar-automaticamente-cartas-de-magic/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/cardmill-edited-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 28 Jul 2025 15:14:41 +0000</pubDate>
     </item>
   </channel>
 </rss>
