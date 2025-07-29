@@ -7,47 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 29 Jul 2025 21:11:58 +0000</lastBuildDate>
-    <item>
-      <title>Procon do RJ multa Google por anúncios de TV box irregular</title>
-      <link>https://tecnoblog.net/noticias/procon-do-rj-multa-google-por-anuncios-de-tv-box-irregular/</link>
-      <description>Sanção pode chegar a R$ 14,2 milhões. Google descumpriu notificações sobre dispositivos sem homologação da Anatel.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/procon-do-rj-multa-google-por-anuncios-de-tv-box-irregular/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/12/pirataria-streamings-capa-1-nov-2022-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 28 Jul 2025 12:31:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>HostGator lança serviço com n8n, que dispensa programação para automatizar tarefas</title>
-      <link>https://tecnoblog.net/publieditoriais/hostgator-lanca-servico-com-n8n-que-dispensa-programacao-para-automatizar-tarefas/</link>
-      <description>Plataforma low-code permite criar fluxos automatizados com IA, integrações visuais e controle total, sem cobrança por usuários ou execuções</description>
-      <guid isPermaLink="false">https://tecnoblog.net/publieditoriais/hostgator-lanca-servico-com-n8n-que-dispensa-programacao-para-automatizar-tarefas/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/foto-capa-hostigator-n8-tecnoblog-edited-1-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 28 Jul 2025 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google admite falha em sistema de terremotos</title>
-      <link>https://tecnoblog.net/noticias/google-admite-falha-em-sistema-de-terremotos/</link>
-      <description>Sistema de alertas do Android falhou no terremoto de 2023 na Turquia e Síria. Em fevereiro, erro parecido gerou alarme falso no Brasil.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/google-admite-falha-em-sistema-de-terremotos/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/04/google_capa-1_tb-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 28 Jul 2025 14:13:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Debian Linux anuncia medida contra “bug de 2038”; entenda o problema</title>
-      <link>https://tecnoblog.net/noticias/debian-linux-anuncia-medida-contra-bug-de-2038-entenda-o-problema/</link>
-      <description>Bug Y2K38 pode fazer sistemas considerarem o ano atual como sendo 1901 a partir de janeiro de 2038. Desenvolvedores do Debian já trabalham em solução.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/debian-linux-anuncia-medida-contra-bug-de-2038-entenda-o-problema/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/distro-debian-linux-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 28 Jul 2025 14:38:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Motorola Edge 50 com chip Snapdragon tem 40% de desconto no Mercado Livre</title>
-      <link>https://tecnoblog.net/achados/motorola-edge-50-com-chip-snapdragon-tem-40-de-desconto-no-mercado-livre/</link>
-      <description>Motorola Edge 50 vem com tela POLED de 6,7" e taxa de 120 Hz, chip Snapdragon 7 Gen 1 e câmera Sony de 50 MP com Moto AI; oferta válida com cupom para o celular de 256 GB</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/motorola-edge-50-com-chip-snapdragon-tem-40-de-desconto-no-mercado-livre/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/04/Motorola-Edge-50-tem-RAM-de-12-GB-foto-Motorola-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 28 Jul 2025 14:45:47 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 29 Jul 2025 22:12:32 +0000</lastBuildDate>
     <item>
       <title>WhatsApp libera no Brasil opção de adicionar música ao Status</title>
       <link>https://tecnoblog.net/noticias/whatsapp-libera-no-brasil-opcao-de-adicionar-musica-ao-status/</link>
@@ -129,6 +89,14 @@
       <pubDate>Mon, 28 Jul 2025 19:43:11 +0000</pubDate>
     </item>
     <item>
+      <title>O que é Pix? Entenda tudo sobre o sistema de pagamentos instantâneos brasileiro</title>
+      <link>https://tecnoblog.net/responde/o-que-e-pix-entenda-tudo-sobre-sistema-de-pagamentos-instantaneos-brasileiro/</link>
+      <description>O Pix tem o papel de otimizar a eficiência do mercado de pagamentos no Brasil, de modo a facilitar e agilizar as transferências financeiras</description>
+      <guid isPermaLink="false">https://tecnoblog.net/responde/o-que-e-pix-entenda-tudo-sobre-sistema-de-pagamentos-instantaneos-brasileiro/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/arte-do-pix-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 28 Jul 2025 20:41:46 +0000</pubDate>
+    </item>
+    <item>
       <title>Microsoft Edge ganha Copilot Mode, que promete realizar tarefas usando IA</title>
       <link>https://tecnoblog.net/noticias/microsoft-edge-ganha-copilot-mode-que-promete-realizar-tarefas-usando-ia/</link>
       <description>Recurso experimental do navegador da Microsoft entende linguagem natural, compara produtos e até encontra informações em vídeos.</description>
@@ -177,7 +145,7 @@
       <pubDate>Tue, 29 Jul 2025 15:46:18 +0000</pubDate>
     </item>
     <item>
-      <title>Devs aceitam alucinação do ChatGPT e implementam nova função</title>
+      <title>ChatGPT alucina sobre função inexistente e leva Soundslice a criar o recurso</title>
       <link>https://tecnoblog.net/noticias/desenvolvedores-criam-recurso-em-app-apos-chatgpt-alucinar-que-funcao-existia/</link>
       <description>Plataforma Soundslice de edição de partituras implementou nova compatibilidade após sugestão errada do ChatGPT. IA afirmou a vários usuários que recurso já existia.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/desenvolvedores-criam-recurso-em-app-apos-chatgpt-alucinar-que-funcao-existia/</guid>
@@ -223,6 +191,38 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/raspberry-pi-pico-2-recebe-chip-atualizado-com-correcoes/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/08/raspberry-pi-pico-2-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 29 Jul 2025 19:57:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT ganha função que evita respostas prontas para estudantes</title>
+      <link>https://tecnoblog.net/noticias/chatgpt-ganha-funcao-para-estudantes-que-evita-respostas-prontas/</link>
+      <description>Modo Estudo foi criado para ajudar estudantes a entenderem melhor os conteúdos. Nova funcionalidade já está disponível para todos os usuários.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/chatgpt-ganha-funcao-para-estudantes-que-evita-respostas-prontas/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/06/chatgpt-3_capa-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 29 Jul 2025 21:17:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Estudo comprova que muita gente não consegue reconhecer imagens feitas por IA</title>
+      <link>https://tecnoblog.net/noticias/estudo-comprova-que-muita-gente-nao-consegue-reconhecer-imagens-feitas-por-ia/</link>
+      <description>Pesquisa com mais de 12 mil pessoas revela que somos mais enganados por paisagens do que por rostos. Taxa média de acerto é de apenas 62%.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/estudo-comprova-que-muita-gente-nao-consegue-reconhecer-imagens-feitas-por-ia/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/marisa-maio-1-edited-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 29 Jul 2025 21:47:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Motorola Edge 60 Fusion tem menor preço histórico em oferta no Mercado Livre</title>
+      <link>https://tecnoblog.net/achados/motorola-edge-60-fusion-tem-menor-preco-historico-em-oferta-no-mercado-livre/</link>
+      <description>Edge 60 Fusion (256 GB) traz tela POLED de 120 Hz, câmera Sony Lytia 700C de 50 MP com Moto AI e bateria de 5.200 mAh; promoção válida usando cupom no Mercado Livre</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/motorola-edge-60-fusion-tem-menor-preco-historico-em-oferta-no-mercado-livre/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/motorola-edge-60-fusion-achados-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 29 Jul 2025 21:56:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Opera vai ao Cade contra Microsoft por práticas desleais no mercado de navegadores</title>
+      <link>https://tecnoblog.net/noticias/opera-vai-ao-cade-contra-microsoft-por-praticas-desleais-no-mercado-de-navegadores/</link>
+      <description>Queixa cita táticas como reset de padrões e dificuldade em mudar navegador, prejudicando a concorrência e a escolha do usuário.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/opera-vai-ao-cade-contra-microsoft-por-praticas-desleais-no-mercado-de-navegadores/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/09/edge-firefox-chrome-opera-brave-icones-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 29 Jul 2025 22:01:35 +0000</pubDate>
     </item>
   </channel>
 </rss>
