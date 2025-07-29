@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 29 Jul 2025 13:35:00 +0000</lastBuildDate>
-    <item>
-      <title>40% dos brasileiros com iPhone ainda precisam ativar proteção antirroubo</title>
-      <link>https://tecnoblog.net/noticias/apple-60-dos-brasileiros-com-iphone-usam-esta-protecao-antirroubo/</link>
-      <description>Proteção de Dispositivo Roubado bloqueia alterações importantes sem biometria. A Apple explica que, mesmo com senha, é necessário usar Face ID ou impressão digital.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/apple-60-dos-brasileiros-com-iphone-usam-esta-protecao-antirroubo/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/09/capa-iphone-16-no-brasil-3-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 25 Jul 2025 13:21:43 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 29 Jul 2025 14:17:02 +0000</lastBuildDate>
     <item>
       <title>O que é CSS? Conheça os tipos dessa linguagem de estilo</title>
       <link>https://tecnoblog.net/responde/o-que-e-css-cascading-style-sheets/</link>
@@ -219,10 +211,18 @@
     <item>
       <title>Microsoft Edge ganha Copilot Mode, que promete realizar tarefas usando IA</title>
       <link>https://tecnoblog.net/noticias/microsoft-edge-ganha-copilot-mode-que-promete-realizar-tarefas-usando-ia/</link>
-      <description>Recurso experimental do navegador da Microsoft entende linguagem natural, compara produtos e até encontra informações em vídeos</description>
+      <description>Recurso experimental do navegador da Microsoft entende linguagem natural, compara produtos e até encontra informações em vídeos.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/microsoft-edge-ganha-copilot-mode-que-promete-realizar-tarefas-usando-ia/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/capa-microsoft-edge-3-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 28 Jul 2025 21:34:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Celulares do Google estão pegando fogo e update parece não resolver problema</title>
+      <link>https://tecnoblog.net/noticias/celulares-do-google-pegam-fogo-e-update-parece-nao-resolver-problema/</link>
+      <description>Usuários do Google Pixel 6a relatam superaquecimento e incêndios na bateria, mesmo após atualização para corrigir a falha. Modelo não é vendido oficialmente no Brasil.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/celulares-do-google-pegam-fogo-e-update-parece-nao-resolver-problema/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/20250726-093147-1-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 29 Jul 2025 13:38:41 +0000</pubDate>
     </item>
   </channel>
 </rss>
