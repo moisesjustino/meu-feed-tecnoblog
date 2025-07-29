@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 29 Jul 2025 16:14:33 +0000</lastBuildDate>
-    <item>
-      <title>Streaming cresce e TV por assinatura cai no Brasil</title>
-      <link>https://tecnoblog.net/noticias/streaming-cresce-e-tv-por-assinatura-cai-no-brasil/</link>
-      <description>IBGE aponta que 43,4% dos lares no Brasil usam streaming. TV por assinatura mantém queda e perde espaço para plataformas online.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/streaming-cresce-e-tv-por-assinatura-cai-no-brasil/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/O-que-e-streaming-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 25 Jul 2025 16:54:15 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 29 Jul 2025 17:15:17 +0000</lastBuildDate>
     <item>
       <title>O que é Siri? Veja as funções do assistente virtual da Apple</title>
       <link>https://tecnoblog.net/responde/o-que-e-siri-veja-as-funcoes-do-assistente-virtual-da-apple/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/suposto-iphone-17-pro-e-fotografado-nos-eua/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/suposto-iphone-17-pro-flagrado-edited-3-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 29 Jul 2025 15:46:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Desenvolvedores criam recurso em app após ChatGPT alucinar que função existia</title>
+      <link>https://tecnoblog.net/noticias/desenvolvedores-criam-recurso-em-app-apos-chatgpt-alucinar-que-funcao-existia/</link>
+      <description>Plataforma Soundslice de edição de partituras implementou nova compatibilidade após sugestão errada do ChatGPT. IA afirmou a vários usuários que recurso já existia.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/desenvolvedores-criam-recurso-em-app-apos-chatgpt-alucinar-que-funcao-existia/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/06/chatgpt-2_capa-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 29 Jul 2025 16:24:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
