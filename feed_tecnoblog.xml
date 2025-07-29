@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 29 Jul 2025 15:15:16 +0000</lastBuildDate>
-    <item>
-      <title>Google testa IA que organiza resultados da busca em categorias</title>
-      <link>https://tecnoblog.net/noticias/google-testa-ia-que-organiza-resultados-da-busca-em-categorias/</link>
-      <description>Web Guide usa IA para agrupar links por tópicos e facilitar buscas. Já em testes nos EUA, o recurso deve ser expandido gradualmente.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/google-testa-ia-que-organiza-resultados-da-busca-em-categorias/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/google-ia-busca-web-guide-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 25 Jul 2025 15:40:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Intel não vai mais assinar “cheques em branco” para investimentos, diz CEO</title>
-      <link>https://tecnoblog.net/noticias/intel-nao-vai-mais-assinar-cheques-em-branco-para-investimentos-diz-ceo/</link>
-      <description>CEO alerta que empresa gastou demais sem demanda e confirma cortes em fábricas, demissões e possível abandono de tecnologia de 1,4 nm.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/intel-nao-vai-mais-assinar-cheques-em-branco-para-investimentos-diz-ceo/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/03/lip-bu-tan-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 25 Jul 2025 16:51:01 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 29 Jul 2025 16:14:33 +0000</lastBuildDate>
     <item>
       <title>Streaming cresce e TV por assinatura cai no Brasil</title>
       <link>https://tecnoblog.net/noticias/streaming-cresce-e-tv-por-assinatura-cai-no-brasil/</link>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/prestes-a-ser-descontinuado-windows-10-completa-dez-anos/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/03/windows-10-tela-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 29 Jul 2025 14:53:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Galaxy S25 (256 GB) atinge menor preço histórico em oferta na Amazon</title>
+      <link>https://tecnoblog.net/achados/galaxy-s25-256-gb-atinge-menor-preco-historico-em-oferta-na-amazon/</link>
+      <description>Galaxy S25 é equipado com tela AMOLED Dinâmico 2x de 6,2", chip Snapdragon 8 Elite e 12 GB de memória RAM; oferta na Amazon é a menor que já vimos pelo celular de 256 GB</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-s25-256-gb-atinge-menor-preco-historico-em-oferta-na-amazon/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/galaxy-s24-traz-processador-snapdragon-8-elite-da-qualcomm-foto-thassius-velosotecnoblog-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 29 Jul 2025 15:19:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Suposto iPhone 17 Pro é fotografado nos EUA</title>
+      <link>https://tecnoblog.net/noticias/suposto-iphone-17-pro-e-fotografado-nos-eua/</link>
+      <description>Com lançamento previsto para setembro de 2025, nova linha de smartphones da Apple pode trazer tela maior e câmera frontal de 24 MP</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/suposto-iphone-17-pro-e-fotografado-nos-eua/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/suposto-iphone-17-pro-flagrado-edited-3-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 29 Jul 2025 15:46:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
