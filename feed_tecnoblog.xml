@@ -7,31 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 30 Jul 2025 17:14:00 +0000</lastBuildDate>
-    <item>
-      <title>Microsoft Edge ganha Copilot Mode, que promete realizar tarefas usando IA</title>
-      <link>https://tecnoblog.net/noticias/microsoft-edge-ganha-copilot-mode-que-promete-realizar-tarefas-usando-ia/</link>
-      <description>Recurso experimental do navegador da Microsoft entende linguagem natural, compara produtos e até encontra informações em vídeos.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/microsoft-edge-ganha-copilot-mode-que-promete-realizar-tarefas-usando-ia/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/capa-microsoft-edge-3-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 28 Jul 2025 21:34:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Celulares do Google estão pegando fogo e update parece não resolver problema</title>
-      <link>https://tecnoblog.net/noticias/celulares-do-google-pegam-fogo-e-update-parece-nao-resolver-problema/</link>
-      <description>Usuários do Google Pixel 6a relatam superaquecimento e incêndios na bateria, mesmo após atualização para corrigir a falha. Modelo não é vendido oficialmente no Brasil.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/celulares-do-google-pegam-fogo-e-update-parece-nao-resolver-problema/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/20250726-093147-1-edited-1-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 29 Jul 2025 13:38:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Galaxy A06 4G começa a receber One UI 7 no Brasil</title>
-      <link>https://tecnoblog.net/noticias/galaxy-a06-4g-comeca-a-receber-one-ui-7-no-brasil/</link>
-      <description>Modelo popular no segmento de entrada começou a receber atualização nessa segunda-feira (28/07). Nova interface promete melhorias visuais e de desempenho.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/galaxy-a06-4g-comeca-a-receber-one-ui-7-no-brasil/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/04/Capa-OneUI7-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 29 Jul 2025 14:38:36 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 30 Jul 2025 18:18:05 +0000</lastBuildDate>
     <item>
       <title>O que é Open Finance? Saiba como funciona e os principais benefícios</title>
       <link>https://tecnoblog.net/responde/o-que-e-open-finance-saiba-como-funciona-e-os-principais-beneficios/</link>
@@ -121,6 +97,14 @@
       <pubDate>Tue, 29 Jul 2025 19:57:39 +0000</pubDate>
     </item>
     <item>
+      <title>Quanto Elon Musk pagou no Twitter? Conheça a história de aquisição da rede social</title>
+      <link>https://tecnoblog.net/responde/quanto-elon-musk-pagou-no-twitter-conheca-a-historia-de-aquisicao-da-rede-social/</link>
+      <description>Elon Musk comprou o Twitter (X) com o intuito de remodelar a operação da rede social, e de transformá-la em um aplicativo de múltiplos serviços</description>
+      <guid isPermaLink="false">https://tecnoblog.net/responde/quanto-elon-musk-pagou-no-twitter-conheca-a-historia-de-aquisicao-da-rede-social/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/07/twitter-mudou-de-nome_capa_tb-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 29 Jul 2025 20:00:59 +0000</pubDate>
+    </item>
+    <item>
       <title>ChatGPT ganha função que evita respostas prontas para estudantes</title>
       <link>https://tecnoblog.net/noticias/chatgpt-ganha-funcao-para-estudantes-que-evita-respostas-prontas/</link>
       <description>Modo Estudo foi criado para ajudar estudantes a entenderem melhor os conteúdos. Nova funcionalidade já está disponível para todos os usuários.</description>
@@ -179,7 +163,7 @@
     <item>
       <title>WhatsApp testa lembretes para retornar chamadas não atendidas</title>
       <link>https://tecnoblog.net/noticias/whatsapp-testa-lembretes-para-retornar-chamadas-nao-atendidas/</link>
-      <description>Após testar lembretes para mensagens, WhatsApp começa a liberar recurso semelhante para chamadas perdidas na versão beta do app para Android</description>
+      <description>Após testar lembretes para mensagens, WhatsApp começa a liberar recurso semelhante para chamadas perdidas na versão beta do app para Android.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/whatsapp-testa-lembretes-para-retornar-chamadas-nao-atendidas/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/03/whatsapp-capa-1-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Wed, 30 Jul 2025 14:20:45 +0000</pubDate>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/desenvolvedor-do-libreoffice-tem-conta-bloqueada-pela-microsoft/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/libreoffice-wallpaper-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Wed, 30 Jul 2025 17:01:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Custo médio por violação de dados sobe no Brasil e chega a R$ 7,19 milhões</title>
+      <link>https://tecnoblog.net/noticias/custo-medio-por-violacao-de-dados-sobe-no-brasil-e-chega-a-r-719-milhoes/</link>
+      <description>Governança de IA ainda é pouco adotada no Brasil. Apenas 29% das empresas usam esse recurso, que pode economizar R$ 600 mil por incidente.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/custo-medio-por-violacao-de-dados-sobe-no-brasil-e-chega-a-r-719-milhoes/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/01/ilustracao-de-phishing-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 30 Jul 2025 17:48:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>TikTok lança Footnotes, sua versão das Notas da Comunidade</title>
+      <link>https://tecnoblog.net/noticias/tiktok-lanca-footnotes-sua-versao-das-notas-da-comunidade/</link>
+      <description>Sistema colaborativo permite adicionar notas a vídeos com alegações enganosas. Recurso está disponível nos EUA, sem previsão para outras regiões por enquanto.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/tiktok-lanca-footnotes-sua-versao-das-notas-da-comunidade/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/03/tiktok-capa-3-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 30 Jul 2025 18:15:49 +0000</pubDate>
     </item>
   </channel>
 </rss>
