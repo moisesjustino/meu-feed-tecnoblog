@@ -7,39 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 30 Jul 2025 13:35:01 +0000</lastBuildDate>
-    <item>
-      <title>WhatsApp libera no Brasil opção de adicionar música ao Status</title>
-      <link>https://tecnoblog.net/noticias/whatsapp-libera-no-brasil-opcao-de-adicionar-musica-ao-status/</link>
-      <description>Recurso estava em testes desde janeiro e agora chega oficialmente ao país. Usuários podem adicionar trilhas sonoras de até 60 segundos em vídeos.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/whatsapp-libera-no-brasil-opcao-de-adicionar-musica-ao-status/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/acione-musica-ao-seu-status-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 28 Jul 2025 14:46:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Engenhoso scanner faz sucesso ao organizar automaticamente cartas de Magic</title>
-      <link>https://tecnoblog.net/noticias/engenhoso-scanner-faz-sucesso-ao-organizar-automaticamente-cartas-de-magic/</link>
-      <description>CardMill também funciona com Pokémon TCG e Yu-Gi-Oh. Projeto já levantou mais de US$ 1 milhão em contribuições no Kickstarter.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/engenhoso-scanner-faz-sucesso-ao-organizar-automaticamente-cartas-de-magic/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/cardmill-edited-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 28 Jul 2025 15:14:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Adeus, ROMs personalizadas? Samsung pode impedir desbloqueio de bootloader</title>
-      <link>https://tecnoblog.net/noticias/adeus-custom-roms-samsung-pode-impedir-desbloqueio-de-bootloader-com-one-ui-8/</link>
-      <description>Fabricante já restringia o desbloqueio nos EUA, mas deve expandir medida para o mundo todo. Mudança pode ocorrer na One UI 8.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/adeus-custom-roms-samsung-pode-impedir-desbloqueio-de-bootloader-com-one-ui-8/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/01/samsung-variados-capa-4-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 28 Jul 2025 16:18:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Linux 6.16 é anunciado com suporte melhorado a chips AMD, Intel e Nvidia</title>
-      <link>https://tecnoblog.net/noticias/linux-6-16-e-anunciado-com-suporte-melhorado-a-chips-amd-intel-e-nvidia/</link>
-      <description>Linus Torvalds anunciou kernel Linux 6.16 no último domingo. Versão inclui diversas melhorias, principalmente para chips AMD, Intel e Nvidia.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/linux-6-16-e-anunciado-com-suporte-melhorado-a-chips-amd-intel-e-nvidia/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/04/linux-linus-torvalds-tux-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 28 Jul 2025 17:30:27 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 30 Jul 2025 14:13:39 +0000</lastBuildDate>
     <item>
       <title>Galaxy S24 Ultra (256 GB) tem metade do preço original em oferta com cupom</title>
       <link>https://tecnoblog.net/achados/galaxy-s24-ultra-256-gb-tem-metade-do-preco-original-em-oferta-com-cupom/</link>
@@ -119,6 +87,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/galaxy-a06-4g-comeca-a-receber-one-ui-7-no-brasil/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/04/Capa-OneUI7-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Tue, 29 Jul 2025 14:38:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>O que é Open Finance? Saiba como funciona e os principais benefícios</title>
+      <link>https://tecnoblog.net/responde/o-que-e-open-finance-saiba-como-funciona-e-os-principais-beneficios/</link>
+      <description>O Open Finance permite que os clientes de bancos tradicionais compartilhem seus dados com fintechs e outras instituições financeiras</description>
+      <guid isPermaLink="false">https://tecnoblog.net/responde/o-que-e-open-finance-saiba-como-funciona-e-os-principais-beneficios/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2020/01/open-banking-marcello-casal-jr-340x191.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 29 Jul 2025 14:52:52 +0000</pubDate>
     </item>
     <item>
       <title>Prestes a ser descontinuado, Windows 10 completa dez anos</title>
@@ -223,6 +199,30 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/opera-vai-ao-cade-contra-microsoft-por-praticas-desleais-no-mercado-de-navegadores/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/09/edge-firefox-chrome-opera-brave-icones-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 29 Jul 2025 22:01:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Escaneie e gerencie documentos facilmente com o Docutain</title>
+      <link>https://tecnoblog.net/publieditoriais/escaneie-e-gerencie-documentos-facilmente-com-o-docutain/</link>
+      <description>Leve um scanner de alta qualidade no seu smartphone e dê adeus à papelada</description>
+      <guid isPermaLink="false">https://tecnoblog.net/publieditoriais/escaneie-e-gerencie-documentos-facilmente-com-o-docutain/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/header-docutain-scanner-app-edited-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 30 Jul 2025 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anatel e PF apreendem TV boxes ilegais e desmontam rede de gatonet</title>
+      <link>https://tecnoblog.net/noticias/anatel-e-pf-apreendem-tv-boxes-ilegais-e-desmontam-rede-de-gatonet/</link>
+      <description>Ação no Paraná e Distrito Federal mirou esquema transnacional de venda de TV boxes ilegais. Justiça bloqueou R$ 33 milhões dos investigados.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/anatel-e-pf-apreendem-tv-boxes-ilegais-e-desmontam-rede-de-gatonet/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/operacao-tv-box-pirata-340x191.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 30 Jul 2025 13:53:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>PlayStation Plus de agosto tem Lies of P e DayZ de graça</title>
+      <link>https://tecnoblog.net/noticias/playstation-plus-de-agosto-tem-lies-of-p-e-dayz-de-graca/</link>
+      <description>Sony revela jogos de agosto para assinantes do PS Plus. Lies of P, DayZ e My Hero One’s Justice 2 são os principais títulos liberados.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/playstation-plus-de-agosto-tem-lies-of-p-e-dayz-de-graca/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/lies-of-p-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 30 Jul 2025 14:09:40 +0000</pubDate>
     </item>
   </channel>
 </rss>
