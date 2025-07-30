@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 30 Jul 2025 19:13:20 +0000</lastBuildDate>
-    <item>
-      <title>Prestes a ser descontinuado, Windows 10 completa dez anos</title>
-      <link>https://tecnoblog.net/noticias/prestes-a-ser-descontinuado-windows-10-completa-dez-anos/</link>
-      <description>Windows 10 completa uma década desde seu lançamento, mas suporte ao sistema termina em outubro de 2025. Microsoft agora foca no Windows 11.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/prestes-a-ser-descontinuado-windows-10-completa-dez-anos/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/03/windows-10-tela-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 29 Jul 2025 14:53:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Galaxy S25 (256 GB) atinge menor preço histórico em oferta na Amazon</title>
-      <link>https://tecnoblog.net/achados/galaxy-s25-256-gb-atinge-menor-preco-historico-em-oferta-na-amazon/</link>
-      <description>Galaxy S25 é equipado com tela AMOLED Dinâmico 2x de 6,2", chip Snapdragon 8 Elite e 12 GB de memória RAM; oferta na Amazon é a menor que já vimos pelo celular de 256 GB</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-s25-256-gb-atinge-menor-preco-historico-em-oferta-na-amazon/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/galaxy-s24-traz-processador-snapdragon-8-elite-da-qualcomm-foto-thassius-velosotecnoblog-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 29 Jul 2025 15:19:51 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 30 Jul 2025 20:12:48 +0000</lastBuildDate>
     <item>
       <title>Suposto iPhone 17 Pro é fotografado pela primeira vez nos EUA</title>
       <link>https://tecnoblog.net/noticias/suposto-iphone-17-pro-e-fotografado-nos-eua/</link>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-a35-128-gb-tem-desconto-imperdivel-em-oferta-com-ate-12x-sem-juros/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/07/galaxy-a35-reforca-linha-samsung-a-para-2024-foto-thassius-velosotecnoblog-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Wed, 30 Jul 2025 18:32:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Xiaomi faz lançamento de Smart Band 10 e Redmi Pad 2; saiba preços</title>
+      <link>https://tecnoblog.net/noticias/xiaomi-faz-lancamento-de-smart-band-10-e-redmi-pad-2-saiba-precos/</link>
+      <description>Smart Band 10 tem tela AMOLED de 1,72'' e integração com AIoT. Pulseira custa R$ 599,99 no país.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/xiaomi-faz-lancamento-de-smart-band-10-e-redmi-pad-2-saiba-precos/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/adf9f7614abbe5a383e32a9466f09433-edited-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 30 Jul 2025 19:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Austrália vai proibir YouTube para menos de 16 anos</title>
+      <link>https://tecnoblog.net/noticias/australia-vai-proibir-youtube-para-menos-de-16-anos/</link>
+      <description>Ao mesmo tempo, YouTube irá iniciar testes de IA nos Estados Unidos que identifica se usuário tem mais ou menos de 18 anos.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/australia-vai-proibir-youtube-para-menos-de-16-anos/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/04/youtube-celular-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 30 Jul 2025 20:06:22 +0000</pubDate>
     </item>
   </channel>
 </rss>
