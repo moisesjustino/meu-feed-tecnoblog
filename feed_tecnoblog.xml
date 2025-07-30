@@ -7,39 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 30 Jul 2025 16:15:58 +0000</lastBuildDate>
-    <item>
-      <title>Google Chrome vai usar IA para exibir reputação de lojas online</title>
-      <link>https://tecnoblog.net/noticias/google-chrome-vai-usar-ia-para-exibir-reputacao-de-lojas-online/</link>
-      <description>Ferramenta usa dados de sites de reviews para exibir reputação de empresas. Por enquanto, recurso só está disponível em inglês na versão desktop.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/google-chrome-vai-usar-ia-para-exibir-reputacao-de-lojas-online/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/11/google-chrome-capa-4-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 28 Jul 2025 19:36:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Novo bug? Microsoft oferece Windows 11 até para PCs incompatíveis</title>
-      <link>https://tecnoblog.net/noticias/novo-bug-microsoft-oferece-windows-11-ate-para-pcs-incompativeis/</link>
-      <description>Possível falha no Windows Update sugere atualização para máquinas que não conseguem rodar o Windows 11. Suporte ao Windows 10 termina em 14 de outubro.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/novo-bug-microsoft-oferece-windows-11-ate-para-pcs-incompativeis/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/07/windows-11-2-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 28 Jul 2025 19:43:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Processador N1X da Nvidia para PCs pode ter GPU similar à RTX 5070</title>
-      <link>https://tecnoblog.net/noticias/processador-n1x-da-nvidia-para-pcs-pode-ter-gpu-similar-a-rtx-5070/</link>
-      <description>Benchmark sugere que processador da Nvidia terá gráficos similares aos da RTX 5070. Chip N1X foi identificado com 20 núcleos de CPU.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/processador-n1x-da-nvidia-para-pcs-pode-ter-gpu-similar-a-rtx-5070/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/chip-nvidia-mediatek-edited-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 28 Jul 2025 19:43:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>O que é Pix? Entenda tudo sobre o sistema de pagamentos instantâneos brasileiro</title>
-      <link>https://tecnoblog.net/responde/o-que-e-pix-entenda-tudo-sobre-sistema-de-pagamentos-instantaneos-brasileiro/</link>
-      <description>O Pix tem o papel de otimizar a eficiência do mercado de pagamentos no Brasil, de modo a facilitar e agilizar as transferências financeiras</description>
-      <guid isPermaLink="false">https://tecnoblog.net/responde/o-que-e-pix-entenda-tudo-sobre-sistema-de-pagamentos-instantaneos-brasileiro/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/arte-do-pix-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 28 Jul 2025 20:41:46 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 30 Jul 2025 17:14:00 +0000</lastBuildDate>
     <item>
       <title>Microsoft Edge ganha Copilot Mode, que promete realizar tarefas usando IA</title>
       <link>https://tecnoblog.net/noticias/microsoft-edge-ganha-copilot-mode-que-promete-realizar-tarefas-usando-ia/</link>
@@ -129,6 +97,14 @@
       <pubDate>Tue, 29 Jul 2025 18:52:09 +0000</pubDate>
     </item>
     <item>
+      <title>O que é Apple Intelligence? Veja os recursos do sistema de inteligência pessoal</title>
+      <link>https://tecnoblog.net/responde/o-que-e-apple-intelligence-veja-os-recursos-do-sistema-de-inteligencia-pessoal/</link>
+      <description>A Apple Intelligence está presente nos principais dispositivos da Apple, como iPhones, iPads, computadores Mac e headset Apple Vision Pro</description>
+      <guid isPermaLink="false">https://tecnoblog.net/responde/o-que-e-apple-intelligence-veja-os-recursos-do-sistema-de-inteligencia-pessoal/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/apple-intelligence-mac-edited-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 29 Jul 2025 18:55:42 +0000</pubDate>
+    </item>
+    <item>
       <title>Motorola Edge 50 Ultra (512 GB) tem desconto imperdível com cupom na Amazon</title>
       <link>https://tecnoblog.net/achados/motorola-edge-50-ultra-512-gb-tem-desconto-imperdivel-com-cupom-na-amazon/</link>
       <description>Motorola Edge 50 Ultra (512 GB) vem com tela POLED de 144 Hz, chip Snapdragon 8s Gen 3 e lente periscópio de 64 MP; oferta no Pix com cupom concede 50% de desconto</description>
@@ -189,7 +165,7 @@
       <link>https://tecnoblog.net/noticias/anatel-e-pf-apreendem-tv-boxes-ilegais-e-desmontam-rede-de-gatonet/</link>
       <description>Ação no Paraná e Distrito Federal mirou esquema transnacional de venda de TV boxes ilegais. Envolvidos são investigados por contrabando e violação de direitos autorais.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/anatel-e-pf-apreendem-tv-boxes-ilegais-e-desmontam-rede-de-gatonet/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/operacao-tv-box-pirata-340x191.jpeg" length="0" type="image/jpeg"/>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/operacao-tv-box-pirata-edited-340x191.jpeg" length="0" type="image/jpeg"/>
       <pubDate>Wed, 30 Jul 2025 13:53:39 +0000</pubDate>
     </item>
     <item>
@@ -223,6 +199,30 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-buds-3-pro-tem-menor-preco-que-ja-vimos-com-cupom-no-mercado-livre/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/01/galaxy-buds-3-pro-foto-thassius-velosotecnoblog-1-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Wed, 30 Jul 2025 14:57:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bitchat: app de mensagens sem internet chega ao iPhone</title>
+      <link>https://tecnoblog.net/noticias/bitchat-app-de-mensagens-sem-internet-chega-a-app-store/</link>
+      <description>Mensageiro desenvolvido por Jack Dorsey, cofundador e ex-CEO do Twitter, usa Bluetooth para criar redes locais. Usuários de Android podem baixar pelo GitHub.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/bitchat-app-de-mensagens-sem-internet-chega-a-app-store/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/bitchat-app-store-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 30 Jul 2025 16:22:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Meta é acusada de piratear conteúdo adulto para treinar IA</title>
+      <link>https://tecnoblog.net/noticias/meta-e-acusada-de-piratear-conteudo-adulto-para-treinar-ia/</link>
+      <description>Produtora alega que big tech distribuiu vídeos adultos via BitTorrent para acelerar downloads ilegais. Processo foi aberto pela Strike 3 e corre nos Estados Unidos.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/meta-e-acusada-de-piratear-conteudo-adulto-para-treinar-ia/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/02/Capa-Mark-Zuckerberg-01-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 30 Jul 2025 16:55:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Desenvolvedor do LibreOffice tem conta bloqueada pela Microsoft</title>
+      <link>https://tecnoblog.net/noticias/desenvolvedor-do-libreoffice-tem-conta-bloqueada-pela-microsoft/</link>
+      <description>Mike Kaganski é um dos desenvolvedores do LibreOffice. Ele tentou enviar um e-mail aos colegas usando o Hotmail, mas que descobriu que a conta estava bloqueada.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/desenvolvedor-do-libreoffice-tem-conta-bloqueada-pela-microsoft/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/libreoffice-wallpaper-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 30 Jul 2025 17:01:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
