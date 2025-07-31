@@ -7,31 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 31 Jul 2025 14:14:50 +0000</lastBuildDate>
-    <item>
-      <title>ChatGPT alucina sobre função inexistente e leva Soundslice a criar o recurso</title>
-      <link>https://tecnoblog.net/noticias/desenvolvedores-criam-recurso-em-app-apos-chatgpt-alucinar-que-funcao-existia/</link>
-      <description>Plataforma Soundslice de edição de partituras implementou nova compatibilidade após sugestão errada do ChatGPT. IA afirmou a vários usuários que recurso já existia.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/desenvolvedores-criam-recurso-em-app-apos-chatgpt-alucinar-que-funcao-existia/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/06/chatgpt-2_capa-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 29 Jul 2025 16:24:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>NotebookLM: IA do Google que ajuda em estudos agora faz resumos em vídeo</title>
-      <link>https://tecnoblog.net/noticias/notebooklm-ia-do-google-que-ajuda-em-estudos-agora-faz-resumos-em-video/</link>
-      <description>Google NotebookLM já era capaz de gerar resumos em texto e áudio. Ferramenta agora condensa conteúdo em vídeo, inicialmente na forma de slides narrados.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/notebooklm-ia-do-google-que-ajuda-em-estudos-agora-faz-resumos-em-video/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/notebooklm-videos-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 29 Jul 2025 17:28:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Anthropic impõe limites para uso do Claude Code</title>
-      <link>https://tecnoblog.net/noticias/anthropic-impoe-limites-para-uso-do-claude-code/</link>
-      <description>Nova política da Anthropic tenta conter abusos de acesso ao Sonnet 4 e Opus 4, após relatos de uso contínuo e revenda da ferramenta.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/anthropic-impoe-limites-para-uso-do-claude-code/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/10/db3165778de297272875d36a822f671d8009aaec-2880x1620-1-340x191.webp" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 29 Jul 2025 18:33:30 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 31 Jul 2025 15:13:47 +0000</lastBuildDate>
     <item>
       <title>TikTok agora permite salvar músicas diretamente no YouTube Music</title>
       <link>https://tecnoblog.net/noticias/tiktok-agora-permite-salvar-musicas-diretamente-no-youtube-music/</link>
@@ -223,6 +199,30 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/dia-dos-pais-airpods-4-e-mais-fones-ate-55-mais-baratos-para-presente/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/02/AirPods-4-Imagem-DivulgacaoApple-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Thu, 31 Jul 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Starlink Mini tem R$ 470 OFF em oferta com cupom no Magalu</title>
+      <link>https://tecnoblog.net/achados/starlink-mini-tem-r-470-off-em-oferta-com-cupom-no-magalu/</link>
+      <description>Starlink Mini tem tamanho aproximado de notebook e pesa 1,10 kg sem o kit. A antena portátil pode atingir 100 Mbps de download. Oferta no Magalu válida no Pix com cupom</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/starlink-mini-tem-r-470-off-em-oferta-com-cupom-no-magalu/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/starlink-mini-achados-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 31 Jul 2025 14:55:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Proton lança app de autenticação em dois fatores gratuito e aberto</title>
+      <link>https://tecnoblog.net/noticias/proton-lanca-app-de-autenticacao-em-dois-fatores-gratuito-e-aberto/</link>
+      <description>Proton Authenticator é um aplicativo para 2FA disponível para várias plataformas. Novidade não exibe anúncios nem coleta dados do usuário.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/proton-lanca-app-de-autenticacao-em-dois-fatores-gratuito-e-aberto/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/proton-authenticator-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 31 Jul 2025 15:08:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Primeira caneta com IA é lançada no Kickstarter com proposta de reinventar anotações</title>
+      <link>https://tecnoblog.net/noticias/primeira-caneta-com-ia-e-lancada-no-kickstarter-com-proposta-de-reinventar-anotacoes/</link>
+      <description>Flowtica Scribe promete transformar gravações e destaques em resumos organizados com base no que o usuário considera importante.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/primeira-caneta-com-ia-e-lancada-no-kickstarter-com-proposta-de-reinventar-anotacoes/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/caneta-com-ia-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 31 Jul 2025 15:08:53 +0000</pubDate>
     </item>
   </channel>
 </rss>
