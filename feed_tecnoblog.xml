@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 31 Jul 2025 21:12:06 +0000</lastBuildDate>
-    <item>
-      <title>Opera vai ao Cade contra Microsoft por práticas desleais no mercado de navegadores</title>
-      <link>https://tecnoblog.net/noticias/opera-vai-ao-cade-contra-microsoft-por-praticas-desleais-no-mercado-de-navegadores/</link>
-      <description>Queixa cita táticas como reset de padrões e dificuldade em mudar navegador, prejudicando a concorrência e a escolha do usuário.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/opera-vai-ao-cade-contra-microsoft-por-praticas-desleais-no-mercado-de-navegadores/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/09/edge-firefox-chrome-opera-brave-icones-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 29 Jul 2025 22:01:35 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 31 Jul 2025 22:12:25 +0000</lastBuildDate>
     <item>
       <title>Escaneie e gerencie documentos facilmente com o Docutain</title>
       <link>https://tecnoblog.net/publieditoriais/escaneie-e-gerencie-documentos-facilmente-com-o-docutain/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/linus-torvalds-ainda-usa-uma-velha-gpu-rx-580-para-trabalhar/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/04/linux-linus-torvalds-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Thu, 31 Jul 2025 20:25:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Links de conversas com ChatGPT estão aparecendo no Google; saiba como evitar</title>
+      <link>https://tecnoblog.net/noticias/links-de-conversas-com-chatgpt-estao-aparecendo-no-google-saiba-como-evitar/</link>
+      <description>Chats com informações pessoais podem estar sendo indexados após compartilhamento, apesar de opção para aparecer em buscadores vir desativada por padrão</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/links-de-conversas-com-chatgpt-estao-aparecendo-no-google-saiba-como-evitar/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/06/chatgpt-3_capa-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 31 Jul 2025 21:29:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
