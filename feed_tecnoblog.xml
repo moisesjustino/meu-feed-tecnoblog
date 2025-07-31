@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 31 Jul 2025 17:14:25 +0000</lastBuildDate>
-    <item>
-      <title>Quanto Elon Musk pagou no Twitter? Conheça a história de aquisição da rede social</title>
-      <link>https://tecnoblog.net/responde/quanto-elon-musk-pagou-no-twitter-conheca-a-historia-de-aquisicao-da-rede-social/</link>
-      <description>Elon Musk comprou o Twitter (X) com o intuito de remodelar a operação da rede social, e de transformá-la em um aplicativo de múltiplos serviços</description>
-      <guid isPermaLink="false">https://tecnoblog.net/responde/quanto-elon-musk-pagou-no-twitter-conheca-a-historia-de-aquisicao-da-rede-social/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/07/twitter-mudou-de-nome_capa_tb-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 29 Jul 2025 20:00:59 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 31 Jul 2025 18:18:38 +0000</lastBuildDate>
     <item>
       <title>ChatGPT ganha função que evita respostas prontas para estudantes</title>
       <link>https://tecnoblog.net/noticias/chatgpt-ganha-funcao-para-estudantes-que-evita-respostas-prontas/</link>
@@ -161,7 +153,7 @@
       <pubDate>Wed, 30 Jul 2025 19:30:00 +0000</pubDate>
     </item>
     <item>
-      <title>Austrália vai proibir YouTube para menos de 16 anos</title>
+      <title>Austrália vai proibir YouTube para menores de 16 anos</title>
       <link>https://tecnoblog.net/noticias/australia-vai-proibir-youtube-para-menos-de-16-anos/</link>
       <description>Ao mesmo tempo, YouTube irá iniciar testes de IA nos Estados Unidos que identifica se usuário tem mais ou menos de 18 anos.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/australia-vai-proibir-youtube-para-menos-de-16-anos/</guid>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/nvidia-estende-suporte-a-drivers-game-ready-no-windows-10/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/05/nvidia-video_capa-2_tb-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Thu, 31 Jul 2025 15:53:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chrome para Android vai pedir biometria para preencher senhas</title>
+      <link>https://tecnoblog.net/noticias/chrome-para-android-vai-pedir-biometria-para-preencher-senhas/</link>
+      <description>Google Chrome finalmente terá função que exige impressão digital ou reconhecimento facial para preencher senhas automaticamente no Android.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/chrome-para-android-vai-pedir-biometria-para-preencher-senhas/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/02/salvar-senhas-chrome-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 31 Jul 2025 18:11:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
