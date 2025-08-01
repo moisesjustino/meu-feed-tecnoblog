@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 01 Aug 2025 19:12:37 +0000</lastBuildDate>
-    <item>
-      <title>Xiaomi faz lançamento de Smart Band 10 e Redmi Pad 2; saiba preços</title>
-      <link>https://tecnoblog.net/noticias/xiaomi-faz-lancamento-de-smart-band-10-e-redmi-pad-2-saiba-precos/</link>
-      <description>Smart Band 10 tem tela AMOLED de 1,72'' e integração com AIoT. Pulseira custa R$ 599,99 no país.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/xiaomi-faz-lancamento-de-smart-band-10-e-redmi-pad-2-saiba-precos/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/20250730_171530-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 30 Jul 2025 19:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Austrália vai proibir YouTube para menores de 16 anos</title>
-      <link>https://tecnoblog.net/noticias/australia-vai-proibir-youtube-para-menos-de-16-anos/</link>
-      <description>Ao mesmo tempo, YouTube irá iniciar testes de IA nos Estados Unidos que identifica se usuário tem mais ou menos de 18 anos.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/australia-vai-proibir-youtube-para-menos-de-16-anos/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/04/youtube-celular-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 30 Jul 2025 20:06:22 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 01 Aug 2025 20:13:44 +0000</lastBuildDate>
     <item>
       <title>Dia dos Pais: AirPods 4 e mais fones até 55% mais baratos para presente</title>
       <link>https://tecnoblog.net/achados/dia-dos-pais-airpods-4-e-mais-fones-ate-55-mais-baratos-para-presente/</link>
@@ -111,6 +95,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/microsoft-atinge-us-4-trilhoes-em-valor-de-mercado/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/04/microsoft_capa-2-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Thu, 31 Jul 2025 18:58:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>O que é LGPD? Entenda tudo sobre a Lei Geral de Proteção de Dados</title>
+      <link>https://tecnoblog.net/responde/o-que-e-lgpd-entenda-tudo-sobre-a-lei-geral-de-protecao-de-dados/</link>
+      <description>A LGPD atua para proteger a privacidade e os dados pessoais dos cidadãos, regulamentando como empresas e órgãos públicos devem coletar, armazenar e tratar as informações</description>
+      <guid isPermaLink="false">https://tecnoblog.net/responde/o-que-e-lgpd-entenda-tudo-sobre-a-lei-geral-de-protecao-de-dados/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/04/especial_governo_lgpd_capa-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 31 Jul 2025 19:45:19 +0000</pubDate>
     </item>
     <item>
       <title>Linus Torvalds ainda usa uma velha GPU RX 580 para trabalhar no Linux</title>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-z-flip-6-256-gb-tem-oferta-com-60-de-desconto-no-mercado-livre/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/09/galaxy-z-flip-6-foto-thassius-velosotecnoblogcaosamsung-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Fri, 01 Aug 2025 18:55:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Instagram impõe limite de seguidores para transmissões ao vivo</title>
+      <link>https://tecnoblog.net/noticias/instagram-impoe-limite-de-seguidores-para-transmissoes-ao-vivo/</link>
+      <description>Nova regra exige ao menos 1.000 seguidores e conta pública para perfis abrirem lives. Medida se alinha à política já adotada pelo rival TikTok.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/instagram-impoe-limite-de-seguidores-para-transmissoes-ao-vivo/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2021/08/instagram-seguranca-capa-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 01 Aug 2025 19:26:43 +0000</pubDate>
     </item>
   </channel>
 </rss>
