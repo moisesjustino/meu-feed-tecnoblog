@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 01 Aug 2025 15:13:39 +0000</lastBuildDate>
-    <item>
-      <title>Desenvolvedor do LibreOffice tem conta bloqueada pela Microsoft</title>
-      <link>https://tecnoblog.net/noticias/desenvolvedor-do-libreoffice-tem-conta-bloqueada-pela-microsoft/</link>
-      <description>Mike Kaganski é um dos desenvolvedores do LibreOffice. Ele tentou enviar um e-mail aos colegas usando o Hotmail, mas que descobriu que a conta estava bloqueada.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/desenvolvedor-do-libreoffice-tem-conta-bloqueada-pela-microsoft/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/libreoffice-wallpaper-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 30 Jul 2025 17:01:05 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 01 Aug 2025 16:16:04 +0000</lastBuildDate>
     <item>
       <title>Custo médio por violação de dados sobe no Brasil e chega a R$ 7,19 milhões</title>
       <link>https://tecnoblog.net/noticias/custo-medio-por-violacao-de-dados-sobe-no-brasil-e-chega-a-r-719-milhoes/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/vendas-fracas-do-xbox-derrubam-receita-de-hardware-da-microsoft-em-22/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/04/xbox-x_capa-2_tb-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Fri, 01 Aug 2025 13:58:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Motorola Edge 60 Pro tem R$ 1 mil reais OFF em oferta no Mercado Livre</title>
+      <link>https://tecnoblog.net/achados/motorola-edge-60-pro-tem-r-1-mil-reais-off-em-oferta-no-mercado-livre/</link>
+      <description>Motorola Edge 60 Pro possui tela POLED de 120 Hz, memória RAM de 12 GB, câmeras de 50 MP e bateria de 6.000 mAh; oferta válida no Pix e com resgate de cupom no anúncio</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/motorola-edge-60-pro-tem-r-1-mil-reais-off-em-oferta-no-mercado-livre/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/edge-60-pro-achados-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 01 Aug 2025 16:08:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
