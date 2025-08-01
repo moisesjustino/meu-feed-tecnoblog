@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 01 Aug 2025 17:15:11 +0000</lastBuildDate>
-    <item>
-      <title>TikTok lança Footnotes, sua versão das Notas da Comunidade</title>
-      <link>https://tecnoblog.net/noticias/tiktok-lanca-footnotes-sua-versao-das-notas-da-comunidade/</link>
-      <description>Sistema colaborativo permite adicionar notas a vídeos com alegações enganosas. Recurso está disponível nos EUA, sem previsão para outras regiões por enquanto.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/tiktok-lanca-footnotes-sua-versao-das-notas-da-comunidade/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/03/tiktok-capa-3-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 30 Jul 2025 18:15:49 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 01 Aug 2025 18:17:59 +0000</lastBuildDate>
     <item>
       <title>Galaxy A35 (128 GB) tem desconto imperdível em oferta com até 12x sem juros</title>
       <link>https://tecnoblog.net/achados/galaxy-a35-128-gb-tem-desconto-imperdivel-em-oferta-com-ate-12x-sem-juros/</link>
@@ -169,14 +161,6 @@
       <pubDate>Fri, 01 Aug 2025 11:57:00 +0000</pubDate>
     </item>
     <item>
-      <title>Exclusivo: Operadora desmente rumor sobre Starlink grátis no Brasil</title>
-      <link>https://tecnoblog.net/noticias/exclusivo-operadora-nega-que-brasil-receba-internet-gratis-da-starlink/</link>
-      <description>T-Mobile e Starlink oferecem internet via satélite, mas só para consumidores norte-americanos. Não há expansão prevista para o Brasil.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/exclusivo-operadora-nega-que-brasil-receba-internet-gratis-da-starlink/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/09/capa-musk-x-starlink-3-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 01 Aug 2025 12:39:41 +0000</pubDate>
-    </item>
-    <item>
       <title>Dia dos Pais: Nintendo Switch e itens gamer com até 46% OFF para presentar</title>
       <link>https://tecnoblog.net/achados/dia-dos-pais-nintendo-switch-e-itens-gamer-com-ate-46-off-para-presentar/</link>
       <description>Nintendo Switch, Headset Havit Fuxi-H3 e outros dispositivos gamer com até 46% de desconto para o Dia dos Pais</description>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/apple-atinge-a-marca-de-3-bilhoes-de-iphones-vendidos-desde-2007/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/10/iphone-15-capas-1-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Fri, 01 Aug 2025 17:11:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Versão do Windows 11 para PCs de baixo custo vai ser descontinuada</title>
+      <link>https://tecnoblog.net/noticias/versao-do-windows-11-para-pcs-de-baixo-custo-vai-ser-descontinuada/</link>
+      <description>Windows 11 SE foi uma tentativa da Microsoft de competir com Chromebooks no mercado educacional. Versão se limitava a funções básicas, mas teve baixa adesão.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/versao-do-windows-11-para-pcs-de-baixo-custo-vai-ser-descontinuada/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2021/11/windows-11-se-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 01 Aug 2025 17:27:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>CEO da Amazon quer colocar anúncios na voz da Alexa</title>
+      <link>https://tecnoblog.net/noticias/ceo-da-amazon-quer-colocar-anuncios-na-voz-da-alexa/</link>
+      <description>Novidade pode estrear na Alexa+, versão da assistente com inteligência artificial generativa. Ainda não há previsão de lançamento no Brasil.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/ceo-da-amazon-quer-colocar-anuncios-na-voz-da-alexa/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/02/20250226_102442-edited-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 01 Aug 2025 17:41:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
