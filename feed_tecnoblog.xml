@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 01 Aug 2025 10:13:59 +0000</lastBuildDate>
-    <item>
-      <title>Anatel e PF desmontam rede de gatonet; Justiça bloqueia R$ 33 milhões</title>
-      <link>https://tecnoblog.net/noticias/anatel-e-pf-apreendem-tv-boxes-ilegais-e-desmontam-rede-de-gatonet/</link>
-      <description>Ação no Paraná e Distrito Federal mirou esquema transnacional de venda de TV boxes ilegais. Envolvidos são investigados por contrabando e violação de direitos autorais.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/anatel-e-pf-apreendem-tv-boxes-ilegais-e-desmontam-rede-de-gatonet/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/operacao-tv-box-pirata-edited-340x191.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 30 Jul 2025 13:53:39 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 01 Aug 2025 11:11:16 +0000</lastBuildDate>
     <item>
       <title>PlayStation Plus de agosto inclui Lies of P e DayZ</title>
       <link>https://tecnoblog.net/noticias/playstation-plus-de-agosto-tem-lies-of-p-e-dayz-de-graca/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/guias/o-que-e-um-banco-digital-conheca-15-opcoes-gratuitas-para-abrir-sua-conta/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/07/bancos-digitais_capa-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Fri, 01 Aug 2025 00:52:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>TVs da Samsung sofrem apagão durante a madrugada</title>
+      <link>https://tecnoblog.net/noticias/tvs-da-samsung-sofrem-apagao-durante-a-madrugada/</link>
+      <description>Aparelhos de diversas linhas mostraram erro de conexão com servidor. Usuários de vários países relataram o problema desde a madrugada desta sexta (01/08).</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/tvs-da-samsung-sofrem-apagao-durante-a-madrugada/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/11/samsung-tv-qled-65q60d-4k-02-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 01 Aug 2025 10:18:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
