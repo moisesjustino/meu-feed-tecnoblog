@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 01 Aug 2025 16:16:04 +0000</lastBuildDate>
-    <item>
-      <title>Custo médio por violação de dados sobe no Brasil e chega a R$ 7,19 milhões</title>
-      <link>https://tecnoblog.net/noticias/custo-medio-por-violacao-de-dados-sobe-no-brasil-e-chega-a-r-719-milhoes/</link>
-      <description>Governança de IA ainda é pouco adotada no Brasil. Apenas 29% das empresas usam esse recurso, que pode economizar R$ 600 mil por incidente.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/custo-medio-por-violacao-de-dados-sobe-no-brasil-e-chega-a-r-719-milhoes/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/01/ilustracao-de-phishing-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 30 Jul 2025 17:48:25 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 01 Aug 2025 17:15:11 +0000</lastBuildDate>
     <item>
       <title>TikTok lança Footnotes, sua versão das Notas da Comunidade</title>
       <link>https://tecnoblog.net/noticias/tiktok-lanca-footnotes-sua-versao-das-notas-da-comunidade/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/motorola-edge-60-pro-tem-r-1-mil-reais-off-em-oferta-no-mercado-livre/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/edge-60-pro-achados-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Fri, 01 Aug 2025 16:08:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Apple atinge a marca de 3 bilhões de iPhones vendidos desde 2007</title>
+      <link>https://tecnoblog.net/noticias/apple-atinge-a-marca-de-3-bilhoes-de-iphones-vendidos-desde-2007/</link>
+      <description>Tim Cook revelou o número histórico durante a divulgação dos resultados trimestrais, que mostraram o iPhone respondendo por quase metade da receita.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/apple-atinge-a-marca-de-3-bilhoes-de-iphones-vendidos-desde-2007/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/10/iphone-15-capas-1-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 01 Aug 2025 17:11:31 +0000</pubDate>
     </item>
   </channel>
 </rss>
