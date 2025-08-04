@@ -7,31 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 04 Aug 2025 15:14:02 +0000</lastBuildDate>
-    <item>
-      <title>Chrome para Android vai pedir biometria para preencher senhas</title>
-      <link>https://tecnoblog.net/noticias/chrome-para-android-vai-pedir-biometria-para-preencher-senhas/</link>
-      <description>Google Chrome finalmente terá função que exige impressão digital ou reconhecimento facial para preencher senhas automaticamente no Android.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/chrome-para-android-vai-pedir-biometria-para-preencher-senhas/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/02/salvar-senhas-chrome-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 31 Jul 2025 18:11:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Galaxy Tab S10 Plus tem 45% OFF com oferta em até 10x sem juros na Amazon</title>
-      <link>https://tecnoblog.net/achados/galaxy-tab-s10-plus-tem-45-off-com-oferta-em-ate-10x-sem-juros-na-amazon/</link>
-      <description>Galaxy Tab S10+ é equipado com tela Dynamic AMOLED de 12,4 polegadas, chip Dimensity 9300+ e bateria de 10.090 mAh; oferta com possibilidade de parcelamento em 10x</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-tab-s10-plus-tem-45-off-com-oferta-em-ate-10x-sem-juros-na-amazon/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/Samsung-Galaxy-Tab-S10-Plus-tem-tela-AMOLED-de-124-polegadas-foto-Giovanni-Santa-RosaTecnoblog-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 31 Jul 2025 18:20:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mais devs usam IA no trabalho, mas nível de confiança cai, aponta pesquisa</title>
-      <link>https://tecnoblog.net/noticias/mais-devs-usam-ia-no-trabalho-mas-nivel-de-confianca-cai-aponta-pesquisa/</link>
-      <description>Levantamento do Stack Overflow mostra que mais desenvolvedores adotam ferramentas de IA, mas enfrentam frustrações com precisão e eficiência.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/mais-devs-usam-ia-no-trabalho-mas-nivel-de-confianca-cai-aponta-pesquisa/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/06/ia-4-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 31 Jul 2025 18:47:41 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 04 Aug 2025 16:17:25 +0000</lastBuildDate>
     <item>
       <title>Microsoft atinge US$ 4 trilhões em valor de mercado</title>
       <link>https://tecnoblog.net/noticias/microsoft-atinge-us-4-trilhoes-em-valor-de-mercado/</link>
@@ -179,7 +155,7 @@
     <item>
       <title>TIM considera vender rede neutra de fibra óptica</title>
       <link>https://tecnoblog.net/noticias/tim-considera-vender-rede-neutra-de-fibra-optica/</link>
-      <description>Operadora busca otimizar capital, seguindo um modelo de negócio similar ao da Vivo. Processo enfrenta desafios regulatórios.</description>
+      <description>Operadora busca otimizar capital, seguindo um modelo de negócio similar ao da Vivo e Oi. Processo enfrenta desafios regulatórios.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/tim-considera-vender-rede-neutra-de-fibra-optica/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/04/tim-celular-capa-2-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 04 Aug 2025 11:01:07 +0000</pubDate>
@@ -197,7 +173,7 @@
       <link>https://tecnoblog.net/noticias/youtuber-esta-dobrando-o-fold-7-ate-quebrar-veja-ao-vivo/</link>
       <description>Galaxy Z Fold 7 promete resistência de 500 mil dobras. Marca é 2,5 vezes superior à geração anterior, de acordo com a Samsung.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/youtuber-esta-dobrando-o-fold-7-ate-quebrar-veja-ao-vivo/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/dobrando-2-340x191.gif" length="0" type="image/jpeg"/>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/dobrando-fold-7-340x191.gif" length="0" type="image/jpeg"/>
       <pubDate>Mon, 04 Aug 2025 13:07:28 +0000</pubDate>
     </item>
     <item>
@@ -223,6 +199,30 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/spotify-premium-fica-mais-caro-no-brasil-veja-os-novos-precos/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/especial_capa_spotify-edited-1-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 04 Aug 2025 14:13:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Concurso vai pagar US$ 1 milhão para quem encontrar falha grave no WhatsApp</title>
+      <link>https://tecnoblog.net/noticias/concurso-vai-pagar-us-1-milhao-para-quem-encontrar-falha-grave-no-whatsapp/</link>
+      <description>Meta quer estimular busca por brechas zero-click com potencial de controle remoto.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/concurso-vai-pagar-us-1-milhao-para-quem-encontrar-falha-grave-no-whatsapp/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/capa-whats-fora2_thumb_tb-edited-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 04 Aug 2025 15:32:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Galaxy S26 pode copiar posição de NFC do iPhone</title>
+      <link>https://tecnoblog.net/noticias/galaxy-s26-pode-copiar-posicao-de-nfc-do-iphone/</link>
+      <description>Samsung avalia segunda antena NFC no topo do Galaxy S26 para resolver falhas na leitura, diz site. Medida buscaria melhorar pagamentos por aproximação.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/galaxy-s26-pode-copiar-posicao-de-nfc-do-iphone/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/05/20250521_123534-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 04 Aug 2025 15:41:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Caminhão com US$ 10,6 milhões de produtos Samsung é roubado</title>
+      <link>https://tecnoblog.net/noticias/caminhao-com-us-106-milhoes-de-produtos-samsung-e-roubado/</link>
+      <description>Caminhão com celulares como Galaxy Z Fold 7 e Galaxy Z Flip 7 foi roubado no Reino Unido. Estima-se que carga continha cerca de 12.000 dispositivos da Samsung.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/caminhao-com-us-106-milhoes-de-produtos-samsung-e-roubado/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/flip-e-fold-7-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 04 Aug 2025 15:45:42 +0000</pubDate>
     </item>
   </channel>
 </rss>
