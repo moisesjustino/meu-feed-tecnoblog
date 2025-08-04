@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 04 Aug 2025 20:14:32 +0000</lastBuildDate>
-    <item>
-      <title>Links de conversas com ChatGPT estão aparecendo no Google; saiba como evitar</title>
-      <link>https://tecnoblog.net/noticias/links-de-conversas-com-chatgpt-estao-aparecendo-no-google-saiba-como-evitar/</link>
-      <description>Chats com informações pessoais podem estar sendo indexados após compartilhamento, apesar de opção para aparecer em buscadores vir desativada por padrão.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/links-de-conversas-com-chatgpt-estao-aparecendo-no-google-saiba-como-evitar/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/06/chatgpt-3_capa-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 31 Jul 2025 21:29:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>O que é um banco digital? Conheça 15 opções gratuitas para abrir sua conta</title>
-      <link>https://tecnoblog.net/guias/o-que-e-um-banco-digital-conheca-15-opcoes-gratuitas-para-abrir-sua-conta/</link>
-      <description>Bancos digitais servem para reduzir os processos burocráticos de bancos tradicionais, reduzir custos de operação, e tornar os serviços mais práticos</description>
-      <guid isPermaLink="false">https://tecnoblog.net/guias/o-que-e-um-banco-digital-conheca-15-opcoes-gratuitas-para-abrir-sua-conta/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/07/bancos-digitais_capa-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 01 Aug 2025 00:52:29 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 04 Aug 2025 21:12:24 +0000</lastBuildDate>
     <item>
       <title>TVs da Samsung sofrem apagão durante a madrugada</title>
       <link>https://tecnoblog.net/noticias/tvs-da-samsung-sofrem-apagao-durante-a-madrugada/</link>
@@ -111,6 +95,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-z-flip-6-256-gb-tem-oferta-com-60-de-desconto-no-mercado-livre/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/09/galaxy-z-flip-6-foto-thassius-velosotecnoblogcaosamsung-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Fri, 01 Aug 2025 18:55:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>O que é CBDC? Saiba como funcionam as moedas emitidas por bancos centrais</title>
+      <link>https://tecnoblog.net/responde/o-que-e-uma-cbdc-central-bank-digital-currency/</link>
+      <description>As CBDCs funcionam como uma forma digital da moeda tradicional de um país, visando modernizar os sistemas de pagamento e aumentar a inclusão financeira</description>
+      <guid isPermaLink="false">https://tecnoblog.net/responde/o-que-e-uma-cbdc-central-bank-digital-currency/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2021/07/network-of-digital-currencies-1920x720-1-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 01 Aug 2025 19:16:43 +0000</pubDate>
     </item>
     <item>
       <title>Instagram impõe limite de seguidores para transmissões ao vivo</title>
@@ -217,12 +209,20 @@
       <pubDate>Mon, 04 Aug 2025 17:57:11 +0000</pubDate>
     </item>
     <item>
-      <title>ChatGPT agora avisa se você está usando a IA tempo demais</title>
+      <title>ChatGPT agora avisa se você está usando a IA por tempo demais</title>
       <link>https://tecnoblog.net/noticias/chatgpt-agora-avisa-se-voce-esta-usando-a-ia-tempo-demais/</link>
       <description>OpenAI atualiza chatbot para incentivar pausas em sessões muito longas e muda forma de responder a perguntas pessoais delicadas.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/chatgpt-agora-avisa-se-voce-esta-usando-a-ia-tempo-demais/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/06/chatgpt-3_capa-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 04 Aug 2025 20:06:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Galaxy S25 tem menor preço histórico em oferta com cupom no Mercado Livre</title>
+      <link>https://tecnoblog.net/achados/galaxy-s25-tem-menor-preco-historico-em-oferta-com-cupom-no-mercado-livre/</link>
+      <description>Galaxy S25 possui chip Snapdragon 8 Elite, câmera principal que filma em 8K e tela AMOLED Dinâmico de 6,2 polegadas; oferta válida no Pix com cupom pelo celular de 256 GB</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-s25-tem-menor-preco-historico-em-oferta-com-cupom-no-mercado-livre/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/galaxy-s24-traz-processador-snapdragon-8-elite-da-qualcomm-foto-thassius-velosotecnoblog-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 04 Aug 2025 21:02:10 +0000</pubDate>
     </item>
   </channel>
 </rss>
