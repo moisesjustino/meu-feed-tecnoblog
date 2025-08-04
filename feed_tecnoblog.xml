@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 04 Aug 2025 13:35:55 +0000</lastBuildDate>
-    <item>
-      <title>O que é Python? Conheça a história e as aplicações da linguagem de programação</title>
-      <link>https://tecnoblog.net/responde/o-que-e-python-conheca-a-historia-e-as-aplicacoes-da-linguagem-de-programacao/</link>
-      <description>É possível automatizar tarefas, desenvolver softwares, treinar IAs e até criar jogos com o Python; linguagem é acessível para devs iniciantes</description>
-      <guid isPermaLink="false">https://tecnoblog.net/responde/o-que-e-python-conheca-a-historia-e-as-aplicacoes-da-linguagem-de-programacao/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/xavier-cee-psda_ahlz40-unsplash-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 31 Jul 2025 15:31:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nvidia estende suporte a drivers Game Ready no Windows 10</title>
-      <link>https://tecnoblog.net/noticias/nvidia-estende-suporte-a-drivers-game-ready-no-windows-10/</link>
-      <description>Placas GeForce seguirão com otimização para jogos no Windows 10 até 2026, mesmo com o fim do suporte oficial do sistema em outubro de 2025.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/nvidia-estende-suporte-a-drivers-game-ready-no-windows-10/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/05/nvidia-video_capa-2_tb-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 31 Jul 2025 15:53:34 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 04 Aug 2025 14:17:24 +0000</lastBuildDate>
     <item>
       <title>Chrome para Android vai pedir biometria para preencher senhas</title>
       <link>https://tecnoblog.net/noticias/chrome-para-android-vai-pedir-biometria-para-preencher-senhas/</link>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/teste-revela-operadoras-com-5g-mais-rapido-do-brasil-veja-resultado/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/06/5g-3_capa_tb-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 04 Aug 2025 13:22:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Plataforma distribui jogos adultos de graça em protesto contra remoções</title>
+      <link>https://tecnoblog.net/noticias/plataforma-distribui-jogos-adultos-de-graca-em-protesto-contra-remocoes/</link>
+      <description>Rival do Steam, GOG liberou por 48 horas 13 games banidos de outras lojas. Campanha alega censura financeira de Mastercard, Visa e outras processadoras de pagamento.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/plataforma-distribui-jogos-adultos-de-graca-em-protesto-contra-remocoes/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/captura-de-tela-2025-08-04-092835-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 04 Aug 2025 14:13:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Spotify Premium está mais caro no Brasil; veja os novos preços</title>
+      <link>https://tecnoblog.net/noticias/spotify-premium-fica-mais-caro-no-brasil-veja-os-novos-precos/</link>
+      <description>Assinaturas do Spotify Premium estão até 17% mais caras no Brasil. Quem já é assinante será cobrado com o novo valor a partir de setembro de 2025.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/spotify-premium-fica-mais-caro-no-brasil-veja-os-novos-precos/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/02/especial_capa_spotify-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 04 Aug 2025 14:13:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
