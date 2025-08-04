@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 04 Aug 2025 19:14:17 +0000</lastBuildDate>
-    <item>
-      <title>Linus Torvalds ainda usa uma velha GPU RX 580 para trabalhar no Linux</title>
-      <link>https://tecnoblog.net/noticias/linus-torvalds-ainda-usa-uma-velha-gpu-rx-580-para-trabalhar/</link>
-      <description>GPU de 2017 ainda dá conta do recado. Linus Torvalds revelou que segue usando Radeon RX 580 para trabalhar no kernel Linux.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/linus-torvalds-ainda-usa-uma-velha-gpu-rx-580-para-trabalhar/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/04/linux-linus-torvalds-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 31 Jul 2025 20:25:05 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 04 Aug 2025 20:14:32 +0000</lastBuildDate>
     <item>
       <title>Links de conversas com ChatGPT estão aparecendo no Google; saiba como evitar</title>
       <link>https://tecnoblog.net/noticias/links-de-conversas-com-chatgpt-estao-aparecendo-no-google-saiba-como-evitar/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/dia-dos-pais-huawei-watch-fit-4-pro-e-mais-relogios-inteligentes-com-ate-56-off/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/04/achados-samsung-galaxy-fit-3-1-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 04 Aug 2025 17:57:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT agora avisa se você está usando a IA tempo demais</title>
+      <link>https://tecnoblog.net/noticias/chatgpt-agora-avisa-se-voce-esta-usando-a-ia-tempo-demais/</link>
+      <description>OpenAI atualiza chatbot para incentivar pausas em sessões muito longas e muda forma de responder a perguntas pessoais delicadas.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/chatgpt-agora-avisa-se-voce-esta-usando-a-ia-tempo-demais/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/06/chatgpt-3_capa-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 04 Aug 2025 20:06:35 +0000</pubDate>
     </item>
   </channel>
 </rss>
