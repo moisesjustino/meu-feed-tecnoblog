@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 04 Aug 2025 10:16:01 +0000</lastBuildDate>
-    <item>
-      <title>Starlink Mini tem R$ 470 OFF em oferta com cupom no Magalu</title>
-      <link>https://tecnoblog.net/achados/starlink-mini-tem-r-470-off-em-oferta-com-cupom-no-magalu/</link>
-      <description>Starlink Mini tem tamanho aproximado de notebook e pesa 1,10 kg sem o kit. A antena portátil pode atingir 100 Mb/s de download. Oferta no Magalu válida no Pix com cupom</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/starlink-mini-tem-r-470-off-em-oferta-com-cupom-no-magalu/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/06/starlink-mini-cachorro-edited-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 31 Jul 2025 14:55:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Proton lança app de autenticação em dois fatores gratuito e aberto</title>
-      <link>https://tecnoblog.net/noticias/proton-lanca-app-de-autenticacao-em-dois-fatores-gratuito-e-aberto/</link>
-      <description>Proton Authenticator é um aplicativo para 2FA disponível para várias plataformas. Novidade não exibe anúncios nem coleta dados do usuário.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/proton-lanca-app-de-autenticacao-em-dois-fatores-gratuito-e-aberto/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/proton-authenticator-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 31 Jul 2025 15:08:03 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 04 Aug 2025 11:12:15 +0000</lastBuildDate>
     <item>
       <title>Você teria? Caneta com IA surge no Kickstarter com proposta de reinventar anotações</title>
       <link>https://tecnoblog.net/noticias/primeira-caneta-com-ia-e-lancada-no-kickstarter-com-proposta-de-reinventar-anotacoes/</link>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/reddit-quer-atrair-usuarios-para-seu-proprio-buscador/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/04/brett-jordan-0fytazjhhxs-unsplash-edited-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Fri, 01 Aug 2025 21:25:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>TIM considera vender rede neutra de fibra óptica</title>
+      <link>https://tecnoblog.net/noticias/tim-considera-vender-rede-neutra-de-fibra-optica/</link>
+      <description>Operadora busca otimizar capital, seguindo um modelo de negócio similar ao da Vivo. Processo enfrenta desafios regulatórios.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/tim-considera-vender-rede-neutra-de-fibra-optica/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/04/tim-celular-capa-2-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 04 Aug 2025 11:01:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>WhatsApp quer proteger nomes de usuário das mensagens não solicitadas</title>
+      <link>https://tecnoblog.net/noticias/whatsapp-quer-proteger-nomes-de-usuario-das-mensagens-nao-solicitadas/</link>
+      <description>Nova função do app permitirá configurar uma chave para controlar quem pode enviar mensagens via username. Recurso ainda está em teste nas versões beta.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/whatsapp-quer-proteger-nomes-de-usuario-das-mensagens-nao-solicitadas/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/03/whatsapp-capa-3-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 04 Aug 2025 11:11:37 +0000</pubDate>
     </item>
   </channel>
 </rss>
