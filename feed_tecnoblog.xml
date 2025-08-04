@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 04 Aug 2025 16:17:25 +0000</lastBuildDate>
-    <item>
-      <title>Microsoft atinge US$ 4 trilhões em valor de mercado</title>
-      <link>https://tecnoblog.net/noticias/microsoft-atinge-us-4-trilhoes-em-valor-de-mercado/</link>
-      <description>Feito foi impulsionado pelos resultados do Azure e pelos investimentos em IA. Empresa atinge marca inédita em seus 50 anos e se junta à Nvidia.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/microsoft-atinge-us-4-trilhoes-em-valor-de-mercado/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/04/microsoft_capa-2-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 31 Jul 2025 18:58:15 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 04 Aug 2025 17:18:11 +0000</lastBuildDate>
     <item>
       <title>O que é LGPD? Entenda tudo sobre a Lei Geral de Proteção de Dados</title>
       <link>https://tecnoblog.net/responde/o-que-e-lgpd-entenda-tudo-sobre-a-lei-geral-de-protecao-de-dados/</link>
@@ -217,12 +209,20 @@
       <pubDate>Mon, 04 Aug 2025 15:41:12 +0000</pubDate>
     </item>
     <item>
-      <title>Caminhão com US$ 10,6 milhões de produtos Samsung é roubado</title>
+      <title>Caminhão com US$ 10,6 milhões em produtos Samsung é roubado</title>
       <link>https://tecnoblog.net/noticias/caminhao-com-us-106-milhoes-de-produtos-samsung-e-roubado/</link>
       <description>Caminhão com celulares como Galaxy Z Fold 7 e Galaxy Z Flip 7 foi roubado no Reino Unido. Estima-se que carga continha cerca de 12.000 dispositivos da Samsung.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/caminhao-com-us-106-milhoes-de-produtos-samsung-e-roubado/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/flip-e-fold-7-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 04 Aug 2025 15:45:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Internet via satélite no celular deve gerar receita de US$ 15 bilhões</title>
+      <link>https://tecnoblog.net/noticias/internet-via-satelite-no-celular-deve-gerar-receita-de-us-15-bilhoes/</link>
+      <description>Tecnologia ganha força e deve crescer 24,5% no próximo ano, segundo projeção da Gartner. Previsão é de mais de 40 mil satélites em órbita baixa nos próximos anos.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/internet-via-satelite-no-celular-deve-gerar-receita-de-us-15-bilhoes/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/12/amazon-projeto-kuiper-01-340x191.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 04 Aug 2025 16:21:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
