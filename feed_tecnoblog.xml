@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 05 Aug 2025 16:13:40 +0000</lastBuildDate>
-    <item>
-      <title>Vendas fracas do Xbox derrubam receita de hardware da Microsoft em 22%</title>
-      <link>https://tecnoblog.net/noticias/vendas-fracas-do-xbox-derrubam-receita-de-hardware-da-microsoft-em-22/</link>
-      <description>Queda nos consoles acumula 25% no ano fiscal de 2025, com menor volume de unidades vendidas. Game Pass e venda de jogos, por outro lado, geram quase US$ 5 bilhões no ano.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/vendas-fracas-do-xbox-derrubam-receita-de-hardware-da-microsoft-em-22/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/04/xbox-x_capa-2_tb-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 01 Aug 2025 13:58:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Motorola Edge 60 Pro tem R$ 1 mil reais OFF em oferta no Mercado Livre</title>
-      <link>https://tecnoblog.net/achados/motorola-edge-60-pro-tem-r-1-mil-reais-off-em-oferta-no-mercado-livre/</link>
-      <description>Motorola Edge 60 Pro possui tela POLED de 120 Hz, memória RAM de 12 GB, câmeras de 50 MP e bateria de 6.000 mAh; oferta válida no Pix e com resgate de cupom no anúncio</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/motorola-edge-60-pro-tem-r-1-mil-reais-off-em-oferta-no-mercado-livre/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/edge-60-pro-achados-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 01 Aug 2025 16:08:19 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 05 Aug 2025 17:12:38 +0000</lastBuildDate>
     <item>
       <title>Apple atinge a marca de 3 bilhões de iPhones vendidos desde 2007</title>
       <link>https://tecnoblog.net/noticias/apple-atinge-a-marca-de-3-bilhoes-de-iphones-vendidos-desde-2007/</link>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/google-vai-manter-links-encurtados-no-goo-gl-mas-com-uma-condicao/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/04/google_capa-4-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 05 Aug 2025 15:39:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>IA do Google inventa órgão humano que não existe</title>
+      <link>https://tecnoblog.net/noticias/ia-do-google-inventa-orgao-humano-que-nao-existe/</link>
+      <description>Med-Gemini cita "gânglios basilares" em artigo científico, termo inexistente na anatomia humana. Erro foi corrigido discretamente após alerta de neurologista.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/ia-do-google-inventa-orgao-humano-que-nao-existe/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/02/capa-gemini_tb-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 05 Aug 2025 16:53:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dia dos Pais: Galaxy Watch 7 BT (40 mm) tem oferta com 52% OFF em 10x</title>
+      <link>https://tecnoblog.net/achados/dia-dos-pais-galaxy-watch-7-bt-40-mm-tem-oferta-com-52-off-em-10x/</link>
+      <description>Galaxy Watch 7 BT (40 mm) possui 13 sensores LED de monitoramento, tela Super AMOLED com Cristal de Safira e Galaxy AI integrado; oferta na Amazon com parcelas de até 10x sem juros</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/dia-dos-pais-galaxy-watch-7-bt-40-mm-tem-oferta-com-52-off-em-10x/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/galaxy-watch-7-oferta-recomendada-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 05 Aug 2025 16:56:54 +0000</pubDate>
     </item>
   </channel>
 </rss>
