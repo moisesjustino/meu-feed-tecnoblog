@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 05 Aug 2025 15:15:25 +0000</lastBuildDate>
-    <item>
-      <title>China questiona Nvidia por possível backdoor em chip de IA</title>
-      <link>https://tecnoblog.net/noticias/china-questiona-nvidia-por-possivel-backdoor-em-chip-de-ia-vendido-no-pais/</link>
-      <description>Autoridade chinesa convocou a Nvidia para explicar questões de segurança relacionadas ao chip H20. GPU foi desenvolvida especialmente para o mercado local.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/china-questiona-nvidia-por-possivel-backdoor-em-chip-de-ia-vendido-no-pais/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/05/nvidia-video_capa-1_tb-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 01 Aug 2025 13:14:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google começa a usar IA para estimar idade de usuários e aplicar restrições</title>
-      <link>https://tecnoblog.net/noticias/google-comeca-a-usar-ia-para-estimar-idade-de-usuarios-e-aplicar-restricoes/</link>
-      <description>Tecnologia usará padrões de busca e de consumo de vídeos no YouTube. Contas de menores de idade ficam sem anúncios personalizados.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/google-comeca-a-usar-ia-para-estimar-idade-de-usuarios-e-aplicar-restricoes/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/05/capa-ia-google-3_tb-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 01 Aug 2025 13:32:30 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 05 Aug 2025 16:13:40 +0000</lastBuildDate>
     <item>
       <title>Vendas fracas do Xbox derrubam receita de hardware da Microsoft em 22%</title>
       <link>https://tecnoblog.net/noticias/vendas-fracas-do-xbox-derrubam-receita-de-hardware-da-microsoft-em-22/</link>
@@ -193,9 +177,9 @@
       <pubDate>Mon, 04 Aug 2025 20:06:35 +0000</pubDate>
     </item>
     <item>
-      <title>Galaxy S25 tem menor preço histórico em oferta com cupom no Mercado Livre</title>
+      <title>Galaxy S25 (256 GB) tem menor preço histórico em oferta no Mercado Livre</title>
       <link>https://tecnoblog.net/achados/galaxy-s25-tem-menor-preco-historico-em-oferta-com-cupom-no-mercado-livre/</link>
-      <description>Galaxy S25 possui chip Snapdragon 8 Elite, câmera principal que filma em 8K e tela AMOLED Dinâmico de 6,2 polegadas; oferta válida no Pix com cupom pelo celular de 256 GB</description>
+      <description>Galaxy S25 possui chip Snapdragon 8 Elite, câmera principal que filma em 8K e tela AMOLED Dinâmico de 6,2 polegadas; oferta válida no Pix pelo celular de 256 GB</description>
       <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-s25-tem-menor-preco-historico-em-oferta-com-cupom-no-mercado-livre/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/galaxy-s24-traz-processador-snapdragon-8-elite-da-qualcomm-foto-thassius-velosotecnoblog-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 04 Aug 2025 21:02:10 +0000</pubDate>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/funcionarios-da-tsmc-sao-presos-por-vazamento-de-segredos-sobre-chips/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/04/tsmc-wafer-chips-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 05 Aug 2025 13:45:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cloudflare acusa Perplexity de burlar regras da web</title>
+      <link>https://tecnoblog.net/noticias/cloudflare-acusa-perplexity-de-burlar-regras-da-web/</link>
+      <description>Startup de IA teria utilizado táticas para contornar o protocolo robots.txt, acessando conteúdo não autorizado. Prática viola norma estabelecida há décadas na internet.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/cloudflare-acusa-perplexity-de-burlar-regras-da-web/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/05/perplexity-fecha-com-paypal-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 05 Aug 2025 15:38:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google vai manter links encurtados no goo.gl, mas com uma condição</title>
+      <link>https://tecnoblog.net/noticias/google-vai-manter-links-encurtados-no-goo-gl-mas-com-uma-condicao/</link>
+      <description>Links do goo.gl deixariam de funcionar em 25 de agosto de 2025, mas Google decidiu manter aqueles que ainda estão ativos.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/google-vai-manter-links-encurtados-no-goo-gl-mas-com-uma-condicao/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/04/google_capa-4-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 05 Aug 2025 15:39:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
