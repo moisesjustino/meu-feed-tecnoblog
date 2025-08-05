@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 05 Aug 2025 17:12:38 +0000</lastBuildDate>
-    <item>
-      <title>Apple atinge a marca de 3 bilhões de iPhones vendidos desde 2007</title>
-      <link>https://tecnoblog.net/noticias/apple-atinge-a-marca-de-3-bilhoes-de-iphones-vendidos-desde-2007/</link>
-      <description>Tim Cook revelou o número histórico durante a divulgação dos resultados trimestrais, que mostraram o iPhone respondendo por quase metade da receita.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/apple-atinge-a-marca-de-3-bilhoes-de-iphones-vendidos-desde-2007/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/10/iphone-15-capas-1-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 01 Aug 2025 17:11:31 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 05 Aug 2025 18:19:56 +0000</lastBuildDate>
     <item>
       <title>Versão do Windows 11 para PCs de baixo custo vai ser descontinuada</title>
       <link>https://tecnoblog.net/noticias/versao-do-windows-11-para-pcs-de-baixo-custo-vai-ser-descontinuada/</link>
@@ -161,7 +153,7 @@
       <pubDate>Mon, 04 Aug 2025 20:06:35 +0000</pubDate>
     </item>
     <item>
-      <title>Galaxy S25 (256 GB) tem menor preço histórico em oferta no Mercado Livre</title>
+      <title>Galaxy S25 (256 GB) tem 47% OFF em oferta no Mercado Livre</title>
       <link>https://tecnoblog.net/achados/galaxy-s25-tem-menor-preco-historico-em-oferta-com-cupom-no-mercado-livre/</link>
       <description>Galaxy S25 possui chip Snapdragon 8 Elite, câmera principal que filma em 8K e tela AMOLED Dinâmico de 6,2 polegadas; oferta válida no Pix pelo celular de 256 GB</description>
       <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-s25-tem-menor-preco-historico-em-oferta-com-cupom-no-mercado-livre/</guid>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/dia-dos-pais-galaxy-watch-7-bt-40-mm-tem-oferta-com-52-off-em-10x/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/galaxy-watch-7-oferta-recomendada-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Tue, 05 Aug 2025 16:56:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>WhatsApp quer liberar conversas com pessoas sem cadastro no app</title>
+      <link>https://tecnoblog.net/noticias/whatsapp-quer-liberar-conversas-com-pessoas-sem-cadastro-no-app/</link>
+      <description>Função em desenvolvimento vai permitir o envio de mensagens via link. Os chats serão individuais e criptografados.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/whatsapp-quer-liberar-conversas-com-pessoas-sem-cadastro-no-app/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/whatsapp-capa-3-edited-1-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 05 Aug 2025 17:55:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
