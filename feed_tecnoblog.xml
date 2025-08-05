@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 05 Aug 2025 19:15:46 +0000</lastBuildDate>
-    <item>
-      <title>CEO da Amazon quer colocar anúncios na voz da Alexa</title>
-      <link>https://tecnoblog.net/noticias/ceo-da-amazon-quer-colocar-anuncios-na-voz-da-alexa/</link>
-      <description>Novidade pode estrear na Alexa+, versão da assistente com inteligência artificial generativa. Ainda não há previsão de lançamento no Brasil.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/ceo-da-amazon-quer-colocar-anuncios-na-voz-da-alexa/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/02/20250226_102442-edited-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 01 Aug 2025 17:41:15 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 05 Aug 2025 20:13:33 +0000</lastBuildDate>
     <item>
       <title>Galaxy Z Flip 6 (256 GB) tem oferta com 60% de desconto no Mercado Livre</title>
       <link>https://tecnoblog.net/achados/galaxy-z-flip-6-256-gb-tem-oferta-com-60-de-desconto-no-mercado-livre/</link>
@@ -43,10 +35,9 @@
     <item>
       <title>Reddit quer atrair usuários para seu próprio buscador</title>
       <link>https://tecnoblog.net/noticias/reddit-quer-atrair-usuarios-para-seu-proprio-buscador/</link>
-      <description>Plataforma tenta converter interesse em visitas diretas e se proteger contra queda de cliques causada por IA do Google.</description>
+      <description>Sem descrição breve.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/reddit-quer-atrair-usuarios-para-seu-proprio-buscador/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/04/brett-jordan-0fytazjhhxs-unsplash-edited-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 01 Aug 2025 21:25:57 +0000</pubDate>
     </item>
     <item>
       <title>TIM considera vender rede neutra de fibra óptica</title>
@@ -99,10 +90,9 @@
     <item>
       <title>Concurso vai pagar US$ 1 milhão para quem encontrar falha grave no WhatsApp</title>
       <link>https://tecnoblog.net/noticias/concurso-vai-pagar-us-1-milhao-para-quem-encontrar-falha-grave-no-whatsapp/</link>
-      <description>Meta quer estimular busca por brechas zero-click com potencial de controle remoto.</description>
+      <description>Sem descrição breve.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/concurso-vai-pagar-us-1-milhao-para-quem-encontrar-falha-grave-no-whatsapp/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/capa-whats-fora2_thumb_tb-edited-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 04 Aug 2025 15:32:47 +0000</pubDate>
     </item>
     <item>
       <title>Galaxy S26 pode copiar posição de NFC do iPhone</title>
@@ -223,6 +213,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/delta-volta-atras-e-promete-que-nao-usara-ia-para-cobrar-mais-caro/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/aviao-aerojet-unsplash-edited-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 05 Aug 2025 18:47:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Grok Imagine tem modo “picante” para criar conteúdos sensuais</title>
+      <link>https://tecnoblog.net/noticias/grok-imagine-tem-modo-picante-para-criar-conteudos-sensuais/</link>
+      <description>Nova ferramenta de IA da startup de Elon Musk permite criar vídeos e imagens com estética realista, incluindo cenas sensuais no modo Spicy. Função é vetada pelas rivais.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/grok-imagine-tem-modo-picante-para-criar-conteudos-sensuais/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/ilustracao-do-grok-da-xai-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 05 Aug 2025 19:41:54 +0000</pubDate>
     </item>
   </channel>
 </rss>
