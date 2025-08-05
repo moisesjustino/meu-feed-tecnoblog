@@ -7,39 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 05 Aug 2025 22:13:08 +0000</lastBuildDate>
-    <item>
-      <title>Instagram impõe limite de seguidores para transmissões ao vivo</title>
-      <link>https://tecnoblog.net/noticias/instagram-impoe-limite-de-seguidores-para-transmissoes-ao-vivo/</link>
-      <description>Nova regra exige ao menos 1.000 seguidores e conta pública para perfis abrirem lives. Medida se alinha à política já adotada pelo rival TikTok.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/instagram-impoe-limite-de-seguidores-para-transmissoes-ao-vivo/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2021/08/instagram-seguranca-capa-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 01 Aug 2025 19:26:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Reddit quer atrair usuários para seu próprio buscador</title>
-      <link>https://tecnoblog.net/noticias/reddit-quer-atrair-usuarios-para-seu-proprio-buscador/</link>
-      <description>Plataforma tenta converter interesse em visitas diretas e se proteger contra queda de cliques causada por IA do Google.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/reddit-quer-atrair-usuarios-para-seu-proprio-buscador/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/04/brett-jordan-0fytazjhhxs-unsplash-edited-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 01 Aug 2025 21:25:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>TIM considera vender rede neutra de fibra óptica</title>
-      <link>https://tecnoblog.net/noticias/tim-considera-vender-rede-neutra-de-fibra-optica/</link>
-      <description>Operadora busca otimizar capital, seguindo um modelo de negócio similar ao da Vivo e Oi. Processo enfrenta desafios regulatórios.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/tim-considera-vender-rede-neutra-de-fibra-optica/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/04/tim-celular-capa-2-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 04 Aug 2025 11:01:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>WhatsApp quer proteger nomes de usuário das mensagens não solicitadas</title>
-      <link>https://tecnoblog.net/noticias/whatsapp-quer-proteger-nomes-de-usuario-das-mensagens-nao-solicitadas/</link>
-      <description>Nova função do app permitirá configurar uma chave para controlar quem pode enviar mensagens via username. Recurso ainda está em teste nas versões beta.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/whatsapp-quer-proteger-nomes-de-usuario-das-mensagens-nao-solicitadas/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/03/whatsapp-capa-3-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 04 Aug 2025 11:11:37 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 05 Aug 2025 23:12:18 +0000</lastBuildDate>
     <item>
       <title>YouTuber está dobrando o Fold 7 até quebrar; como assistir ao vivo</title>
       <link>https://tecnoblog.net/noticias/youtuber-esta-dobrando-o-fold-7-ate-quebrar-veja-ao-vivo/</link>
@@ -111,6 +79,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/dia-dos-pais-huawei-watch-fit-4-pro-e-mais-relogios-inteligentes-com-ate-56-off/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/04/achados-samsung-galaxy-fit-3-1-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 04 Aug 2025 17:57:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>O que é código-fonte? Entenda a função e os tipos de source code</title>
+      <link>https://tecnoblog.net/responde/o-que-e-codigo-fonte/</link>
+      <description>O código-fonte é essencial para o bom funcionamento de um software, já que reúne instruções de comportamento e regras para a aplicação</description>
+      <guid isPermaLink="false">https://tecnoblog.net/responde/o-que-e-codigo-fonte/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/ilustracao-de-codigo-fonte-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 04 Aug 2025 19:07:07 +0000</pubDate>
     </item>
     <item>
       <title>ChatGPT agora avisa se você está usando a IA por tempo demais</title>
@@ -223,6 +199,30 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/dia-dos-pais-galaxy-z-fold-6-e-mais-celulares-dobraveis-com-ate-58-off/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/01/tela-do-galagalaxy-z-fold-6-tela-interna-de-76-polegadas-foto-thassius-velosotecnoblogxy-a16-e-amoled-com-resolucao-full-hd-foto-thassius-velosotecnoblog-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Tue, 05 Aug 2025 21:34:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Genie 3: Google DeepMind apresenta IA que transforma imagens em jogos</title>
+      <link>https://tecnoblog.net/noticias/genie-3-google-deepmind-apresenta-ia-que-transforma-imagens-em-jogos/</link>
+      <description>Modelo cria jogos 2D a partir de imagens e textos, com cenário editável em tempo real. Tecnologia segue restrita ao uso interno, sem data para liberação ao público.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/genie-3-google-deepmind-apresenta-ia-que-transforma-imagens-em-jogos/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/captura-de-tela-2025-08-05-181038-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 05 Aug 2025 22:15:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>iOS 26 beta 5 inclui RCS no iPhone para operadoras brasileiras</title>
+      <link>https://tecnoblog.net/noticias/ios-26-beta-5-inclui-rcs-no-iphone-para-operadoras-brasileiras/</link>
+      <description>Sucessor do SMS já estava no iOS 18, mas faltava a ativação no mercado nacional. Protocolo moderniza mensagens, com recursos como fotos, vídeos e grupos.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/ios-26-beta-5-inclui-rcs-no-iphone-para-operadoras-brasileiras/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/05/Capa-TBR-iOS-26-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 05 Aug 2025 22:21:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dia dos Pais: iPhone 16e (128 GB) tem 38% OFF com cupom no Mercado Livre</title>
+      <link>https://tecnoblog.net/achados/dia-dos-pais-iphone-16e-128-gb-tem-38-off-com-cupom-no-mercado-livre/</link>
+      <description>iPhone 16e possui chip A18, tela OLED de 6,1 polegadas e câmera de 48 MP; oferta no Mercado Livre com cupom pelo celular da Apple de 128 GB</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/dia-dos-pais-iphone-16e-128-gb-tem-38-off-com-cupom-no-mercado-livre/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/03/iphone-16e-achados-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 05 Aug 2025 22:47:53 +0000</pubDate>
     </item>
   </channel>
 </rss>
