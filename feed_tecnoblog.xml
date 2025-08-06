@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 06 Aug 2025 18:18:47 +0000</lastBuildDate>
-    <item>
-      <title>Dia dos Pais: Galaxy Fit 3 e mais relógios inteligentes com até 57% OFF</title>
-      <link>https://tecnoblog.net/achados/dia-dos-pais-huawei-watch-fit-4-pro-e-mais-relogios-inteligentes-com-ate-56-off/</link>
-      <description>Smartwatches e smartbands estão em promoção para o Dia dos Pais; veja ofertas do Galaxy Fit 3, Apple Watch SE 40 mm, Galaxy Watch 7 LTE 40 mm e mais wearables com parcelas de até 10x sem juros</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/dia-dos-pais-huawei-watch-fit-4-pro-e-mais-relogios-inteligentes-com-ate-56-off/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/04/achados-samsung-galaxy-fit-3-1-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 04 Aug 2025 17:57:11 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 06 Aug 2025 19:13:29 +0000</lastBuildDate>
     <item>
       <title>O que é código-fonte? Entenda a função e os tipos de source code</title>
       <link>https://tecnoblog.net/responde/o-que-e-codigo-fonte/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/acredite-o-pcie-8-0-ja-esta-a-caminho-e-promete-taxa-de-1-tb-s/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/pci-express-slots-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Wed, 06 Aug 2025 18:11:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vivo Fibra fica fora do ar para clientes de São Paulo</title>
+      <link>https://tecnoblog.net/noticias/vivo-fibra-fica-fora-do-ar-para-clientes-de-sao-paulo/</link>
+      <description>Pane impacta serviço de fibra ótica da Vivo. Problema parece se restringir a São Paulo.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/vivo-fibra-fica-fora-do-ar-para-clientes-de-sao-paulo/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/10/vivo-celular-capa-2-edited-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 06 Aug 2025 18:35:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
