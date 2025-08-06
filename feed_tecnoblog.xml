@@ -7,39 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 06 Aug 2025 19:13:29 +0000</lastBuildDate>
-    <item>
-      <title>O que é código-fonte? Entenda a função e os tipos de source code</title>
-      <link>https://tecnoblog.net/responde/o-que-e-codigo-fonte/</link>
-      <description>O código-fonte é essencial para o bom funcionamento de um software, já que reúne instruções de comportamento e regras para a aplicação</description>
-      <guid isPermaLink="false">https://tecnoblog.net/responde/o-que-e-codigo-fonte/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/ilustracao-de-codigo-fonte-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 04 Aug 2025 19:07:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>ChatGPT agora avisa se você está usando a IA por tempo demais</title>
-      <link>https://tecnoblog.net/noticias/chatgpt-agora-avisa-se-voce-esta-usando-a-ia-tempo-demais/</link>
-      <description>OpenAI atualiza chatbot para incentivar pausas em sessões muito longas e muda forma de responder a perguntas pessoais delicadas.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/chatgpt-agora-avisa-se-voce-esta-usando-a-ia-tempo-demais/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/06/chatgpt-3_capa-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 04 Aug 2025 20:06:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Anatel vai responsabilizar marketplaces por venda de produtos irregulares</title>
-      <link>https://tecnoblog.net/noticias/anatel-vai-responsabilizar-marketplaces-por-venda-de-produtos-irregulares/</link>
-      <description>Atualização consolida entendimento da agência. Sites responderão solidariamente com vendedores pelo comércio de aparelhos não homologados.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/anatel-vai-responsabilizar-marketplaces-por-venda-de-produtos-irregulares/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/04/anatel-capa-tecnoblog-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 04 Aug 2025 22:43:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>O que são cabos submarinos? Veja como funcionam esses meios de transmissão</title>
-      <link>https://tecnoblog.net/responde/o-que-sao-cabos-submarinos-veja-como-funcionam-esses-meios-de-transmissao/</link>
-      <description>Os cabos submarinos podem ser divididos em dois tipos: cabos de comunicação para transporte de dados e cabos de energia para transmissão de eletricidade</description>
-      <guid isPermaLink="false">https://tecnoblog.net/responde/o-que-sao-cabos-submarinos-veja-como-funcionam-esses-meios-de-transmissao/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/06/cabos-submarinos_capa-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 05 Aug 2025 13:32:29 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 06 Aug 2025 20:14:07 +0000</lastBuildDate>
     <item>
       <title>O que é uma MVNO? Entenda o funcionamento das operadoras móveis virtuais</title>
       <link>https://tecnoblog.net/responde/o-que-e-uma-mvno/</link>
@@ -127,6 +95,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/preco-do-kindle-unlimited-sobe-25-no-brasil/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/20250722_145749-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 05 Aug 2025 21:13:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>O que é API? Saiba para que serve e conheça exemplos práticos de aplicações</title>
+      <link>https://tecnoblog.net/responde/o-que-e-api-saiba-para-que-serve-e-conheca-exemplos-praticos-de-aplicacoes/</link>
+      <description>Uma API atua como intermediário, permitindo que diferentes softwares se comuniquem e troquem informações. Ela define as regras para a interação entre os aplicativos</description>
+      <guid isPermaLink="false">https://tecnoblog.net/responde/o-que-e-api-saiba-para-que-serve-e-conheca-exemplos-praticos-de-aplicacoes/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/ilya-pavlov-oqtafyt5ktw-unsplash-edited-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 05 Aug 2025 21:16:55 +0000</pubDate>
     </item>
     <item>
       <title>Dia dos Pais: Galaxy Z Fold 6 e mais celulares dobráveis com até 58% OFF</title>
@@ -217,12 +193,36 @@
       <pubDate>Wed, 06 Aug 2025 18:11:14 +0000</pubDate>
     </item>
     <item>
-      <title>Vivo Fibra fica fora do ar para clientes de São Paulo</title>
+      <title>Vivo fica fora do ar para clientes de São Paulo</title>
       <link>https://tecnoblog.net/noticias/vivo-fibra-fica-fora-do-ar-para-clientes-de-sao-paulo/</link>
-      <description>Pane impacta serviço de fibra ótica da Vivo. Problema parece se restringir a São Paulo.</description>
+      <description>Clientes reclamam de problemas na fibra ótica e telefonia móvel da Vivo. Ainda não se sabe o motivo da pane.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/vivo-fibra-fica-fora-do-ar-para-clientes-de-sao-paulo/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/10/vivo-celular-capa-2-edited-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Wed, 06 Aug 2025 18:35:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dia dos Pais: Echo Dot, fones e mais presentes tech por menos de R$ 500</title>
+      <link>https://tecnoblog.net/achados/dia-dos-pais-6-presentes-tech-por-ate-r-500/</link>
+      <description>Confira Amazon Echo Dot, Galaxy Fit 3 e outras ofertas tech com possibilidade de parcelar em até 6x sem juros para o Dia dos Pais</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/dia-dos-pais-6-presentes-tech-por-ate-r-500/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/08/oferta-dispositivos-alexa-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 06 Aug 2025 19:29:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Samsung vai liberar a One UI 8 beta para mais aparelhos; veja lista</title>
+      <link>https://tecnoblog.net/noticias/samsung-vai-liberar-a-one-ui-8-beta-para-mais-aparelhos-veja-lista/</link>
+      <description>Galaxy S24, S23 e dobráveis em quatro países estão aptos para integrar o programa de testes. Versão final da interface será lançada oficialmente em setembro.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/samsung-vai-liberar-a-one-ui-8-beta-para-mais-aparelhos-veja-lista/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/11/galaxy-s23-tecnoblog-4-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 06 Aug 2025 20:02:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>World ID: ANPD mantém proibição de coleta de íris no Brasil</title>
+      <link>https://tecnoblog.net/noticias/world-id-anpd-mantem-proibicao-de-coleta-de-iris-no-brasil/</link>
+      <description>Recurso apresentado por Tools for Humanity e World Foundation é negado. ANPD questiona segurança e impacto sobre pessoas vulneráveis.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/world-id-anpd-mantem-proibicao-de-coleta-de-iris-no-brasil/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/11/world-id-orb-1-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 06 Aug 2025 20:03:46 +0000</pubDate>
     </item>
   </channel>
 </rss>
