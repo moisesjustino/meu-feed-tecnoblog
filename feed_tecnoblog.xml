@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 06 Aug 2025 12:26:35 +0000</lastBuildDate>
-    <item>
-      <title>Spotify Premium está mais caro no Brasil; veja os novos preços</title>
-      <link>https://tecnoblog.net/noticias/spotify-premium-fica-mais-caro-no-brasil-veja-os-novos-precos/</link>
-      <description>Assinaturas do Spotify Premium estão até 17% mais caras no Brasil. Quem já é assinante será cobrado com o novo valor a partir de setembro de 2025.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/spotify-premium-fica-mais-caro-no-brasil-veja-os-novos-precos/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/especial_capa_spotify-edited-1-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 04 Aug 2025 14:13:29 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 06 Aug 2025 13:36:34 +0000</lastBuildDate>
     <item>
       <title>Concurso vai pagar US$ 1 milhão para quem encontrar falha grave no WhatsApp</title>
       <link>https://tecnoblog.net/noticias/concurso-vai-pagar-us-1-milhao-para-quem-encontrar-falha-grave-no-whatsapp/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/tl12-e-o-tablet-android-de-126-que-a-vaio-acaba-de-lancar-no-brasil/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/vaio-tl12-tablet-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Wed, 06 Aug 2025 10:34:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>iFood promete refeições mais baratas para clientes de 30 cidades</title>
+      <link>https://tecnoblog.net/noticias/ifood-promete-refeicoes-mais-baratas-para-clientes-de-30-cidades/</link>
+      <description>iFood anuncia Hits iFood, com refeições mais baratas e entrega grátis. Outra novidade é o Turbo iFood, para entregas mais rápidas.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/ifood-promete-refeicoes-mais-baratas-para-clientes-de-30-cidades/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/05/ifood_capa-3_tb-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 06 Aug 2025 13:31:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
