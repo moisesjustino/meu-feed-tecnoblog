@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 06 Aug 2025 21:11:28 +0000</lastBuildDate>
-    <item>
-      <title>O que é uma MVNO? Entenda o funcionamento das operadoras móveis virtuais</title>
-      <link>https://tecnoblog.net/responde/o-que-e-uma-mvno/</link>
-      <description>MVNO significa Mobile Virtual Network Operator, ou seja, é uma operadora virtual que utiliza infraestrutura de operadoras tradicionais</description>
-      <guid isPermaLink="false">https://tecnoblog.net/responde/o-que-e-uma-mvno/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/04/chip-sim-card-operadoras-virtuais-mvnos-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 05 Aug 2025 13:33:43 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 06 Aug 2025 22:13:01 +0000</lastBuildDate>
     <item>
       <title>Google faz chacota da Apple em novo comercial do Pixel 10</title>
       <link>https://tecnoblog.net/noticias/google-faz-chacota-da-apple-em-novo-comercial-na-web/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/world-id-anpd-mantem-proibicao-de-coleta-de-iris-no-brasil/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/11/world-id-orb-1-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Wed, 06 Aug 2025 20:03:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Galaxy A36 (128 GB) tem oferta com 44% de desconto próximo do Dia dos Pais</title>
+      <link>https://tecnoblog.net/achados/galaxy-a36-128-gb-tem-oferta-com-44-de-desconto-proximo-do-dia-dos-pais/</link>
+      <description>Galaxy A36 tem tela Super AMOLED de 120 Hz, câmera principal de 50 MP e bateria de 5.000 mAh; oferta na Amazon exclusiva no Pix pelo celular da Samsung de 128 GB</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-a36-128-gb-tem-oferta-com-44-de-desconto-proximo-do-dia-dos-pais/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/05/GalaxyA36-oferta-recomendada-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 06 Aug 2025 21:44:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
