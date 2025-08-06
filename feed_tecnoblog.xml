@@ -7,31 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 06 Aug 2025 10:14:38 +0000</lastBuildDate>
-    <item>
-      <title>YouTuber está dobrando o Fold 7 até quebrar; como assistir ao vivo</title>
-      <link>https://tecnoblog.net/noticias/youtuber-esta-dobrando-o-fold-7-ate-quebrar-veja-ao-vivo/</link>
-      <description>Galaxy Z Fold 7 promete resistência de 500 mil dobras. Marca é 2,5 vezes superior à geração anterior, de acordo com a Samsung.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/youtuber-esta-dobrando-o-fold-7-ate-quebrar-veja-ao-vivo/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/dobrando-fold-7-340x191.gif" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 04 Aug 2025 13:07:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Teste revela operadoras com 5G mais rápido do Brasil; veja resultado</title>
-      <link>https://tecnoblog.net/noticias/teste-revela-operadoras-com-5g-mais-rapido-do-brasil-veja-resultado/</link>
-      <description>Claro aparece à frente da Vivo e da TIM em velocidade e desempenho do 5G, segundo levantamento da Ookla com dados do Speedtest no 1º semestre de 2025.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/teste-revela-operadoras-com-5g-mais-rapido-do-brasil-veja-resultado/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/06/5g-3_capa_tb-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 04 Aug 2025 13:22:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Plataforma distribui jogos adultos de graça em protesto contra remoções</title>
-      <link>https://tecnoblog.net/noticias/plataforma-distribui-jogos-adultos-de-graca-em-protesto-contra-remocoes/</link>
-      <description>Rival do Steam, GOG liberou por 48 horas 13 games banidos de outras lojas. Campanha alega censura financeira de Mastercard, Visa e outras processadoras de pagamento.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/plataforma-distribui-jogos-adultos-de-graca-em-protesto-contra-remocoes/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/captura-de-tela-2025-08-04-092835-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 04 Aug 2025 14:13:04 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 06 Aug 2025 11:11:34 +0000</lastBuildDate>
     <item>
       <title>Spotify Premium está mais caro no Brasil; veja os novos preços</title>
       <link>https://tecnoblog.net/noticias/spotify-premium-fica-mais-caro-no-brasil-veja-os-novos-precos/</link>
@@ -111,6 +87,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/anatel-vai-responsabilizar-marketplaces-por-venda-de-produtos-irregulares/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/04/anatel-capa-tecnoblog-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 04 Aug 2025 22:43:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>O que são cabos submarinos? Veja como funcionam esses meios de transmissão</title>
+      <link>https://tecnoblog.net/responde/o-que-sao-cabos-submarinos-veja-como-funcionam-esses-meios-de-transmissao/</link>
+      <description>Os cabos submarinos podem ser divididos em dois tipos: cabos de comunicação para transporte de dados e cabos de energia para transmissão de eletricidade</description>
+      <guid isPermaLink="false">https://tecnoblog.net/responde/o-que-sao-cabos-submarinos-veja-como-funcionam-esses-meios-de-transmissao/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/06/cabos-submarinos_capa-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 05 Aug 2025 13:32:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>O que é uma MVNO? Entenda o funcionamento das operadoras móveis virtuais</title>
+      <link>https://tecnoblog.net/responde/o-que-e-uma-mvno/</link>
+      <description>MVNO significa Mobile Virtual Network Operator, ou seja, é uma operadora virtual que utiliza infraestrutura de operadoras tradicionais</description>
+      <guid isPermaLink="false">https://tecnoblog.net/responde/o-que-e-uma-mvno/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/04/chip-sim-card-operadoras-virtuais-mvnos-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 05 Aug 2025 13:33:43 +0000</pubDate>
     </item>
     <item>
       <title>Google faz chacota da Apple em novo comercial do Pixel 10</title>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/dia-dos-pais-iphone-16e-128-gb-tem-38-off-com-cupom-no-mercado-livre/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/03/iphone-16e-achados-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Tue, 05 Aug 2025 22:47:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>TL12 é o tablet Android de 12,6″ que a Vaio acaba de lançar no Brasil</title>
+      <link>https://tecnoblog.net/noticias/tl12-e-o-tablet-android-de-126-que-a-vaio-acaba-de-lancar-no-brasil/</link>
+      <description>Vaio TL12 é um tablet Android de 12,6 polegadas focado em produtividade. Novidade vem acompanhada de teclado acoplável e caneta Vaio Pen.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/tl12-e-o-tablet-android-de-126-que-a-vaio-acaba-de-lancar-no-brasil/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/vaio-tl12-tablet-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 06 Aug 2025 10:34:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
