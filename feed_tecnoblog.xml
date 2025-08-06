@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 06 Aug 2025 17:16:14 +0000</lastBuildDate>
-    <item>
-      <title>Internet via satélite no celular deve gerar receita de US$ 15 bilhões</title>
-      <link>https://tecnoblog.net/noticias/internet-via-satelite-no-celular-deve-gerar-receita-de-us-15-bilhoes/</link>
-      <description>Tecnologia ganha força e deve crescer 24,5% no próximo ano, segundo projeção da Gartner. Previsão é de mais de 40 mil satélites em órbita baixa nos próximos anos.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/internet-via-satelite-no-celular-deve-gerar-receita-de-us-15-bilhoes/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/12/amazon-projeto-kuiper-01-340x191.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 04 Aug 2025 16:21:02 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 06 Aug 2025 18:18:47 +0000</lastBuildDate>
     <item>
       <title>Dia dos Pais: Galaxy Fit 3 e mais relógios inteligentes com até 57% OFF</title>
       <link>https://tecnoblog.net/achados/dia-dos-pais-huawei-watch-fit-4-pro-e-mais-relogios-inteligentes-com-ate-56-off/</link>
@@ -219,10 +211,18 @@
     <item>
       <title>Instagram ganha reposts no feed; veja como vai funcionar</title>
       <link>https://tecnoblog.net/noticias/instagram-ganha-reposts-no-feed-veja-como-vai-funcionar/</link>
-      <description>Além dos reposts, usuários poderão ver conteúdos públicos em locais próximos e acompanhar reels curtidos ou comentados por amigos em aba dedicada</description>
+      <description>Além dos reposts, usuários poderão ver conteúdos públicos em locais próximos e acompanhar reels curtidos ou comentados por amigos em aba dedicada.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/instagram-ganha-reposts-no-feed-veja-como-vai-funcionar/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/11/instagram-capa-1-nov-2022-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Wed, 06 Aug 2025 16:40:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Acredite: o PCIe 8.0 já está a caminho e promete taxa de 1 TB/s</title>
+      <link>https://tecnoblog.net/noticias/acredite-o-pcie-8-0-ja-esta-a-caminho-e-promete-taxa-de-1-tb-s/</link>
+      <description>O PCIe 7.0 mal foi lançado, mas o PCI Express 8.0 já está sendo preparado e oferecerá o dobro de desempenho nas transmissões.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/acredite-o-pcie-8-0-ja-esta-a-caminho-e-promete-taxa-de-1-tb-s/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/pci-express-slots-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 06 Aug 2025 18:11:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
