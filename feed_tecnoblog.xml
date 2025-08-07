@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 07 Aug 2025 21:10:45 +0000</lastBuildDate>
-    <item>
-      <title>iOS 26 beta 5 inclui RCS no iPhone para operadoras brasileiras</title>
-      <link>https://tecnoblog.net/noticias/ios-26-beta-5-inclui-rcs-no-iphone-para-operadoras-brasileiras/</link>
-      <description>Sucessor do SMS já estava no iOS 18, mas faltava a ativação no mercado nacional. Protocolo moderniza mensagens, com recursos como fotos, vídeos e grupos.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/ios-26-beta-5-inclui-rcs-no-iphone-para-operadoras-brasileiras/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/05/Capa-TBR-iOS-26-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 05 Aug 2025 22:21:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dia dos Pais: iPhone 16e (128 GB) tem 38% OFF com cupom no Mercado Livre</title>
-      <link>https://tecnoblog.net/achados/dia-dos-pais-iphone-16e-128-gb-tem-38-off-com-cupom-no-mercado-livre/</link>
-      <description>iPhone 16e possui chip A18, tela OLED de 6,1 polegadas e câmera de 48 MP; oferta no Mercado Livre com cupom pelo celular da Apple de 128 GB</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/dia-dos-pais-iphone-16e-128-gb-tem-38-off-com-cupom-no-mercado-livre/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/03/iphone-16e-achados-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 05 Aug 2025 22:47:53 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 07 Aug 2025 22:12:50 +0000</lastBuildDate>
     <item>
       <title>TL12 é o tablet Android de 12,6″ que a Vaio acaba de lançar no Brasil</title>
       <link>https://tecnoblog.net/noticias/tl12-e-o-tablet-android-de-126-que-a-vaio-acaba-de-lancar-no-brasil/</link>
@@ -111,6 +95,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/world-id-anpd-mantem-proibicao-de-coleta-de-iris-no-brasil/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/11/world-id-orb-1-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Wed, 06 Aug 2025 20:03:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>O que é beamforming? Veja como a tecnologia pode melhorar a rede Wi-Fi</title>
+      <link>https://tecnoblog.net/responde/o-que-e-beamforming/</link>
+      <description>Beamforming é uma tecnologia de transmissão de dados direcionada, usada por roteadores, torres de celular, satélites e sonares</description>
+      <guid isPermaLink="false">https://tecnoblog.net/responde/o-que-e-beamforming/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/ilustracao-de-beamforming-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 06 Aug 2025 21:17:35 +0000</pubDate>
     </item>
     <item>
       <title>Galaxy A36 (128 GB) tem oferta com 44% de desconto próximo do Dia dos Pais</title>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/anatel-autoriza-acordo-de-exclusividade-entre-nubank-e-claro/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/capa-chip-nubank-v2-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Thu, 07 Aug 2025 20:35:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Huawei inaugura sua primeira loja temporária no Brasil</title>
+      <link>https://tecnoblog.net/noticias/huawei-inaugura-sua-primeira-loja-temporaria-no-brasil/</link>
+      <description>Pop-up store no Shopping Cidade São Paulo abre no Dia dos Pais e exibirá celulares dobráveis, relógios, tablets e outros produtos da marca</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/huawei-inaugura-sua-primeira-loja-temporaria-no-brasil/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/Capa-Huawei-no-Brasil-01-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 07 Aug 2025 21:36:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
