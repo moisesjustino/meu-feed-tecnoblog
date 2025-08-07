@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 07 Aug 2025 17:14:48 +0000</lastBuildDate>
-    <item>
-      <title>Grok Imagine tem modo “picante” para criar conteúdos sensuais</title>
-      <link>https://tecnoblog.net/noticias/grok-imagine-tem-modo-picante-para-criar-conteudos-sensuais/</link>
-      <description>Nova ferramenta de IA da startup de Elon Musk permite criar vídeos e imagens com estética realista, incluindo cenas sensuais no modo Spicy. Função é vetada pelas rivais.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/grok-imagine-tem-modo-picante-para-criar-conteudos-sensuais/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/ilustracao-do-grok-da-xai-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 05 Aug 2025 19:41:54 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 07 Aug 2025 18:19:06 +0000</lastBuildDate>
     <item>
       <title>Amazon aumenta preço do Kindle Unlimited em 25%</title>
       <link>https://tecnoblog.net/noticias/preco-do-kindle-unlimited-sobe-25-no-brasil/</link>
@@ -219,10 +211,18 @@
     <item>
       <title>OpenAI revela o novo modelo GPT-5, disponível de graça no ChatGPT</title>
       <link>https://tecnoblog.net/noticias/openai-revela-o-novo-modelo-gpt-5-disponivel-de-graca-no-chatgpt/</link>
-      <description>Ferramenta é usada semanalmente por mais de 700 milhões de pessoas. Cinco milhões são adeptos da versão profissional.</description>
+      <description>Sistema de IA está mais rápido e honesto nas respostas. OpenAI também promete menos halucinações.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/openai-revela-o-novo-modelo-gpt-5-disponivel-de-graca-no-chatgpt/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/gpt-5-01-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Thu, 07 Aug 2025 17:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dia Pro é um navegador com IA que custa US$ 20 mensais. Você assinaria?</title>
+      <link>https://tecnoblog.net/noticias/dia-pro-e-um-navegador-com-ia-que-custa-us-20-mensais-voce-assinaria/</link>
+      <description>Dia é o navegador da The Browser Company com recursos IA. Versão Pro promete acesso ilimitado a essas funções, mas ainda faltam detalhes sobre a iniciativa.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/dia-pro-e-um-navegador-com-ia-que-custa-us-20-mensais-voce-assinaria/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/Dia-navegador-2-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 07 Aug 2025 18:08:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
