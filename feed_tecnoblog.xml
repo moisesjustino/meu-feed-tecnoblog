@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 07 Aug 2025 20:13:56 +0000</lastBuildDate>
-    <item>
-      <title>Genie 3: Google DeepMind apresenta IA que transforma imagens em jogos</title>
-      <link>https://tecnoblog.net/noticias/genie-3-google-deepmind-apresenta-ia-que-transforma-imagens-em-jogos/</link>
-      <description>Modelo cria jogos 2D a partir de imagens e textos, com cenário editável em tempo real. Tecnologia segue restrita ao uso interno, sem data para liberação ao público.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/genie-3-google-deepmind-apresenta-ia-que-transforma-imagens-em-jogos/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/captura-de-tela-2025-08-05-181038-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 05 Aug 2025 22:15:37 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 07 Aug 2025 21:10:45 +0000</lastBuildDate>
     <item>
       <title>iOS 26 beta 5 inclui RCS no iPhone para operadoras brasileiras</title>
       <link>https://tecnoblog.net/noticias/ios-26-beta-5-inclui-rcs-no-iphone-para-operadoras-brasileiras/</link>
@@ -187,7 +179,7 @@
     <item>
       <title>OpenAI revela o novo modelo GPT-5, disponível de graça no ChatGPT</title>
       <link>https://tecnoblog.net/noticias/openai-revela-o-novo-modelo-gpt-5-disponivel-de-graca-no-chatgpt/</link>
-      <description>Sistema de IA está mais rápido e honesto nas respostas. OpenAI também promete menos halucinações.</description>
+      <description>Sistema de IA está mais rápido e honesto nas respostas. OpenAI também promete menos alucinações.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/openai-revela-o-novo-modelo-gpt-5-disponivel-de-graca-no-chatgpt/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/gpt-5-01-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Thu, 07 Aug 2025 17:00:00 +0000</pubDate>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/dia-dos-pais-iphone-15-256-gb-tem-oferta-imperdivel-no-mercado-livre/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/iPhone15-achado-do-dia-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Thu, 07 Aug 2025 19:17:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anatel autoriza exclusividade entre Nubank e Claro</title>
+      <link>https://tecnoblog.net/noticias/anatel-autoriza-acordo-de-exclusividade-entre-nubank-e-claro/</link>
+      <description>Serviço de telefonia NuCel pode continuar com sua estrutura atual. Área técnica da agência era contra a exclusividade.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/anatel-autoriza-acordo-de-exclusividade-entre-nubank-e-claro/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/capa-chip-nubank-v2-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 07 Aug 2025 20:35:22 +0000</pubDate>
     </item>
   </channel>
 </rss>
