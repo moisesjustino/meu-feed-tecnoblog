@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 07 Aug 2025 18:19:06 +0000</lastBuildDate>
-    <item>
-      <title>Amazon aumenta preço do Kindle Unlimited em 25%</title>
-      <link>https://tecnoblog.net/noticias/preco-do-kindle-unlimited-sobe-25-no-brasil/</link>
-      <description>Assinatura de livros da Amazon passa de R$ 19,90 para R$ 24,90 por mês. Mudança afeta clientes novos e atuais a partir de 10 de setembro.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/preco-do-kindle-unlimited-sobe-25-no-brasil/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/20250722_145749-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 05 Aug 2025 21:13:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>O que é API? Saiba para que serve e conheça exemplos práticos de aplicações</title>
-      <link>https://tecnoblog.net/responde/o-que-e-api-saiba-para-que-serve-e-conheca-exemplos-praticos-de-aplicacoes/</link>
-      <description>Uma API atua como intermediário, permitindo que diferentes softwares se comuniquem e troquem informações. Ela define as regras para a interação entre os aplicativos</description>
-      <guid isPermaLink="false">https://tecnoblog.net/responde/o-que-e-api-saiba-para-que-serve-e-conheca-exemplos-praticos-de-aplicacoes/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/ilya-pavlov-oqtafyt5ktw-unsplash-edited-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 05 Aug 2025 21:16:55 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 07 Aug 2025 19:14:19 +0000</lastBuildDate>
     <item>
       <title>Dia dos Pais: Galaxy Z Fold 6 e mais celulares dobráveis com até 58% OFF</title>
       <link>https://tecnoblog.net/achados/dia-dos-pais-galaxy-z-fold-6-e-mais-celulares-dobraveis-com-ate-58-off/</link>
@@ -173,7 +157,7 @@
       <link>https://tecnoblog.net/noticias/uber-anuncia-modos-preco-fixo-e-pre-pago-para-viagens-mais-baratas/</link>
       <description>Modos Preço Fixo e Pré-Pago permitem que usuário pague corridas via Uber para trajetos específicos sem se preocupar com preço dinâmico.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/uber-anuncia-modos-preco-fixo-e-pre-pago-para-viagens-mais-baratas/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/06/uber_capa-1_tb-340x191.png" length="0" type="image/jpeg"/>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/06/uber_capa-3_tb-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Thu, 07 Aug 2025 14:06:40 +0000</pubDate>
     </item>
     <item>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/dia-pro-e-um-navegador-com-ia-que-custa-us-20-mensais-voce-assinaria/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/Dia-navegador-2-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Thu, 07 Aug 2025 18:08:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>LG é condenada a indenizar vítima de incêndio causado por celular</title>
+      <link>https://tecnoblog.net/noticias/lg-e-condenada-a-indenizar-vitima-de-incendio-causado-por-celular/</link>
+      <description>Justiça da Escócia concluiu que um LG K8 com defeito na bateria causou o incêndio em 2018. Aparelho estava carregando quando entrou em combustão.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/lg-e-condenada-a-indenizar-vitima-de-incendio-causado-por-celular/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2018/03/LG-K8-2018-hands-on-1-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 07 Aug 2025 18:26:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>HBO Max vai ser mais incisiva com quem compartilha senha</title>
+      <link>https://tecnoblog.net/noticias/hbo-max-vai-ser-mais-incisiva-com-quem-compartilha-senha/</link>
+      <description>Nova política prevê compartilhamento apenas com uma assinatura adicional. Executivo do streaming afirma que repressão ganhará força nos próximos meses.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/hbo-max-vai-ser-mais-incisiva-com-quem-compartilha-senha/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/hbo-max-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 07 Aug 2025 18:35:37 +0000</pubDate>
     </item>
   </channel>
 </rss>
