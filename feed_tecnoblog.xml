@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 07 Aug 2025 15:14:54 +0000</lastBuildDate>
-    <item>
-      <title>IA do Google inventa órgão humano que não existe</title>
-      <link>https://tecnoblog.net/noticias/ia-do-google-inventa-orgao-humano-que-nao-existe/</link>
-      <description>Med-Gemini cita "gânglios basilares" em artigo científico, termo inexistente na anatomia humana. Erro foi corrigido discretamente após alerta de neurologista.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/ia-do-google-inventa-orgao-humano-que-nao-existe/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/02/capa-gemini_tb-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 05 Aug 2025 16:53:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dia dos Pais: Galaxy Watch 7 BT (40 mm) tem oferta com 52% OFF em 10x</title>
-      <link>https://tecnoblog.net/achados/dia-dos-pais-galaxy-watch-7-bt-40-mm-tem-oferta-com-52-off-em-10x/</link>
-      <description>Galaxy Watch 7 BT (40 mm) possui 13 sensores LED de monitoramento, tela Super AMOLED com Cristal de Safira e Galaxy AI integrado; oferta na Amazon com parcelas de até 10x sem juros</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/dia-dos-pais-galaxy-watch-7-bt-40-mm-tem-oferta-com-52-off-em-10x/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/galaxy-watch-7-oferta-recomendada-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 05 Aug 2025 16:56:54 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 07 Aug 2025 16:16:21 +0000</lastBuildDate>
     <item>
       <title>WhatsApp quer liberar conversas com pessoas sem cadastro no app</title>
       <link>https://tecnoblog.net/noticias/whatsapp-quer-liberar-conversas-com-pessoas-sem-cadastro-no-app/</link>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/wikipedia-muda-politica-sobre-artigos-gerados-por-ia/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2017/03/wikipedia-stormtrooper-e1602280470476-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Thu, 07 Aug 2025 14:09:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dia dos Pais: Galaxy A56 (128 GB) tem menor preço que já vimos com cupom</title>
+      <link>https://tecnoblog.net/achados/dia-dos-pais-galaxy-a56-128-gb-tem-menor-preco-que-ja-vimos-com-cupom/</link>
+      <description>Galaxy A56 possui tela Super AMOLED de 6,7" e 120 Hz, bateria de 5.000 mAh e suporte ao Galaxy AI; oferta no Magalu é válida via Pix com cupom pelo celular de 128 GB</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/dia-dos-pais-galaxy-a56-128-gb-tem-menor-preco-que-ja-vimos-com-cupom/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/05/Galaxya56-achou-correu-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 07 Aug 2025 15:38:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trump quer a demissão do CEO da Intel</title>
+      <link>https://tecnoblog.net/noticias/trump-quer-a-demissao-do-ceo-da-intel/</link>
+      <description>Para Donald Trump, o CEO da Intel, Lip-Bu Tan, tem ligações com a China que entram em conflito com os interesses dos Estados Unidos.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/trump-quer-a-demissao-do-ceo-da-intel/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2021/01/donald-trump-comicio-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 07 Aug 2025 15:40:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
