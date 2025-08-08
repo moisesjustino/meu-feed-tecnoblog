@@ -7,31 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 08 Aug 2025 16:13:54 +0000</lastBuildDate>
-    <item>
-      <title>Superinteligência</title>
-      <link>https://tecnoblog.net/tecnocast/superinteligencia/</link>
-      <description>Sem descrição breve.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/tecnocast/superinteligencia/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/tecnocast-384_capa-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 06 Aug 2025 14:03:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Instagram ganha reposts no feed; veja como vai funcionar</title>
-      <link>https://tecnoblog.net/noticias/instagram-ganha-reposts-no-feed-veja-como-vai-funcionar/</link>
-      <description>Além dos reposts, usuários poderão ver conteúdos públicos em locais próximos e acompanhar reels curtidos ou comentados por amigos em aba dedicada.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/instagram-ganha-reposts-no-feed-veja-como-vai-funcionar/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/11/instagram-capa-1-nov-2022-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 06 Aug 2025 16:40:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Acredite: o PCIe 8.0 já está a caminho e promete taxa de 1 TB/s</title>
-      <link>https://tecnoblog.net/noticias/acredite-o-pcie-8-0-ja-esta-a-caminho-e-promete-taxa-de-1-tb-s/</link>
-      <description>O PCIe 7.0 mal foi lançado, mas o PCI Express 8.0 já está sendo preparado e oferecerá o dobro de desempenho nas transmissões.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/acredite-o-pcie-8-0-ja-esta-a-caminho-e-promete-taxa-de-1-tb-s/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/pci-express-slots-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 06 Aug 2025 18:11:14 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 08 Aug 2025 17:10:00 +0000</lastBuildDate>
     <item>
       <title>Vivo fica fora do ar para clientes de fibra e telefonia móvel</title>
       <link>https://tecnoblog.net/noticias/vivo-fibra-fica-fora-do-ar-para-clientes-de-sao-paulo/</link>
@@ -223,6 +199,30 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/motorola-g75-256-gb-tem-oferta-de-42-off-com-cupom-no-mercado-livre/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/04/achados-motorola-moto-g75-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Fri, 08 Aug 2025 16:05:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Como funciona o Mapa do Instagram, nova função que gerou polêmica</title>
+      <link>https://tecnoblog.net/noticias/como-funciona-o-mapa-do-instagram-nova-funcao-que-gerou-polemica/</link>
+      <description>Plataforma garante que recurso é opcional, mas lançamento gerou críticas e preocupações com privacidade. Ainda não há previsão de chegada da função ao Brasil.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/como-funciona-o-mapa-do-instagram-nova-funcao-que-gerou-polemica/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/02/capa-tbr-duas-contas-instagram_tb-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 08 Aug 2025 16:20:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Universal coloca aviso contra IA nos créditos dos filmes</title>
+      <link>https://tecnoblog.net/noticias/universal-coloca-aviso-contra-ia-nos-creditos-dos-filmes/</link>
+      <description>Estúdio reforça que a duplicação de conteúdo pode gerar processo, mirando empresas que usam materiais em treinamentos de IA</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/universal-coloca-aviso-contra-ia-nos-creditos-dos-filmes/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/como-treinar-o-seu-dragao-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 08 Aug 2025 16:27:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>CEO da Intel responde após Trump exigir que ele saia do cargo</title>
+      <link>https://tecnoblog.net/noticias/ceo-da-intel-responde-apos-trump-exigir-que-ele-saia-do-cargo/</link>
+      <description>Lip-Bu Tan, atual líder da Intel, publicou carta em tom conciliador com a administração Trump, mas demonstrou não ter intenção de abandonar seu cargo.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/ceo-da-intel-responde-apos-trump-exigir-que-ele-saia-do-cargo/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/intel-lip-bu-tan-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 08 Aug 2025 17:08:49 +0000</pubDate>
     </item>
   </channel>
 </rss>
