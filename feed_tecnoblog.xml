@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 08 Aug 2025 20:13:46 +0000</lastBuildDate>
-    <item>
-      <title>Samsung vai liberar a One UI 8 beta para mais aparelhos; veja lista</title>
-      <link>https://tecnoblog.net/noticias/samsung-vai-liberar-a-one-ui-8-beta-para-mais-aparelhos-veja-lista/</link>
-      <description>Galaxy S24, S23 e dobráveis em quatro países estão aptos para integrar o programa de testes. Versão final da interface será lançada oficialmente em setembro.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/samsung-vai-liberar-a-one-ui-8-beta-para-mais-aparelhos-veja-lista/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/11/galaxy-s23-tecnoblog-4-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 06 Aug 2025 20:02:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>World ID: ANPD mantém proibição de coleta de íris no Brasil</title>
-      <link>https://tecnoblog.net/noticias/world-id-anpd-mantem-proibicao-de-coleta-de-iris-no-brasil/</link>
-      <description>Recurso apresentado por Tools for Humanity e World Foundation é negado. ANPD questiona segurança e impacto sobre pessoas vulneráveis.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/world-id-anpd-mantem-proibicao-de-coleta-de-iris-no-brasil/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/11/world-id-orb-1-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 06 Aug 2025 20:03:46 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 08 Aug 2025 21:11:10 +0000</lastBuildDate>
     <item>
       <title>O que é beamforming? Veja como a tecnologia pode melhorar a rede Wi-Fi</title>
       <link>https://tecnoblog.net/responde/o-que-e-beamforming/</link>
@@ -111,6 +95,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/openai-revela-o-novo-modelo-gpt-5-disponivel-de-graca-no-chatgpt/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/gpt-5-01-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Thu, 07 Aug 2025 17:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>O que é Samsung Wallet? Saiba como usar a carteira digital da Samsung</title>
+      <link>https://tecnoblog.net/responde/o-que-e-samsung-wallet-saiba-como-usar-a-carteira-digital-da-samsung/</link>
+      <description>A Samsung Wallet armazena e gerencia cartões de pagamento, documentos e outras informações importantes, organizando a vida digital de forma segura</description>
+      <guid isPermaLink="false">https://tecnoblog.net/responde/o-que-e-samsung-wallet-saiba-como-usar-a-carteira-digital-da-samsung/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2019/04/o-que-e-samsung-wallet-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 07 Aug 2025 17:06:08 +0000</pubDate>
     </item>
     <item>
       <title>Dia Pro é um navegador com IA que custa US$ 20 mensais. Você assinaria?</title>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/windows-10-usuario-podera-ter-suporte-estendido-em-ate-dez-pcs/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/img_3617-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Fri, 08 Aug 2025 19:03:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT: Sam Altman prioriza crescimento e diz que lucro pode demorar</title>
+      <link>https://tecnoblog.net/noticias/chatgpt-sam-altman-prioriza-crescimento-e-diz-que-lucro-pode-demorar/</link>
+      <description>Mesmo operando no prejuízo, OpenAI atrai investidores e aposta em preços baixos para disputar mercado com rivais como Google e Anthropic</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/chatgpt-sam-altman-prioriza-crescimento-e-diz-que-lucro-pode-demorar/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/06/sam-altman-3-capa-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 08 Aug 2025 20:34:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
