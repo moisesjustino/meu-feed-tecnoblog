@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 08 Aug 2025 18:16:22 +0000</lastBuildDate>
-    <item>
-      <title>Vivo fica fora do ar para clientes de fibra e telefonia móvel</title>
-      <link>https://tecnoblog.net/noticias/vivo-fibra-fica-fora-do-ar-para-clientes-de-sao-paulo/</link>
-      <description>Clientes reclamam de problemas na fibra ótica e telefonia móvel da Vivo. Ainda não se sabe o motivo da pane.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/vivo-fibra-fica-fora-do-ar-para-clientes-de-sao-paulo/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/10/vivo-celular-capa-2-edited-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 06 Aug 2025 18:35:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dia dos Pais: Echo Dot, fones e mais presentes tech por menos de R$ 500</title>
-      <link>https://tecnoblog.net/achados/dia-dos-pais-6-presentes-tech-por-ate-r-500/</link>
-      <description>Confira Amazon Echo Dot, Galaxy Fit 3 e outras ofertas tech com possibilidade de parcelar em até 6x sem juros para o Dia dos Pais</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/dia-dos-pais-6-presentes-tech-por-ate-r-500/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/08/oferta-dispositivos-alexa-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 06 Aug 2025 19:29:52 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 08 Aug 2025 19:10:15 +0000</lastBuildDate>
     <item>
       <title>Samsung vai liberar a One UI 8 beta para mais aparelhos; veja lista</title>
       <link>https://tecnoblog.net/noticias/samsung-vai-liberar-a-one-ui-8-beta-para-mais-aparelhos-veja-lista/</link>
@@ -111,6 +95,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/falha-no-google-gemini-pode-permitir-invasao-de-casas-inteligentes-mostra-estudo/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/02/capa-gemini_tb-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Thu, 07 Aug 2025 16:34:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Como repostar ou desfazer um repost no Feed do Instagram</title>
+      <link>https://tecnoblog.net/responde/como-repostar-ou-desfazer-um-repost-no-feed-do-instagram/</link>
+      <description>Repostar no Instagram consiste no recurso de republicar uma foto ou vídeo de terceiros diretamente no Feed da rede social</description>
+      <guid isPermaLink="false">https://tecnoblog.net/responde/como-repostar-ou-desfazer-um-repost-no-feed-do-instagram/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/como-repostar-ou-desfazer-repost-no-instagram-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 07 Aug 2025 16:52:50 +0000</pubDate>
     </item>
     <item>
       <title>OpenAI revela o novo modelo GPT-5, disponível de graça no ChatGPT</title>
@@ -211,7 +203,7 @@
     <item>
       <title>Universal coloca aviso contra IA nos créditos dos filmes</title>
       <link>https://tecnoblog.net/noticias/universal-coloca-aviso-contra-ia-nos-creditos-dos-filmes/</link>
-      <description>Estúdio reforça que a duplicação de conteúdo pode gerar processo, mirando empresas que usam materiais em treinamentos de IA.</description>
+      <description>Estúdio reforça que a duplicação de conteúdo pode gerar processo, mirando empresas que usam materiais em treinamentos de IA</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/universal-coloca-aviso-contra-ia-nos-creditos-dos-filmes/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/como-treinar-o-seu-dragao-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Fri, 08 Aug 2025 16:27:25 +0000</pubDate>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/ceo-da-intel-responde-apos-trump-exigir-que-ele-saia-do-cargo/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/intel-lip-bu-tan-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Fri, 08 Aug 2025 17:08:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Windows 10: usuário poderá ter suporte estendido em até dez PCs</title>
+      <link>https://tecnoblog.net/noticias/windows-10-usuario-podera-ter-suporte-estendido-em-ate-dez-pcs/</link>
+      <description>Suporte ao Windows 10 será encerrado em outubro. Programa de suporte estendido para usuários domésticos fornecerá atualizações de segurança ao sistema por um ano.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/windows-10-usuario-podera-ter-suporte-estendido-em-ate-dez-pcs/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/img_3617-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 08 Aug 2025 19:03:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
