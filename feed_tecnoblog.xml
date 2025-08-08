@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 08 Aug 2025 21:11:10 +0000</lastBuildDate>
-    <item>
-      <title>O que é beamforming? Veja como a tecnologia pode melhorar a rede Wi-Fi</title>
-      <link>https://tecnoblog.net/responde/o-que-e-beamforming/</link>
-      <description>Beamforming é uma tecnologia de transmissão de dados direcionada, usada por roteadores, torres de celular, satélites e sonares</description>
-      <guid isPermaLink="false">https://tecnoblog.net/responde/o-que-e-beamforming/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/ilustracao-de-beamforming-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 06 Aug 2025 21:17:35 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 08 Aug 2025 22:11:37 +0000</lastBuildDate>
     <item>
       <title>Galaxy A36 (128 GB) tem oferta com 44% de desconto próximo do Dia dos Pais</title>
       <link>https://tecnoblog.net/achados/galaxy-a36-128-gb-tem-oferta-com-44-de-desconto-proximo-do-dia-dos-pais/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/chatgpt-sam-altman-prioriza-crescimento-e-diz-que-lucro-pode-demorar/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/06/sam-altman-3-capa-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Fri, 08 Aug 2025 20:34:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Galaxy S24 FE tem desconto de 45% com cupom no Magalu</title>
+      <link>https://tecnoblog.net/achados/galaxy-s24-fe-tem-desconto-de-45-com-cupom-no-magalu/</link>
+      <description>Galaxy S24 FE (128 GB) é equipado com chip Exynos 2400e, bateria de 4.700 mAh e tela AMOLED Dinâmico de 6,7 polegadas; oferta no Magalu válida no Pix e usando cupom</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-s24-fe-tem-desconto-de-45-com-cupom-no-magalu/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/05/galaxy-s24-fe-achados-tecnoblog-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 08 Aug 2025 21:20:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
