@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 08 Aug 2025 12:25:32 +0000</lastBuildDate>
-    <item>
-      <title>TL12 é o tablet Android de 12,6″ que a Vaio acaba de lançar no Brasil</title>
-      <link>https://tecnoblog.net/noticias/tl12-e-o-tablet-android-de-126-que-a-vaio-acaba-de-lancar-no-brasil/</link>
-      <description>Lançado pela Positivo, Vaio TL12 é um tablet focado em produtividade. Novidade vem acompanhada de teclado acoplável e caneta Vaio Pen.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/tl12-e-o-tablet-android-de-126-que-a-vaio-acaba-de-lancar-no-brasil/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/vaio-tl12-tablet-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 06 Aug 2025 10:34:11 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 08 Aug 2025 13:33:07 +0000</lastBuildDate>
     <item>
       <title>iFood promete refeições mais baratas para clientes de 30 cidades</title>
       <link>https://tecnoblog.net/noticias/ifood-promete-refeicoes-mais-baratas-para-clientes-de-30-cidades/</link>
@@ -219,10 +211,18 @@
     <item>
       <title>Huawei inaugura sua primeira loja temporária no Brasil</title>
       <link>https://tecnoblog.net/noticias/huawei-inaugura-sua-primeira-loja-temporaria-no-brasil/</link>
-      <description>Pop-up store no Shopping Cidade São Paulo abre no Dia dos Pais e exibirá celulares dobráveis, relógios, tablets e outros produtos da marca</description>
+      <description>Pop-up store no Shopping Cidade São Paulo abre no Dia dos Pais e exibirá celulares dobráveis, relógios, tablets e outros produtos da marca.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/huawei-inaugura-sua-primeira-loja-temporaria-no-brasil/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/img_20250805_151736-edited-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Thu, 07 Aug 2025 21:36:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Apple confirma integração do iPhone com o novo GPT-5</title>
+      <link>https://tecnoblog.net/noticias/apple-confirma-integracao-do-iphone-com-o-novo-gpt-5/</link>
+      <description>Modelos de IA do GPT-5 chegarão ao iOS 26, iPadOS 26 e macOS Tahoe 26. Novidade permitirá tarefas de IA mais rápidas e com menos alucinações.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/apple-confirma-integracao-do-iphone-com-o-novo-gpt-5/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/apple-intelligence-edited-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 08 Aug 2025 12:48:54 +0000</pubDate>
     </item>
   </channel>
 </rss>
