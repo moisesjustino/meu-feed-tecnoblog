@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 08 Aug 2025 14:15:20 +0000</lastBuildDate>
-    <item>
-      <title>iFood promete refeições mais baratas para clientes de 30 cidades</title>
-      <link>https://tecnoblog.net/noticias/ifood-promete-refeicoes-mais-baratas-para-clientes-de-30-cidades/</link>
-      <description>iFood anuncia Hits iFood, com refeições mais baratas e entrega grátis. Outra novidade é o Turbo iFood, para entregas mais rápidas.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/ifood-promete-refeicoes-mais-baratas-para-clientes-de-30-cidades/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/05/ifood_capa-3_tb-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 06 Aug 2025 13:31:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Meta coletou dados de ciclo menstrual e gravidez ilegalmente, conclui Justiça dos EUA</title>
-      <link>https://tecnoblog.net/noticias/meta-coletou-dados-de-ciclo-menstrual-e-gravidez-ilegalmente-conclui-justica-dos-eua/</link>
-      <description>Júri afirma que big tech violou leis de privacidade ao interceptar dados íntimos do app Flo. Meta nega e culpa o desenvolvedor.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/meta-coletou-dados-de-ciclo-menstrual-e-gravidez-ilegalmente-conclui-justica-dos-eua/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/02/Capa-Mark-Zuckerberg-03-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 06 Aug 2025 13:39:45 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 08 Aug 2025 15:13:09 +0000</lastBuildDate>
     <item>
       <title>Galaxy S25 (256 GB) tem menor preço histórico em oferta na Amazon</title>
       <link>https://tecnoblog.net/achados/galaxy-s25-tem-menor-preco-historico-em-oferta-com-cupom-no-mercado-livre/</link>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/apple-confirma-integracao-do-iphone-com-o-novo-gpt-5/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/apple-intelligence-edited-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Fri, 08 Aug 2025 12:48:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft vai acabar com o Lens, app que digitaliza documentos</title>
+      <link>https://tecnoblog.net/noticias/microsoft-vai-acabar-com-o-lens-app-que-digitaliza-documentos/</link>
+      <description>Com versões para Android e iPhone, Microsoft Lens usa a câmera para digitalizar documentos. Apesar de útil, ferramenta vai ser descontinuada.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/microsoft-vai-acabar-com-o-lens-app-que-digitaliza-documentos/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/microsoft-lens-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 08 Aug 2025 14:45:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google promete correção para bug que deixa Gemini depressivo</title>
+      <link>https://tecnoblog.net/noticias/google-promete-correcao-para-bug-que-deixa-gemini-depressivo/</link>
+      <description>Modelo de IA descreve a si mesmo como "fracasso" e "vergonha para o universo". Após relatos, empresa diz se tratar de um bug e trabalha para resolver.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/google-promete-correcao-para-bug-que-deixa-gemini-depressivo/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/12/final_keyword_header-width-1600-format-webp-340x191.webp" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 08 Aug 2025 14:54:57 +0000</pubDate>
     </item>
   </channel>
 </rss>
