@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 11 Aug 2025 13:32:10 +0000</lastBuildDate>
-    <item>
-      <title>NotebookLM: IA do Google para estudos é liberada para menores de 18 anos</title>
-      <link>https://tecnoblog.net/noticias/notebooklm-ia-do-google-para-estudos-e-liberada-para-menores-de-18-anos/</link>
-      <description>Google implementou novas políticas para proteger usuários mais jovens de possíveis respostas inapropriadas no NotebookLM.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/notebooklm-ia-do-google-para-estudos-e-liberada-para-menores-de-18-anos/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/06/google-notebooklm-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 07 Aug 2025 13:13:35 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 11 Aug 2025 14:14:33 +0000</lastBuildDate>
     <item>
       <title>Google volta a liberar IA premium de graça para estudantes</title>
       <link>https://tecnoblog.net/noticias/google-volta-a-liberar-ia-premium-de-graca-para-estudantes/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/ligga-telecom-estaria-a-venda-por-r-25-bilhoes-diz-site/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/ligga-png-edited-340x191.webp" length="0" type="image/jpeg"/>
       <pubDate>Mon, 11 Aug 2025 11:19:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>AOL anuncia o fim definitivo da internet discada</title>
+      <link>https://tecnoblog.net/noticias/aol-anuncia-o-fim-definitivo-da-internet-discada/</link>
+      <description>AOL ainda oferece serviço de internet discada nos Estados Unidos. Serviço será descontinuado no país após 34 anos de operação.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/aol-anuncia-o-fim-definitivo-da-internet-discada/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/aol-cd-capa-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 11 Aug 2025 13:35:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
