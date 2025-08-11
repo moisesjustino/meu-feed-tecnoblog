@@ -7,31 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 11 Aug 2025 18:18:15 +0000</lastBuildDate>
-    <item>
-      <title>OpenAI revela o novo modelo GPT-5, disponível de graça no ChatGPT</title>
-      <link>https://tecnoblog.net/noticias/openai-revela-o-novo-modelo-gpt-5-disponivel-de-graca-no-chatgpt/</link>
-      <description>Sistema de IA está mais rápido e honesto nas respostas. OpenAI também promete menos alucinações.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/openai-revela-o-novo-modelo-gpt-5-disponivel-de-graca-no-chatgpt/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/gpt-5-01-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 07 Aug 2025 17:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>O que é Samsung Wallet? Saiba como usar a carteira digital da Samsung</title>
-      <link>https://tecnoblog.net/responde/o-que-e-samsung-wallet-saiba-como-usar-a-carteira-digital-da-samsung/</link>
-      <description>A Samsung Wallet armazena e gerencia cartões de pagamento, documentos e outras informações importantes, organizando a vida digital de forma segura</description>
-      <guid isPermaLink="false">https://tecnoblog.net/responde/o-que-e-samsung-wallet-saiba-como-usar-a-carteira-digital-da-samsung/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2019/04/o-que-e-samsung-wallet-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 07 Aug 2025 17:06:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dia Pro é um navegador com IA que custa US$ 20 mensais. Você assinaria?</title>
-      <link>https://tecnoblog.net/noticias/dia-pro-e-um-navegador-com-ia-que-custa-us-20-mensais-voce-assinaria/</link>
-      <description>Dia é o navegador da The Browser Company com recursos IA. Versão Pro promete acesso ilimitado a essas funções, mas ainda faltam detalhes sobre a iniciativa.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/dia-pro-e-um-navegador-com-ia-que-custa-us-20-mensais-voce-assinaria/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/Dia-navegador-2-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 07 Aug 2025 18:08:36 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 11 Aug 2025 19:12:25 +0000</lastBuildDate>
     <item>
       <title>LG é condenada a indenizar vítima de incêndio causado por celular</title>
       <link>https://tecnoblog.net/noticias/lg-e-condenada-a-indenizar-vitima-de-incendio-causado-por-celular/</link>
@@ -223,6 +199,30 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/genshin-impact-decide-abandonar-o-playstation-4/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/03/xiao-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 11 Aug 2025 17:40:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>iPhone 16 tem menor preço em meses no Mercado Livre</title>
+      <link>https://tecnoblog.net/achados/iphone-16-tem-menor-preco-em-meses-no-mercado-livre/</link>
+      <description>iPhone 16 de 128 GB fica 41% mais barato em oferta no Mercado Livre; celular traz tela OLED, processador Apple A18 e câmera de 48 MP</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/iphone-16-tem-menor-preco-em-meses-no-mercado-livre/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/05/Iphone-16-preto-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 11 Aug 2025 18:47:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Razr 50 Ultra (512 GB) tem 58% OFF com oferta em até 12x no Mercado Livre</title>
+      <link>https://tecnoblog.net/achados/razr-50-ultra-512-gb-tem-58-off-com-oferta-em-ate-12x-no-mercado-livre/</link>
+      <description>Razr 50 Ultra (512 GB) leva câmeras traseiras de 50 MP, tela externa POLED de 4" com acesso a IA e chip Snapdragon 8s Gen 3; oferta com cupom em até 12x sem juros</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/razr-50-ultra-512-gb-tem-58-off-com-oferta-em-ate-12x-no-mercado-livre/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/04/Tela-externa-de-4-polegadas-do-Razr-50-Ultra-e-a-maior-da-categoria-diz-Motorola-Imagem-Giovanni-Santa-Rosa-Tecnoblog-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 11 Aug 2025 18:49:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT traz de volta modelo 4o após onda de reclamações</title>
+      <link>https://tecnoblog.net/noticias/chatgpt-traz-de-volta-modelo-4o-apos-onda-de-reclamacoes/</link>
+      <description>OpenAI restaurou o acesso após críticas ao novo GPT-5 como versão padrão. CEO Sam Altman confirmou que assinantes poderão escolher entre os modelos.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/chatgpt-traz-de-volta-modelo-4o-apos-onda-de-reclamacoes/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/06/chatgpt-2_capa-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 11 Aug 2025 19:09:35 +0000</pubDate>
     </item>
   </channel>
 </rss>
