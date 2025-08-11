@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 11 Aug 2025 22:11:39 +0000</lastBuildDate>
-    <item>
-      <title>O que é um anel inteligente? Saiba para que serve e como funciona o wearable</title>
-      <link>https://tecnoblog.net/responde/o-que-e-um-anel-inteligente-saiba-para-que-serve-e-como-funciona-o-wearable/</link>
-      <description>Samsung Galaxy Ring, Oura Ring e RingConn são algumas das linhas mais famosas de anéis inteligentes disponíveis no mercado</description>
-      <guid isPermaLink="false">https://tecnoblog.net/responde/o-que-e-um-anel-inteligente-saiba-para-que-serve-e-como-funciona-o-wearable/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/09/capa-galaxy-ring-2-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 08 Aug 2025 14:20:29 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 11 Aug 2025 23:11:16 +0000</lastBuildDate>
     <item>
       <title>Microsoft vai acabar com o Lens, app que digitaliza documentos</title>
       <link>https://tecnoblog.net/noticias/microsoft-vai-acabar-com-o-lens-app-que-digitaliza-documentos/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/motorola-edge-60-pro-512-gb-tem-menor-preco-desde-lancamento-na-amazon/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/edge-60-pro-achados-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 11 Aug 2025 21:49:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Capacidade de raciocínio da IA é “miragem”, dizem pesquisadores</title>
+      <link>https://tecnoblog.net/noticias/capacidade-de-raciocinio-da-ia-e-miragem-dizem-pesquisadores/</link>
+      <description>Estudo aponta que modelos de linguagem tropeçam em desafios inéditos, apresentando linhas de pensamento convincentes, mas com falhas lógicas</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/capacidade-de-raciocinio-da-ia-e-miragem-dizem-pesquisadores/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/06/capas-iasartboard-4-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 11 Aug 2025 23:10:43 +0000</pubDate>
     </item>
   </channel>
 </rss>
