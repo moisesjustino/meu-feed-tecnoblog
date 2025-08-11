@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 11 Aug 2025 20:13:32 +0000</lastBuildDate>
-    <item>
-      <title>HBO Max vai ser mais incisiva com quem compartilha senha</title>
-      <link>https://tecnoblog.net/noticias/hbo-max-vai-ser-mais-incisiva-com-quem-compartilha-senha/</link>
-      <description>Nova política prevê compartilhamento apenas com uma assinatura adicional. Executivo do streaming afirma que repressão ganhará força nos próximos meses.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/hbo-max-vai-ser-mais-incisiva-com-quem-compartilha-senha/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/hbo-max-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 07 Aug 2025 18:35:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dia dos Pais: iPhone 15 (256 GB) tem oferta imperdível no Mercado Livre</title>
-      <link>https://tecnoblog.net/achados/dia-dos-pais-iphone-15-256-gb-tem-oferta-imperdivel-no-mercado-livre/</link>
-      <description>iPhone 15 (256 GB) com 43% de desconto no Mercado Livre tem tela OLED de 6,1", processador A16 Bionic e câmera principal de 48 MP com sensor-shift OIS</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/dia-dos-pais-iphone-15-256-gb-tem-oferta-imperdivel-no-mercado-livre/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/iPhone15-achado-do-dia-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 07 Aug 2025 19:17:29 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 11 Aug 2025 21:11:54 +0000</lastBuildDate>
     <item>
       <title>Anatel autoriza exclusividade entre Nubank e Claro</title>
       <link>https://tecnoblog.net/noticias/anatel-autoriza-acordo-de-exclusividade-entre-nubank-e-claro/</link>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/linus-torvalds-chama-de-lixo-codigo-enviado-por-engenheiro-da-meta/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/04/linus-torvalds-bravo-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 11 Aug 2025 19:24:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Galaxy S24 FE tem oferta com 45% OFF em até 12x no AliExpress</title>
+      <link>https://tecnoblog.net/achados/galaxy-s24-fe-tem-oferta-com-45-off-em-ate-12x-no-aliexpress/</link>
+      <description>Galaxy S24 FE (128 GB) tem desconto com parcelamento na loja Magalu no AliExpress; ficha técnica inclui tela de 120 Hz, processador Exynos 2400e e bateria de 4.700 mAh</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-s24-fe-tem-oferta-com-45-off-em-ate-12x-no-aliexpress/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/galaxy-s24-fe-tem-camera-traseira-tripla-foto-giovanni-santa-rosa-tecnoblog-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 11 Aug 2025 20:23:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>GitHub fica sem CEO e será chefiado por divisão de IA da Microsoft</title>
+      <link>https://tecnoblog.net/noticias/github-fica-sem-ceo-e-sera-chefiado-por-divisao-de-ia-da-microsoft/</link>
+      <description>Empresa passa a ser supervisionada por líderes do CoreAI, grupo da Microsoft voltado a criar ferramentas e serviços de inteligência artificial</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/github-fica-sem-ceo-e-sera-chefiado-por-divisao-de-ia-da-microsoft/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/04/ceo-github-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 11 Aug 2025 20:37:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
