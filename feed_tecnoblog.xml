@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 11 Aug 2025 19:12:25 +0000</lastBuildDate>
-    <item>
-      <title>LG é condenada a indenizar vítima de incêndio causado por celular</title>
-      <link>https://tecnoblog.net/noticias/lg-e-condenada-a-indenizar-vitima-de-incendio-causado-por-celular/</link>
-      <description>Justiça da Escócia concluiu que um LG K8 com defeito na bateria causou o incêndio em 2018. Aparelho estava carregando quando entrou em combustão.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/lg-e-condenada-a-indenizar-vitima-de-incendio-causado-por-celular/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2018/03/LG-K8-2018-hands-on-1-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 07 Aug 2025 18:26:17 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 11 Aug 2025 20:13:32 +0000</lastBuildDate>
     <item>
       <title>HBO Max vai ser mais incisiva com quem compartilha senha</title>
       <link>https://tecnoblog.net/noticias/hbo-max-vai-ser-mais-incisiva-com-quem-compartilha-senha/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/chatgpt-traz-de-volta-modelo-4o-apos-onda-de-reclamacoes/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/06/chatgpt-2_capa-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 11 Aug 2025 19:09:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Linus Torvalds chama de “lixo” código enviado por engenheiro da Meta</title>
+      <link>https://tecnoblog.net/noticias/linus-torvalds-chama-de-lixo-codigo-enviado-por-engenheiro-da-meta/</link>
+      <description>Linus Torvalds não aprovou código enviado ao Linux por engenheiro que trabalha na Meta, e fez duras críticas à contribuição.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/linus-torvalds-chama-de-lixo-codigo-enviado-por-engenheiro-da-meta/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/04/linus-torvalds-bravo-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 11 Aug 2025 19:24:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
