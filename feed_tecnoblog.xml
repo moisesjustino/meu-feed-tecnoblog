@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 11 Aug 2025 17:13:51 +0000</lastBuildDate>
-    <item>
-      <title>Falha na IA do Google permite invasão de casas inteligentes, mostra estudo</title>
-      <link>https://tecnoblog.net/noticias/falha-no-google-gemini-pode-permitir-invasao-de-casas-inteligentes-mostra-estudo/</link>
-      <description>Ataque camuflado no Google Agenda faz Gemini acionar dispositivos como cortinas e aquecedores sem o conhecimento do usuário. Empresa implementou proteções adicionais.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/falha-no-google-gemini-pode-permitir-invasao-de-casas-inteligentes-mostra-estudo/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/02/capa-gemini_tb-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 07 Aug 2025 16:34:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Como repostar ou desfazer um repost no Feed do Instagram</title>
-      <link>https://tecnoblog.net/responde/como-repostar-ou-desfazer-um-repost-no-feed-do-instagram/</link>
-      <description>Repostar no Instagram consiste no recurso de republicar uma foto ou vídeo de terceiros diretamente no Feed da rede social</description>
-      <guid isPermaLink="false">https://tecnoblog.net/responde/como-repostar-ou-desfazer-um-repost-no-feed-do-instagram/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/como-repostar-ou-desfazer-repost-no-instagram-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 07 Aug 2025 16:52:50 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 11 Aug 2025 18:18:15 +0000</lastBuildDate>
     <item>
       <title>OpenAI revela o novo modelo GPT-5, disponível de graça no ChatGPT</title>
       <link>https://tecnoblog.net/noticias/openai-revela-o-novo-modelo-gpt-5-disponivel-de-graca-no-chatgpt/</link>
@@ -217,12 +201,28 @@
       <pubDate>Mon, 11 Aug 2025 15:33:09 +0000</pubDate>
     </item>
     <item>
-      <title>App da Meta AI chega ao Brasil em versões para Android e iOS</title>
+      <title>App da Meta AI chega ao Brasil em versões para Android e iPhone</title>
       <link>https://tecnoblog.net/noticias/app-da-meta-ai-chega-ao-brasil-em-versoes-para-android-e-ios/</link>
-      <description>Aplicativo dedicado de assistente digital foi lançado no exterior em abril para disputar espaço com ChatGPT e Gemini</description>
+      <description>Aplicativo dedicado de assistente digital foi lançado no exterior em abril para disputar espaço com ChatGPT e Gemini.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/app-da-meta-ai-chega-ao-brasil-em-versoes-para-android-e-ios/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/10/capa-meta-ai-2-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 11 Aug 2025 15:38:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Uber agora tem selo de verificação; veja como conseguir</title>
+      <link>https://tecnoblog.net/noticias/uber-agora-tem-selo-de-verificacao-para-usuarios-checados/</link>
+      <description>Selo de verificação aparece para motoristas parceiros da Uber, e pode contribuir para que o usuário consiga viagens mais rapidamente.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/uber-agora-tem-selo-de-verificacao-para-usuarios-checados/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/06/uber_capa-2_tb-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 11 Aug 2025 17:34:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Genshin Impact decide abandonar o PlayStation 4</title>
+      <link>https://tecnoblog.net/noticias/genshin-impact-decide-abandonar-o-playstation-4/</link>
+      <description>Jogo será removido da PS Store do PS4 em setembro de 2025. Desenvolvedora alega limitações de hardware e diz que jogadores precisam migrar para outras plataformas.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/genshin-impact-decide-abandonar-o-playstation-4/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/03/xiao-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 11 Aug 2025 17:40:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
