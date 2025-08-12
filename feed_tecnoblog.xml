@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 12 Aug 2025 15:13:08 +0000</lastBuildDate>
-    <item>
-      <title>CEO da Intel responde após Trump exigir que ele saia do cargo</title>
-      <link>https://tecnoblog.net/noticias/ceo-da-intel-responde-apos-trump-exigir-que-ele-saia-do-cargo/</link>
-      <description>Lip-Bu Tan, atual líder da Intel, publicou carta em tom conciliador com a administração Trump, mas demonstrou não ter intenção de abandonar seu cargo.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/ceo-da-intel-responde-apos-trump-exigir-que-ele-saia-do-cargo/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/intel-lip-bu-tan-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 08 Aug 2025 17:08:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Windows 10: usuário poderá ter suporte estendido em até dez PCs</title>
-      <link>https://tecnoblog.net/noticias/windows-10-usuario-podera-ter-suporte-estendido-em-ate-dez-pcs/</link>
-      <description>Suporte ao Windows 10 será encerrado em outubro. Programa de suporte estendido para usuários domésticos fornecerá atualizações de segurança ao sistema por um ano.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/windows-10-usuario-podera-ter-suporte-estendido-em-ate-dez-pcs/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/img_3617-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 08 Aug 2025 19:03:33 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 12 Aug 2025 16:15:09 +0000</lastBuildDate>
     <item>
       <title>ChatGPT: Sam Altman prioriza crescimento e diz que lucro pode demorar</title>
       <link>https://tecnoblog.net/noticias/chatgpt-sam-altman-prioriza-crescimento-e-diz-que-lucro-pode-demorar/</link>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/reddit-decide-bloquear-robos-do-internet-archive-para-fugir-de-ia/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/04/brett-jordan-0fytazjhhxs-unsplash-edited-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 12 Aug 2025 14:49:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Motorola Edge 50 Neo com tela POLED tem 48% OFF em oferta na Amazon</title>
+      <link>https://tecnoblog.net/achados/motorola-edge-50-neo-com-tela-poled-tem-48-off-em-oferta-na-amazon/</link>
+      <description>Motorola Edge 50 Neo (256 GB) possui tela LTPO POLED de 120 Hz, câmera Sony Lytia 700C de 50 MP e 8 GB de RAM; oferta na Amazon exclusivamente no Pix</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/motorola-edge-50-neo-com-tela-poled-tem-48-off-em-oferta-na-amazon/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/Motorola-Edge-50-Neo-tem-camera-traseira-tripla-foto-Motorola-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 12 Aug 2025 16:07:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Usuário processa Microsoft para impedir fim do suporte ao Windows 10</title>
+      <link>https://tecnoblog.net/noticias/usuario-processa-microsoft-para-impedir-fim-do-suporte-ao-windows-10/</link>
+      <description>Ação nos EUA acusa empresa de pressionar consumidores a migrar para o Windows 11. No Brasil, Windows 10 ainda roda em mais da metade dos desktops.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/usuario-processa-microsoft-para-impedir-fim-do-suporte-ao-windows-10/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/img_3617-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 12 Aug 2025 16:13:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
