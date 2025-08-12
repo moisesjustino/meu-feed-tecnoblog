@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 12 Aug 2025 13:28:46 +0000</lastBuildDate>
-    <item>
-      <title>Google promete correção para bug que deixa Gemini depressivo</title>
-      <link>https://tecnoblog.net/noticias/google-promete-correcao-para-bug-que-deixa-gemini-depressivo/</link>
-      <description>Modelo de IA descreve a si mesmo como "fracasso" e "vergonha para o universo". Após relatos, empresa diz se tratar de um bug e trabalha para resolver.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/google-promete-correcao-para-bug-que-deixa-gemini-depressivo/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/12/final_keyword_header-width-1600-format-webp-340x191.webp" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 08 Aug 2025 14:54:57 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 12 Aug 2025 14:12:38 +0000</lastBuildDate>
     <item>
       <title>Motorola G75 (256 GB) tem oferta de 42% OFF com cupom no Mercado Livre</title>
       <link>https://tecnoblog.net/achados/motorola-g75-256-gb-tem-oferta-de-42-off-com-cupom-no-mercado-livre/</link>
@@ -145,9 +137,9 @@
       <pubDate>Mon, 11 Aug 2025 17:40:13 +0000</pubDate>
     </item>
     <item>
-      <title>iPhone 16 tem menor preço em meses no Mercado Livre</title>
+      <title>iPhone 16 tem menor preço em meses na Amazon</title>
       <link>https://tecnoblog.net/achados/iphone-16-tem-menor-preco-em-meses-no-mercado-livre/</link>
-      <description>iPhone 16 de 128 GB fica 41% mais barato em oferta no Mercado Livre; celular traz tela OLED, processador Apple A18 e câmera de 48 MP</description>
+      <description>iPhone 16 de 128 GB fica 41% mais barato em oferta na Amazon; celular traz tela OLED, processador Apple A18 e câmera de 48 MP</description>
       <guid isPermaLink="false">https://tecnoblog.net/achados/iphone-16-tem-menor-preco-em-meses-no-mercado-livre/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/05/Iphone-16-preto-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 11 Aug 2025 18:47:46 +0000</pubDate>
@@ -217,12 +209,20 @@
       <pubDate>Mon, 11 Aug 2025 23:10:43 +0000</pubDate>
     </item>
     <item>
-      <title>Galaxy A36 5G tem 49% OFF na melhor oferta que vimos desde lançamento</title>
+      <title>Galaxy A36 5G tem 49% OFF na melhor oferta que vimos desde o lançamento</title>
       <link>https://tecnoblog.net/achados/galaxy-a36-5g-tem-49-off-na-melhor-oferta-que-vimos-desde-lancamento/</link>
       <description>Galaxy A36 5G de 128 GB tem tela Super AMOLED de 120 Hz, chip da Qualcomm e câmera de 50 MP que filma em 4K; celular lançado em 2025 tem oferta por quase metade do preço</description>
       <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-a36-5g-tem-49-off-na-melhor-oferta-que-vimos-desde-lancamento/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/03/20250303_164808-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 12 Aug 2025 13:22:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Como escolher um notebook? Confira 7 pontos de atenção na hora de comprar um laptop</title>
+      <link>https://tecnoblog.net/guias/como-escolher-um-notebook-confira-7-pontos-de-atencao-na-hora-de-comprar-um-laptop/</link>
+      <description>Entender as necessidades de uso, verificar as especificações de hardware e buscar testes comparativos são importantes para a escolha de um notebook</description>
+      <guid isPermaLink="false">https://tecnoblog.net/guias/como-escolher-um-notebook-confira-7-pontos-de-atencao-na-hora-de-comprar-um-laptop/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/05/img_3826-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 12 Aug 2025 14:11:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
