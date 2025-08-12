@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 12 Aug 2025 17:12:13 +0000</lastBuildDate>
-    <item>
-      <title>ChatGPT: Sam Altman prioriza crescimento e diz que lucro pode demorar</title>
-      <link>https://tecnoblog.net/noticias/chatgpt-sam-altman-prioriza-crescimento-e-diz-que-lucro-pode-demorar/</link>
-      <description>Mesmo operando no prejuízo, OpenAI atrai investidores e aposta em preços baixos para disputar mercado com rivais como Google e Anthropic</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/chatgpt-sam-altman-prioriza-crescimento-e-diz-que-lucro-pode-demorar/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/06/sam-altman-3-capa-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 08 Aug 2025 20:34:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Galaxy S24 FE tem desconto de 45% com cupom no Magalu</title>
-      <link>https://tecnoblog.net/achados/galaxy-s24-fe-tem-desconto-de-45-com-cupom-no-magalu/</link>
-      <description>Galaxy S24 FE (128 GB) é equipado com chip Exynos 2400e, bateria de 4.700 mAh e tela AMOLED Dinâmico de 6,7 polegadas; oferta no Magalu válida no Pix e usando cupom</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-s24-fe-tem-desconto-de-45-com-cupom-no-magalu/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/05/galaxy-s24-fe-achados-tecnoblog-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 08 Aug 2025 21:20:02 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 12 Aug 2025 18:18:10 +0000</lastBuildDate>
     <item>
       <title>Ligga Telecom estaria à venda por R$ 2,5 bilhões, diz site</title>
       <link>https://tecnoblog.net/noticias/ligga-telecom-estaria-a-venda-por-r-25-bilhoes-diz-site/</link>
@@ -217,12 +201,28 @@
       <pubDate>Tue, 12 Aug 2025 16:07:52 +0000</pubDate>
     </item>
     <item>
-      <title>Usuário processa Microsoft para impedir fim do suporte ao Windows 10</title>
+      <title>Usuário processa Microsoft e quer impedir fim do suporte ao Windows 10</title>
       <link>https://tecnoblog.net/noticias/usuario-processa-microsoft-para-impedir-fim-do-suporte-ao-windows-10/</link>
       <description>Ação nos EUA acusa empresa de pressionar consumidores a migrar para o Windows 11. No Brasil, Windows 10 ainda roda em mais da metade dos desktops.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/usuario-processa-microsoft-para-impedir-fim-do-suporte-ao-windows-10/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/img_3617-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 12 Aug 2025 16:13:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>iPhone 15 fica 44% mais barato com cupom no Mercado Livre</title>
+      <link>https://tecnoblog.net/achados/iphone-15-fica-44-mais-barato-com-cupom-no-mercado-livre/</link>
+      <description>iPhone 15 de 128 GB tem processador da Apple, tela Super Retina XDR e câmera traseira dupla com sensor de 48 MP; celular está em promoção no Mercado Livre</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/iphone-15-fica-44-mais-barato-com-cupom-no-mercado-livre/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/iphone15-oferta-recomendada-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 12 Aug 2025 17:39:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft 365 terá aplicativos exclusivos para Windows 11</title>
+      <link>https://tecnoblog.net/noticias/microsoft-365-tera-aplicativos-exclusivos-para-windows-11/</link>
+      <description>"Complementos do Microsoft 365" adicionam pequenas ferramentas de produtividade ao Windows 11. Há apps para busca de arquivos e agenda, por exemplo.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/microsoft-365-tera-aplicativos-exclusivos-para-windows-11/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/complementos-microsoft-365-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 12 Aug 2025 17:59:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
