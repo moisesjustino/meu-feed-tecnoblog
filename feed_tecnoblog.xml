@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 12 Aug 2025 18:18:10 +0000</lastBuildDate>
-    <item>
-      <title>Ligga Telecom estaria à venda por R$ 2,5 bilhões, diz site</title>
-      <link>https://tecnoblog.net/noticias/ligga-telecom-estaria-a-venda-por-r-25-bilhoes-diz-site/</link>
-      <description>Empresa precisa investir mais de R$ 1 bi até 2029 para cumprir metas de rede 5G. Banco de investimentos Rothschild &amp; Co conduz processo de venda.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/ligga-telecom-estaria-a-venda-por-r-25-bilhoes-diz-site/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/ligga-png-edited-340x191.webp" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 11 Aug 2025 11:19:10 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 12 Aug 2025 19:10:15 +0000</lastBuildDate>
     <item>
       <title>O que são rugged phones? Confira as funções e os tipos de celulares robustos</title>
       <link>https://tecnoblog.net/responde/o-que-sao-rugged-phones-confira-as-funcoes-e-os-tipos-de-celulares-robustos/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/microsoft-365-tera-aplicativos-exclusivos-para-windows-11/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/complementos-microsoft-365-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 12 Aug 2025 17:59:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anatel alerta: Brasil tem mais de 1,5 milhão de TV boxes infectadas com malware</title>
+      <link>https://tecnoblog.net/noticias/anatel-alerta-brasil-tem-mais-de-15-milhao-de-tv-boxes-infectados-com-malware/</link>
+      <description>Bad Box 2.0 invade TV boxes para roubar dados pessoais e fazer ataques DDoS. País é o mais afetado no mundo.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/anatel-alerta-brasil-tem-mais-de-15-milhao-de-tv-boxes-infectados-com-malware/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/12/pirataria-streamings-capa-1-nov-2022-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 12 Aug 2025 18:23:35 +0000</pubDate>
     </item>
   </channel>
 </rss>
