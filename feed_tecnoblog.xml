@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 12 Aug 2025 12:23:51 +0000</lastBuildDate>
-    <item>
-      <title>Microsoft vai acabar com o Lens, app que digitaliza documentos</title>
-      <link>https://tecnoblog.net/noticias/microsoft-vai-acabar-com-o-lens-app-que-digitaliza-documentos/</link>
-      <description>Com versões para Android e iPhone, Microsoft Lens usa a câmera para digitalizar documentos. Apesar de útil, ferramenta vai ser descontinuada.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/microsoft-vai-acabar-com-o-lens-app-que-digitaliza-documentos/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/microsoft-lens-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 08 Aug 2025 14:45:38 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 12 Aug 2025 13:28:46 +0000</lastBuildDate>
     <item>
       <title>Google promete correção para bug que deixa Gemini depressivo</title>
       <link>https://tecnoblog.net/noticias/google-promete-correcao-para-bug-que-deixa-gemini-depressivo/</link>
@@ -161,7 +153,7 @@
       <pubDate>Mon, 11 Aug 2025 18:47:46 +0000</pubDate>
     </item>
     <item>
-      <title>Razr 50 Ultra (512 GB) tem 58% OFF com oferta em até 12x no Mercado Livre</title>
+      <title>Razr 50 Ultra (512 GB) tem 58% OFF com oferta em até 10x no Mercado Livre</title>
       <link>https://tecnoblog.net/achados/razr-50-ultra-512-gb-tem-58-off-com-oferta-em-ate-12x-no-mercado-livre/</link>
       <description>Razr 50 Ultra (512 GB) leva câmeras traseiras de 50 MP, tela externa POLED de 4" com acesso a IA e chip Snapdragon 8s Gen 3; oferta com cupom em até 12x sem juros</description>
       <guid isPermaLink="false">https://tecnoblog.net/achados/razr-50-ultra-512-gb-tem-58-off-com-oferta-em-ate-12x-no-mercado-livre/</guid>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/capacidade-de-raciocinio-da-ia-e-miragem-dizem-pesquisadores/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/06/capas-iasartboard-4-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 11 Aug 2025 23:10:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Galaxy A36 5G tem 49% OFF na melhor oferta que vimos desde lançamento</title>
+      <link>https://tecnoblog.net/achados/galaxy-a36-5g-tem-49-off-na-melhor-oferta-que-vimos-desde-lancamento/</link>
+      <description>Galaxy A36 5G de 128 GB tem tela Super AMOLED de 120 Hz, chip da Qualcomm e câmera de 50 MP que filma em 4K; celular lançado em 2025 tem oferta por quase metade do preço</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-a36-5g-tem-49-off-na-melhor-oferta-que-vimos-desde-lancamento/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/03/20250303_164808-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 12 Aug 2025 13:22:37 +0000</pubDate>
     </item>
   </channel>
 </rss>
