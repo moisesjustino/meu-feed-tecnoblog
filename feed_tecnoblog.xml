@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 13 Aug 2025 19:09:40 +0000</lastBuildDate>
-    <item>
-      <title>Microsoft e Crocs criam edição comemorativa inspirada no Windows XP</title>
-      <link>https://tecnoblog.net/noticias/microsoft-e-crocs-criam-edicao-comemorativa-inspirada-no-windows-xp/</link>
-      <description>Parceria traz o Classic Clog com elementos nostálgicos do Windows XP para celebrar os 50 anos da Microsoft. Lançamento ao público ainda não tem data definida.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/microsoft-e-crocs-criam-edicao-comemorativa-inspirada-no-windows-xp/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/crocs-windows-xp-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 11 Aug 2025 21:22:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Motorola Edge 60 Pro (512 GB) tem menor preço desde lançamento na Amazon</title>
-      <link>https://tecnoblog.net/achados/motorola-edge-60-pro-512-gb-tem-menor-preco-desde-lancamento-na-amazon/</link>
-      <description>Motorola Edge 60 Pro (512 GB) traz tela POLED de 6,7", câmera de 50 MP com Moto AI e bateria de 6.000 mAh; oferta com menor preço até aqui do celular recém-lançado</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/motorola-edge-60-pro-512-gb-tem-menor-preco-desde-lancamento-na-amazon/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/edge-60-pro-achados-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 11 Aug 2025 21:49:16 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 13 Aug 2025 20:12:58 +0000</lastBuildDate>
     <item>
       <title>Capacidade de raciocínio da IA é “miragem”, dizem pesquisadores</title>
       <link>https://tecnoblog.net/noticias/capacidade-de-raciocinio-da-ia-e-miragem-dizem-pesquisadores/</link>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/reino-unido-pede-que-cidadaos-apaguem-emails-antigos-para-economizar-agua/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2021/09/taylor-vick-M5tzZtFCOfs-unsplash-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Wed, 13 Aug 2025 19:05:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Debian 13 “Trixie” é oficial; veja o que há de novo na distribuição Linux</title>
+      <link>https://tecnoblog.net/noticias/debian-13-trixie-e-oficial-veja-o-que-ha-de-novo-na-distribuicao-linux/</link>
+      <description>Distribuição Debian 13 "Trixie" chega com ambiente Gnome 48, kernel Linux 6.12, gerenciador APT 3.0, entre outras novidades.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/debian-13-trixie-e-oficial-veja-o-que-ha-de-novo-na-distribuicao-linux/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/debian-13-trixie-gnome-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 13 Aug 2025 19:14:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Elon Musk quer processar a Apple por suposta manipulação na App Store</title>
+      <link>https://tecnoblog.net/noticias/elon-musk-quer-processar-a-apple-por-suposta-manipulacao-na-app-store/</link>
+      <description>Dono do X acusa Apple de violar leis antitruste para favorecer a OpenAI, dona do ChatGPT. Empresário afirma que IA Grok é prejudicada na loja de apps.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/elon-musk-quer-processar-a-apple-por-suposta-manipulacao-na-app-store/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/11/musk-capa-2-nov-2022-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 13 Aug 2025 19:19:35 +0000</pubDate>
     </item>
   </channel>
 </rss>
