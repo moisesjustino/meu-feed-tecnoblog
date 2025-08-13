@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 13 Aug 2025 21:11:00 +0000</lastBuildDate>
-    <item>
-      <title>Reddit decide bloquear robôs do Internet Archive para fugir de IA</title>
-      <link>https://tecnoblog.net/noticias/reddit-decide-bloquear-robos-do-internet-archive-para-fugir-de-ia/</link>
-      <description>Rede acredita que robôs de empresas de IA estão raspando páginas armazenadas na Wayback Machine. Cloudflare e Wikipédia enfrentam problemas similares.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/reddit-decide-bloquear-robos-do-internet-archive-para-fugir-de-ia/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/04/brett-jordan-0fytazjhhxs-unsplash-edited-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 12 Aug 2025 14:49:56 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 13 Aug 2025 22:12:15 +0000</lastBuildDate>
     <item>
       <title>Motorola Edge 50 Neo com tela POLED tem 48% OFF em oferta na Amazon</title>
       <link>https://tecnoblog.net/achados/motorola-edge-50-neo-com-tela-poled-tem-48-off-em-oferta-na-amazon/</link>
@@ -153,7 +145,7 @@
       <pubDate>Wed, 13 Aug 2025 15:59:57 +0000</pubDate>
     </item>
     <item>
-      <title>Após críticas, ChatGPT volta atrás e reintroduz seletor de modelos</title>
+      <title>ChatGPT sofre críticas, volta atrás e libera novamente o seletor de modelos</title>
       <link>https://tecnoblog.net/noticias/apos-criticas-chatgpt-volta-atras-e-reintroduz-seletor-de-modelos/</link>
       <description>OpenAI reestruturou menu de seleção e restaurou o GPT-4o e modelos legados. Medida ocorre após relatos de falhas técnicas e reação de usuários à personalidade da IA.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/apos-criticas-chatgpt-volta-atras-e-reintroduz-seletor-de-modelos/</guid>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/google-libera-funcao-para-personalizar-as-noticias-exibidas-na-busca/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/sources_hero-1-width-1600-format-webp-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Wed, 13 Aug 2025 20:29:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vivo acaba com pacotes baratos do Easy e aumenta preços</title>
+      <link>https://tecnoblog.net/noticias/vivo-acaba-com-pacotes-baratos-do-easy-e-aumenta-precos/</link>
+      <description>Mudanças no Vivo Easy começam em 9 de agosto. As renovações automáticas serão canceladas pela operadora.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/vivo-acaba-com-pacotes-baratos-do-easy-e-aumenta-precos/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/vivo-easy-capa-edited-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 13 Aug 2025 22:03:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
