@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 13 Aug 2025 15:10:05 +0000</lastBuildDate>
-    <item>
-      <title>ChatGPT traz de volta modelo 4o após onda de reclamações</title>
-      <link>https://tecnoblog.net/noticias/chatgpt-traz-de-volta-modelo-4o-apos-onda-de-reclamacoes/</link>
-      <description>OpenAI restaurou o acesso após críticas ao novo GPT-5 como versão padrão. CEO Sam Altman confirmou que assinantes poderão escolher entre os modelos.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/chatgpt-traz-de-volta-modelo-4o-apos-onda-de-reclamacoes/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/06/chatgpt-2_capa-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 11 Aug 2025 19:09:35 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 13 Aug 2025 16:12:17 +0000</lastBuildDate>
     <item>
       <title>Linus Torvalds chama de “lixo” código enviado por engenheiro da Meta</title>
       <link>https://tecnoblog.net/noticias/linus-torvalds-chama-de-lixo-codigo-enviado-por-engenheiro-da-meta/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/iphone-16-128-gb-em-promocao-com-mais-de-40-off-no-mercado-livre/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/01/iphone-16-imagem-thassius-velosotecnoblog-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Wed, 13 Aug 2025 14:54:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Donald Trump elogia CEO da Intel após exigir a sua renúncia</title>
+      <link>https://tecnoblog.net/noticias/donald-trump-elogia-ceo-da-intel-apos-exigir-a-sua-renuncia/</link>
+      <description>Lip-Bu Tan, CEO da Intel, participou de uma reunião com Donald Trump na Casa Branca para tratar de impasses com o governo americano.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/donald-trump-elogia-ceo-da-intel-apos-exigir-a-sua-renuncia/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/intel-lip-bu-tan-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 13 Aug 2025 15:59:57 +0000</pubDate>
     </item>
   </channel>
 </rss>
