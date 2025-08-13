@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 13 Aug 2025 18:17:06 +0000</lastBuildDate>
-    <item>
-      <title>O que é um celular gamer? Conheça as características e os modelos ideais para jogos</title>
-      <link>https://tecnoblog.net/responde/o-que-e-um-celular-gamer-conheca-as-caracteristicas-e-os-modelos-ideais-para-jogos/</link>
-      <description>ROG Phone da Asus e RedMagic da Nubia são linhas de celulares gamer famosas pelo hardware de alto desempenho e recursos específicos para jogos</description>
-      <guid isPermaLink="false">https://tecnoblog.net/responde/o-que-e-um-celular-gamer-conheca-as-caracteristicas-e-os-modelos-ideais-para-jogos/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/asus-rog-phone-01-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 11 Aug 2025 21:16:21 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 13 Aug 2025 19:09:40 +0000</lastBuildDate>
     <item>
       <title>Microsoft e Crocs criam edição comemorativa inspirada no Windows XP</title>
       <link>https://tecnoblog.net/noticias/microsoft-e-crocs-criam-edicao-comemorativa-inspirada-no-windows-xp/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-a56-tem-melhor-oferta-desde-lancamento-com-cupom-no-magalu/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/04/Galaxy-A56-tem-camera-de-50-MP-foto-Thassius-VelosoTecnoblog-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Wed, 13 Aug 2025 17:23:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Reino Unido pede que cidadãos apaguem emails antigos para economizar água</title>
+      <link>https://tecnoblog.net/noticias/reino-unido-pede-que-cidadaos-apaguem-emails-antigos-para-economizar-agua/</link>
+      <description>Governo sugere excluir arquivos antigos para reduzir consumo em data centers, mas especialistas contestam eficácia da medida</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/reino-unido-pede-que-cidadaos-apaguem-emails-antigos-para-economizar-agua/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2021/09/taylor-vick-M5tzZtFCOfs-unsplash-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 13 Aug 2025 19:05:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
