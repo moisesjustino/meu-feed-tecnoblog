@@ -7,31 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 13 Aug 2025 14:13:12 +0000</lastBuildDate>
-    <item>
-      <title>Genshin Impact decide abandonar o PlayStation 4</title>
-      <link>https://tecnoblog.net/noticias/genshin-impact-decide-abandonar-o-playstation-4/</link>
-      <description>Jogo será removido da PS Store do PS4 em setembro de 2025. Desenvolvedora alega limitações de hardware e diz que jogadores precisam migrar para outras plataformas.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/genshin-impact-decide-abandonar-o-playstation-4/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/03/xiao-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 11 Aug 2025 17:40:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>iPhone 16 tem menor preço em meses na Amazon</title>
-      <link>https://tecnoblog.net/achados/iphone-16-tem-menor-preco-em-meses-no-mercado-livre/</link>
-      <description>iPhone 16 de 128 GB fica 41% mais barato em oferta na Amazon; celular traz tela OLED, processador Apple A18 e câmera de 48 MP</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/iphone-16-tem-menor-preco-em-meses-no-mercado-livre/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/05/Iphone-16-preto-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 11 Aug 2025 18:47:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Razr 50 Ultra (512 GB) tem 58% OFF com oferta em até 10x no Mercado Livre</title>
-      <link>https://tecnoblog.net/achados/razr-50-ultra-512-gb-tem-58-off-com-oferta-em-ate-12x-no-mercado-livre/</link>
-      <description>Razr 50 Ultra (512 GB) leva câmeras traseiras de 50 MP, tela externa POLED de 4" com acesso a IA e chip Snapdragon 8s Gen 3; oferta com cupom em até 12x sem juros</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/razr-50-ultra-512-gb-tem-58-off-com-oferta-em-ate-12x-no-mercado-livre/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/04/Tela-externa-de-4-polegadas-do-Razr-50-Ultra-e-a-maior-da-categoria-diz-Motorola-Imagem-Giovanni-Santa-Rosa-Tecnoblog-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 11 Aug 2025 18:49:17 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 13 Aug 2025 15:10:05 +0000</lastBuildDate>
     <item>
       <title>ChatGPT traz de volta modelo 4o após onda de reclamações</title>
       <link>https://tecnoblog.net/noticias/chatgpt-traz-de-volta-modelo-4o-apos-onda-de-reclamacoes/</link>
@@ -219,10 +195,34 @@
     <item>
       <title>WhatsApp muda configuração e facilita envio de convites para grupos</title>
       <link>https://tecnoblog.net/noticias/whatsapp-muda-configuracao-e-facilita-envio-de-convites-para-grupos/</link>
-      <description>Mudança amplia acesso a convites em grupos, mas administradores ainda podem revogar permissão ou redefinir links quando necessário</description>
+      <description>Mudança amplia acesso a convites em grupos, mas administradores ainda podem revogar permissão ou redefinir links quando necessário.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/whatsapp-muda-configuracao-e-facilita-envio-de-convites-para-grupos/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/06/whatsapp_capa-1_tb-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Tue, 12 Aug 2025 22:27:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Demissões na Intel podem afetar suporte a hardware da marca no Linux</title>
+      <link>https://tecnoblog.net/noticias/demissoes-na-intel-podem-afetar-suporte-a-hardware-da-marca-no-linux/</link>
+      <description>Em crise, Intel tem feito demissões massivas. Cortes envolvem até desenvolvedores que trabalhavam com drivers da Intel para ambientes Linux.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/demissoes-na-intel-podem-afetar-suporte-a-hardware-da-marca-no-linux/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/05/intel_capa-1_tb-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 13 Aug 2025 14:30:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Xiaomi: dois novos smartphones passam pela Anatel e podem ser lançados no Brasil</title>
+      <link>https://tecnoblog.net/noticias/xiaomi-dois-novos-smartphones-passam-pela-anatel-e-podem-ser-lancados-no-brasil/</link>
+      <description>Redmi 15C foi lançado no exterior no começo de agosto, enquanto Poco C85 ainda é inédito. Aparelhos são básicos e contam com bateria grande.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/xiaomi-dois-novos-smartphones-passam-pela-anatel-e-podem-ser-lancados-no-brasil/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/redmi-15c1-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 13 Aug 2025 14:32:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>iPhone 16 (128 GB) em promoção com mais de 40% OFF no Mercado Livre</title>
+      <link>https://tecnoblog.net/achados/iphone-16-128-gb-em-promocao-com-mais-de-40-off-no-mercado-livre/</link>
+      <description>iPhone 16 com 42% de desconto no Mercado Livre possui tela Super Retina XDR OLED de 6,1", chip Apple A18 e câmera principal de 48 MP</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/iphone-16-128-gb-em-promocao-com-mais-de-40-off-no-mercado-livre/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/01/iphone-16-imagem-thassius-velosotecnoblog-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 13 Aug 2025 14:54:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
