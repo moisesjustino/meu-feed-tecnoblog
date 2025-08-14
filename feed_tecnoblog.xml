@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 14 Aug 2025 18:17:43 +0000</lastBuildDate>
-    <item>
-      <title>Microsoft Edge vai “sobreviver” no Windows 10 até 2028</title>
-      <link>https://tecnoblog.net/noticias/microsoft-edge-vai-sobreviver-no-windows-10-ate-2028/</link>
-      <description>Suporte ao Windows 10 termina em outubro de 2025, mas navegador Microsoft Edge receberá atualizações no sistema operacional pelo menos até outubro de 2028.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/microsoft-edge-vai-sobreviver-no-windows-10-ate-2028/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/capa-microsoft-edge-1-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 12 Aug 2025 20:12:01 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 14 Aug 2025 19:10:35 +0000</lastBuildDate>
     <item>
       <title>Apple Watch SE tem 36% de desconto em oferta no Mercado Livre</title>
       <link>https://tecnoblog.net/achados/apple-watch-se-tem-36-de-desconto-em-oferta-no-mercado-livre/</link>
@@ -39,14 +31,6 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/demissoes-na-intel-podem-afetar-suporte-a-hardware-da-marca-no-linux/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/05/intel_capa-1_tb-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Wed, 13 Aug 2025 14:30:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Xiaomi: dois novos smartphones passam pela Anatel e podem ser lançados no Brasil</title>
-      <link>https://tecnoblog.net/noticias/xiaomi-dois-novos-smartphones-passam-pela-anatel-e-podem-ser-lancados-no-brasil/</link>
-      <description>Redmi 15C foi lançado no exterior no começo de agosto, enquanto Poco C85 ainda é inédito. Aparelhos são básicos e contam com bateria grande.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/xiaomi-dois-novos-smartphones-passam-pela-anatel-e-podem-ser-lancados-no-brasil/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/redmi-15c1-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 13 Aug 2025 14:32:23 +0000</pubDate>
     </item>
     <item>
       <title>Qual é a diferença entre smartwatch e smartband? Conheça as características dos dispositivos</title>
@@ -185,14 +169,6 @@
       <pubDate>Thu, 14 Aug 2025 14:17:52 +0000</pubDate>
     </item>
     <item>
-      <title>Exclusivo: Uber pensa em indenizar clientes por atrasos e cancelamentos</title>
-      <link>https://tecnoblog.net/noticias/exclusivo-uber-avalia-seguro-para-atrasos-ou-cancelamentos-de-corridas/</link>
-      <description>Serviço está em análise no Brasil e dependeria da contratação de seguro à parte. Clientes foram convidados para opinar sobre a novidade.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/exclusivo-uber-avalia-seguro-para-atrasos-ou-cancelamentos-de-corridas/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/04/uber_capa-3_tb-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 14 Aug 2025 15:07:04 +0000</pubDate>
-    </item>
-    <item>
       <title>Meta considerava aceitável conversa sensual entre IA e criança</title>
       <link>https://tecnoblog.net/noticias/meta-considerava-aceitavel-conversa-sensual-entre-ia-e-crianca/</link>
       <description>Guia de regras para criação e treinamento de chatbots indica que afirmações discriminatórias e informações falsas são toleradas</description>
@@ -223,6 +199,30 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/exclusivo-amazon-homologa-seu-gamepad-na-anatel/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/captura-de-tela-2025-08-14-120602-edited-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Thu, 14 Aug 2025 16:28:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anatel responde críticas sobre o fim do 0303 e destaca combate ao spoofing</title>
+      <link>https://tecnoblog.net/noticias/exclusivo-anatel-responde-criticas-sobre-o-fim-do-0303/</link>
+      <description>Ligações com ofertas de produtos ou serviços poderão ser feitas de qualquer número. Anatel defende a adoção da tecnologia de autenticação para grandes chamadores.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/exclusivo-anatel-responde-criticas-sobre-o-fim-do-0303/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/capa-0303-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 14 Aug 2025 18:23:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>WhatsApp ganha função para agendar ligações; veja como funciona</title>
+      <link>https://tecnoblog.net/noticias/whatsapp-ganha-funcao-para-agendar-ligacoes-veja-como-funciona/</link>
+      <description>Mensageiro da Meta amplia recursos de conferência, incluindo reações com emojis e opção de levantar a mão para pedir a palavra</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/whatsapp-ganha-funcao-para-agendar-ligacoes-veja-como-funciona/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/03/whatsapp-capa-3-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 14 Aug 2025 19:00:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Galaxy Buds 3 com ANC tem 53% OFF em até 10x em oferta na Amazon</title>
+      <link>https://tecnoblog.net/achados/galaxy-buds-3-com-anc-tem-53-off-em-ate-10x-em-oferta-na-amazon/</link>
+      <description>Galaxy Buds 3 custa menos de R$ 800 com parcelamento em promoção; fones Samsung têm cancelamento de ruído (ANC) adaptativo com Galaxy AI integrado</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-buds-3-com-anc-tem-53-off-em-ate-10x-em-oferta-na-amazon/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/03/Galaxy-Buds-3-Pro-Achados-1-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 14 Aug 2025 19:05:49 +0000</pubDate>
     </item>
   </channel>
 </rss>
