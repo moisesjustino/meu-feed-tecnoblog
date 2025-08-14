@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 14 Aug 2025 14:12:16 +0000</lastBuildDate>
-    <item>
-      <title>Anatel alerta: Brasil tem mais de 1,5 milhão de TV boxes infectadas com malware</title>
-      <link>https://tecnoblog.net/noticias/anatel-alerta-brasil-tem-mais-de-15-milhao-de-tv-boxes-infectados-com-malware/</link>
-      <description>Bad Box 2.0 invade TV boxes para roubar dados pessoais e fazer ataques DDoS. País é o mais afetado no mundo.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/anatel-alerta-brasil-tem-mais-de-15-milhao-de-tv-boxes-infectados-com-malware/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/12/pirataria-streamings-capa-1-nov-2022-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 12 Aug 2025 18:23:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>TV Samsung Neo QLED de 55″ tem 43% de desconto em até 10x na Amazon</title>
-      <link>https://tecnoblog.net/achados/tv-samsung-neo-qled-de-55-tem-43-de-desconto-em-ate-10x-na-amazon/</link>
-      <description>TV Samsung Neo QLED QN85C de 55 polegadas tem display de 120 Hz com contraste aprimorado, e pode ser parcelada em até 10x na Amazon</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/tv-samsung-neo-qled-de-55-tem-43-de-desconto-em-ate-10x-na-amazon/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/tv-samsung-neo-qled-qn85c-foto-giovanni-santa-rosatecnoblog--340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 12 Aug 2025 19:31:49 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 14 Aug 2025 15:12:51 +0000</lastBuildDate>
     <item>
       <title>O Chrome não está à venda, mas a Perplexity fez uma oferta bilionária</title>
       <link>https://tecnoblog.net/noticias/perplexity-quer-comprar-chrome-a-oferta-us-345-bi/</link>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/eua-usaram-rastreadores-em-remessas-de-chips-para-a-china/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/07/tbr-npu-capa-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Thu, 14 Aug 2025 14:10:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kodak alerta para risco de sobrevivência e ações despencam</title>
+      <link>https://tecnoblog.net/noticias/kodak-alerta-para-novo-risco-de-falencia/</link>
+      <description>Ameaçada por dívidas que não consegue cobrir, a gigante de 133 anos vê futuro se tornar incerto.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/kodak-alerta-para-novo-risco-de-falencia/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/filme-fotografico-kodak-edited-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 14 Aug 2025 14:17:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Exclusivo: Uber avalia seguro para atrasos ou cancelamentos de corridas</title>
+      <link>https://tecnoblog.net/noticias/exclusivo-uber-avalia-seguro-para-atrasos-ou-cancelamentos-de-corridas/</link>
+      <description>Sem descrição breve.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/exclusivo-uber-avalia-seguro-para-atrasos-ou-cancelamentos-de-corridas/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/04/uber_capa-3_tb-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 14 Aug 2025 15:07:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
