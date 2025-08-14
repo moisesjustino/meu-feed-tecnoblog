@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 14 Aug 2025 21:11:09 +0000</lastBuildDate>
-    <item>
-      <title>Demissões na Intel podem afetar suporte a hardware da marca no Linux</title>
-      <link>https://tecnoblog.net/noticias/demissoes-na-intel-podem-afetar-suporte-a-hardware-da-marca-no-linux/</link>
-      <description>Em crise, Intel tem feito demissões massivas. Cortes envolvem até desenvolvedores que trabalhavam com drivers da Intel para ambientes Linux.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/demissoes-na-intel-podem-afetar-suporte-a-hardware-da-marca-no-linux/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/05/intel_capa-1_tb-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 13 Aug 2025 14:30:47 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 14 Aug 2025 22:11:23 +0000</lastBuildDate>
     <item>
       <title>Qual é a diferença entre smartwatch e smartband? Conheça as características dos dispositivos</title>
       <link>https://tecnoblog.net/responde/qual-a-diferenca-entre-smartwatch-e-smartband/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/apple-pode-lancar-primeiro-macbook-com-5g-indica-vazamento/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/03/macbook-pro-m1-max-tb-1-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Thu, 14 Aug 2025 20:44:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Galaxy Watch Ultra surge com 48% OFF em 18x; bateria dura até 100 horas</title>
+      <link>https://tecnoblog.net/achados/galaxy-watch-ultra-com-48-off-em-ate-18x-tem-bateria-para-ate-100-horas/</link>
+      <description>Galaxy Watch Ultra tem construção em titânio, tela Super AMOLED com 3.000 nits, suporte ao Galaxy AI e chip Exynos W1000; oferta no Mercado Livre permite pagar parcelado</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-watch-ultra-com-48-off-em-ate-18x-tem-bateria-para-ate-100-horas/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/Samsung-Galaxy-Watch-Ultra-tem-caixa-de-titanio-Foto-Thassius-VelosoTecnoblog-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 14 Aug 2025 21:20:43 +0000</pubDate>
     </item>
   </channel>
 </rss>
