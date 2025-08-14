@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 14 Aug 2025 20:13:55 +0000</lastBuildDate>
-    <item>
-      <title>WhatsApp muda configuração e facilita envio de convites para grupos</title>
-      <link>https://tecnoblog.net/noticias/whatsapp-muda-configuracao-e-facilita-envio-de-convites-para-grupos/</link>
-      <description>Mudança amplia acesso a convites em grupos, mas administradores ainda podem revogar permissão ou redefinir links quando necessário.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/whatsapp-muda-configuracao-e-facilita-envio-de-convites-para-grupos/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/06/whatsapp_capa-1_tb-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 12 Aug 2025 22:27:55 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 14 Aug 2025 21:11:09 +0000</lastBuildDate>
     <item>
       <title>Demissões na Intel podem afetar suporte a hardware da marca no Linux</title>
       <link>https://tecnoblog.net/noticias/demissoes-na-intel-podem-afetar-suporte-a-hardware-da-marca-no-linux/</link>
@@ -193,7 +185,7 @@
       <pubDate>Thu, 14 Aug 2025 16:28:25 +0000</pubDate>
     </item>
     <item>
-      <title>Anatel responde críticas sobre o fim do 0303 e destaca combate ao spoofing</title>
+      <title>Anatel responde críticas sobre o fim do 0303</title>
       <link>https://tecnoblog.net/noticias/exclusivo-anatel-responde-criticas-sobre-o-fim-do-0303/</link>
       <description>Ligações com ofertas de produtos ou serviços poderão ser feitas de qualquer número. Anatel defende a adoção da tecnologia de autenticação para grandes chamadores.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/exclusivo-anatel-responde-criticas-sobre-o-fim-do-0303/</guid>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/russia-proibe-chamadas-no-whatsapp-e-no-telegram/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/07/comparativo-whatsapp-vs-telegram_capa-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Thu, 14 Aug 2025 19:20:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Apple pode lançar primeiro MacBook com 5G, indica vazamento</title>
+      <link>https://tecnoblog.net/noticias/apple-pode-lancar-primeiro-macbook-com-5g-indica-vazamento/</link>
+      <description>Código interno revela testes de um MacBook Pro com novo chip M5. Notebook teria modem 5G do iPhone 16e, desenvolvido pela própria empresa.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/apple-pode-lancar-primeiro-macbook-com-5g-indica-vazamento/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/03/macbook-pro-m1-max-tb-1-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 14 Aug 2025 20:44:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
