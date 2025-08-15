@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 15 Aug 2025 19:09:22 +0000</lastBuildDate>
-    <item>
-      <title>O que são eletrodomésticos inteligentes? Veja exemplos de aparelhos para sua casa</title>
-      <link>https://tecnoblog.net/responde/o-que-sao-eletrodomesticos-inteligentes-veja-exemplos-de-aparelhos-para-sua-casa/</link>
-      <description>Eletrodomésticos inteligentes oferecem conveniência e eficiência, permitindo o controle remoto, a automação de tarefas e até a redução do consumo de energia</description>
-      <guid isPermaLink="false">https://tecnoblog.net/responde/o-que-sao-eletrodomesticos-inteligentes-veja-exemplos-de-aparelhos-para-sua-casa/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/samsung-bespoke-cozinha-02-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 13 Aug 2025 17:40:34 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 15 Aug 2025 20:13:17 +0000</lastBuildDate>
     <item>
       <title>Reino Unido pede que cidadãos apaguem emails antigos para economizar água</title>
       <link>https://tecnoblog.net/noticias/reino-unido-pede-que-cidadaos-apaguem-emails-antigos-para-economizar-agua/</link>
@@ -177,14 +169,6 @@
       <pubDate>Fri, 15 Aug 2025 13:24:58 +0000</pubDate>
     </item>
     <item>
-      <title>Galaxy Tab S10 Lite 5G: novo tablet da Samsung já pode ser lançado no Brasil</title>
-      <link>https://tecnoblog.net/noticias/galaxy-tab-s10-lite-5g-novo-tablet-da-samsung-ja-pode-ser-vendido-no-brasil/</link>
-      <description>Certificação obtida pelo Tecnoblog confirma modelo SM-X406B com 5G no país. Aparelho deve ter chip Exynos 1380 e bateria de 8.000 mAh.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/galaxy-tab-s10-lite-5g-novo-tablet-da-samsung-ja-pode-ser-vendido-no-brasil/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/samsung-galaxy-s10-lite-5g-google-play-console-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 15 Aug 2025 14:04:32 +0000</pubDate>
-    </item>
-    <item>
       <title>Uber é condenada a indenizar passageiro arrastado por carro de motorista</title>
       <link>https://tecnoblog.net/noticias/uber-e-condenada-a-indenizar-passageiro-arrastado-por-carro-de-motorista/</link>
       <description>Tribunal rejeitou argumento de que empresa não seria responsável por ações de condutor. Plataforma terá que pagar R$ 35 mil por danos morais e estéticos.</description>
@@ -221,8 +205,24 @@
       <link>https://tecnoblog.net/noticias/governo-trump-quer-comprar-parte-da-intel/</link>
       <description>Após crise com o CEO, Trump pode apoiar projeto da Intel em Ohio. A possível aquisição de ações visa acelerar a construção de fábricas.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/governo-trump-quer-comprar-parte-da-intel/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2021/01/donald-trump-comicio-340x191.jpg" length="0" type="image/jpeg"/>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/donald-trump-comicio-edited-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Fri, 15 Aug 2025 18:18:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Huawei Pura 80 Ultra assume liderança do ranking de câmeras do DxOMark</title>
+      <link>https://tecnoblog.net/noticias/huawei-pura-80-ultra-assume-lideranca-do-ranking-de-cameras-do-dxomark/</link>
+      <description>Modelo premium da Huawei alcançou pontuação recorde no DxOMark, superando rivais como Oppo Find X8 Ultra e iPhone 16 Pro Max</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/huawei-pura-80-ultra-assume-lideranca-do-ranking-de-cameras-do-dxomark/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/huawei-pura-80-ultra-edited-340x191.webp" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 15 Aug 2025 19:20:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Wikipédia derruba maior operação de autopromoção já registrada</title>
+      <link>https://tecnoblog.net/noticias/wikipedia-derruba-maior-operacao-de-autopromocao-ja-registrada/</link>
+      <description>Rede de contas e IPs manipulou a enciclopédia por mais de uma década, elevando uma figura desconhecida acima de países e personalidades.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/wikipedia-derruba-maior-operacao-de-autopromocao-ja-registrada/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2015/08/wikipedia-logo-marca-100x100.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 15 Aug 2025 19:56:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
