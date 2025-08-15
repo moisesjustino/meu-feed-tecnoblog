@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 15 Aug 2025 13:25:18 +0000</lastBuildDate>
-    <item>
-      <title>Qual é a diferença entre smartwatch e smartband? Conheça as características dos dispositivos</title>
-      <link>https://tecnoblog.net/responde/qual-a-diferenca-entre-smartwatch-e-smartband/</link>
-      <description>Smartwatches contam com recursos adicionais ao monitoramento esportivo, como lojas de apps, tela maior, entre outros</description>
-      <guid isPermaLink="false">https://tecnoblog.net/responde/qual-a-diferenca-entre-smartwatch-e-smartband/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/07/xiaomi-mi-band-7-17-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 13 Aug 2025 14:43:30 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 15 Aug 2025 14:12:07 +0000</lastBuildDate>
     <item>
       <title>iPhone 16 (128 GB) em promoção com mais de 40% OFF no Mercado Livre</title>
       <link>https://tecnoblog.net/achados/iphone-16-128-gb-em-promocao-com-mais-de-40-off-no-mercado-livre/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/anatel-desmantela-mais-uma-central-de-tv-pirata/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/anatel-fantasma-rede-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Fri, 15 Aug 2025 13:24:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Galaxy Tab S10 Lite 5G: novo tablet da Samsung já pode ser vendido no Brasil</title>
+      <link>https://tecnoblog.net/noticias/galaxy-tab-s10-lite-5g-novo-tablet-da-samsung-ja-pode-ser-vendido-no-brasil/</link>
+      <description>Certificação obtida pelo Tecnoblog confirma modelo SM-X406B com 5G. Aparelho deve ter chip Exynos 1380 e bateria de 8.000 mAh.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/galaxy-tab-s10-lite-5g-novo-tablet-da-samsung-ja-pode-ser-vendido-no-brasil/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/samsung-galaxy-s10-lite-5g-google-play-console-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 15 Aug 2025 14:04:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
