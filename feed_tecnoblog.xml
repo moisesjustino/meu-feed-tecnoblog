@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 15 Aug 2025 21:09:53 +0000</lastBuildDate>
-    <item>
-      <title>Reino Unido pede que cidadãos apaguem emails antigos para economizar água</title>
-      <link>https://tecnoblog.net/noticias/reino-unido-pede-que-cidadaos-apaguem-emails-antigos-para-economizar-agua/</link>
-      <description>Governo sugere excluir arquivos antigos para reduzir consumo em data centers, mas especialistas contestam eficácia da medida</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/reino-unido-pede-que-cidadaos-apaguem-emails-antigos-para-economizar-agua/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/03/simbolo-de-arroba-email-e-mail-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 13 Aug 2025 19:05:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Debian 13 “Trixie” é oficial; veja o que há de novo na distribuição Linux</title>
-      <link>https://tecnoblog.net/noticias/debian-13-trixie-e-oficial-veja-o-que-ha-de-novo-na-distribuicao-linux/</link>
-      <description>Distribuição Debian 13 "Trixie" chega com ambiente Gnome 48, kernel Linux 6.12, gerenciador APT 3.0, entre outras novidades.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/debian-13-trixie-e-oficial-veja-o-que-ha-de-novo-na-distribuicao-linux/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/debian-13-trixie-gnome-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 13 Aug 2025 19:14:49 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 15 Aug 2025 23:11:44 +0000</lastBuildDate>
     <item>
       <title>Elon Musk quer processar a Apple por suposta manipulação na App Store</title>
       <link>https://tecnoblog.net/noticias/elon-musk-quer-processar-a-apple-por-suposta-manipulacao-na-app-store/</link>
@@ -111,6 +95,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/motorola-edge-60-fusion-tem-menor-preco-que-ja-vimos-no-mercado-livre/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/motorola-edge-60-fusion-achados-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Thu, 14 Aug 2025 16:01:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>O que é MU-MIMO? Entenda para que serve e como funciona a tecnologia</title>
+      <link>https://tecnoblog.net/responde/mu-mimo-o-que-e/</link>
+      <description>O MU-MIMO tem a função de permitir que o roteador troque dados com vários dispositivos ao mesmo tempo, otimizando a rede de ambientes conectados</description>
+      <guid isPermaLink="false">https://tecnoblog.net/responde/mu-mimo-o-que-e/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/ilustracao-de-roteador-com-mu-mimo-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 14 Aug 2025 18:51:44 +0000</pubDate>
     </item>
     <item>
       <title>WhatsApp ganha função para agendar ligações; veja como funciona</title>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/wikipedia-derruba-maior-operacao-de-autopromocao-ja-registrada/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2015/08/wikipedia-logo-marca-100x100.jpg" length="0" type="image/jpeg"/>
       <pubDate>Fri, 15 Aug 2025 19:56:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Galaxy S25 Plus tem oferta com menor preço em meses no Mercado Livre</title>
+      <link>https://tecnoblog.net/achados/galaxy-s25-plus-tem-oferta-com-menor-preco-em-meses-no-mercado-livre/</link>
+      <description>Galaxy S25 Plus traz chip Snapdragon 8 Elite, tela Dynamic LTPO AMOLED 2x de 6,7", 12 GB de memória RAM e suporte a inteligência artificial; oferta com 43% de desconto no Pix</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-s25-plus-tem-oferta-com-menor-preco-em-meses-no-mercado-livre/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/04/Samsung-Galaxy-S25-Plus-tem-tela-de-67-com-resolucao-QHD-imagem-Samsung-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 15 Aug 2025 21:19:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
