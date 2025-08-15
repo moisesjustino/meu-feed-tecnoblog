@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 15 Aug 2025 12:22:35 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 Aug 2025 13:25:18 +0000</lastBuildDate>
     <item>
       <title>Qual é a diferença entre smartwatch e smartband? Conheça as características dos dispositivos</title>
       <link>https://tecnoblog.net/responde/qual-a-diferenca-entre-smartwatch-e-smartband/</link>
@@ -169,22 +169,6 @@
       <pubDate>Thu, 14 Aug 2025 16:01:46 +0000</pubDate>
     </item>
     <item>
-      <title>Exclusivo: Amazon homologa gamepad de streaming de jogos no Brasil</title>
-      <link>https://tecnoblog.net/noticias/exclusivo-amazon-homologa-seu-gamepad-na-anatel/</link>
-      <description>Luna Wireless Controller é feito para o serviço de cloud gaming Amazon Luna, ainda não lançado no país. Com a certificação, controle já pode ser vendido em mercado nacional.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/exclusivo-amazon-homologa-seu-gamepad-na-anatel/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/captura-de-tela-2025-08-14-120602-edited-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 14 Aug 2025 16:28:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fim do 0303: Anatel responde críticas e cita foco em spoofing</title>
-      <link>https://tecnoblog.net/noticias/exclusivo-anatel-responde-criticas-sobre-o-fim-do-0303/</link>
-      <description>Ligações de telemarketing poderão ser feitas a partir de qualquer número. Anatel defende a adoção da tecnologia de autenticação para grandes chamadores.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/exclusivo-anatel-responde-criticas-sobre-o-fim-do-0303/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/capa-0303-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 14 Aug 2025 18:23:49 +0000</pubDate>
-    </item>
-    <item>
       <title>WhatsApp ganha função para agendar ligações; veja como funciona</title>
       <link>https://tecnoblog.net/noticias/whatsapp-ganha-funcao-para-agendar-ligacoes-veja-como-funciona/</link>
       <description>Mensageiro da Meta amplia recursos de conferência, incluindo reações com emojis e opção de levantar a mão para pedir a palavra</description>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-watch-ultra-com-48-off-em-ate-18x-tem-bateria-para-ate-100-horas/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/Samsung-Galaxy-Watch-Ultra-tem-caixa-de-titanio-Foto-Thassius-VelosoTecnoblog-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Thu, 14 Aug 2025 21:20:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Como escolher um celular? Veja 7 dicas para comprar um smartphone</title>
+      <link>https://tecnoblog.net/guias/como-escolher-um-celular-veja-7-dicas-para-comprar-um-smartphone/</link>
+      <description>Saber o tipo de celular, a faixa de preço e os aspectos técnicos, como processador, memória RAM e conjunto de câmeras, são pontos fundamentais na escolha de um novo aparelho</description>
+      <guid isPermaLink="false">https://tecnoblog.net/guias/como-escolher-um-celular-veja-7-dicas-para-comprar-um-smartphone/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/05/20250521_123534-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 15 Aug 2025 13:21:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anatel desmantela mais uma central de TV pirata</title>
+      <link>https://tecnoblog.net/noticias/anatel-desmantela-mais-uma-central-de-tv-pirata/</link>
+      <description>Executada pela Anatel e a Polícia Civil de São Paulo, operação Fantasma da Rede fechou operadora irregular de TV e internet na capital paulista.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/anatel-desmantela-mais-uma-central-de-tv-pirata/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/anatel-fantasma-rede-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 15 Aug 2025 13:24:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
