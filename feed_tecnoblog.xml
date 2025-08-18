@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 18 Aug 2025 12:25:01 +0000</lastBuildDate>
-    <item>
-      <title>WhatsApp Web fora do ar? Versão para navegadores caiu nesta quarta (13)</title>
-      <link>https://tecnoblog.net/noticias/whatsapp-web-caiu-versao-para-navegadores-esta-fora-do-ar-nesta-quarta-13/</link>
-      <description>Usuários relatam que WhatsApp Web não carrega. Falha afeta diferentes navegadores, mas mensageiro continua funcionando em smartphones.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/whatsapp-web-caiu-versao-para-navegadores-esta-fora-do-ar-nesta-quarta-13/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/08/capa-whats-fora_thumb_tb-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 13 Aug 2025 20:28:04 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 18 Aug 2025 13:30:16 +0000</lastBuildDate>
     <item>
       <title>iPhone 16e com Apple A18 fica 38% mais barato em oferta no Magalu</title>
       <link>https://tecnoblog.net/achados/iphone-16e-com-apple-a18-fica-38-mais-barato-em-oferta-no-magalu/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/keeta-trava-batalha-judicial-contra-99food-antes-de-estrear-no-brasil/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/05/Capa-Keeta-no-Br-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 18 Aug 2025 11:50:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Oppo Reno 14 F 5G passa pela Anatel e está prestes a chegar ao Brasil</title>
+      <link>https://tecnoblog.net/noticias/oppo-reno-14-f-5g-passa-pela-anatel-e-esta-prestes-a-chegar-ao-brasil/</link>
+      <description>Oppo Reno 14 F 5G é um smartphone intermediário com tela AMOLED de 6,57 polegadas e bateria de 6.000 mAh como destaques.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/oppo-reno-14-f-5g-passa-pela-anatel-e-esta-prestes-a-chegar-ao-brasil/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/oppo-reno-14-f-5g-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 18 Aug 2025 13:10:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
