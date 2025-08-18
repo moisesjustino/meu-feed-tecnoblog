@@ -7,39 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 18 Aug 2025 20:12:58 +0000</lastBuildDate>
-    <item>
-      <title>O que é MU-MIMO? Entenda para que serve e como funciona a tecnologia</title>
-      <link>https://tecnoblog.net/responde/mu-mimo-o-que-e/</link>
-      <description>O MU-MIMO tem a função de permitir que o roteador troque dados com vários dispositivos ao mesmo tempo, otimizando a rede de ambientes conectados</description>
-      <guid isPermaLink="false">https://tecnoblog.net/responde/mu-mimo-o-que-e/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/ilustracao-de-roteador-com-mu-mimo-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 14 Aug 2025 18:51:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>WhatsApp ganha função para agendar ligações; veja como funciona</title>
-      <link>https://tecnoblog.net/noticias/whatsapp-ganha-funcao-para-agendar-ligacoes-veja-como-funciona/</link>
-      <description>Mensageiro da Meta amplia recursos de conferência, incluindo reações com emojis e opção de levantar a mão para pedir a palavra</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/whatsapp-ganha-funcao-para-agendar-ligacoes-veja-como-funciona/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/03/whatsapp-capa-3-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 14 Aug 2025 19:00:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Galaxy Buds 3 com ANC tem 53% OFF em até 10x em oferta na Amazon</title>
-      <link>https://tecnoblog.net/achados/galaxy-buds-3-com-anc-tem-53-off-em-ate-10x-em-oferta-na-amazon/</link>
-      <description>Galaxy Buds 3 custa menos de R$ 800 com parcelamento em promoção; fones Samsung têm cancelamento de ruído (ANC) adaptativo com Galaxy AI integrado</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-buds-3-com-anc-tem-53-off-em-ate-10x-em-oferta-na-amazon/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/03/Galaxy-Buds-3-Pro-Achados-1-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 14 Aug 2025 19:05:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rússia proíbe chamadas no WhatsApp e no Telegram</title>
-      <link>https://tecnoblog.net/noticias/russia-proibe-chamadas-no-whatsapp-e-no-telegram/</link>
-      <description>Governo do país bloqueou parcialmente chamadas nos apps de mensagem, alegando segurança nacional e falta de colaboração em investigações criminais.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/russia-proibe-chamadas-no-whatsapp-e-no-telegram/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/07/comparativo-whatsapp-vs-telegram_capa-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 14 Aug 2025 19:20:28 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 18 Aug 2025 21:09:53 +0000</lastBuildDate>
     <item>
       <title>Apple pode lançar primeiro MacBook com 5G, indica vazamento</title>
       <link>https://tecnoblog.net/noticias/apple-pode-lancar-primeiro-macbook-com-5g-indica-vazamento/</link>
@@ -111,6 +79,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/governo-trump-quer-comprar-parte-da-intel/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/donald-trump-comicio-edited-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Fri, 15 Aug 2025 18:18:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>O que é ANC no fone de ouvido? Entenda a tecnologia de cancelamento de ruído</title>
+      <link>https://tecnoblog.net/responde/o-que-e-anc-no-fone-de-ouvido-entenda-a-tecnologia-de-cancelamento-de-ruido/</link>
+      <description>O ANC isola os ruídos ao redor para que o ouvinte apenas ouça o áudio do fone de ouvido, proporcionando uma experiência imersiva e sem interrupções</description>
+      <guid isPermaLink="false">https://tecnoblog.net/responde/o-que-e-anc-no-fone-de-ouvido-entenda-a-tecnologia-de-cancelamento-de-ruido/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/07/buds3-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 15 Aug 2025 18:25:23 +0000</pubDate>
     </item>
     <item>
       <title>Huawei Pura 80 Ultra assume liderança do ranking de câmeras do DxOMark</title>
@@ -223,6 +199,30 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/windows-11-24h2-atualizacao-pode-danificar-discos-e-corromper-dados/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/03/windows-11-2-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 18 Aug 2025 19:28:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>iPhone 16e tem menor preço histórico com 40% OFF no Mercado Livre</title>
+      <link>https://tecnoblog.net/achados/iphone-16e-tem-menor-preco-historico-com-40-off-no-mercado-livre/</link>
+      <description>iPhone 16e de 128 GB tem processador Apple A18 Bionic, câmera de 48 MP e display OLED; desconto de 40% é obtido no Pix, com cupom IPHONE150</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/iphone-16e-tem-menor-preco-historico-com-40-off-no-mercado-livre/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/05/iPhone16e-Achado-do-dia-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 18 Aug 2025 20:35:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Galaxy Watch 7 em oferta por menos de R$ 1 mil reais no AliExpress</title>
+      <link>https://tecnoblog.net/achados/galaxy-watch-7-em-oferta-por-menos-de-r-1-mil-reais-no-aliexpress/</link>
+      <description>Galaxy Watch 7 BT 40 mm possui 13 sensores LED de monitoramento, tela Super AMOLED com Cristal de Safira e 32 GB de armazenamento; oferta da loja Magalu no AliExpress</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-watch-7-em-oferta-por-menos-de-r-1-mil-reais-no-aliexpress/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/galaxy-watch-7-oferta-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 18 Aug 2025 20:47:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Como escolher um tablet? Veja 8 dicas ao comprar para trabalho ou estudo</title>
+      <link>https://tecnoblog.net/guias/como-escolher-um-tablet-veja-8-dicas-ao-comprar-para-trabalho-ou-estudo/</link>
+      <description>O perfil de uso, o tamanho de tela, suporte para caneta digital e as especificações técnicas são alguns dos pontos que ajudam a escolher qual é o melhor tablet para você</description>
+      <guid isPermaLink="false">https://tecnoblog.net/guias/como-escolher-um-tablet-veja-8-dicas-ao-comprar-para-trabalho-ou-estudo/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/04/Galaxy-Tab-S10-FE-edicao-de-imagem-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 18 Aug 2025 21:02:40 +0000</pubDate>
     </item>
   </channel>
 </rss>
