@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 18 Aug 2025 21:09:53 +0000</lastBuildDate>
-    <item>
-      <title>Apple pode lançar primeiro MacBook com 5G, indica vazamento</title>
-      <link>https://tecnoblog.net/noticias/apple-pode-lancar-primeiro-macbook-com-5g-indica-vazamento/</link>
-      <description>Código interno revela testes de um MacBook Pro com novo chip M5. Notebook teria modem 5G do iPhone 16e, desenvolvido pela própria empresa.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/apple-pode-lancar-primeiro-macbook-com-5g-indica-vazamento/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/03/macbook-pro-m1-max-tb-1-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 14 Aug 2025 20:44:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Galaxy Watch Ultra surge com 48% OFF em 18x; bateria dura até 100 horas</title>
-      <link>https://tecnoblog.net/achados/galaxy-watch-ultra-com-48-off-em-ate-18x-tem-bateria-para-ate-100-horas/</link>
-      <description>Galaxy Watch Ultra tem construção em titânio, tela AMOLED com 3.000 nits, suporte ao Galaxy AI e bateria de longa duração; oferta no Mercado Livre permite pagar parcelado</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-watch-ultra-com-48-off-em-ate-18x-tem-bateria-para-ate-100-horas/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/Samsung-Galaxy-Watch-Ultra-tem-caixa-de-titanio-Foto-Thassius-VelosoTecnoblog-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 14 Aug 2025 21:20:43 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 18 Aug 2025 22:10:49 +0000</lastBuildDate>
     <item>
       <title>Como escolher um celular? Veja 7 dicas para comprar um smartphone</title>
       <link>https://tecnoblog.net/guias/como-escolher-um-celular-veja-7-dicas-para-comprar-um-smartphone/</link>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/guias/como-escolher-um-tablet-veja-8-dicas-ao-comprar-para-trabalho-ou-estudo/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/04/Galaxy-Tab-S10-FE-edicao-de-imagem-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 18 Aug 2025 21:02:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Melhor celular custo-benefício: qual modelo comprar em 2025?</title>
+      <link>https://tecnoblog.net/guias/melhor-celular-custo-beneficio/</link>
+      <description>Selecionamos 10 smartphones para quem busca qualidade e bom preço; lista inclui celulares Samsung, Xiaomi, Motorola e Apple</description>
+      <guid isPermaLink="false">https://tecnoblog.net/guias/melhor-celular-custo-beneficio/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/03/1000012732-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 18 Aug 2025 21:27:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>China domina Olimpíadas de Robôs em torneio marcado por quedas</title>
+      <link>https://tecnoblog.net/noticias/china-domina-olimpiadas-de-robos-em-torneio-marcado-por-quedas/</link>
+      <description>Evento reuniu mais de 280 equipes de 16 países em Pequim. Corridas, kung fu e boxe estavam entre as provas.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/china-domina-olimpiadas-de-robos-em-torneio-marcado-por-quedas/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/robo-derrubando-operador-340x191.gif" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 18 Aug 2025 21:51:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
