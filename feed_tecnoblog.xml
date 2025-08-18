@@ -7,31 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 18 Aug 2025 16:15:04 +0000</lastBuildDate>
-    <item>
-      <title>Próximo Windows fará usuário depender menos de mouse e teclado</title>
-      <link>https://tecnoblog.net/noticias/proximo-windows-fara-usuario-depender-menos-de-mouse-e-teclado/</link>
-      <description>É o que sugere Pavan Davuluri, da Microsoft. Para o executivo, a inteligência artificial mudará a forma como o usuário interage com o Windows.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/proximo-windows-fara-usuario-depender-menos-de-mouse-e-teclado/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/05/img_3826-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 14 Aug 2025 13:41:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>EUA escondem rastreadores em remessas de chips de inteligência artificial</title>
-      <link>https://tecnoblog.net/noticias/eua-usaram-rastreadores-em-remessas-de-chips-para-a-china/</link>
-      <description>Governo americano quer evitar que os componentes sejam desviados para a China. A exportação para por restrições desde 2022.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/eua-usaram-rastreadores-em-remessas-de-chips-para-a-china/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/07/tbr-npu-capa-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 14 Aug 2025 14:10:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kodak alerta para risco de sobrevivência e ações despencam</title>
-      <link>https://tecnoblog.net/noticias/kodak-alerta-para-novo-risco-de-falencia/</link>
-      <description>Ameaçada por dívidas que não consegue cobrir, a gigante de 133 anos vê futuro se tornar incerto.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/kodak-alerta-para-novo-risco-de-falencia/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/filme-fotografico-kodak-edited-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 14 Aug 2025 14:17:52 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 18 Aug 2025 17:12:41 +0000</lastBuildDate>
     <item>
       <title>Meta considerava aceitável conversa sensual entre IA e criança</title>
       <link>https://tecnoblog.net/noticias/meta-considerava-aceitavel-conversa-sensual-entre-ia-e-crianca/</link>
@@ -223,6 +199,30 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/google-fotos-deve-ganhar-funcao-com-cara-de-tinder-para-apagar-fotos-ruins/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/05/como-salvar-fotos-do-celular-na-nuvem-pelo-backup-do-google-fotos-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 18 Aug 2025 15:49:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Motorola Edge 60 (512 GB) tem menor preço que já vimos em até 10x na Amazon</title>
+      <link>https://tecnoblog.net/achados/motorola-edge-60-512-gb-tem-menor-preco-que-ja-vimos-em-ate-10x-na-amazon/</link>
+      <description>Motorola Edge 60 traz tela POLED de 120 Hz, 24 GB com RAM Boost, bateria de 5.200 mAh e câmeras de 50 MP; oferta em até 10x sem juros pela versão de 512 GB</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/motorola-edge-60-512-gb-tem-menor-preco-que-ja-vimos-em-ate-10x-na-amazon/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/motorola-edge-60-usa-chip-mediatek-dimensity-7300-foto-giovanni-santa-rosatecnoblog-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 18 Aug 2025 16:15:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Realme Watch 5 já pode ser vendido no Brasil</title>
+      <link>https://tecnoblog.net/noticias/realme-watch-5-ja-pode-ser-vendido-no-brasil/</link>
+      <description>Smartwatch passa na Anatel e marca a estreia da empresa nesse segmento do mercado nacional. Sucessor do Realme Watch 3 ainda não foi lançado no exterior.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/realme-watch-5-ja-pode-ser-vendido-no-brasil/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/realme-watch-5-anatel-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 18 Aug 2025 16:27:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Windows 11 deve finalmente ganhar um modo escuro completo</title>
+      <link>https://tecnoblog.net/noticias/windows-11-deve-finalmente-ganhar-um-modo-escuro-completo/</link>
+      <description>Windows 11 já tem um modo escuro, mas que não cobre todos os elementos da interface. Felizmente, surgiram indícios de que isso deve mudar.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/windows-11-deve-finalmente-ganhar-um-modo-escuro-completo/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/windows-11-modo-escuro-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 18 Aug 2025 17:05:26 +0000</pubDate>
     </item>
   </channel>
 </rss>
