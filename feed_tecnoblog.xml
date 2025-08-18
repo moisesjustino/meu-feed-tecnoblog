@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 18 Aug 2025 19:11:21 +0000</lastBuildDate>
-    <item>
-      <title>Motorola Edge 60 Fusion tem menor preço que já vimos no Mercado Livre</title>
-      <link>https://tecnoblog.net/achados/motorola-edge-60-fusion-tem-menor-preco-que-ja-vimos-no-mercado-livre/</link>
-      <description>Motorola Edge 60 Fusion (256 GB) tem tela POLED com 4.500 nits, bateria de 5.200 mAh, câmera principal de 50 MP e frontal de 32 MP; oferta com 37% de desconto somente no Pix</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/motorola-edge-60-fusion-tem-menor-preco-que-ja-vimos-no-mercado-livre/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/motorola-edge-60-fusion-achados-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 14 Aug 2025 16:01:46 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 18 Aug 2025 20:12:58 +0000</lastBuildDate>
     <item>
       <title>O que é MU-MIMO? Entenda para que serve e como funciona a tecnologia</title>
       <link>https://tecnoblog.net/responde/mu-mimo-o-que-e/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/iphone-15-tem-camera-de-48-mp-e-melhor-oferta-em-meses-no-mercado-livre/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/03/iphone-15-selo-achados-melhor-preco-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 18 Aug 2025 17:31:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Windows 11 24H2: atualização pode danificar discos e corromper dados</title>
+      <link>https://tecnoblog.net/noticias/windows-11-24h2-atualizacao-pode-danificar-discos-e-corromper-dados/</link>
+      <description>Usuários relatam desaparecimento de unidades de armazenamento após a atualização KB5063878. Problema estaria ligado ao cache de gravação.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/windows-11-24h2-atualizacao-pode-danificar-discos-e-corromper-dados/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/03/windows-11-2-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 18 Aug 2025 19:28:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
