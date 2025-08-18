@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 18 Aug 2025 14:13:34 +0000</lastBuildDate>
-    <item>
-      <title>Google libera função para personalizar as notícias exibidas na busca</title>
-      <link>https://tecnoblog.net/noticias/google-libera-funcao-para-personalizar-as-noticias-exibidas-na-busca/</link>
-      <description>Recurso permite escolher veículos que aparecem com mais destaque nas buscas. Liberação gradual ocorre nos EUA e Índia, sem previsão para o Brasil.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/google-libera-funcao-para-personalizar-as-noticias-exibidas-na-busca/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/sources_hero-1-width-1600-format-webp-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 13 Aug 2025 20:29:26 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 18 Aug 2025 15:13:22 +0000</lastBuildDate>
     <item>
       <title>Galaxy S25 (256 GB) tem melhor oferta histórica com 50% OFF no AliExpress</title>
       <link>https://tecnoblog.net/achados/galaxy-s25-256-gb-tem-melhor-oferta-historica-com-50-off-no-aliexpress/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/lg-anuncia-primeiro-monitor-5k2k-do-brasil-saiba-o-preco/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/20250818_093931-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 18 Aug 2025 14:01:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackers fazem barragem na Noruega vazar 500 litros d’água por segundo</title>
+      <link>https://tecnoblog.net/noticias/hackers-fazem-barragem-na-noruega-vazar-500-litros-dagua-por-segundo/</link>
+      <description>Barragem Rizevatnet, na Noruega, ficou com comporta aberta por cerca de quatro horas. Autoridades locais atribuem ataque a grupo hacker pró-Rússia.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/hackers-fazem-barragem-na-noruega-vazar-500-litros-dagua-por-segundo/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/barragem-noruega-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 18 Aug 2025 14:53:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
