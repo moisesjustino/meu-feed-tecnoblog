@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 19 Aug 2025 12:22:49 +0000</lastBuildDate>
-    <item>
-      <title>Uber é condenada a indenizar passageiro arrastado por carro de motorista</title>
-      <link>https://tecnoblog.net/noticias/uber-e-condenada-a-indenizar-passageiro-arrastado-por-carro-de-motorista/</link>
-      <description>Tribunal rejeitou argumento de que empresa não seria responsável por ações de condutor. Plataforma terá que pagar R$ 35 mil por danos morais e estéticos.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/uber-e-condenada-a-indenizar-passageiro-arrastado-por-carro-de-motorista/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/06/uber_capa-2_tb-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 15 Aug 2025 15:53:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chinesa Biwin lança SSD que parece um microSD, só que mais rápido</title>
-      <link>https://tecnoblog.net/noticias/chinesa-biwin-lanca-ssd-que-parece-um-microsd-so-que-mais-rapido/</link>
-      <description>"Mini SSD" da Biwin pode alcançar até 3.700 MB/s na leitura sequencial de dados. Capacidades de armazenamento chegam a 2 terabytes.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/chinesa-biwin-lanca-ssd-que-parece-um-microsd-so-que-mais-rapido/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/ssd-biwin-2-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 15 Aug 2025 16:23:24 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 19 Aug 2025 13:23:38 +0000</lastBuildDate>
     <item>
       <title>Galaxy A36 com tela Super AMOLED tem 47% OFF em oferta no Mercado Livre</title>
       <link>https://tecnoblog.net/achados/galaxy-a36-com-tela-super-amoled-tem-47-off-em-oferta-no-mercado-livre/</link>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/brasil-inaugura-ia-br-e-mais-tres-categorias-de-dominio/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/o-protocolo-ip-e-responsavel-pelo-envio-de-dados-ao-destino-correto-edited-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Tue, 19 Aug 2025 11:35:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Galaxy S25 (256 GB) tem oferta em até 12x com 47% de desconto</title>
+      <link>https://tecnoblog.net/achados/galaxy-s25-256-gb-tem-oferta-em-ate-12x-com-47-de-desconto/</link>
+      <description>Galaxy S25 tem processador Snapdragon 8 Elite, RAM de 12 GB e câmera com zoom óptico até 3x; smartphone Samsung tem 47% e parcelamento em oferta Magalu no AliExpress</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-s25-256-gb-tem-oferta-em-ate-12x-com-47-de-desconto/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/galaxy-s24-traz-processador-snapdragon-8-elite-da-qualcomm-foto-thassius-velosotecnoblog-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 19 Aug 2025 12:48:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Galaxy Tab S10 FE (128 GB) com S Pen tem promoção em até 12x com 35% OFF</title>
+      <link>https://tecnoblog.net/achados/galaxy-tab-s10-fe-128-gb-com-s-pen-tem-promocao-em-ate-12x-com-35-off/</link>
+      <description>Galaxy Tab S10 FE de 128 GB tem tela de 10,9" com caneta S Pen inclusa, RAM de 8 GB e proteção IP68; oferta com parcelamento na Magalu no AliExpress usa cupom BRMARCA10</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-tab-s10-fe-128-gb-com-s-pen-tem-promocao-em-ate-12x-com-35-off/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/05/Samsung-promete-que-apps-pesados-rodam-no-Galaxy-Tab-S10-FE-foto-Giovanni-Santa-RosaTecnoblog-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 19 Aug 2025 13:20:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
