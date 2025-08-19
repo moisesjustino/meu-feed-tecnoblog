@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 19 Aug 2025 15:12:47 +0000</lastBuildDate>
-    <item>
-      <title>O que é ANC no fone de ouvido? Entenda a tecnologia de cancelamento de ruído</title>
-      <link>https://tecnoblog.net/responde/o-que-e-anc-no-fone-de-ouvido-entenda-a-tecnologia-de-cancelamento-de-ruido/</link>
-      <description>O ANC isola os ruídos ao redor para que o ouvinte apenas ouça o áudio do fone de ouvido, proporcionando uma experiência imersiva e sem interrupções</description>
-      <guid isPermaLink="false">https://tecnoblog.net/responde/o-que-e-anc-no-fone-de-ouvido-entenda-a-tecnologia-de-cancelamento-de-ruido/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/07/buds3-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 15 Aug 2025 18:25:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Huawei Pura 80 Ultra assume liderança do ranking de câmeras do DxOMark</title>
-      <link>https://tecnoblog.net/noticias/huawei-pura-80-ultra-assume-lideranca-do-ranking-de-cameras-do-dxomark/</link>
-      <description>Modelo premium da Huawei alcançou pontuação recorde no DxOMark, superando rivais como Oppo Find X8 Ultra e iPhone 16 Pro Max</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/huawei-pura-80-ultra-assume-lideranca-do-ranking-de-cameras-do-dxomark/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/huawei-pura-80-ultra-edited-340x191.webp" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 15 Aug 2025 19:20:48 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 19 Aug 2025 16:14:30 +0000</lastBuildDate>
     <item>
       <title>Wikipédia derruba maior operação de autopromoção já registrada</title>
       <link>https://tecnoblog.net/noticias/wikipedia-derruba-maior-operacao-de-autopromocao-ja-registrada/</link>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-a56-256-gb-com-chip-exynos-tem-40-off-em-ate-10x-na-amazon/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/05/Galaxya56-achou-correu-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Tue, 19 Aug 2025 14:59:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>O que é pen drive? Veja para que serve e como escolher um USB Flash Drive</title>
+      <link>https://tecnoblog.net/guias/o-que-e-pen-drive-veja-para-que-serve-e-como-escolher-um-usb-flash-drive/</link>
+      <description>Pen drives têm a função de armazenar dados em memória não volátil, de modo a facilitar a alocação e transferência de informações digitais</description>
+      <guid isPermaLink="false">https://tecnoblog.net/guias/o-que-e-pen-drive-veja-para-que-serve-e-como-escolher-um-usb-flash-drive/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/02/pendrives-3-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 19 Aug 2025 15:40:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Adblock pode se tornar ilegal na Alemanha, diz Mozilla</title>
+      <link>https://tecnoblog.net/noticias/adblock-pode-se-tornar-ilegal-na-alemanha-diz-mozilla/</link>
+      <description>Decisão judicial na Alemanha pode proibir bloqueadores de anúncios na Alemanha com base em leis de direitos autorais, alerta Mozilla.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/adblock-pode-se-tornar-ilegal-na-alemanha-diz-mozilla/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/adblock-capa-2-edited-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 19 Aug 2025 15:43:42 +0000</pubDate>
     </item>
   </channel>
 </rss>
