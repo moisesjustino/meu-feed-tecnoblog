@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 19 Aug 2025 17:10:39 +0000</lastBuildDate>
-    <item>
-      <title>Galaxy S25 Plus tem oferta com menor preço em meses no Mercado Livre</title>
-      <link>https://tecnoblog.net/achados/galaxy-s25-plus-tem-oferta-com-menor-preco-em-meses-no-mercado-livre/</link>
-      <description>Galaxy S25 Plus traz chip Snapdragon 8 Elite, tela Dynamic LTPO AMOLED 2x de 6,7", 12 GB de memória RAM e suporte a inteligência artificial; oferta com 43% de desconto no Pix</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-s25-plus-tem-oferta-com-menor-preco-em-meses-no-mercado-livre/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/04/Samsung-Galaxy-S25-Plus-tem-tela-de-67-com-resolucao-QHD-imagem-Samsung-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 15 Aug 2025 21:19:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Keeta trava batalha judicial contra 99Food antes de estrear no Brasil</title>
-      <link>https://tecnoblog.net/noticias/keeta-trava-batalha-judicial-contra-99food-antes-de-estrear-no-brasil/</link>
-      <description>Marca da chinesa Meituan alega que rival impõe cláusulas que limitam atuação de restaurantes e busca impedir avanço de concorrentes no setor de delivery.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/keeta-trava-batalha-judicial-contra-99food-antes-de-estrear-no-brasil/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/05/Capa-Keeta-no-Br-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 18 Aug 2025 11:50:40 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 19 Aug 2025 18:16:36 +0000</lastBuildDate>
     <item>
       <title>Oppo Reno 14 F 5G passa pela Anatel e está prestes a chegar ao Brasil</title>
       <link>https://tecnoblog.net/noticias/oppo-reno-14-f-5g-passa-pela-anatel-e-esta-prestes-a-chegar-ao-brasil/</link>
@@ -213,7 +197,7 @@
       <link>https://tecnoblog.net/noticias/adblock-pode-se-tornar-ilegal-na-alemanha-diz-mozilla/</link>
       <description>Decisão judicial na Alemanha pode proibir bloqueadores de anúncios na Alemanha com base em leis de direitos autorais, alerta Mozilla.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/adblock-pode-se-tornar-ilegal-na-alemanha-diz-mozilla/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/adblock-capa-2-edited-340x191.jpg" length="0" type="image/jpeg"/>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/adblock-capa-2-edited-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 19 Aug 2025 15:43:42 +0000</pubDate>
     </item>
     <item>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/nvidia-trabalha-em-novo-chip-de-ia-para-china-apos-acusacoes-de-backdoor/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/05/nvidia-video_capa-1_tb-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Tue, 19 Aug 2025 16:52:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Como baixar filmes e séries grátis facilmente no PC</title>
+      <link>https://tecnoblog.net/publieditoriais/como-baixar-filmes-e-series-gratis-facilmente-no-pc/</link>
+      <description>Aprenda a usar ferramentas como o EaseUS Video Downloader para baixar vídeos de vários tipos para assistir offline em seu computador ou celular.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/publieditoriais/como-baixar-filmes-e-series-gratis-facilmente-no-pc/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/easeus-video-downloader-capa-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 19 Aug 2025 17:26:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Plex corrige falha de segurança e recomenda atualização imediata</title>
+      <link>https://tecnoblog.net/noticias/plex-corrige-falha-de-seguranca-e-recomenda-atualizacao-imediata/</link>
+      <description>Plataforma de armazenamento de mídia e streaming não revelou detalhes sobre o problema. Versão 1.42.1.10060 do Plex Media Server está disponível na página de downloads.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/plex-corrige-falha-de-seguranca-e-recomenda-atualizacao-imediata/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/plex-corrige-falha-de-seguranca-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 19 Aug 2025 17:44:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
