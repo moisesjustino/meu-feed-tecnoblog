@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 19 Aug 2025 11:10:02 +0000</lastBuildDate>
-    <item>
-      <title>Como escolher um celular? Veja 7 dicas para comprar um smartphone</title>
-      <link>https://tecnoblog.net/guias/como-escolher-um-celular-veja-7-dicas-para-comprar-um-smartphone/</link>
-      <description>Saber o tipo de celular, a faixa de preço e os aspectos técnicos, como processador, memória RAM e conjunto de câmeras, são pontos fundamentais na escolha de um novo aparelho</description>
-      <guid isPermaLink="false">https://tecnoblog.net/guias/como-escolher-um-celular-veja-7-dicas-para-comprar-um-smartphone/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/05/20250521_123534-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 15 Aug 2025 13:21:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Anatel desmantela mais uma central de TV pirata</title>
-      <link>https://tecnoblog.net/noticias/anatel-desmantela-mais-uma-central-de-tv-pirata/</link>
-      <description>Executada pela Anatel e a Polícia Civil de São Paulo, operação Fantasma da Rede fechou operadora irregular de TV e internet na capital paulista.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/anatel-desmantela-mais-uma-central-de-tv-pirata/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/anatel-fantasma-rede-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 15 Aug 2025 13:24:58 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 19 Aug 2025 12:22:49 +0000</lastBuildDate>
     <item>
       <title>Uber é condenada a indenizar passageiro arrastado por carro de motorista</title>
       <link>https://tecnoblog.net/noticias/uber-e-condenada-a-indenizar-passageiro-arrastado-por-carro-de-motorista/</link>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/china-domina-olimpiadas-de-robos-em-torneio-marcado-por-quedas/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/robo-derrubando-operador-340x191.gif" length="0" type="image/jpeg"/>
       <pubDate>Mon, 18 Aug 2025 21:51:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Spotify libera função para personalizar e mixar músicas</title>
+      <link>https://tecnoblog.net/noticias/spotify-libera-funcao-para-personalizar-e-mixar-musicas/</link>
+      <description>Recurso permite ajustar volume, equalização e efeitos entre faixas nas playlists. Ainda em versão beta, novidade será disponibilizada para assinantes Premium.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/spotify-libera-funcao-para-personalizar-e-mixar-musicas/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/05/spotify_capa-2_tb-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 19 Aug 2025 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Brasil inaugura ia.br e mais três categorias de domínio</title>
+      <link>https://tecnoblog.net/noticias/brasil-inaugura-ia-br-e-mais-tres-categorias-de-dominio/</link>
+      <description>Novas terminações visam atender demanda de setores de tecnologia e comunicação. Qualquer pessoa ou empresa poderá registrar.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/brasil-inaugura-ia-br-e-mais-tres-categorias-de-dominio/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/o-protocolo-ip-e-responsavel-pelo-envio-de-dados-ao-destino-correto-edited-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 19 Aug 2025 11:35:28 +0000</pubDate>
     </item>
   </channel>
 </rss>
