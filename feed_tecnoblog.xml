@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 20 Aug 2025 18:16:57 +0000</lastBuildDate>
-    <item>
-      <title>IA da Anthropic poderá encerrar conversas abusivas</title>
-      <link>https://tecnoblog.net/noticias/ia-da-anthropic-podera-encerrar-conversas-abusivas/</link>
-      <description>Claude Opus 4 e 4.1 agora podem interromper diálogos em situações consideradas extremas. Medida é pensada para proteger a própria IA, segundo a empresa.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/ia-da-anthropic-podera-encerrar-conversas-abusivas/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/08/marca-claude-edited-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 19 Aug 2025 13:53:12 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 20 Aug 2025 19:09:23 +0000</lastBuildDate>
     <item>
       <title>Atualização para Windows 10 e 11 faz recuperação do sistema falhar</title>
       <link>https://tecnoblog.net/noticias/atualizacao-para-windows-10-e-11-faz-recuperacao-do-sistema-falhar/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/pixel-10-pro-fold-aposta-em-durabilidade-e-chip-desenvolvido-pelo-google/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/pixel-10-pro-fold-video-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Wed, 20 Aug 2025 18:13:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Governo Trump confirma intenção de comprar parte da Intel</title>
+      <link>https://tecnoblog.net/noticias/governo-trump-confirma-intencao-de-comprar-parte-da-intel/</link>
+      <description>Se plano for levado adiante, governo dos Estados Unidos poderá assumir participação minoritária de 10% no controle da Intel.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/governo-trump-confirma-intencao-de-comprar-parte-da-intel/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2020/05/donald-trump-eua-3-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 20 Aug 2025 18:52:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
