@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 20 Aug 2025 13:24:52 +0000</lastBuildDate>
-    <item>
-      <title>iPhone 16e tem menor preço histórico com 40% OFF no Mercado Livre</title>
-      <link>https://tecnoblog.net/achados/iphone-16e-tem-menor-preco-historico-com-40-off-no-mercado-livre/</link>
-      <description>iPhone 16e de 128 GB tem processador Apple A18 Bionic, câmera de 48 MP e display OLED; desconto de 40% é obtido no Pix, com cupom IPHONE150</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/iphone-16e-tem-menor-preco-historico-com-40-off-no-mercado-livre/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/05/iPhone16e-Achado-do-dia-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 18 Aug 2025 20:35:59 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 20 Aug 2025 14:12:10 +0000</lastBuildDate>
     <item>
       <title>Galaxy Watch 7 em oferta por menos de R$ 1 mil reais no AliExpress</title>
       <link>https://tecnoblog.net/achados/galaxy-watch-7-em-oferta-por-menos-de-r-1-mil-reais-no-aliexpress/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/meta-pode-reduzir-seu-setor-de-ia-apos-reorganizacao-diz-jornal/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/02/Capa-Mark-Zuckerberg-01-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Tue, 19 Aug 2025 23:34:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>LibreOffice 25.8 é lançado; veja as novidades do rival do MS Office</title>
+      <link>https://tecnoblog.net/noticias/libreoffice-25-8-e-lancado-veja-as-novidades-do-rival-do-ms-office/</link>
+      <description>Gratuito e aberto, LibreOffice 25.8 chega com ganhos de desempenho. Pacote também melhora compatibilidade com formatos do Microsoft Office.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/libreoffice-25-8-e-lancado-veja-as-novidades-do-rival-do-ms-office/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/libre-office-25-8-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 20 Aug 2025 13:46:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
