@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 19 Aug 2025 23:10:46 +0000</lastBuildDate>
-    <item>
-      <title>Windows 11 24H2: atualização pode danificar discos e corromper dados</title>
-      <link>https://tecnoblog.net/noticias/windows-11-24h2-atualizacao-pode-danificar-discos-e-corromper-dados/</link>
-      <description>Usuários relatam desaparecimento de unidades de armazenamento após a atualização KB5063878. Problema estaria ligado ao cache de gravação.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/windows-11-24h2-atualizacao-pode-danificar-discos-e-corromper-dados/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/03/windows-11-2-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 18 Aug 2025 19:28:18 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 20 Aug 2025 00:55:06 +0000</lastBuildDate>
     <item>
       <title>iPhone 16e tem menor preço histórico com 40% OFF no Mercado Livre</title>
       <link>https://tecnoblog.net/achados/iphone-16e-tem-menor-preco-historico-com-40-off-no-mercado-livre/</link>
@@ -211,7 +203,7 @@
     <item>
       <title>Nubank revela novo cartão Ultravioleta, focado na alta renda</title>
       <link>https://tecnoblog.net/noticias/nubank-revela-novos-beneficios-do-cartao-ultravioleta-mastercard-black/</link>
-      <description>A partir de hoje, os clientes podem escolher entre pontos ou cashback, com recompensa instantânea. O anúncio foi feito durante um evento em São Paulo.</description>
+      <description>A partir de hoje, os clientes podem escolher entre pontos ou cashback, com recompensa instantânea. Banco digital encerra aplicação com 200% do CDI.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/nubank-revela-novos-beneficios-do-cartao-ultravioleta-mastercard-black/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/20250819_184122-edited-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 19 Aug 2025 21:26:19 +0000</pubDate>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/instagram-e-facebook-ganham-dublagem-automatica-de-reels/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/12/capa-insta-face_thumb_tb-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Tue, 19 Aug 2025 21:32:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Meta pode reduzir seu setor de IA após reorganização, diz jornal</title>
+      <link>https://tecnoblog.net/noticias/meta-pode-reduzir-seu-setor-de-ia-apos-reorganizacao-diz-jornal/</link>
+      <description>Fontes ouvidas pelo New York Times indicam que transferências internas e saída de executivos estão entre as possibilidades. Meta reorganizou divisão de IA.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/meta-pode-reduzir-seu-setor-de-ia-apos-reorganizacao-diz-jornal/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/02/Capa-Mark-Zuckerberg-01-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 19 Aug 2025 23:34:59 +0000</pubDate>
     </item>
   </channel>
 </rss>
