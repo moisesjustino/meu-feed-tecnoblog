@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 21 Aug 2025 18:17:02 +0000</lastBuildDate>
-    <item>
-      <title>Ataque hacker expõe 2,5 bilhões de usuários do Gmail</title>
-      <link>https://tecnoblog.net/noticias/ataque-hacker-expoe-25-bilhoes-de-usuarios-do-gmail/</link>
-      <description>Criminosos se passam por funcionários do Google para aplicar golpes. Grupo hacker acessou plataforma CRM com dados de clientes.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/ataque-hacker-expoe-25-bilhoes-de-usuarios-do-gmail/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/05/gmail_capa-2_tb-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 20 Aug 2025 14:21:10 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 21 Aug 2025 19:09:11 +0000</lastBuildDate>
     <item>
       <title>Notion ganha modo offline e finalmente pode ser usado sem internet</title>
       <link>https://tecnoblog.net/noticias/notion-ganha-modo-offline-e-finalmente-pode-ser-usado-sem-internet/</link>
@@ -177,7 +169,7 @@
       <pubDate>Thu, 21 Aug 2025 14:43:56 +0000</pubDate>
     </item>
     <item>
-      <title>Big techs dos EUA formalizam reclamações contra Pix, Anatel e STF</title>
+      <title>Big techs dos EUA fazem reclamações contra Pix, Anatel e STF</title>
       <link>https://tecnoblog.net/noticias/big-techs-dos-eua-formalizam-reclamacoes-contra-pix-anatel-e-stf/</link>
       <description>Google, Meta e outras gigantes da tecnologia enviam considerações a órgão dos EUA e acusam Brasil de impor barreiras comerciais.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/big-techs-dos-eua-formalizam-reclamacoes-contra-pix-anatel-e-stf/</guid>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/flip-e-fold-7-procura-pelos-novos-dobraveis-da-samsung-cresce-30/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/flip-e-fold-7-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Thu, 21 Aug 2025 17:52:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>CEO de IA da Microsoft cita risco de “psicose” com chatbots</title>
+      <link>https://tecnoblog.net/noticias/ceo-de-ia-da-microsoft-cita-risco-de-psicose-com-chatbots/</link>
+      <description>Mustafa Suleyman diz que IAs que "parecem conscientes" são um perigo e podem distorcer a realidade. Executivo pede mais barreiras de proteção.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/ceo-de-ia-da-microsoft-cita-risco-de-psicose-com-chatbots/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/mustafa_suleyman-edited-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 21 Aug 2025 19:06:26 +0000</pubDate>
     </item>
   </channel>
 </rss>
