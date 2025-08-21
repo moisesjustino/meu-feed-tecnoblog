@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 21 Aug 2025 19:09:11 +0000</lastBuildDate>
-    <item>
-      <title>Notion ganha modo offline e finalmente pode ser usado sem internet</title>
-      <link>https://tecnoblog.net/noticias/notion-ganha-modo-offline-e-finalmente-pode-ser-usado-sem-internet/</link>
-      <description>Atualização permite visualizar, editar e criar notas sem conexão, mas alguns recursos como embeds e formulários seguem restritos à internet.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/notion-ganha-modo-offline-e-finalmente-pode-ser-usado-sem-internet/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/img_3736-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 20 Aug 2025 15:20:43 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 21 Aug 2025 20:12:47 +0000</lastBuildDate>
     <item>
       <title>Motorola Edge 50 Fusion (256 GB) com 46% OFF em oferta no Mercado Livre</title>
       <link>https://tecnoblog.net/achados/motorola-edge-50-fusion-256-gb-com-48-off-em-oferta-no-mercado-livre/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/ceo-de-ia-da-microsoft-cita-risco-de-psicose-com-chatbots/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/mustafa_suleyman-edited-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Thu, 21 Aug 2025 19:06:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft testa Copilot em buscas de arquivos no Windows 11</title>
+      <link>https://tecnoblog.net/noticias/microsoft-testa-copilot-em-buscas-de-arquivos-no-windows-11/</link>
+      <description>Em novo experimento para Windows 11, usuário pode pedir para Copilot localizar arquivos no computador com base em uma descrição.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/microsoft-testa-copilot-em-buscas-de-arquivos-no-windows-11/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/windows-11-copilot-busca-semantica-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 21 Aug 2025 20:10:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
