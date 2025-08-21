@@ -7,31 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 21 Aug 2025 13:24:13 +0000</lastBuildDate>
-    <item>
-      <title>95% dos projetos de IA generativa fracassam nas empresas, aponta MIT</title>
-      <link>https://tecnoblog.net/noticias/95-dos-projetos-de-ia-generativa-fracassam-nas-empresas-aponta-mit/</link>
-      <description>Relatório do MIT mostra que apenas uma pequena parcela das iniciativas com IA generativa gera impacto real nos negócios, apesar da corrida pela tecnologia.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/95-dos-projetos-de-ia-generativa-fracassam-nas-empresas-aponta-mit/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/06/capas-iasartboard-2-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 19 Aug 2025 18:47:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Xbox pode ter serviço de jogos na nuvem com plano mais barato</title>
-      <link>https://tecnoblog.net/noticias/xbox-pode-ter-servico-de-jogos-na-nuvem-com-plano-mais-barato/</link>
-      <description>Microsoft estuda opções mais acessíveis há anos. Atualmente, serviço depende da assinatura do Game Pass Ultimate.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/xbox-pode-ter-servico-de-jogos-na-nuvem-com-plano-mais-barato/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/12/xbox-cloud-gaming-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 19 Aug 2025 19:33:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Qual é a diferença entre repetidor e access point? Entenda os detalhes de cada um</title>
-      <link>https://tecnoblog.net/responde/qual-e-a-diferenca-entre-repetidor-e-access-point-entenda-os-detalhes-de-cada-um/</link>
-      <description>O repetidor é ideal para estender o alcance de uma rede Wi-Fi existente, enquanto o access point é a melhor solução para criar uma rede Wi-Fi conectado a um roteador via cabo</description>
-      <guid isPermaLink="false">https://tecnoblog.net/responde/qual-e-a-diferenca-entre-repetidor-e-access-point-entenda-os-detalhes-de-cada-um/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2021/10/repetidor-tp-link-03-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 19 Aug 2025 19:39:23 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 21 Aug 2025 14:12:08 +0000</lastBuildDate>
     <item>
       <title>O legado do Windows 95</title>
       <link>https://tecnoblog.net/tecnocast/o-legado-do-windows-95/</link>
@@ -147,7 +123,7 @@
     <item>
       <title>Pixel 10 Pro Fold aposta em durabilidade e chip desenvolvido pelo Google</title>
       <link>https://tecnoblog.net/noticias/pixel-10-pro-fold-aposta-em-durabilidade-e-chip-desenvolvido-pelo-google/</link>
-      <description>Novo dobrável da Google traz resistência à poeira inédita entre dispositivos do tipo, além de carregamento Qi2 e acessórios magnéticos PixelSnap</description>
+      <description>Novo dobrável da Google traz resistência à poeira inédita entre dispositivos do tipo, além de carregamento Qi2 e acessórios magnéticos PixelSnap.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/pixel-10-pro-fold-aposta-em-durabilidade-e-chip-desenvolvido-pelo-google/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/pixel-10-pro-fold-video-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Wed, 20 Aug 2025 18:13:07 +0000</pubDate>
@@ -187,7 +163,7 @@
     <item>
       <title>Pixel 10 chega com recursos de IA e acessórios magnéticos</title>
       <link>https://tecnoblog.net/noticias/pixel-10-chega-com-recursos-de-ia-e-acessorios-magneticos/</link>
-      <description>Magic Cue e Camera Coach melhoram fotos e apresentam informações úteis, enquanto linha Pixelsnap garante encaixe magnético e fácil carregamento</description>
+      <description>Magic Cue e Camera Coach melhoram fotos e apresentam informações úteis, enquanto linha Pixelsnap garante encaixe magnético e fácil carregamento.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/pixel-10-chega-com-recursos-de-ia-e-acessorios-magneticos/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/screenshot-2025-08-20-at-16-48-29-discover-the-new-google-pixel-10-edited-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Wed, 20 Aug 2025 19:58:01 +0000</pubDate>
@@ -223,6 +199,30 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-s25-ultra-256-gb-em-ate-12x-com-49-de-desconto-em-promocao/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/galaxy-s25-ultra-tem-camera-de-200-mp-foto-samsung-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Thu, 21 Aug 2025 12:54:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google vai usar energia de reator nuclear em data centers</title>
+      <link>https://tecnoblog.net/noticias/google-vai-usar-energia-de-reator-nuclear-em-data-centers/</link>
+      <description>Reator modular nos EUA terá 50 MW e meta de expansão para 500 MW. Parceria com a Tennessee Valley Authority prevê início do fornecimento em 2030.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/google-vai-usar-energia-de-reator-nuclear-em-data-centers/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/05/capa-ia-google-2_tb-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 21 Aug 2025 13:25:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Galaxy S25 Plus (256 GB) tem oferta imperdível no Mercado Livre</title>
+      <link>https://tecnoblog.net/achados/galaxy-s25-plus-256-gb-tem-oferta-imperdivel-no-mercado-livre/</link>
+      <description>Galaxy S25 Plus tem Snapdragon 8 Elite e display AMOLED de 6,7" até 120 Hz; celular da Samsung fica 48% mais barato em oferta no Mercado Livre</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-s25-plus-256-gb-tem-oferta-imperdivel-no-mercado-livre/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/04/Samsung-Galaxy-S25-Plus-tem-tela-de-67-com-resolucao-QHD-imagem-Samsung-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 21 Aug 2025 13:35:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft confirma fim do OneNote para Windows 10</title>
+      <link>https://tecnoblog.net/noticias/microsoft-confirma-fim-do-onenote-para-windows-10/</link>
+      <description>Microsoft quer que usuários migrem para versão atual do OneNote, focada no Windows 11, mas compatível com o Windows 10.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/microsoft-confirma-fim-do-onenote-para-windows-10/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/01/microsoft-365-capa-21-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 21 Aug 2025 13:53:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
