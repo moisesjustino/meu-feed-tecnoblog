@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 21 Aug 2025 12:22:47 +0000</lastBuildDate>
-    <item>
-      <title>Pane no Instagram impede publicação de posts na tarde desta terça (19)</title>
-      <link>https://tecnoblog.net/noticias/pane-no-instagram-impede-publicacao-de-posts-na-tarde-desta-terca-19/</link>
-      <description>Usuários relatam problemas para publicar fotos, vídeos e Stories. Instabilidade começou por volta das 14h e atingiu picos às 15h.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/pane-no-instagram-impede-publicacao-de-posts-na-tarde-desta-terca-19/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/08/capa-insta-fora-1_thumb_tb-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 19 Aug 2025 18:47:33 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 21 Aug 2025 13:24:13 +0000</lastBuildDate>
     <item>
       <title>95% dos projetos de IA generativa fracassam nas empresas, aponta MIT</title>
       <link>https://tecnoblog.net/noticias/95-dos-projetos-de-ia-generativa-fracassam-nas-empresas-aponta-mit/</link>
@@ -121,7 +113,7 @@
       <pubDate>Wed, 20 Aug 2025 15:20:43 +0000</pubDate>
     </item>
     <item>
-      <title>Motorola Edge 50 Fusion (256 GB) com 48% OFF em oferta no Mercado Livre</title>
+      <title>Motorola Edge 50 Fusion (256 GB) com 46% OFF em oferta no Mercado Livre</title>
       <link>https://tecnoblog.net/achados/motorola-edge-50-fusion-256-gb-com-48-off-em-oferta-no-mercado-livre/</link>
       <description>Motorola Edge 50 Fusion traz câmera de 50 MP, tela POLED de 6,7" com 120 Hz e bateria de 5.000 mAh; oferta com 48% de desconto somente no Pix</description>
       <guid isPermaLink="false">https://tecnoblog.net/achados/motorola-edge-50-fusion-256-gb-com-48-off-em-oferta-no-mercado-livre/</guid>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/tv-samsung-qled-de-43-em-promocao-com-38-de-desconto-no-magalu/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/tv-samsung-qled-qef1-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Wed, 20 Aug 2025 21:20:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Galaxy S25 Ultra (256 GB) em até 12x com 49% de desconto em promoção</title>
+      <link>https://tecnoblog.net/achados/galaxy-s25-ultra-256-gb-em-ate-12x-com-49-de-desconto-em-promocao/</link>
+      <description>Galaxy S25 Ultra com Snapdragon 8 Elite e câmera de 200 MP tem oferta com 49% OFF parcelável em até 12x sem juros na loja Magalu no AliExpress</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-s25-ultra-256-gb-em-ate-12x-com-49-de-desconto-em-promocao/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/galaxy-s25-ultra-tem-camera-de-200-mp-foto-samsung-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 21 Aug 2025 12:54:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
