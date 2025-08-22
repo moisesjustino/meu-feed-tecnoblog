@@ -7,31 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 22 Aug 2025 14:11:34 +0000</lastBuildDate>
-    <item>
-      <title>Governo Trump confirma intenção de comprar parte da Intel</title>
-      <link>https://tecnoblog.net/noticias/governo-trump-confirma-intencao-de-comprar-parte-da-intel/</link>
-      <description>Se plano for levado adiante, governo dos Estados Unidos poderá assumir participação minoritária de 10% no controle da Intel.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/governo-trump-confirma-intencao-de-comprar-parte-da-intel/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2020/05/donald-trump-eua-3-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 20 Aug 2025 18:52:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Entenda o fim do cashback do Nubank com 200% do CDI</title>
-      <link>https://tecnoblog.net/noticias/entenda-o-fim-do-cashback-do-nubank-com-200-do-cdi/</link>
-      <description>Banco digital oferecia cashback automático há quatro anos. A aplicação deixará de render em 30 de setembro.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/entenda-o-fim-do-cashback-do-nubank-com-200-do-cdi/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/20250819_190107-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 20 Aug 2025 19:21:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Asus anuncia novo monitor OLED que chega a 720 Hz</title>
-      <link>https://tecnoblog.net/noticias/asus-anuncia-novo-monitor-oled-que-chega-a-720-hz/</link>
-      <description>Monitor gamer ROG Swift OLED de 26,5 polegadas permite escolher entre resolução 2K com taxa de atualização de 540 Hz ou 720p a 720 Hz. Ainda não há preço e data de lançamento.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/asus-anuncia-novo-monitor-oled-que-chega-a-720-hz/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/asus-rog-swift-oled-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 20 Aug 2025 19:37:11 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 22 Aug 2025 15:11:51 +0000</lastBuildDate>
     <item>
       <title>Portáteis da Asus serão lançados em outubro; preço ainda é um mistério</title>
       <link>https://tecnoblog.net/noticias/portateis-da-asus-serao-lancados-em-outubro-preco-ainda-e-um-misterio/</link>
@@ -223,6 +199,30 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/amazon-realiza-nova-edicao-do-encha-seu-kindle-veja-como-funciona/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/20250722_145528-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Fri, 22 Aug 2025 13:15:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Oppo e Samsung preparam novos produtos para o Brasil</title>
+      <link>https://tecnoblog.net/noticias/oppo-e-samsung-preparam-novos-produtos-para-o-brasil/</link>
+      <description>Celular Reno 14 terá chip MediaTek Dimensity 8350, já o Galaxy Tab S11 5G chega com Dimensity 9400. Aparelhos ainda não têm data e preços divulgados.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/oppo-e-samsung-preparam-novos-produtos-para-o-brasil/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/oppo-reno-14-divulgacao-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 22 Aug 2025 14:20:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trocar funcionário júnior por IA é burrice, diz CEO da AWS</title>
+      <link>https://tecnoblog.net/noticias/trocar-funcionario-junior-por-ia-e-burrice-diz-ceo-da-aws/</link>
+      <description>Em podcast, executivo também critica empresas que se gabam de quantidade de código gerado por IA e diz que métrica é bobagem.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/trocar-funcionario-junior-por-ia-e-burrice-diz-ceo-da-aws/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/matt-garman-ceo-aws-2-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 22 Aug 2025 14:26:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Programador pega quatro anos de cadeia por travar rede da antiga empresa</title>
+      <link>https://tecnoblog.net/noticias/programador-pega-quatro-anos-de-cadeia-por-travar-rede-da-antiga-empresa/</link>
+      <description>Davis Lu paralisou os sistemas da companhia após sua demissão. Defesa contestou valor do prejuízo e deve apelar da decisão.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/programador-pega-quatro-anos-de-cadeia-por-travar-rede-da-antiga-empresa/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/01/hacker-codigo-tela-escuro-computador-desktop-monitor-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 22 Aug 2025 15:02:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
