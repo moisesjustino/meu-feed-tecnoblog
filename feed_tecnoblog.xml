@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 22 Aug 2025 16:13:36 +0000</lastBuildDate>
-    <item>
-      <title>Galaxy Tab S9 (256 GB) com Snapdragon tem 51% OFF em oferta na Amazon</title>
-      <link>https://tecnoblog.net/achados/galaxy-tab-s9-256-gb-com-snapdragon-tem-51-off-em-oferta-na-amazon/</link>
-      <description>Galaxy Tab S9 de 256 GB tem processador da Qualcomm, RAM de 12 GB, tela AMOLED e oferta por menos da metade do preço na Amazon</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-tab-s9-256-gb-com-snapdragon-tem-51-off-em-oferta-na-amazon/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/06/galaxy-tab-s9-imagem-thassius-velosotecnoblog-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 20 Aug 2025 20:31:34 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 22 Aug 2025 17:10:30 +0000</lastBuildDate>
     <item>
       <title>TV Samsung QLED de 43” em promoção com 38% de desconto no Magalu</title>
       <link>https://tecnoblog.net/achados/tv-samsung-qled-de-43-em-promocao-com-38-de-desconto-no-magalu/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/brasil-aprova-de-vez-fim-da-cobranca-de-roaming-no-mercosul/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2020/05/antena-de-celular-rua-castigliano-340x191.jpeg" length="0" type="image/jpeg"/>
       <pubDate>Fri, 22 Aug 2025 15:33:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft testa IA que resume histórico do Edge, mas recurso pode custar US$ 20</title>
+      <link>https://tecnoblog.net/noticias/microsoft-testa-ia-que-resume-historico-do-edge-mas-recurso-pode-custar-us-20/</link>
+      <description>Função Journeys está em fase experimental e cria resumos automáticos de páginas visitadas. Recurso deve ficar restrito a assinantes do Copilot Pro.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/microsoft-testa-ia-que-resume-historico-do-edge-mas-recurso-pode-custar-us-20/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/capa-microsoft-edge-1-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 22 Aug 2025 17:01:40 +0000</pubDate>
     </item>
   </channel>
 </rss>
