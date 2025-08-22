@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 22 Aug 2025 19:09:10 +0000</lastBuildDate>
-    <item>
-      <title>Motorola Edge 60 Pro com 12 GB de RAM tem promoção com cupom no Magalu</title>
-      <link>https://tecnoblog.net/achados/motorola-edge-60-pro-com-12-gb-de-ram-tem-promocao-com-cupom-no-magalu/</link>
-      <description>Moto Edge 60 Pro apresenta 12 GB de RAM, bateria de 6.000 mAh, câmeras com Moto AI e tela POLED com 120 Hz; oferta válida no Pix e resgate do cupom MAGA200</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/motorola-edge-60-pro-com-12-gb-de-ram-tem-promocao-com-cupom-no-magalu/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/edge-60-pro-achados-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 21 Aug 2025 14:43:56 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 22 Aug 2025 20:12:55 +0000</lastBuildDate>
     <item>
       <title>Big techs dos EUA fazem reclamações contra Pix, Anatel e STF</title>
       <link>https://tecnoblog.net/noticias/big-techs-dos-eua-formalizam-reclamacoes-contra-pix-anatel-e-stf/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/russia-ordena-que-rival-local-do-whatsapp-seja-instalado-em-todos-os-dispositivos/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/capa-whats-fora2_thumb_tb-edited-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Fri, 22 Aug 2025 18:56:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>AMD pode mudar nomes das GPUs Radeon na próxima geração</title>
+      <link>https://tecnoblog.net/noticias/amd-pode-mudar-nomes-das-gpus-radeon-na-proxima-geracao/</link>
+      <description>Rumores apontam que AMD pode trocar nomenclatura Radeon RX. Uma das sugestões é Radeon PTX. Mudança estaria ligada à implementação de path tracing em GPUs RDNA 5.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/amd-pode-mudar-nomes-das-gpus-radeon-na-proxima-geracao/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/05/amd-video_capa-2_tb-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 22 Aug 2025 19:57:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
