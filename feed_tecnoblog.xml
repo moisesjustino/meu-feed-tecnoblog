@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 22 Aug 2025 20:12:55 +0000</lastBuildDate>
-    <item>
-      <title>Big techs dos EUA fazem reclamações contra Pix, Anatel e STF</title>
-      <link>https://tecnoblog.net/noticias/big-techs-dos-eua-formalizam-reclamacoes-contra-pix-anatel-e-stf/</link>
-      <description>Google, Meta e outras gigantes da tecnologia enviam considerações a órgão dos EUA e acusam Brasil de impor barreiras comerciais.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/big-techs-dos-eua-formalizam-reclamacoes-contra-pix-anatel-e-stf/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/tbr-bigtechs-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 21 Aug 2025 15:00:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Positivo lança notebook Vision R15M com minitela para notificações</title>
-      <link>https://tecnoblog.net/noticias/positivo-lanca-notebook-vision-r15m-com-minitela-para-notificacoes/</link>
-      <description>Com tela de 15,6 polegadas e chip AMD Ryzen 5 ou 7, Positivo Vision R15M traz visor complementar de 1,54 polegada logo abaixo do teclado.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/positivo-lanca-notebook-vision-r15m-com-minitela-para-notificacoes/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/positivo-vision-r15-m-minitela-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 21 Aug 2025 15:48:49 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 22 Aug 2025 21:10:08 +0000</lastBuildDate>
     <item>
       <title>WhatsApp terá função parecida com caixa postal; veja como funciona</title>
       <link>https://tecnoblog.net/noticias/whatsapp-tera-funcao-parecida-com-caixa-postal-veja-como-funciona/</link>
@@ -219,10 +203,26 @@
     <item>
       <title>AMD pode mudar nomes das GPUs Radeon na próxima geração</title>
       <link>https://tecnoblog.net/noticias/amd-pode-mudar-nomes-das-gpus-radeon-na-proxima-geracao/</link>
-      <description>Rumores apontam que AMD pode trocar nomenclatura Radeon RX. Uma das sugestões é Radeon PTX. Mudança estaria ligada à implementação de path tracing em GPUs RDNA 5.</description>
+      <description>AMD poderia trocar nomenclatura Radeon RX. Uma das sugestões é Radeon PTX. Mudança estaria ligada à implementação de path tracing em GPUs RDNA 5.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/amd-pode-mudar-nomes-das-gpus-radeon-na-proxima-geracao/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/05/amd-video_capa-2_tb-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Fri, 22 Aug 2025 19:57:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Windows 11 poderá continuar tarefas iniciadas em apps do Android</title>
+      <link>https://tecnoblog.net/noticias/windows-11-podera-continuar-tarefas-iniciadas-em-apps-do-android/</link>
+      <description>Recurso começa com o Spotify, mas deve incluir outros apps. Novidade aparece primeiro para inscritos no programa Windows Insider.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/windows-11-podera-continuar-tarefas-iniciadas-em-apps-do-android/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/07/windows-11-2-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 22 Aug 2025 20:45:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Apple pode adotar o Gemini do Google em nova versão da Siri</title>
+      <link>https://tecnoblog.net/noticias/apple-pode-adotar-o-gemini-do-google-em-nova-versao-da-siri/</link>
+      <description>Discussões iniciais sugerem que a gigante da tecnologia pode usar o Gemini como base para uma reformulação da assistente, mas decisão final ainda não estaria tomada.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/apple-pode-adotar-o-gemini-do-google-em-nova-versao-da-siri/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/tbr-siri-01-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 22 Aug 2025 21:06:59 +0000</pubDate>
     </item>
   </channel>
 </rss>
