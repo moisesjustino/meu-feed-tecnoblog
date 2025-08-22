@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 22 Aug 2025 18:16:15 +0000</lastBuildDate>
-    <item>
-      <title>Galaxy S25 Plus (256 GB) tem oferta imperdível no Mercado Livre</title>
-      <link>https://tecnoblog.net/achados/galaxy-s25-plus-256-gb-tem-oferta-imperdivel-no-mercado-livre/</link>
-      <description>Galaxy S25 Plus tem Snapdragon 8 Elite e display AMOLED de 6,7" até 120 Hz; celular da Samsung fica 48% mais barato em oferta no Mercado Livre</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-s25-plus-256-gb-tem-oferta-imperdivel-no-mercado-livre/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/04/Samsung-Galaxy-S25-Plus-tem-tela-de-67-com-resolucao-QHD-imagem-Samsung-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 21 Aug 2025 13:35:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft confirma fim do OneNote para Windows 10</title>
-      <link>https://tecnoblog.net/noticias/microsoft-confirma-fim-do-onenote-para-windows-10/</link>
-      <description>Microsoft quer que usuários migrem para versão atual do OneNote, focada no Windows 11, mas compatível com o Windows 10.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/microsoft-confirma-fim-do-onenote-para-windows-10/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/01/microsoft-365-capa-21-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 21 Aug 2025 13:53:20 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 22 Aug 2025 19:09:10 +0000</lastBuildDate>
     <item>
       <title>Motorola Edge 60 Pro com 12 GB de RAM tem promoção com cupom no Magalu</title>
       <link>https://tecnoblog.net/achados/motorola-edge-60-pro-com-12-gb-de-ram-tem-promocao-com-cupom-no-magalu/</link>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-s24-plus-256-gb-em-oferta-de-ate-12x-com-cupom-no-mercado-livre/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/galaxy-s24-plus-oferta-recomendada-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Fri, 22 Aug 2025 18:00:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gerenciador de Senhas do Google agora tem app dedicado no Android (ou quase)</title>
+      <link>https://tecnoblog.net/noticias/gerenciador-de-senhas-do-google-agora-tem-app-dedicado-no-android-ou-quase/</link>
+      <description>Aplicativo funciona como um atalho de acesso rápido à interface nativa do Gerenciador de Senhas do Google para Android.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/gerenciador-de-senhas-do-google-agora-tem-app-dedicado-no-android-ou-quase/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/gerenciador-senhas-google-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 22 Aug 2025 18:27:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rússia ordena que rival local do WhatsApp seja instalado em todos os dispositivos</title>
+      <link>https://tecnoblog.net/noticias/russia-ordena-que-rival-local-do-whatsapp-seja-instalado-em-todos-os-dispositivos/</link>
+      <description>Celulares e tablets deverão vir com o mensageiro Max pré-instalado. Medida integra estratégia para reduzir a presença de serviços estrangeiros no país.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/russia-ordena-que-rival-local-do-whatsapp-seja-instalado-em-todos-os-dispositivos/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/capa-whats-fora2_thumb_tb-edited-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 22 Aug 2025 18:56:43 +0000</pubDate>
     </item>
   </channel>
 </rss>
