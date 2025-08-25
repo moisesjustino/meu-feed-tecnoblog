@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 25 Aug 2025 20:12:49 +0000</lastBuildDate>
-    <item>
-      <title>Programador pega quatro anos de cadeia por travar rede da antiga empresa</title>
-      <link>https://tecnoblog.net/noticias/programador-pega-quatro-anos-de-cadeia-por-travar-rede-da-antiga-empresa/</link>
-      <description>Davis Lu paralisou os sistemas da companhia após sua demissão. Defesa contestou valor do prejuízo e deve apelar da decisão.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/programador-pega-quatro-anos-de-cadeia-por-travar-rede-da-antiga-empresa/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/01/hacker-codigo-tela-escuro-computador-desktop-monitor-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 22 Aug 2025 15:02:45 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 25 Aug 2025 21:10:27 +0000</lastBuildDate>
     <item>
       <title>Galaxy Z Flip 7 FE (128 GB) com menor preço desde lançamento no Magalu</title>
       <link>https://tecnoblog.net/achados/galaxy-z-flip-7-fe-128-gb-com-menor-preco-desde-lancamento-no-magalu/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/redes-sociais-embaixada-dos-eua-passa-a-exigir-perfis-publicos-para-conceder-vistos/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/05/passaporte_capa-1_tb-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 25 Aug 2025 20:12:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Motorola Edge 50 Neo (256 GB) em oferta por até 10x sem juros na Amazon</title>
+      <link>https://tecnoblog.net/achados/motorola-edge-50-neo-256-gb-em-oferta-por-ate-10x-sem-juros-na-amazon/</link>
+      <description>Motorola Edge 50 Neo é equipado com tela POLED de 6,4", câmera principal Sony com Moto AI e chip MediaTek Dimensity 7300; versão de 256 GB em 10x sem juros na Amazon</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/motorola-edge-50-neo-256-gb-em-oferta-por-ate-10x-sem-juros-na-amazon/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/Motorola-Edge-50-Neo-tem-camera-traseira-tripla-foto-Motorola-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 25 Aug 2025 21:08:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
