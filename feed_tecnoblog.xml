@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 25 Aug 2025 13:25:24 +0000</lastBuildDate>
-    <item>
-      <title>Fold e Flip 7: procura pelos novos dobráveis da Samsung cresce 30%</title>
-      <link>https://tecnoblog.net/noticias/flip-e-fold-7-procura-pelos-novos-dobraveis-da-samsung-cresce-30/</link>
-      <description>Samsung divulga resultado da pré-venda na América Latina, mas sem apresentar números absolutos. Modelos estão mais completos, finos e leves.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/flip-e-fold-7-procura-pelos-novos-dobraveis-da-samsung-cresce-30/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/flip-e-fold-7-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 21 Aug 2025 17:52:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>CEO de IA da Microsoft cita risco de “psicose” com chatbots</title>
-      <link>https://tecnoblog.net/noticias/ceo-de-ia-da-microsoft-cita-risco-de-psicose-com-chatbots/</link>
-      <description>Mustafa Suleyman diz que IAs que "parecem conscientes" são um perigo e podem distorcer a realidade. Executivo pede mais barreiras de proteção.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/ceo-de-ia-da-microsoft-cita-risco-de-psicose-com-chatbots/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/mustafa_suleyman-edited-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 21 Aug 2025 19:06:26 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 25 Aug 2025 14:11:57 +0000</lastBuildDate>
     <item>
       <title>O que é teclado mecânico? Entenda as diferenças desse teclado para o de membrana</title>
       <link>https://tecnoblog.net/responde/o-que-e-um-teclado-mecanico/</link>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/publieditoriais/tcl-60-nxtpaper-tem-tela-com-tecnologia-exclusiva-e-camera-de-108-mp/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/tcl-60-nxtpaper-abertura-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 25 Aug 2025 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Após pressão, banco australiano desiste de trocar funcionários por IA</title>
+      <link>https://tecnoblog.net/noticias/apos-pressao-banco-australiano-desiste-de-trocar-funcionarios-por-ia/</link>
+      <description>Commonwealth Bank of Australia admitiu erro na avaliação e pediu desculpas aos colaboradores. Decisão ocorre após ação sindical.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/apos-pressao-banco-australiano-desiste-de-trocar-funcionarios-por-ia/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2021/12/tipos-de-inteligencia-artificial-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 25 Aug 2025 14:02:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft: suporte estendido do Windows 10 está demorando, mas vai chegar</title>
+      <link>https://tecnoblog.net/noticias/microsoft-suporte-estendido-do-windows-10-esta-demorando-mas-vai-chegar/</link>
+      <description>Assistente de suporte estendido ainda não apareceu em todos os PCs. Microsoft afirma que liberação é gradual, mas garantiu acesso a todos os interessados.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/microsoft-suporte-estendido-do-windows-10-esta-demorando-mas-vai-chegar/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/img_3617-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 25 Aug 2025 14:10:51 +0000</pubDate>
     </item>
   </channel>
 </rss>
