@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 25 Aug 2025 19:09:08 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 Aug 2025 20:12:49 +0000</lastBuildDate>
     <item>
       <title>Programador pega quatro anos de cadeia por travar rede da antiga empresa</title>
       <link>https://tecnoblog.net/noticias/programador-pega-quatro-anos-de-cadeia-por-travar-rede-da-antiga-empresa/</link>
@@ -169,14 +169,6 @@
       <pubDate>Mon, 25 Aug 2025 15:24:48 +0000</pubDate>
     </item>
     <item>
-      <title>Exclusivo: Itaú libera Pix via WhatsApp para todos os clientes</title>
-      <link>https://tecnoblog.net/noticias/exclusivo-itau-libera-pix-via-whatsapp-para-todos-os-clientes/</link>
-      <description>Ferramenta do Itaú Unibanco permite transferências de até R$ 200 por dia sem precisar de outro aplicativo. Tecnologia está em teste desde novembro de 2024.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/exclusivo-itau-libera-pix-via-whatsapp-para-todos-os-clientes/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/07/capa-itau-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 25 Aug 2025 16:06:54 +0000</pubDate>
-    </item>
-    <item>
       <title>Presos reclamam de cadeia nos EUA que libera disquete, mas não pendrive</title>
       <link>https://tecnoblog.net/noticias/presos-reclamam-de-cadeia-nos-eua-que-libera-disquete-mas-nao-pendrive/</link>
       <description>Presos em Nova Jersey só conseguem acessar documentos digitais em disquetes. Pendrives, que são usados por advogados, têm acesso restrito.</description>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-a05s-tem-camera-tripla-e-oferta-por-menos-de-r-620-com-39-off/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/03/Galaxy-A05s-tem-camera-tripla-com-sensor-de-50-MP-foto-Katarina-BandeiraTecnoblog-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 25 Aug 2025 19:02:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Redes sociais: embaixada dos EUA passa a exigir perfis públicos para conceder vistos</title>
+      <link>https://tecnoblog.net/noticias/redes-sociais-embaixada-dos-eua-passa-a-exigir-perfis-publicos-para-conceder-vistos/</link>
+      <description>Exigência afeta estudantes, intercambistas, acadêmicos e profissionais técnicos. Mudança integra novos ajustes migratórios do governo Trump.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/redes-sociais-embaixada-dos-eua-passa-a-exigir-perfis-publicos-para-conceder-vistos/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/05/passaporte_capa-1_tb-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 25 Aug 2025 20:12:28 +0000</pubDate>
     </item>
   </channel>
 </rss>
