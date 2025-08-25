@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 25 Aug 2025 16:14:10 +0000</lastBuildDate>
-    <item>
-      <title>iPhone 15 (128 GB) tem promoção imperdível com cupom no Magalu</title>
-      <link>https://tecnoblog.net/achados/iphone-15-128-gb-tem-promocao-imperdivel-com-cupom-no-magalu/</link>
-      <description>iPhone 15 com tela Super Retina XDR OLED, chip A16 Bionic e câmera principal de 48 MP; oferta com 47% no Pix e resgatando o cupom MAGA200</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/iphone-15-128-gb-tem-promocao-imperdivel-com-cupom-no-magalu/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/05/iphone-15-imagem-thassius-velosotecnoblog-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 21 Aug 2025 20:46:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>China ficou desconectada da internet global por cerca de uma hora</title>
-      <link>https://tecnoblog.net/noticias/china-ficou-desconectada-da-internet-global-por-cerca-de-uma-hora/</link>
-      <description>Grande Firewall fechou temporariamente a porta 443, usada pelo HTTPS, e até agora não há justificativa clara para o incidente</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/china-ficou-desconectada-da-internet-global-por-cerca-de-uma-hora/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/12/bandeira-china-1-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 21 Aug 2025 21:10:14 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 25 Aug 2025 17:08:49 +0000</lastBuildDate>
     <item>
       <title>Meta congela contratações em divisão de IA após onda de novas admissões</title>
       <link>https://tecnoblog.net/noticias/meta-congela-contratacoes-em-divisao-de-ia-apos-onda-de-novas-admissoes/</link>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/exclusivo-itau-libera-pix-via-whatsapp-para-todos-os-clientes/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/07/capa-itau-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 25 Aug 2025 16:06:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Presos reclamam de cadeia nos EUA que libera disquete, mas não pendrive</title>
+      <link>https://tecnoblog.net/noticias/presos-reclamam-de-cadeia-nos-eua-que-libera-disquete-mas-nao-pendrive/</link>
+      <description>Presos em Nova Jersey só conseguem acessar documentos digitais em disquetes. Pendrives, que são usados por advogados, têm acesso restrito.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/presos-reclamam-de-cadeia-nos-eua-que-libera-disquete-mas-nao-pendrive/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/07/disquetes-3-5-polegadas-2-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 25 Aug 2025 16:16:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>YouTube altera vídeos sem avisar e usuários questionam aparência de IA</title>
+      <link>https://tecnoblog.net/noticias/youtube-altera-videos-sem-avisar-e-usuarios-questionam-aparencia-de-ia/</link>
+      <description>Aspecto artificial em vídeos processados na plataforma chamou atenção. YouTube confirma que tem realizado testes, mas nega uso de IA generativa.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/youtube-altera-videos-sem-avisar-e-usuarios-questionam-aparencia-de-ia/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/04/youtube-celular-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 25 Aug 2025 16:20:09 +0000</pubDate>
     </item>
   </channel>
 </rss>
