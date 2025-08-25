@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 25 Aug 2025 12:23:12 +0000</lastBuildDate>
-    <item>
-      <title>LinkedIn fecha o cerco contra engajamento falso</title>
-      <link>https://tecnoblog.net/noticias/linkedin-fecha-o-cerco-contra-engajamento-falso/</link>
-      <description>Plataforma atualiza regras para reduzir o alcance de perfis com engajamento artificial. Movimento segue tendência de big techs que já restringiram o uso de IA.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/linkedin-fecha-o-cerco-contra-engajamento-falso/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/03/linkedin-capa-2-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 21 Aug 2025 17:42:37 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 25 Aug 2025 13:25:24 +0000</lastBuildDate>
     <item>
       <title>Fold e Flip 7: procura pelos novos dobráveis da Samsung cresce 30%</title>
       <link>https://tecnoblog.net/noticias/flip-e-fold-7-procura-pelos-novos-dobraveis-da-samsung-cresce-30/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/governo-dos-eua-agora-e-dono-de-quase-10-da-intel/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/eua-intel-10-edited-340x191.jpeg" length="0" type="image/jpeg"/>
       <pubDate>Fri, 22 Aug 2025 23:21:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>TCL 60 NXTPAPER tem tela com tecnologia exclusiva e câmera de 108 MP</title>
+      <link>https://tecnoblog.net/publieditoriais/tcl-60-nxtpaper-tem-tela-com-tecnologia-exclusiva-e-camera-de-108-mp/</link>
+      <description>Aparelho recém-lançado no Brasil tem conforto na leitura como carro-chefe. Armazenamento de 512 GB e design arrojado chamam a atenção.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/publieditoriais/tcl-60-nxtpaper-tem-tela-com-tecnologia-exclusiva-e-camera-de-108-mp/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/tcl-60-nxtpaper-abertura-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 25 Aug 2025 13:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
