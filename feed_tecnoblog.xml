@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 25 Aug 2025 18:17:14 +0000</lastBuildDate>
-    <item>
-      <title>Oppo e Samsung preparam novos produtos para o Brasil</title>
-      <link>https://tecnoblog.net/noticias/oppo-e-samsung-preparam-novos-produtos-para-o-brasil/</link>
-      <description>Celular Reno 14 terá chip MediaTek Dimensity 8350, já o Galaxy Tab S11 5G chega com Dimensity 9400. Aparelhos ainda não têm data e preços divulgados.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/oppo-e-samsung-preparam-novos-produtos-para-o-brasil/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/oppo-reno-14-divulgacao-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 22 Aug 2025 14:20:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trocar funcionário júnior por IA é burrice, diz CEO da AWS</title>
-      <link>https://tecnoblog.net/noticias/trocar-funcionario-junior-por-ia-e-burrice-diz-ceo-da-aws/</link>
-      <description>Em podcast, executivo também critica empresas que se gabam de quantidade de código gerado por IA e diz que métrica é bobagem.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/trocar-funcionario-junior-por-ia-e-burrice-diz-ceo-da-aws/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/matt-garman-ceo-aws-2-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 22 Aug 2025 14:26:06 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 25 Aug 2025 19:09:08 +0000</lastBuildDate>
     <item>
       <title>Programador pega quatro anos de cadeia por travar rede da antiga empresa</title>
       <link>https://tecnoblog.net/noticias/programador-pega-quatro-anos-de-cadeia-por-travar-rede-da-antiga-empresa/</link>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/semana-de-ofertas-alexa-echo-pop-e-mais-tem-ate-27-off-na-amazon/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/05/echo-pop-achados-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 25 Aug 2025 17:53:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Intel: acordo com governo dos EUA pode afetar vendas internacionais</title>
+      <link>https://tecnoblog.net/noticias/intel-acordo-com-governo-dos-eua-pode-afetar-vendas-internacionais/</link>
+      <description>Governo dos Estados Unidos anunciou participação de 9,9% na Intel. Seguindo normas, companhia informou mercado dos riscos do acordo.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/intel-acordo-com-governo-dos-eua-pode-afetar-vendas-internacionais/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/lip-bu-tan-1-edited-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 25 Aug 2025 18:53:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Galaxy A05s tem câmera tripla e oferta por menos de R$ 620 com 39% OFF</title>
+      <link>https://tecnoblog.net/achados/galaxy-a05s-tem-camera-tripla-e-oferta-por-menos-de-r-620-com-39-off/</link>
+      <description>Galaxy A05s de 128 GB é baratinho da Samsung com câmera de 50 MP, tela de 90 Hz e bateria de 5.000 mAh; celular tem 39% de desconto no Mercado Livre</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-a05s-tem-camera-tripla-e-oferta-por-menos-de-r-620-com-39-off/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/03/Galaxy-A05s-tem-camera-tripla-com-sensor-de-50-MP-foto-Katarina-BandeiraTecnoblog-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 25 Aug 2025 19:02:26 +0000</pubDate>
     </item>
   </channel>
 </rss>
