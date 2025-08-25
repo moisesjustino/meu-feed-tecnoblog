@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 25 Aug 2025 15:12:32 +0000</lastBuildDate>
-    <item>
-      <title>Microsoft testa Copilot em buscas de arquivos no Windows 11</title>
-      <link>https://tecnoblog.net/noticias/microsoft-testa-copilot-em-buscas-de-arquivos-no-windows-11/</link>
-      <description>Em novo experimento para Windows 11, usuário pode pedir para Copilot localizar arquivos no computador com base em uma descrição.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/microsoft-testa-copilot-em-buscas-de-arquivos-no-windows-11/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/windows-11-copilot-busca-semantica-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 21 Aug 2025 20:10:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google diz que prompt de IA usa só 5 gotas de água; especialistas levantam dúvidas</title>
-      <link>https://tecnoblog.net/noticias/google-diz-que-prompts-de-ia-consomem-so-5-gotas-de-agua/</link>
-      <description>Big tech divulgou um estudo no qual afirma que interações com o Gemini têm impacto ambiental mínimo. Especialistas contestam ausência de dados.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/google-diz-que-prompts-de-ia-consomem-so-5-gotas-de-agua/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/02/capa-gemini_tb-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 21 Aug 2025 20:37:19 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 25 Aug 2025 16:14:10 +0000</lastBuildDate>
     <item>
       <title>iPhone 15 (128 GB) tem promoção imperdível com cupom no Magalu</title>
       <link>https://tecnoblog.net/achados/iphone-15-128-gb-tem-promocao-imperdivel-com-cupom-no-magalu/</link>
@@ -217,12 +201,28 @@
       <pubDate>Mon, 25 Aug 2025 14:10:51 +0000</pubDate>
     </item>
     <item>
-      <title>Galaxy A56 (256 GB) em oferta pelo menor preço que já vimos</title>
+      <title>Galaxy A56 (256 GB) em oferta com 40% OFF no Mercado Livre</title>
       <link>https://tecnoblog.net/achados/galaxy-a56-256-gb-em-oferta-pelo-menor-preco-que-ja-vimos/</link>
-      <description>Samsung Galaxy A56 tem tela Super AMOLED de 120 Hz, chip Exynos 1580, Galaxy AI e mais seis anos de atualizações; oferta com 46% OFF pelo celular de 256 GB</description>
+      <description>Samsung Galaxy A56 tem tela Super AMOLED de 120 Hz, chip Exynos 1580, Galaxy AI e mais seis anos de atualizações; oferta com 40% OFF pelo celular de 256 GB</description>
       <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-a56-256-gb-em-oferta-pelo-menor-preco-que-ja-vimos/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/05/GalaxyA56-oferta-recomendada-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 25 Aug 2025 14:55:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Apple pode ressuscitar capinha icônica do iPhone 4</title>
+      <link>https://tecnoblog.net/noticias/apple-pode-ressuscitar-capinha-iconica-do-iphone-4/</link>
+      <description>Acessório voltaria para proteger o provável iPhone 17 Air, ultrafino que deve ser anunciado em setembro. Nova Smart Battery Case também pode chegar.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/apple-pode-ressuscitar-capinha-iconica-do-iphone-4/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/apple_iphone_4_bumper-edited-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 25 Aug 2025 15:24:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Exclusivo: Itaú libera Pix via WhatsApp para todos os clientes</title>
+      <link>https://tecnoblog.net/noticias/exclusivo-itau-libera-pix-via-whatsapp-para-todos-os-clientes/</link>
+      <description>Ferramenta do Itaú Unibanco permite transferências de até R$ 200 por dia sem precisar de outro aplicativo. Tecnologia está em teste desde novembro de 2024.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/exclusivo-itau-libera-pix-via-whatsapp-para-todos-os-clientes/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/07/capa-itau-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 25 Aug 2025 16:06:54 +0000</pubDate>
     </item>
   </channel>
 </rss>
