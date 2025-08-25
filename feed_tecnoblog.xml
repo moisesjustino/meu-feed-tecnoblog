@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 25 Aug 2025 14:11:57 +0000</lastBuildDate>
-    <item>
-      <title>O que é teclado mecânico? Entenda as diferenças desse teclado para o de membrana</title>
-      <link>https://tecnoblog.net/responde/o-que-e-um-teclado-mecanico/</link>
-      <description>Teclados mecânicos são boas opções para jogos, enquanto teclados de membrana podem atendem a usos menos exigentes</description>
-      <guid isPermaLink="false">https://tecnoblog.net/responde/o-que-e-um-teclado-mecanico/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/ilustracao-de-teclado-mecanico-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 21 Aug 2025 19:11:53 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 25 Aug 2025 15:12:32 +0000</lastBuildDate>
     <item>
       <title>Microsoft testa Copilot em buscas de arquivos no Windows 11</title>
       <link>https://tecnoblog.net/noticias/microsoft-testa-copilot-em-buscas-de-arquivos-no-windows-11/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/microsoft-suporte-estendido-do-windows-10-esta-demorando-mas-vai-chegar/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/img_3617-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 25 Aug 2025 14:10:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Galaxy A56 (256 GB) em oferta pelo menor preço que já vimos</title>
+      <link>https://tecnoblog.net/achados/galaxy-a56-256-gb-em-oferta-pelo-menor-preco-que-ja-vimos/</link>
+      <description>Samsung Galaxy A56 tem tela Super AMOLED de 120 Hz, chip Exynos 1580, Galaxy AI e mais seis anos de atualizações; oferta com 46% OFF pelo celular de 256 GB</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-a56-256-gb-em-oferta-pelo-menor-preco-que-ja-vimos/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/05/GalaxyA56-oferta-recomendada-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 25 Aug 2025 14:55:57 +0000</pubDate>
     </item>
   </channel>
 </rss>
