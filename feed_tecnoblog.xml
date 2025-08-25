@@ -7,31 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 25 Aug 2025 17:08:49 +0000</lastBuildDate>
-    <item>
-      <title>Meta congela contratações em divisão de IA após onda de novas admissões</title>
-      <link>https://tecnoblog.net/noticias/meta-congela-contratacoes-em-divisao-de-ia-apos-onda-de-novas-admissoes/</link>
-      <description>A reestruturação divide o setor em quatro frentes, sendo que algumas áreas permanecem inalteradas, enquanto outras passam por cortes e realocações.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/meta-congela-contratacoes-em-divisao-de-ia-apos-onda-de-novas-admissoes/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/02/Capa-Mark-Zuckerberg-01-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 21 Aug 2025 22:43:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Como criar um site para o seu negócio em minutos usando IA</title>
-      <link>https://tecnoblog.net/publieditoriais/como-criar-um-site-para-o-seu-negocio-em-minutos-usando-ia/</link>
-      <description>Ferramenta gratuita para clientes HostGator permite criar um site completo usando inteligência artificial – e oferece três formas diferentes para começar</description>
-      <guid isPermaLink="false">https://tecnoblog.net/publieditoriais/como-criar-um-site-para-o-seu-negocio-em-minutos-usando-ia/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/20250812_1642_personagem-com-computador_remix_01k2fwpjj9e7199afk14f14shp-edited-1-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 22 Aug 2025 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Amazon realiza nova edição do Encha Seu Kindle; veja como funciona</title>
-      <link>https://tecnoblog.net/noticias/amazon-realiza-nova-edicao-do-encha-seu-kindle-veja-como-funciona/</link>
-      <description>Amazon promove nesta sexta-feira edição 2025 do Encha seu Kindle. Campanha oferece ebooks grátis ou com até 97% de desconto.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/amazon-realiza-nova-edicao-do-encha-seu-kindle-veja-como-funciona/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/20250722_145528-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 22 Aug 2025 13:15:59 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 25 Aug 2025 18:17:14 +0000</lastBuildDate>
     <item>
       <title>Oppo e Samsung preparam novos produtos para o Brasil</title>
       <link>https://tecnoblog.net/noticias/oppo-e-samsung-preparam-novos-produtos-para-o-brasil/</link>
@@ -119,6 +95,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/amd-pode-mudar-nomes-das-gpus-radeon-na-proxima-geracao/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/05/amd-video_capa-2_tb-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Fri, 22 Aug 2025 19:57:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quais são os tipos de microfone? Saiba as diferenças entre os modelos</title>
+      <link>https://tecnoblog.net/responde/quais-sao-os-tipos-de-microfone-saiba-as-diferencas-entre-os-modelos/</link>
+      <description>Microfones são essenciais para capturar e transmitir o som, sendo usados para gravar áudio em músicas, filmes e podcasts, e para amplificar voz em apresentações</description>
+      <guid isPermaLink="false">https://tecnoblog.net/responde/quais-sao-os-tipos-de-microfone-saiba-as-diferencas-entre-os-modelos/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/ahmed-hirsi-unsplash-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 22 Aug 2025 20:37:07 +0000</pubDate>
     </item>
     <item>
       <title>Windows 11 poderá continuar tarefas iniciadas em apps do Android</title>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/youtube-altera-videos-sem-avisar-e-usuarios-questionam-aparencia-de-ia/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/04/youtube-celular-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 25 Aug 2025 16:20:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Elon Musk processa Apple e OpenAI por suposto favorecimento na App Store</title>
+      <link>https://tecnoblog.net/noticias/elon-musk-processa-apple-e-openai-por-suposto-favorecimento-na-app-store/</link>
+      <description>Bilionário acusa loja de aplicativos de discriminar concorrentes do ChatGPT, mas DeepSeek e Perplexity já chegaram ao topo da lista de downloads.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/elon-musk-processa-apple-e-openai-por-suposto-favorecimento-na-app-store/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/11/musk-capa-2-nov-2022-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 25 Aug 2025 17:22:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Semana de Ofertas Alexa: Echo Pop e mais têm até 27% OFF na Amazon</title>
+      <link>https://tecnoblog.net/achados/semana-de-ofertas-alexa-echo-pop-e-mais-tem-ate-27-off-na-amazon/</link>
+      <description>Echo Pop, Echo Dot, Echo Show e Echo Studio estão em promoção com até 27% de desconto na Amazon; dispositivos inteligentes trazem assistente virtual Alexa integrada</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/semana-de-ofertas-alexa-echo-pop-e-mais-tem-ate-27-off-na-amazon/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/05/echo-pop-achados-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 25 Aug 2025 17:53:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
