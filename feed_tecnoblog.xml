@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 26 Aug 2025 14:11:08 +0000</lastBuildDate>
-    <item>
-      <title>Quais são os tipos de microfone? Saiba as diferenças entre os modelos</title>
-      <link>https://tecnoblog.net/responde/quais-sao-os-tipos-de-microfone-saiba-as-diferencas-entre-os-modelos/</link>
-      <description>Microfones são essenciais para capturar e transmitir o som, sendo usados para gravar áudio em músicas, filmes e podcasts, e para amplificar voz em apresentações</description>
-      <guid isPermaLink="false">https://tecnoblog.net/responde/quais-sao-os-tipos-de-microfone-saiba-as-diferencas-entre-os-modelos/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/ahmed-hirsi-unsplash-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 22 Aug 2025 20:37:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Windows 11 poderá continuar tarefas iniciadas em apps do Android</title>
-      <link>https://tecnoblog.net/noticias/windows-11-podera-continuar-tarefas-iniciadas-em-apps-do-android/</link>
-      <description>Recurso começa com o Spotify, mas deve incluir outros apps. Novidade aparece primeiro para inscritos no programa Windows Insider.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/windows-11-podera-continuar-tarefas-iniciadas-em-apps-do-android/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/07/windows-11-2-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 22 Aug 2025 20:45:45 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 26 Aug 2025 15:12:07 +0000</lastBuildDate>
     <item>
       <title>Apple pode adotar o Gemini do Google em nova versão da Siri</title>
       <link>https://tecnoblog.net/noticias/apple-pode-adotar-o-gemini-do-google-em-nova-versao-da-siri/</link>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-buds-3-pro-tem-oferta-em-12x-sem-juros-com-cupom-no-mercado-livre/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/buds-3-pro-achados-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Tue, 26 Aug 2025 14:04:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>iPhone 17 pode receber função que estreou na Samsung em 2019</title>
+      <link>https://tecnoblog.net/noticias/iphone-17-pode-receber-funcao-que-estreou-no-galaxy-da-samsung-em-2019/</link>
+      <description>Apple pode incluir o carregamento reverso sem fio no iPhone 17. Funcionalidade conhecida no Android permite que o celular carregue outros dispositivos por indução.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/iphone-17-pode-receber-funcao-que-estreou-no-galaxy-da-samsung-em-2019/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/09/iphone-15-pro-2-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 26 Aug 2025 14:36:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quick Share: recurso de compartilhamento do Android deve chegar ao iPhone</title>
+      <link>https://tecnoblog.net/noticias/quick-share-recurso-de-compartilhamento-do-android-deve-chegar-ao-iphone/</link>
+      <description>Quick Share permite compartilhamento rápido de arquivos no Android e Windows. Há indícios de que uma versão para iOS está a caminho.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/quick-share-recurso-de-compartilhamento-do-android-deve-chegar-ao-iphone/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/quick-share-android-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 26 Aug 2025 15:09:22 +0000</pubDate>
     </item>
   </channel>
 </rss>
