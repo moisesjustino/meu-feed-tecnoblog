@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 26 Aug 2025 22:10:39 +0000</lastBuildDate>
-    <item>
-      <title>YouTube altera vídeos sem avisar e usuários questionam aparência de IA</title>
-      <link>https://tecnoblog.net/noticias/youtube-altera-videos-sem-avisar-e-usuarios-questionam-aparencia-de-ia/</link>
-      <description>Aspecto artificial em vídeos processados na plataforma chamou atenção. YouTube confirma que tem realizado testes, mas nega uso de IA generativa.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/youtube-altera-videos-sem-avisar-e-usuarios-questionam-aparencia-de-ia/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/04/youtube-celular-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 25 Aug 2025 16:20:09 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 26 Aug 2025 23:10:14 +0000</lastBuildDate>
     <item>
       <title>Elon Musk processa Apple e OpenAI por suposto favorecimento na App Store</title>
       <link>https://tecnoblog.net/noticias/elon-musk-processa-apple-e-openai-por-suposto-favorecimento-na-app-store/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-watch-7-com-mais-de-60-off-em-promocao-no-aliexpress/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/12/galaxy-watch-7-achado-dia-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 26 Aug 2025 21:31:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>WD_Black SN8100: SanDisk lança SSD de alto desempenho no Brasil</title>
+      <link>https://tecnoblog.net/noticias/wd_black-sn8100-sandisk-lanca-ssd-de-alto-desempenho-no-brasil/</link>
+      <description>SSDs WD_Black SN8100 têm até 4 TB de capacidade de armazenamento e taxa de leitura de dados que alcança 14.900 MB/s.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/wd_black-sn8100-sandisk-lanca-ssd-de-alto-desempenho-no-brasil/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/img_5598-340x191.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 26 Aug 2025 22:38:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
