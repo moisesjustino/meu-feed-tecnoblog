@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 26 Aug 2025 12:24:21 +0000</lastBuildDate>
-    <item>
-      <title>Galaxy S24 Plus (256 GB) em oferta de até 12x com cupom no Mercado Livre</title>
-      <link>https://tecnoblog.net/achados/galaxy-s24-plus-256-gb-em-oferta-de-ate-12x-com-cupom-no-mercado-livre/</link>
-      <description>Galaxy S24 Plus tem tela AMOLED Dinâmico de 6,7", chip Exynos 2400, 12 GB de RAM e câmera que filma em 8K; oferta com 42% OFF e em até 12x sem juros</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-s24-plus-256-gb-em-oferta-de-ate-12x-com-cupom-no-mercado-livre/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/galaxy-s24-plus-oferta-recomendada-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 22 Aug 2025 18:00:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Gerenciador de Senhas do Google agora tem app dedicado no Android (ou quase)</title>
-      <link>https://tecnoblog.net/noticias/gerenciador-de-senhas-do-google-agora-tem-app-dedicado-no-android-ou-quase/</link>
-      <description>Aplicativo funciona como um atalho de acesso rápido à interface nativa do Gerenciador de Senhas do Google para Android.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/gerenciador-de-senhas-do-google-agora-tem-app-dedicado-no-android-ou-quase/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/gerenciador-senhas-google-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 22 Aug 2025 18:27:58 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 26 Aug 2025 13:26:44 +0000</lastBuildDate>
     <item>
       <title>Rússia ordena que rival local do WhatsApp seja instalado em todos os dispositivos</title>
       <link>https://tecnoblog.net/noticias/russia-ordena-que-rival-local-do-whatsapp-seja-instalado-em-todos-os-dispositivos/</link>
@@ -221,8 +205,24 @@
       <link>https://tecnoblog.net/noticias/samsung-promete-7-anos-de-atualizacoes-para-geladeiras-e-outros-eletrodomesticos/</link>
       <description>Medida espelha compromisso já adotado para smartphones e busca estabelecer novo padrão no mercado de casa conectada.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/samsung-promete-7-anos-de-atualizacoes-para-geladeiras-e-outros-eletrodomesticos/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/samsung-digital-appliances-one-ui-home-appliances-software-smartthings-knox-matrix_dl1-340x191.jpg" length="0" type="image/jpeg"/>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/samsung-digital-appliances-one-ui-home-appliances-software-smartthings-knox-matrix_dl1-edited-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 26 Aug 2025 12:22:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Spotify anuncia função de mensagens diretas dentro da plataforma</title>
+      <link>https://tecnoblog.net/noticias/spotify-anuncia-funcao-de-mensagens-diretas-dentro-da-plataforma/</link>
+      <description>Spotify Mensagens permite que usuário converse com outro sem sair do serviço de streaming. Novidade funciona em contas gratuitas e Premium.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/spotify-anuncia-funcao-de-mensagens-diretas-dentro-da-plataforma/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/spotify-mensagens-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 26 Aug 2025 13:00:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google NotebookLM ganha resumos em vídeo em português</title>
+      <link>https://tecnoblog.net/noticias/google-notebooklm-ganha-resumos-em-video-em-portugues/</link>
+      <description>IA que ajuda nos estudos agora tem suporte para mais de 80 idiomas. Resumos em áudio também ficam mais completos com análises detalhadas.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/google-notebooklm-ganha-resumos-em-video-em-portugues/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/notebooklm-ganha-resumo-em-portugues--340x191.webp" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 26 Aug 2025 13:16:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
