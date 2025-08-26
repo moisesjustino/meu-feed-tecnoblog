@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 26 Aug 2025 13:26:44 +0000</lastBuildDate>
-    <item>
-      <title>Rússia ordena que rival local do WhatsApp seja instalado em todos os dispositivos</title>
-      <link>https://tecnoblog.net/noticias/russia-ordena-que-rival-local-do-whatsapp-seja-instalado-em-todos-os-dispositivos/</link>
-      <description>Celulares e tablets deverão vir com o mensageiro Max pré-instalado. Medida integra estratégia para reduzir a presença de serviços estrangeiros no país.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/russia-ordena-que-rival-local-do-whatsapp-seja-instalado-em-todos-os-dispositivos/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/capa-whats-fora2_thumb_tb-edited-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 22 Aug 2025 18:56:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>AMD pode mudar nomes das GPUs Radeon na próxima geração</title>
-      <link>https://tecnoblog.net/noticias/amd-pode-mudar-nomes-das-gpus-radeon-na-proxima-geracao/</link>
-      <description>AMD poderia trocar nomenclatura Radeon RX. Uma das sugestões é Radeon PTX. Mudança estaria ligada à implementação de path tracing em GPUs RDNA 5.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/amd-pode-mudar-nomes-das-gpus-radeon-na-proxima-geracao/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/05/amd-video_capa-2_tb-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 22 Aug 2025 19:57:03 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 26 Aug 2025 14:11:08 +0000</lastBuildDate>
     <item>
       <title>Quais são os tipos de microfone? Saiba as diferenças entre os modelos</title>
       <link>https://tecnoblog.net/responde/quais-sao-os-tipos-de-microfone-saiba-as-diferencas-entre-os-modelos/</link>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/google-notebooklm-ganha-resumos-em-video-em-portugues/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/notebooklm-ganha-resumo-em-portugues--340x191.webp" length="0" type="image/jpeg"/>
       <pubDate>Tue, 26 Aug 2025 13:16:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>TV Samsung de 70″ tem oferta em até 10x com 37% de desconto na Amazon</title>
+      <link>https://tecnoblog.net/achados/tv-samsung-de-70-tem-oferta-em-ate-10x-com-37-de-desconto-na-amazon/</link>
+      <description>TV Samsung DU8000 tem display de 70 polegadas, Gaming Hub e Samsung TV Plus; oferta com 37% OFF na Amazon permite parcelamento em até 10x sem juros</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/tv-samsung-de-70-tem-oferta-em-ate-10x-com-37-de-desconto-na-amazon/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/08/samsung-crystal-hud-du8000-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 26 Aug 2025 13:54:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Galaxy Buds 3 Pro tem oferta em 12x sem juros com cupom no Mercado Livre</title>
+      <link>https://tecnoblog.net/achados/galaxy-buds-3-pro-tem-oferta-em-12x-sem-juros-com-cupom-no-mercado-livre/</link>
+      <description>Galaxy Buds 3 Pro tem áudio 360, bateria para até 30 horas e suporte ao Galaxy AI com cancelamento ativo de ruído (ANC); oferta em até 12x sem juros com cupom</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-buds-3-pro-tem-oferta-em-12x-sem-juros-com-cupom-no-mercado-livre/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/buds-3-pro-achados-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 26 Aug 2025 14:04:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
