@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 26 Aug 2025 18:15:48 +0000</lastBuildDate>
-    <item>
-      <title>TCL 60 NXTPAPER tem tela com tecnologia exclusiva e câmera de 108 MP</title>
-      <link>https://tecnoblog.net/publieditoriais/tcl-60-nxtpaper-tem-tela-com-tecnologia-exclusiva-e-camera-de-108-mp/</link>
-      <description>Aparelho recém-lançado no Brasil tem conforto na leitura como carro-chefe. Armazenamento de 512 GB e design arrojado chamam a atenção.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/publieditoriais/tcl-60-nxtpaper-tem-tela-com-tecnologia-exclusiva-e-camera-de-108-mp/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/tcl-60-nxtpaper-abertura-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 25 Aug 2025 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Após pressão, banco australiano desiste de trocar funcionários por IA</title>
-      <link>https://tecnoblog.net/noticias/apos-pressao-banco-australiano-desiste-de-trocar-funcionarios-por-ia/</link>
-      <description>Commonwealth Bank of Australia admitiu erro na avaliação e pediu desculpas aos colaboradores. Decisão ocorre após ação sindical.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/apos-pressao-banco-australiano-desiste-de-trocar-funcionarios-por-ia/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2021/12/tipos-de-inteligencia-artificial-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 25 Aug 2025 14:02:15 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 26 Aug 2025 20:12:34 +0000</lastBuildDate>
     <item>
       <title>Microsoft: suporte estendido do Windows 10 está demorando, mas vai chegar</title>
       <link>https://tecnoblog.net/noticias/microsoft-suporte-estendido-do-windows-10-esta-demorando-mas-vai-chegar/</link>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/amazon-prime-video-e-processado-por-usar-o-termo-comprar/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/11/capa-prime-video-2-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Tue, 26 Aug 2025 18:13:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Após polêmica, iOS 26 ganha opção para desativar anúncios no Apple Wallet</title>
+      <link>https://tecnoblog.net/noticias/apos-polemica-ios-26-ganha-opcao-para-desativar-anuncios-no-apple-wallet/</link>
+      <description>Usuários poderão desligar notificações promocionais no app sem afetar avisos importantes. Recurso foi adicionado após críticas envolvendo a propaganda de F1: O Filme.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/apos-polemica-ios-26-ganha-opcao-para-desativar-anuncios-no-apple-wallet/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/apple-wallet-notifications-ios-26-1-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 26 Aug 2025 19:35:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>O que é um monitor? Saiba escolher o modelo ideal antes de comprar</title>
+      <link>https://tecnoblog.net/guias/o-que-e-um-monitor-saiba-escolher-o-modelo-ideal-antes-de-comprar/</link>
+      <description>Tamanho da tela, resolução, taxa de atualização e qualidade do display são alguns pontos essenciais na hora de escolher um monitor novo</description>
+      <guid isPermaLink="false">https://tecnoblog.net/guias/o-que-e-um-monitor-saiba-escolher-o-modelo-ideal-antes-de-comprar/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2021/09/smart-monitor-samsung-m5-10-1060x596.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 26 Aug 2025 19:40:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
