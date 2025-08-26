@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 26 Aug 2025 11:10:48 +0000</lastBuildDate>
-    <item>
-      <title>Microsoft testa IA que resume histórico do Edge, mas recurso pode custar US$ 20</title>
-      <link>https://tecnoblog.net/noticias/microsoft-testa-ia-que-resume-historico-do-edge-mas-recurso-pode-custar-us-20/</link>
-      <description>Função Journeys está em fase experimental e cria resumos automáticos de páginas visitadas. Recurso deve ficar restrito a assinantes do Copilot Pro.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/microsoft-testa-ia-que-resume-historico-do-edge-mas-recurso-pode-custar-us-20/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/capa-microsoft-edge-1-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 22 Aug 2025 17:01:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Empresas de benefícios entram no Cade contra iFood</title>
-      <link>https://tecnoblog.net/noticias/empresas-de-beneficios-entram-no-cade-contra-ifood/</link>
-      <description>ABBT acusa iFood de favorecer seu próprio vale e oferecer vantagens a contratantes. Companhia de delivery diz que concorrentes não são discriminados.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/empresas-de-beneficios-entram-no-cade-contra-ifood/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/05/ifood_capa-2_tb-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 22 Aug 2025 17:20:51 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 26 Aug 2025 12:24:21 +0000</lastBuildDate>
     <item>
       <title>Galaxy S24 Plus (256 GB) em oferta de até 12x com cupom no Mercado Livre</title>
       <link>https://tecnoblog.net/achados/galaxy-s24-plus-256-gb-em-oferta-de-ate-12x-com-cupom-no-mercado-livre/</link>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/samsung-revela-o-galaxy-a07-celular-de-entrada-com-seis-anos-de-atualizacoes/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/galaxy-a07-all-variant-edited-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 25 Aug 2025 21:18:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>iPhone 15 (256 GB) tem promoção histórica na Amazon com 44% de desconto</title>
+      <link>https://tecnoblog.net/achados/iphone-15-256-gb-tem-promocao-historica-na-amazon-com-44-de-desconto/</link>
+      <description>iPhone 15 (256 GB) fica 44% mais barato com desconto imperdível na Amazon; ficha técnica traz câmera de 48 MP e processador Apple A16 Bionic</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/iphone-15-256-gb-tem-promocao-historica-na-amazon-com-44-de-desconto/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/04/iphone-15-lancamento-apple-cupertino-6-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 26 Aug 2025 12:06:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Samsung promete 7 anos de atualizações para geladeiras e outros eletrodomésticos</title>
+      <link>https://tecnoblog.net/noticias/samsung-promete-7-anos-de-atualizacoes-para-geladeiras-e-outros-eletrodomesticos/</link>
+      <description>Medida espelha compromisso já adotado para smartphones e busca estabelecer novo padrão no mercado de casa conectada.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/samsung-promete-7-anos-de-atualizacoes-para-geladeiras-e-outros-eletrodomesticos/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/samsung-digital-appliances-one-ui-home-appliances-software-smartthings-knox-matrix_dl1-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 26 Aug 2025 12:22:42 +0000</pubDate>
     </item>
   </channel>
 </rss>
