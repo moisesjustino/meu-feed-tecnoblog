@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 26 Aug 2025 21:10:15 +0000</lastBuildDate>
-    <item>
-      <title>Presos reclamam de cadeia nos EUA que libera disquete, mas não pendrive</title>
-      <link>https://tecnoblog.net/noticias/presos-reclamam-de-cadeia-nos-eua-que-libera-disquete-mas-nao-pendrive/</link>
-      <description>Presos em Nova Jersey só conseguem acessar documentos digitais em disquetes. Pendrives, que são usados por advogados, têm acesso restrito.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/presos-reclamam-de-cadeia-nos-eua-que-libera-disquete-mas-nao-pendrive/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/07/disquetes-3-5-polegadas-2-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 25 Aug 2025 16:16:39 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 26 Aug 2025 22:10:39 +0000</lastBuildDate>
     <item>
       <title>YouTube altera vídeos sem avisar e usuários questionam aparência de IA</title>
       <link>https://tecnoblog.net/noticias/youtube-altera-videos-sem-avisar-e-usuarios-questionam-aparencia-de-ia/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/google-tradutor-tera-exercicios-personalizados-para-treinar-idiomas/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/03/capa-google-tradutor_tb-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Tue, 26 Aug 2025 21:00:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Galaxy Watch 7 com mais de 60% OFF em promoção no AliExpress</title>
+      <link>https://tecnoblog.net/achados/galaxy-watch-7-com-mais-de-60-off-em-promocao-no-aliexpress/</link>
+      <description>Galaxy Watch 7 BT 40 mm em promoção com cupom no AliExpress leva chip Exynos W1000, tela Super AMOLED de 1,3 polegada e 13 sensores LED com suporte ao Galaxy AI</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-watch-7-com-mais-de-60-off-em-promocao-no-aliexpress/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/12/galaxy-watch-7-achado-dia-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 26 Aug 2025 21:31:31 +0000</pubDate>
     </item>
   </channel>
 </rss>
