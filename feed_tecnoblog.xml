@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 26 Aug 2025 15:12:07 +0000</lastBuildDate>
-    <item>
-      <title>Apple pode adotar o Gemini do Google em nova versão da Siri</title>
-      <link>https://tecnoblog.net/noticias/apple-pode-adotar-o-gemini-do-google-em-nova-versao-da-siri/</link>
-      <description>Discussões iniciais sugerem que a gigante da tecnologia pode usar o Gemini como base para uma reformulação da assistente, mas decisão final ainda não estaria tomada.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/apple-pode-adotar-o-gemini-do-google-em-nova-versao-da-siri/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/tbr-siri-01-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 22 Aug 2025 21:06:59 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 26 Aug 2025 16:13:53 +0000</lastBuildDate>
     <item>
       <title>Galaxy S25 Edge (512 GB) com 36% OFF em até 10x sem juros na Amazon</title>
       <link>https://tecnoblog.net/achados/galaxy-s25-edge-512-gb-com-36-off-em-ate-10x-sem-juros-na-amazon/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/quick-share-recurso-de-compartilhamento-do-android-deve-chegar-ao-iphone/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/quick-share-android-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 26 Aug 2025 15:09:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>iPhone 17 ganha data de lançamento: 9 de setembro; veja o que esperar</title>
+      <link>https://tecnoblog.net/noticias/iphone-17-ganha-data-de-lancamento-9-de-setembro-veja-o-que-esperar/</link>
+      <description>Evento de lançamento será no Apple Park, sede da empresa em Cupertino. Versão Plus deve ser encerrada.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/iphone-17-ganha-data-de-lancamento-9-de-setembro-veja-o-que-esperar/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/20250826_124551-edited-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 26 Aug 2025 15:59:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
