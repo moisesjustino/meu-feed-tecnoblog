@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 27 Aug 2025 17:09:55 +0000</lastBuildDate>
-    <item>
-      <title>UHS-II, Express, XC e Classe 10: o que significam as letras e números dos cartões microSD</title>
-      <link>https://tecnoblog.net/responde/uhs-express-xc-e-classe-10-o-que-significam-as-letras-e-numeros-dos-cartoes-microsd/</link>
-      <description>Letras e números no microSD servem para indicar as especificações do periférico, de modo a facilitar a identificação de recursos e tecnologias</description>
-      <guid isPermaLink="false">https://tecnoblog.net/responde/uhs-express-xc-e-classe-10-o-que-significam-as-letras-e-numeros-dos-cartoes-microsd/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2016/11/ilustracao-de-microsd-com-especificacoes-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 25 Aug 2025 22:24:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>iPhone 15 (256 GB) tem promoção histórica na Amazon com 44% de desconto</title>
-      <link>https://tecnoblog.net/achados/iphone-15-256-gb-tem-promocao-historica-na-amazon-com-44-de-desconto/</link>
-      <description>iPhone 15 (256 GB) fica 44% mais barato com desconto imperdível na Amazon; ficha técnica traz câmera de 48 MP e processador Apple A16 Bionic</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/iphone-15-256-gb-tem-promocao-historica-na-amazon-com-44-de-desconto/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/04/iphone-15-lancamento-apple-cupertino-6-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 26 Aug 2025 12:06:34 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 27 Aug 2025 18:16:08 +0000</lastBuildDate>
     <item>
       <title>Samsung promete 7 anos de atualizações para geladeiras e outros eletrodomésticos</title>
       <link>https://tecnoblog.net/noticias/samsung-promete-7-anos-de-atualizacoes-para-geladeiras-e-outros-eletrodomesticos/</link>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/motorola-edge-60-fusion-256-gb-tem-promocao-imperdivel-com-cupom/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/motorola-edge-60-fusion-achados-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Wed, 27 Aug 2025 16:25:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Galaxy S24 Ultra tem oferta pela metade do preço no Mercado Livre</title>
+      <link>https://tecnoblog.net/achados/galaxy-s24-ultra-tem-oferta-pela-metade-do-preco-no-mercado-livre/</link>
+      <description>Galaxy S24 Ultra (256 GB) traz Snapdragon 8 Gen 3, RAM de 12 GB e câmera de 200 MP na ficha técnica; celular da Samsung fica 50% mais barato com cupom no Mercado Livre</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-s24-ultra-tem-oferta-pela-metade-do-preco-no-mercado-livre/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/01/galaxy-s24-ultra-tem-4-cameras-com-zoom-optico-de-ate-5x-foto-thassius-velosotecnoblog-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 27 Aug 2025 17:14:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>30 anos depois… Windows 95 ainda é usado para separar ovos numa granja</title>
+      <link>https://tecnoblog.net/noticias/30-anos-depois-windows-95-ainda-e-usado-para-separar-ovos-numa-granja/</link>
+      <description>Sistema operacional lançado em 1995 continua ativo em uma fazenda na Alemanha, onde organiza até 40 mil ovos por dia em caixas para supermercados.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/30-anos-depois-windows-95-ainda-e-usado-para-separar-ovos-numa-granja/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/windows-95-em-granja-de-ovos-edited-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 27 Aug 2025 17:28:50 +0000</pubDate>
     </item>
   </channel>
 </rss>
