@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 27 Aug 2025 16:14:07 +0000</lastBuildDate>
-    <item>
-      <title>Samsung revela o Galaxy A07, celular de entrada com seis anos de atualizações</title>
-      <link>https://tecnoblog.net/noticias/samsung-revela-o-galaxy-a07-celular-de-entrada-com-seis-anos-de-atualizacoes/</link>
-      <description>Modelo básico da fabricante tem processador Helio G99 e proteção IP54 contra poeira e água. Smartphone ainda não tem preço ou data de chegada ao Brasil.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/samsung-revela-o-galaxy-a07-celular-de-entrada-com-seis-anos-de-atualizacoes/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/galaxy-a07-all-variant-edited-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 25 Aug 2025 21:18:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 27 Aug 2025 17:09:55 +0000</lastBuildDate>
     <item>
       <title>UHS-II, Express, XC e Classe 10: o que significam as letras e números dos cartões microSD</title>
       <link>https://tecnoblog.net/responde/uhs-express-xc-e-classe-10-o-que-significam-as-letras-e-numeros-dos-cartoes-microsd/</link>
@@ -177,14 +169,6 @@
       <pubDate>Tue, 26 Aug 2025 22:38:52 +0000</pubDate>
     </item>
     <item>
-      <title>Vem aí: Galaxy S25 FE já pode ser vendido no Brasil</title>
-      <link>https://tecnoblog.net/noticias/vem-ai-galaxy-s25-fe-ja-pode-ser-vendido-no-brasil/</link>
-      <description>Modelo passa pela homologação na Anatel. Versão FE deve ter preço mais acessível e processador Exynos no lugar do Snapdragon.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/vem-ai-galaxy-s25-fe-ja-pode-ser-vendido-no-brasil/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/10/galaxy-s24-fe-4-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 27 Aug 2025 11:28:22 +0000</pubDate>
-    </item>
-    <item>
       <title>O ChatGPT contribuiu para um suicídio. Agora, a OpenAI promete mudanças.</title>
       <link>https://tecnoblog.net/noticias/o-chatgpt-contribuiu-para-um-suicidio-agora-a-openai-promete-mudancas/</link>
       <description>Processo nos EUA acusa companhia de negligência após jovem receber incentivo em mensagens privadas para redigir carta e planejar o ato</description>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/microsoft-word-vai-salvar-documentos-automaticamente-no-onedrive/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/microsoft-word-salvamento-onedrive-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Wed, 27 Aug 2025 16:03:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>TV 3.0: nova geração da televisão aberta muda acesso aos canais</title>
+      <link>https://tecnoblog.net/noticias/tv-3-0-nova-geracao-da-televisao-aberta-muda-acesso-aos-canais/</link>
+      <description>Decreto estabelece mudanças no formato, como substituição dos números de canais por aplicativos. Primeiros usuários devem acessar novo padrão já em 2026.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/tv-3-0-nova-geracao-da-televisao-aberta-muda-acesso-aos-canais/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2021/07/jogos_android_TV-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 27 Aug 2025 16:18:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Motorola Edge 60 Fusion (256 GB) tem promoção imperdível com cupom</title>
+      <link>https://tecnoblog.net/achados/motorola-edge-60-fusion-256-gb-tem-promocao-imperdivel-com-cupom/</link>
+      <description>Motorola Edge 60 Fusion (256 GB) com 40% de desconto no Pix e resgate de cupom no Magalu; smartphone traz câmera Sony com Moto AI, tela POLED e bateria de 5.200 mAh</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/motorola-edge-60-fusion-256-gb-tem-promocao-imperdivel-com-cupom/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/motorola-edge-60-fusion-achados-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 27 Aug 2025 16:25:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
