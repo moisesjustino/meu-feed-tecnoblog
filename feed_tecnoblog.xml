@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 27 Aug 2025 14:11:09 +0000</lastBuildDate>
-    <item>
-      <title>Intel: acordo com governo dos EUA pode afetar vendas internacionais</title>
-      <link>https://tecnoblog.net/noticias/intel-acordo-com-governo-dos-eua-pode-afetar-vendas-internacionais/</link>
-      <description>Governo dos Estados Unidos anunciou participação de 9,9% na Intel. Seguindo normas, companhia informou mercado dos riscos do acordo.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/intel-acordo-com-governo-dos-eua-pode-afetar-vendas-internacionais/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/lip-bu-tan-1-edited-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 25 Aug 2025 18:53:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Galaxy A05s tem câmera tripla e oferta por menos de R$ 620 com 39% OFF</title>
-      <link>https://tecnoblog.net/achados/galaxy-a05s-tem-camera-tripla-e-oferta-por-menos-de-r-620-com-39-off/</link>
-      <description>Galaxy A05s de 128 GB é baratinho da Samsung com câmera de 50 MP, tela de 90 Hz e bateria de 5.000 mAh; celular tem 39% de desconto no Mercado Livre</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-a05s-tem-camera-tripla-e-oferta-por-menos-de-r-620-com-39-off/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/03/Galaxy-A05s-tem-camera-tripla-com-sensor-de-50-MP-foto-Katarina-BandeiraTecnoblog-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 25 Aug 2025 19:02:26 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 27 Aug 2025 15:12:20 +0000</lastBuildDate>
     <item>
       <title>Redes sociais: embaixada dos EUA passa a exigir perfis públicos para conceder vistos</title>
       <link>https://tecnoblog.net/noticias/redes-sociais-embaixada-dos-eua-passa-a-exigir-perfis-publicos-para-conceder-vistos/</link>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/o-chatgpt-contribuiu-para-um-suicidio-agora-a-openai-promete-mudancas/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/06/openai-4_capa-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Wed, 27 Aug 2025 13:58:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Android XR: Samsung quer vender 100 mil unidades de rival do Vision Pro</title>
+      <link>https://tecnoblog.net/noticias/android-xr-samsung-quer-vender-100-mil-unidades-de-rival-do-vision-pro/</link>
+      <description>Headset da Samsung com Android XR deve chegar primeiro à Coreia do Sul. Preço ficaria entre US$ 1.800 e US$ 2.000, valor bem abaixo do cobrado pelo Apple Vision Pro.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/android-xr-samsung-quer-vender-100-mil-unidades-de-rival-do-vision-pro/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/samsung-headset-android-xr-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 27 Aug 2025 14:15:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google turbina edição de imagens via IA do Gemini</title>
+      <link>https://tecnoblog.net/noticias/google-turbina-edicao-de-imagens-via-ia-do-gemini/</link>
+      <description>Nano Banana, novo editor do DeepMind, chega ao Gemini. Ferramenta mantém aparência de pessoas e objetos após múltiplas edições e já está disponível para todos.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/google-turbina-edicao-de-imagens-via-ia-do-gemini/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/edicao-gemini-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 27 Aug 2025 15:04:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
