@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 27 Aug 2025 18:16:08 +0000</lastBuildDate>
-    <item>
-      <title>Samsung promete 7 anos de atualizações para geladeiras e outros eletrodomésticos</title>
-      <link>https://tecnoblog.net/noticias/samsung-promete-7-anos-de-atualizacoes-para-geladeiras-e-outros-eletrodomesticos/</link>
-      <description>Medida espelha compromisso já adotado para smartphones e busca estabelecer novo padrão no mercado de casa conectada.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/samsung-promete-7-anos-de-atualizacoes-para-geladeiras-e-outros-eletrodomesticos/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/samsung-digital-appliances-one-ui-home-appliances-software-smartthings-knox-matrix_dl1-edited-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 26 Aug 2025 12:22:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Spotify anuncia função de mensagens diretas dentro da plataforma</title>
-      <link>https://tecnoblog.net/noticias/spotify-anuncia-funcao-de-mensagens-diretas-dentro-da-plataforma/</link>
-      <description>Spotify Mensagens permite que usuário converse com outro sem sair do serviço de streaming. Novidade funciona em contas gratuitas e Premium.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/spotify-anuncia-funcao-de-mensagens-diretas-dentro-da-plataforma/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/spotify-mensagens-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 26 Aug 2025 13:00:48 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 27 Aug 2025 19:09:35 +0000</lastBuildDate>
     <item>
       <title>Google NotebookLM ganha resumos em vídeo em português</title>
       <link>https://tecnoblog.net/noticias/google-notebooklm-ganha-resumos-em-video-em-portugues/</link>
@@ -125,7 +109,7 @@
       <link>https://tecnoblog.net/guias/o-que-e-cartao-de-memoria-conheca-os-tipos-e-saiba-como-escolher-um-memory-card/</link>
       <description>Você deve verificar questões de compatibilidade com o eletrônico e focar em marcas oficiais ao escolher um cartão de memória</description>
       <guid isPermaLink="false">https://tecnoblog.net/guias/o-que-e-cartao-de-memoria-conheca-os-tipos-e-saiba-como-escolher-um-memory-card/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/ilustracao-de-cartoes-de-memoria-340x191.jpg" length="0" type="image/jpeg"/>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/ilustracao-de-cartao-de-memoria-cf-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 26 Aug 2025 20:21:36 +0000</pubDate>
     </item>
     <item>
@@ -217,12 +201,28 @@
       <pubDate>Wed, 27 Aug 2025 17:14:48 +0000</pubDate>
     </item>
     <item>
-      <title>30 anos depois… Windows 95 ainda é usado para separar ovos numa granja</title>
+      <title>30 anos depois… Windows 95 ainda é usado para separar ovos nesta granja</title>
       <link>https://tecnoblog.net/noticias/30-anos-depois-windows-95-ainda-e-usado-para-separar-ovos-numa-granja/</link>
       <description>Sistema operacional lançado em 1995 continua ativo em uma fazenda na Alemanha, onde organiza até 40 mil ovos por dia em caixas para supermercados.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/30-anos-depois-windows-95-ainda-e-usado-para-separar-ovos-numa-granja/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/windows-95-em-granja-de-ovos-edited-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Wed, 27 Aug 2025 17:28:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>WhatsApp ganha ferramenta para reescrever mensagens usando Meta AI</title>
+      <link>https://tecnoblog.net/noticias/whatsapp-ganha-ferramenta-para-reescrever-mensagens-usando-meta-ai/</link>
+      <description>Função sugere diferentes tons de texto com ajuda de IA. Empresa promete privacidade com processamento isolado na nuvem e dados apagados após a sessão</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/whatsapp-ganha-ferramenta-para-reescrever-mensagens-usando-meta-ai/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/10/capa-meta-ai-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 27 Aug 2025 18:33:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Impressora 3D feita de Lego combina Python e motores para criar objetos</title>
+      <link>https://tecnoblog.net/noticias/impressora-3d-feita-de-lego-combina-python-e-motores-para-criar-objetos/</link>
+      <description>Equipamento criado por usuário do Reddit é capaz de imprimir objetos de plástico, mas com baixa precisão. Controle é feito via script em Python, que interpreta arquivos G-code.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/impressora-3d-feita-de-lego-combina-python-e-motores-para-criar-objetos/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/gravacao-de-tela-2025-08-27-145712_lebt5qih-_online-video-cutter-com_-1-340x191.gif" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 27 Aug 2025 18:35:22 +0000</pubDate>
     </item>
   </channel>
 </rss>
