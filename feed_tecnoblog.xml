@@ -7,39 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 27 Aug 2025 19:09:35 +0000</lastBuildDate>
-    <item>
-      <title>Google NotebookLM ganha resumos em vídeo em português</title>
-      <link>https://tecnoblog.net/noticias/google-notebooklm-ganha-resumos-em-video-em-portugues/</link>
-      <description>IA que ajuda nos estudos agora tem suporte para mais de 80 idiomas. Resumos em áudio também ficam mais completos com análises detalhadas.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/google-notebooklm-ganha-resumos-em-video-em-portugues/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/notebooklm-ganha-resumo-em-portugues--340x191.webp" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 26 Aug 2025 13:16:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>TV Samsung de 70″ tem oferta em até 10x com 37% de desconto na Amazon</title>
-      <link>https://tecnoblog.net/achados/tv-samsung-de-70-tem-oferta-em-ate-10x-com-37-de-desconto-na-amazon/</link>
-      <description>TV Samsung DU8000 tem display de 70 polegadas, Gaming Hub e Samsung TV Plus; oferta com 37% OFF na Amazon permite parcelamento em até 10x sem juros</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/tv-samsung-de-70-tem-oferta-em-ate-10x-com-37-de-desconto-na-amazon/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/08/samsung-crystal-hud-du8000-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 26 Aug 2025 13:54:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Galaxy Buds 3 Pro tem oferta em 12x sem juros com cupom no Mercado Livre</title>
-      <link>https://tecnoblog.net/achados/galaxy-buds-3-pro-tem-oferta-em-12x-sem-juros-com-cupom-no-mercado-livre/</link>
-      <description>Galaxy Buds 3 Pro tem áudio 360, bateria para até 30 horas e suporte ao Galaxy AI com cancelamento ativo de ruído (ANC); oferta em até 12x sem juros com cupom</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-buds-3-pro-tem-oferta-em-12x-sem-juros-com-cupom-no-mercado-livre/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/buds-3-pro-achados-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 26 Aug 2025 14:04:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>iPhone 17 pode receber função que estreou na Samsung em 2019</title>
-      <link>https://tecnoblog.net/noticias/iphone-17-pode-receber-funcao-que-estreou-no-galaxy-da-samsung-em-2019/</link>
-      <description>Apple pode incluir o carregamento reverso sem fio no iPhone 17. Funcionalidade conhecida no Android permite que o celular carregue outros dispositivos por indução.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/iphone-17-pode-receber-funcao-que-estreou-no-galaxy-da-samsung-em-2019/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/09/iphone-15-pro-2-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 26 Aug 2025 14:36:45 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 27 Aug 2025 20:12:46 +0000</lastBuildDate>
     <item>
       <title>Quick Share: recurso de compartilhamento do Android deve chegar ao iPhone</title>
       <link>https://tecnoblog.net/noticias/quick-share-recurso-de-compartilhamento-do-android-deve-chegar-ao-iphone/</link>
@@ -213,7 +181,7 @@
       <link>https://tecnoblog.net/noticias/whatsapp-ganha-ferramenta-para-reescrever-mensagens-usando-meta-ai/</link>
       <description>Função sugere diferentes tons de texto com ajuda de IA. Empresa promete privacidade com processamento isolado na nuvem e dados apagados após a sessão</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/whatsapp-ganha-ferramenta-para-reescrever-mensagens-usando-meta-ai/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/10/capa-meta-ai-340x191.png" length="0" type="image/jpeg"/>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/whatsapp-writing-help-edited-1-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Wed, 27 Aug 2025 18:33:52 +0000</pubDate>
     </item>
     <item>
@@ -223,6 +191,38 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/impressora-3d-feita-de-lego-combina-python-e-motores-para-criar-objetos/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/gravacao-de-tela-2025-08-27-145712_lebt5qih-_online-video-cutter-com_-1-340x191.gif" length="0" type="image/jpeg"/>
       <pubDate>Wed, 27 Aug 2025 18:35:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Meta perde pesquisadores de IA recém-contratados após pedidos de demissão</title>
+      <link>https://tecnoblog.net/noticias/meta-perde-pesquisadores-de-ia-recem-contratados-apos-pedidos-de-demissao/</link>
+      <description>Criado há dois meses, o Meta Superintelligence Labs já enfrenta baixas. Dois pesquisadores voltaram para a OpenAI.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/meta-perde-pesquisadores-de-ia-recem-contratados-apos-pedidos-de-demissao/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/02/Capa-Mark-Zuckerberg-01-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 27 Aug 2025 19:24:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Próxima linha Radeon pode fazer AMD voltar a ser forte em GPUs de ponta</title>
+      <link>https://tecnoblog.net/noticias/proxima-linha-radeon-pode-fazer-amd-voltar-a-ser-forte-em-gpus-de-ponta/</link>
+      <description>AMD não tem priorizado placas de vídeo high-end, mas pode mudar estratégia na futura série Radeon RX 10000, com arquitetura RDNA 5.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/proxima-linha-radeon-pode-fazer-amd-voltar-a-ser-forte-em-gpus-de-ponta/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/05/amd-video_capa-1_tb-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 27 Aug 2025 19:33:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Galaxy A56 (128 GB) está 43% mais barato no Mercado Livre</title>
+      <link>https://tecnoblog.net/achados/galaxy-a56-128-gb-esta-43-mais-barato-no-mercado-livre/</link>
+      <description>Galaxy A56 de 128 GB tem RAM de 8 GB, tela Super AMOLED de 120 Hz e câmera de 50 MP; celular da Samsung tem 43% de desconto em oferta no Mercado Livre</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-a56-128-gb-esta-43-mais-barato-no-mercado-livre/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/05/Galaxya56-achou-correu-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 27 Aug 2025 19:43:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Galaxy A36 (128 GB) tem menor preço histórico em oferta no Mercado Livre</title>
+      <link>https://tecnoblog.net/achados/galaxy-a36-128-gb-tem-menor-preco-historico-em-oferta-no-mercado-livre/</link>
+      <description>Galaxy A36 (128 GB) está em oferta com 52% de desconto no Pix e uso do cupom V3MPR0ML; smartphone tem Galaxy AI, tela super AMOLED de 120 Hz e chip Snapdragon 6 Gen 3</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-a36-128-gb-tem-menor-preco-historico-em-oferta-no-mercado-livre/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/samsung-galaxy-a36-tem-camera-de-50-mp-foto-thassius-velosotecnoblog-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 27 Aug 2025 20:02:42 +0000</pubDate>
     </item>
   </channel>
 </rss>
