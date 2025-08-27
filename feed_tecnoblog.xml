@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 27 Aug 2025 11:10:16 +0000</lastBuildDate>
-    <item>
-      <title>Elon Musk processa Apple e OpenAI por suposto favorecimento na App Store</title>
-      <link>https://tecnoblog.net/noticias/elon-musk-processa-apple-e-openai-por-suposto-favorecimento-na-app-store/</link>
-      <description>Bilionário acusa loja de aplicativos de discriminar concorrentes do ChatGPT, mas DeepSeek e Perplexity já chegaram ao topo da lista de downloads.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/elon-musk-processa-apple-e-openai-por-suposto-favorecimento-na-app-store/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/11/musk-capa-2-nov-2022-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 25 Aug 2025 17:22:30 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 27 Aug 2025 12:22:40 +0000</lastBuildDate>
     <item>
       <title>Semana de Ofertas Alexa: Echo Pop e mais têm até 27% OFF na Amazon</title>
       <link>https://tecnoblog.net/achados/semana-de-ofertas-alexa-echo-pop-e-mais-tem-ate-27-off-na-amazon/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/wd_black-sn8100-sandisk-lanca-ssd-de-alto-desempenho-no-brasil/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/img_5598-340x191.jpeg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 26 Aug 2025 22:38:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vem aí: Galaxy S25 FE já pode ser vendido no Brasil</title>
+      <link>https://tecnoblog.net/noticias/vem-ai-galaxy-s25-fe-ja-pode-ser-vendido-no-brasil/</link>
+      <description>Modelo passa pela homologação na Anatel. Versão FE deve ter preço mais acessível e processador Exynos no lugar do Snapdragon.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/vem-ai-galaxy-s25-fe-ja-pode-ser-vendido-no-brasil/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/10/galaxy-s24-fe-4-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 27 Aug 2025 11:28:22 +0000</pubDate>
     </item>
   </channel>
 </rss>
