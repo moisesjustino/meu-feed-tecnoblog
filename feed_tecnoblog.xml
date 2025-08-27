@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 27 Aug 2025 21:10:31 +0000</lastBuildDate>
-    <item>
-      <title>O que é um touchpad? Entenda o funcionamento em notebooks</title>
-      <link>https://tecnoblog.net/responde/o-que-e-um-touchpad-entenda-o-funcionamento-em-notebooks/</link>
-      <description>Touchpad é um dispositivo sensível ao toque que permite realizar diferentes funções em notebooks, como ampliar imagens, arrastar itens ou rolar a tela</description>
-      <guid isPermaLink="false">https://tecnoblog.net/responde/o-que-e-um-touchpad-entenda-o-funcionamento-em-notebooks/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2021/06/lenovo-ideapad-flex-5i-4-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 26 Aug 2025 15:49:06 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 27 Aug 2025 22:10:25 +0000</lastBuildDate>
     <item>
       <title>iPhone 17 ganha data de lançamento: 9 de setembro; veja o que esperar</title>
       <link>https://tecnoblog.net/noticias/iphone-17-ganha-data-de-lancamento-9-de-setembro-veja-o-que-esperar/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/google-lanca-versao-gratuita-do-vids-editor-de-video-com-ia/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/google-vids-transcricao-ia--340x191.webp" length="0" type="image/jpeg"/>
       <pubDate>Wed, 27 Aug 2025 20:53:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>PlayStation Plus de setembro traz Psychonauts 2 e Stardew Valley</title>
+      <link>https://tecnoblog.net/noticias/playstation-plus-de-setembro-traz-psychonauts-2-e-stardew-valley/</link>
+      <description>Assinantes dos planos Essential, Extra e Deluxe poderão resgatar os títulos sem custo adicional na primeira terça-feira do mês.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/playstation-plus-de-setembro-traz-psychonauts-2-e-stardew-valley/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/psychonauts-2-340x191.webp" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 27 Aug 2025 21:58:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
