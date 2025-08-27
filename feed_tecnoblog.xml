@@ -7,31 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 27 Aug 2025 15:12:20 +0000</lastBuildDate>
-    <item>
-      <title>Redes sociais: embaixada dos EUA passa a exigir perfis públicos para conceder vistos</title>
-      <link>https://tecnoblog.net/noticias/redes-sociais-embaixada-dos-eua-passa-a-exigir-perfis-publicos-para-conceder-vistos/</link>
-      <description>Exigência afeta estudantes, intercambistas, acadêmicos e profissionais técnicos. Mudança integra novos ajustes migratórios do governo Trump.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/redes-sociais-embaixada-dos-eua-passa-a-exigir-perfis-publicos-para-conceder-vistos/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/05/passaporte_capa-1_tb-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 25 Aug 2025 20:12:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Motorola Edge 50 Neo (256 GB) em oferta por até 10x sem juros na Amazon</title>
-      <link>https://tecnoblog.net/achados/motorola-edge-50-neo-256-gb-em-oferta-por-ate-10x-sem-juros-na-amazon/</link>
-      <description>Motorola Edge 50 Neo é equipado com tela POLED de 6,4", câmera principal Sony com Moto AI e chip MediaTek Dimensity 7300; versão de 256 GB em 10x sem juros na Amazon</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/motorola-edge-50-neo-256-gb-em-oferta-por-ate-10x-sem-juros-na-amazon/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/Motorola-Edge-50-Neo-tem-camera-traseira-tripla-foto-Motorola-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 25 Aug 2025 21:08:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Android: Google vai dificultar instalação de apps por fora da Play Store</title>
-      <link>https://tecnoblog.net/noticias/android-google-vai-dificultar-instalacao-de-apps-por-fora-da-play-store/</link>
-      <description>Aparelhos certificados não vão aceitar aplicativos feitos por desenvolvedores não verificados, mesmo que venham de outras lojas ou via sideloading</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/android-google-vai-dificultar-instalacao-de-apps-por-fora-da-play-store/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/03/android-13-3-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 25 Aug 2025 21:13:17 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 27 Aug 2025 16:14:07 +0000</lastBuildDate>
     <item>
       <title>Samsung revela o Galaxy A07, celular de entrada com seis anos de atualizações</title>
       <link>https://tecnoblog.net/noticias/samsung-revela-o-galaxy-a07-celular-de-entrada-com-seis-anos-de-atualizacoes/</link>
@@ -111,6 +87,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/quick-share-recurso-de-compartilhamento-do-android-deve-chegar-ao-iphone/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/quick-share-android-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 26 Aug 2025 15:09:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>O que é um touchpad? Entenda o funcionamento em notebooks</title>
+      <link>https://tecnoblog.net/responde/o-que-e-um-touchpad-entenda-o-funcionamento-em-notebooks/</link>
+      <description>Touchpad é um dispositivo sensível ao toque que permite realizar diferentes funções em notebooks, como ampliar imagens, arrastar itens ou rolar a tela</description>
+      <guid isPermaLink="false">https://tecnoblog.net/responde/o-que-e-um-touchpad-entenda-o-funcionamento-em-notebooks/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2021/06/lenovo-ideapad-flex-5i-4-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 26 Aug 2025 15:49:06 +0000</pubDate>
     </item>
     <item>
       <title>iPhone 17 ganha data de lançamento: 9 de setembro; veja o que esperar</title>
@@ -217,12 +201,28 @@
       <pubDate>Wed, 27 Aug 2025 14:15:30 +0000</pubDate>
     </item>
     <item>
-      <title>Google turbina edição de imagens via IA do Gemini</title>
+      <title>Nano Banana: Google turbina edição de imagens via IA do Gemini</title>
       <link>https://tecnoblog.net/noticias/google-turbina-edicao-de-imagens-via-ia-do-gemini/</link>
-      <description>Nano Banana, novo editor do DeepMind, chega ao Gemini. Ferramenta mantém aparência de pessoas e objetos após múltiplas edições e já está disponível para todos.</description>
+      <description>Editor foi originalmente criado pelo DeepMind. Ferramenta mantém aparência de pessoas e objetos após múltiplas edições e já está disponível para todos.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/google-turbina-edicao-de-imagens-via-ia-do-gemini/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/edicao-gemini-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Wed, 27 Aug 2025 15:04:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Som abafado? Windows 11 ganha recurso que melhora qualidade em fones Bluetooth</title>
+      <link>https://tecnoblog.net/noticias/som-abafado-windows-11-ganha-recurso-que-melhora-qualidade-em-fones-bluetooth/</link>
+      <description>Novidade deve corrigir queixa de gamers sobre queda de qualidade durante chamadas. Recurso usa tecnologia Bluetooth LE Audio para manter som estéreo.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/som-abafado-windows-11-ganha-recurso-que-melhora-qualidade-em-fones-bluetooth/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/07/windows-11-4-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 27 Aug 2025 15:53:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Word vai salvar documentos automaticamente no OneDrive</title>
+      <link>https://tecnoblog.net/noticias/microsoft-word-vai-salvar-documentos-automaticamente-no-onedrive/</link>
+      <description>Word já tem opção de salvamento automático nas nuvens, mas se o usuário ativar. Microsoft testa abordagem para tornar esse recurso padrão.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/microsoft-word-vai-salvar-documentos-automaticamente-no-onedrive/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/microsoft-word-salvamento-onedrive-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 27 Aug 2025 16:03:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
