@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 27 Aug 2025 23:10:31 +0000</lastBuildDate>
-    <item>
-      <title>iPhone 17 ganha data de lançamento: 9 de setembro; veja o que esperar</title>
-      <link>https://tecnoblog.net/noticias/iphone-17-ganha-data-de-lancamento-9-de-setembro-veja-o-que-esperar/</link>
-      <description>Evento de lançamento será no Apple Park, sede da empresa em Cupertino. Versão Plus deve ser encerrada.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/iphone-17-ganha-data-de-lancamento-9-de-setembro-veja-o-que-esperar/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/20250826_130014-edited-1-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 26 Aug 2025 15:59:55 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 28 Aug 2025 00:53:56 +0000</lastBuildDate>
     <item>
       <title>IA já tem impacto em taxa de emprego de jovens nos EUA, mostra pesquisa</title>
       <link>https://tecnoblog.net/noticias/ia-ja-tem-impacto-em-taxa-de-emprego-de-jovens-nos-eua-mostra-pesquisa/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/playstation-plus-de-setembro-traz-psychonauts-2-e-stardew-valley/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/psychonauts-2-340x191.webp" length="0" type="image/jpeg"/>
       <pubDate>Wed, 27 Aug 2025 21:58:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Expectativa para o S25 FE: Samsung marca evento especial em setembro</title>
+      <link>https://tecnoblog.net/noticias/samsung-marca-evento-especial-em-setembro/</link>
+      <description>Gigante sul-coreana deve apresentar o Galaxy S25 FE, modelo com preço supostamente mais acessível. Ele deve usar processador Exynos 2400.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/samsung-marca-evento-especial-em-setembro/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/convite-evento-galaxy-do-s25-fe-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 27 Aug 2025 23:15:10 +0000</pubDate>
     </item>
   </channel>
 </rss>
