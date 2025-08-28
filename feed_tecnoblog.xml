@@ -7,31 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 28 Aug 2025 13:22:56 +0000</lastBuildDate>
-    <item>
-      <title>HBO Max fica mais cara no Brasil; veja os novos preços</title>
-      <link>https://tecnoblog.net/noticias/hbo-max-fica-mais-caro-no-brasil-veja-os-novos-precos/</link>
-      <description>Reajustes de preços da HBO Max afeta principalmente as cobranças anuais dos planos. Os aumentos de valores variam entre 12,5% e 21,2%.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/hbo-max-fica-mais-caro-no-brasil-veja-os-novos-precos/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/hbo-max-novos-precos-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 26 Aug 2025 17:00:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Amazon Prime Video é processado por usar o termo “comprar”</title>
-      <link>https://tecnoblog.net/noticias/amazon-prime-video-e-processado-por-usar-o-termo-comprar/</link>
-      <description>Ação judicial nos EUA acusa a Amazon de propaganda enganosa. Consumidores alegam que compras no Prime Video não garantem posse, apenas licença temporária.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/amazon-prime-video-e-processado-por-usar-o-termo-comprar/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/11/capa-prime-video-2-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 26 Aug 2025 18:13:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Após polêmica, iOS 26 ganha opção para desativar anúncios no Apple Wallet</title>
-      <link>https://tecnoblog.net/noticias/apos-polemica-ios-26-ganha-opcao-para-desativar-anuncios-no-apple-wallet/</link>
-      <description>Usuários poderão desligar notificações promocionais no app sem afetar avisos importantes. Recurso foi adicionado após críticas envolvendo a propaganda de F1: O Filme.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/apos-polemica-ios-26-ganha-opcao-para-desativar-anuncios-no-apple-wallet/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/apple-wallet-notifications-ios-26-1-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 26 Aug 2025 19:35:01 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 28 Aug 2025 14:11:40 +0000</lastBuildDate>
     <item>
       <title>O que é um monitor? Saiba escolher o modelo ideal antes de comprar</title>
       <link>https://tecnoblog.net/guias/o-que-e-um-monitor-saiba-escolher-o-modelo-ideal-antes-de-comprar/</link>
@@ -223,6 +199,30 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/android-ganha-contagem-regressiva-para-abrir-novos-apps/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/03/android-13-3-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Thu, 28 Aug 2025 11:03:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google cortou 35% das vagas gerenciais em um ano; entenda a mudança</title>
+      <link>https://tecnoblog.net/noticias/google-cortou-35-das-vagas-gerenciais-em-um-ano-entenda-a-mudanca/</link>
+      <description>Redução de cargos gerenciais faz parte de um plano de aumento da eficiência operacional do Google. Foram eliminados postos de liderança de equipes pequenas.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/google-cortou-35-das-vagas-gerenciais-em-um-ano-entenda-a-mudanca/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/03/google-1-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 28 Aug 2025 13:37:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pix ganha novas regras para devolver dinheiro de golpes; veja o que muda</title>
+      <link>https://tecnoblog.net/noticias/pix-ganha-novas-regras-para-devolver-dinheiro-de-golpes-veja-o-que-muda/</link>
+      <description>Pedido de devolução não vai mais precisar de atendimento humano, e caminho do dinheiro será monitorado por bancos para localizar onde estão os recursos</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/pix-ganha-novas-regras-para-devolver-dinheiro-de-golpes-veja-o-que-muda/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/07/pix_capa-3_tb-edited-340x191.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 28 Aug 2025 13:59:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Xbox Cloud Gaming chega a planos mais baratos do Game Pass</title>
+      <link>https://tecnoblog.net/noticias/xbox-cloud-gaming-chega-a-planos-mais-baratos-do-game-pass/</link>
+      <description>Serviço de jogos na nuvem deixa de ser exclusivo do Ultimate. Assinaturas dos planos Core e Standard terão acesso ao recurso, por enquanto disponível via Xbox Insider.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/xbox-cloud-gaming-chega-a-planos-mais-baratos-do-game-pass/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/07/xbox-game-pass-000-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 28 Aug 2025 14:08:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
