@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 28 Aug 2025 17:10:03 +0000</lastBuildDate>
-    <item>
-      <title>Nano Banana: Google turbina edição de imagens via IA do Gemini</title>
-      <link>https://tecnoblog.net/noticias/google-turbina-edicao-de-imagens-via-ia-do-gemini/</link>
-      <description>Editor foi originalmente criado pelo DeepMind. Ferramenta mantém aparência de pessoas e objetos após múltiplas edições e já está disponível para todos.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/google-turbina-edicao-de-imagens-via-ia-do-gemini/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/edicao-gemini-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 27 Aug 2025 15:04:38 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 28 Aug 2025 18:16:14 +0000</lastBuildDate>
     <item>
       <title>Som abafado? Windows 11 ganha recurso que melhora qualidade em fones Bluetooth</title>
       <link>https://tecnoblog.net/noticias/som-abafado-windows-11-ganha-recurso-que-melhora-qualidade-em-fones-bluetooth/</link>
@@ -209,7 +201,7 @@
       <pubDate>Thu, 28 Aug 2025 15:08:42 +0000</pubDate>
     </item>
     <item>
-      <title>Fundadora do Nubank entra no top 10 de bilionárias do Brasil</title>
+      <title>Fundadora do Nubank é destaque no top 10 de bilionárias do Brasil</title>
       <link>https://tecnoblog.net/noticias/fundadora-do-nubank-entra-no-top-10-de-bilionarias-do-brasil/</link>
       <description>Cristina Junqueira ficou na 5ª posição entre as mulheres mais ricas do país em 2025. Bilionária também figurou na lista da Forbes em 2024.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/fundadora-do-nubank-entra-no-top-10-de-bilionarias-do-brasil/</guid>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/recurso-experimental-do-edge-para-android-roda-youtube-em-segundo-plano/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/youtube-microsoft-edge-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Thu, 28 Aug 2025 16:09:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Motorola Edge 60 Pro (512 GB) tem oferta histórica no Mercado Livre</title>
+      <link>https://tecnoblog.net/achados/motorola-edge-60-pro-512-gb-tem-oferta-historica-no-mercado-livre/</link>
+      <description>Moto Edge 60 Pro tem 12 GB de RAM, bateria de 6.000 mAh, tela POLED com 4.500 nits e câmeras de 50 MP com Moto AI; versão de 512 GB com 38% OFF no Pix e uso de cupom</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/motorola-edge-60-pro-512-gb-tem-oferta-historica-no-mercado-livre/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/motorola-edge-60-pro-foto-giovanni-santa-rosatecnoblog-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 28 Aug 2025 17:15:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
