@@ -7,31 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 28 Aug 2025 15:11:56 +0000</lastBuildDate>
-    <item>
-      <title>WD_Black SN8100: SanDisk lança SSD de alto desempenho no Brasil</title>
-      <link>https://tecnoblog.net/noticias/wd_black-sn8100-sandisk-lanca-ssd-de-alto-desempenho-no-brasil/</link>
-      <description>SSDs WD_Black SN8100 têm até 4 TB de capacidade de armazenamento e taxa de leitura de dados que alcança 14.900 MB/s.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/wd_black-sn8100-sandisk-lanca-ssd-de-alto-desempenho-no-brasil/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/img_5598-340x191.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 26 Aug 2025 22:38:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>O ChatGPT contribuiu para um suicídio. Agora, a OpenAI promete mudanças.</title>
-      <link>https://tecnoblog.net/noticias/o-chatgpt-contribuiu-para-um-suicidio-agora-a-openai-promete-mudancas/</link>
-      <description>Processo nos EUA acusa companhia de negligência após jovem receber incentivo em mensagens privadas para redigir carta e planejar o ato</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/o-chatgpt-contribuiu-para-um-suicidio-agora-a-openai-promete-mudancas/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/06/openai-4_capa-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 27 Aug 2025 13:58:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Android XR: Samsung quer vender 100 mil unidades de rival do Vision Pro</title>
-      <link>https://tecnoblog.net/noticias/android-xr-samsung-quer-vender-100-mil-unidades-de-rival-do-vision-pro/</link>
-      <description>Headset da Samsung com Android XR deve chegar primeiro à Coreia do Sul. Preço ficaria entre US$ 1.800 e US$ 2.000, valor bem abaixo do cobrado pelo Apple Vision Pro.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/android-xr-samsung-quer-vender-100-mil-unidades-de-rival-do-vision-pro/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/samsung-headset-android-xr-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 27 Aug 2025 14:15:30 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 28 Aug 2025 16:14:27 +0000</lastBuildDate>
     <item>
       <title>Nano Banana: Google turbina edição de imagens via IA do Gemini</title>
       <link>https://tecnoblog.net/noticias/google-turbina-edicao-de-imagens-via-ia-do-gemini/</link>
@@ -119,6 +95,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/proxima-linha-radeon-pode-fazer-amd-voltar-a-ser-forte-em-gpus-de-ponta/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/05/amd-video_capa-1_tb-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Wed, 27 Aug 2025 19:33:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Qual é a diferença entre HD e SSD? Entenda o que muda de um para outro</title>
+      <link>https://tecnoblog.net/responde/qual-a-diferenca-entre-hd-e-ssd/</link>
+      <description>HDs são ideais para armazenar grande volume de dados, como backups, enquanto o SSD é perfeito para inicialização e carregamento rápido de sistemas operacionais</description>
+      <guid isPermaLink="false">https://tecnoblog.net/responde/qual-a-diferenca-entre-hd-e-ssd/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2021/11/como-saber-qual-ssd-e-compativel-com-meu-notebook-capa-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 27 Aug 2025 19:37:25 +0000</pubDate>
     </item>
     <item>
       <title>Galaxy A56 (128 GB) está 43% mais barato no Mercado Livre</title>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/policia-dos-eua-coloca-ia-para-atender-ligacoes-do-911/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/911-ligacao-automatica-edited-340x191.webp" length="0" type="image/jpeg"/>
       <pubDate>Thu, 28 Aug 2025 15:08:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fundadora do Nubank entra no top 10 de bilionárias do Brasil</title>
+      <link>https://tecnoblog.net/noticias/fundadora-do-nubank-entra-no-top-10-de-bilionarias-do-brasil/</link>
+      <description>Cristina Junqueira ficou na 5ª posição entre as mulheres mais ricas do país em 2025. Bilionária também figurou na lista da Forbes em 2024.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/fundadora-do-nubank-entra-no-top-10-de-bilionarias-do-brasil/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/cristina-junqueira-edited-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 28 Aug 2025 15:49:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Recurso experimental do Edge para Android roda YouTube em segundo plano</title>
+      <link>https://tecnoblog.net/noticias/recurso-experimental-do-edge-para-android-roda-youtube-em-segundo-plano/</link>
+      <description>Novidade faz Microsoft Edge rodar vídeos do YouTube em segundo plano mesmo para quem não tiver assinatura Premium no serviço.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/recurso-experimental-do-edge-para-android-roda-youtube-em-segundo-plano/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/youtube-microsoft-edge-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 28 Aug 2025 16:09:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
