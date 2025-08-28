@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 28 Aug 2025 18:16:14 +0000</lastBuildDate>
-    <item>
-      <title>Som abafado? Windows 11 ganha recurso que melhora qualidade em fones Bluetooth</title>
-      <link>https://tecnoblog.net/noticias/som-abafado-windows-11-ganha-recurso-que-melhora-qualidade-em-fones-bluetooth/</link>
-      <description>Novidade deve corrigir queixa de gamers sobre queda de qualidade durante chamadas. Recurso usa tecnologia Bluetooth LE Audio para manter som estéreo.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/som-abafado-windows-11-ganha-recurso-que-melhora-qualidade-em-fones-bluetooth/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/07/windows-11-4-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 27 Aug 2025 15:53:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Word vai salvar documentos automaticamente no OneDrive</title>
-      <link>https://tecnoblog.net/noticias/microsoft-word-vai-salvar-documentos-automaticamente-no-onedrive/</link>
-      <description>Word já tem opção de salvamento automático nas nuvens, mas se o usuário ativar. Microsoft testa abordagem para tornar esse recurso padrão.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/microsoft-word-vai-salvar-documentos-automaticamente-no-onedrive/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/microsoft-word-salvamento-onedrive-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 27 Aug 2025 16:03:58 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 28 Aug 2025 19:09:14 +0000</lastBuildDate>
     <item>
       <title>TV 3.0: nova geração da televisão aberta muda acesso aos canais</title>
       <link>https://tecnoblog.net/noticias/tv-3-0-nova-geracao-da-televisao-aberta-muda-acesso-aos-canais/</link>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/motorola-edge-60-pro-512-gb-tem-oferta-historica-no-mercado-livre/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/motorola-edge-60-pro-foto-giovanni-santa-rosatecnoblog-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Thu, 28 Aug 2025 17:15:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cade aperta o cerco contra o Google em investigação sobre uso de notícias</title>
+      <link>https://tecnoblog.net/noticias/cade-aperta-o-cerco-contra-o-google-em-investigacao-sobre-uso-de-noticias/</link>
+      <description>Órgão pede mais informações do Google em inquérito que apura abuso de poder no mercado de notícias. Big tech tem 30 dias para responder.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/cade-aperta-o-cerco-contra-o-google-em-investigacao-sobre-uso-de-noticias/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/07/tecnocast-252_capa-2-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 28 Aug 2025 18:17:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Usuários do YouTube Premium reclamam de anúncios em vídeos</title>
+      <link>https://tecnoblog.net/noticias/usuarios-do-youtube-premium-reclamam-de-anuncios-em-videos/</link>
+      <description>Anúncios publicitários não deveriam aparecer em vídeos para assinantes do YouTube Premium. Google afirma já ter solucionado o problema.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/usuarios-do-youtube-premium-reclamam-de-anuncios-em-videos/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/04/Capas-Youtube-02-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 28 Aug 2025 18:23:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
