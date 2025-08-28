@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 28 Aug 2025 10:12:21 +0000</lastBuildDate>
-    <item>
-      <title>IA já tem impacto em taxa de emprego de jovens nos EUA, mostra pesquisa</title>
-      <link>https://tecnoblog.net/noticias/ia-ja-tem-impacto-em-taxa-de-emprego-de-jovens-nos-eua-mostra-pesquisa/</link>
-      <description>Dados mostram redução no número de empregados de 22 a 25 anos em setores com IA, mas estabilidade ou alta em faixas etárias maiores.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/ia-ja-tem-impacto-em-taxa-de-emprego-de-jovens-nos-eua-mostra-pesquisa/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/06/ia-3-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 26 Aug 2025 16:39:36 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 28 Aug 2025 11:09:28 +0000</lastBuildDate>
     <item>
       <title>HBO Max fica mais cara no Brasil; veja os novos preços</title>
       <link>https://tecnoblog.net/noticias/hbo-max-fica-mais-caro-no-brasil-veja-os-novos-precos/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/samsung-marca-evento-especial-em-setembro/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/convite-evento-galaxy-do-s25-fe-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Wed, 27 Aug 2025 23:15:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Android ganha contagem regressiva para abrir novos apps</title>
+      <link>https://tecnoblog.net/noticias/android-ganha-contagem-regressiva-para-abrir-novos-apps/</link>
+      <description>Ferramenta opcional fica desativada por padrão e exibe contagem regressiva de cinco segundos antes de iniciar um novo aplicativo.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/android-ganha-contagem-regressiva-para-abrir-novos-apps/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/03/android-13-3-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 28 Aug 2025 11:03:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
