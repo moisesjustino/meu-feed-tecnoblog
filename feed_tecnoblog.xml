@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 29 Aug 2025 14:10:56 +0000</lastBuildDate>
-    <item>
-      <title>Qual é a diferença entre HD e SSD? Entenda o que muda de um para outro</title>
-      <link>https://tecnoblog.net/responde/qual-a-diferenca-entre-hd-e-ssd/</link>
-      <description>HDs são ideais para armazenar grande volume de dados, como backups, enquanto o SSD é perfeito para inicialização e carregamento rápido de sistemas operacionais</description>
-      <guid isPermaLink="false">https://tecnoblog.net/responde/qual-a-diferenca-entre-hd-e-ssd/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2021/11/como-saber-qual-ssd-e-compativel-com-meu-notebook-capa-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 27 Aug 2025 19:37:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Galaxy A56 (128 GB) está 43% mais barato no Mercado Livre</title>
-      <link>https://tecnoblog.net/achados/galaxy-a56-128-gb-esta-43-mais-barato-no-mercado-livre/</link>
-      <description>Galaxy A56 de 128 GB tem RAM de 8 GB, tela Super AMOLED de 120 Hz e câmera de 50 MP; celular da Samsung tem 43% de desconto em oferta no Mercado Livre</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-a56-128-gb-esta-43-mais-barato-no-mercado-livre/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/05/Galaxya56-achou-correu-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 27 Aug 2025 19:43:55 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 29 Aug 2025 15:09:30 +0000</lastBuildDate>
     <item>
       <title>Galaxy A36 (128 GB) tem menor preço histórico em oferta no Mercado Livre</title>
       <link>https://tecnoblog.net/achados/galaxy-a36-128-gb-tem-menor-preco-historico-em-oferta-no-mercado-livre/</link>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/amigas-e-rivais-openai-e-anthropic-fazem-testes-cruzados-de-seguranca-em-ia/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/06/chatgpt-1_capa-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Fri, 29 Aug 2025 11:42:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>HyperOS 3 está a caminho e estes são os aparelhos Xiaomi compatíveis</title>
+      <link>https://tecnoblog.net/noticias/hyperos-3-esta-a-caminho-e-estes-sao-os-aparelhos-xiaomi-compativeis/</link>
+      <description>Xiaomi HyperOS 3 traz otimizações de desempenho, mais funções de inteligência artificial e funcionalidade Super Island como destaques.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/hyperos-3-esta-a-caminho-e-estes-sao-os-aparelhos-xiaomi-compativeis/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/xiaomi-hyperos-3-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 29 Aug 2025 14:22:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Galaxy S25 com chip Snapdragon tem oferta com menor preço histórico</title>
+      <link>https://tecnoblog.net/achados/galaxy-s25-com-chip-snapdragon-tem-oferta-com-menor-preco-historico/</link>
+      <description>Samsung Galaxy S25 traz chip Snapdragon 8 Elite, 12 GB de RAM, tela AMOLED Dinâmico de 6,2" e integração com Google Gemini; Versão de 128 GB com 50% OFF no Magalu</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-s25-com-chip-snapdragon-tem-oferta-com-menor-preco-historico/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/galaxy-s25-achados-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 29 Aug 2025 14:33:48 +0000</pubDate>
     </item>
   </channel>
 </rss>
