@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 29 Aug 2025 20:12:07 +0000</lastBuildDate>
-    <item>
-      <title>Microsoft quer que você converse com o Copilot na sua TV</title>
-      <link>https://tecnoblog.net/noticias/microsoft-quer-que-voce-converse-com-o-copilot-na-sua-tv/</link>
-      <description>Assistente de IA chega às TVs e monitores da Samsung em 2025, permitindo buscas por voz, recomendações personalizadas e recursos sociais na tela grande.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/microsoft-quer-que-voce-converse-com-o-copilot-na-sua-tv/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/microsoft-copilot--340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 28 Aug 2025 14:58:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Plataforma de blogs Typepad chega ao fim após duas décadas</title>
-      <link>https://tecnoblog.net/noticias/plataforma-de-blogs-typepad-chega-ao-fim-apos-duas-decadas/</link>
-      <description>Serviço pioneiro de publicação online deixará de funcionar após mais de 20 anos no ar; usuários devem exportar conteúdos até 30 de setembro.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/plataforma-de-blogs-typepad-chega-ao-fim-apos-duas-decadas/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/typepad-chega-ao-fim-1-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 28 Aug 2025 15:05:57 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 29 Aug 2025 21:10:06 +0000</lastBuildDate>
     <item>
       <title>Polícia dos EUA coloca IA para atender ligações do 911</title>
       <link>https://tecnoblog.net/noticias/policia-dos-eua-coloca-ia-para-atender-ligacoes-do-911/</link>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/honor-lanca-versao-global-do-magic-v5-dobravel-mais-fino-do-mundo/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/honor-magic-v5-340x191.avif" length="0" type="image/jpeg"/>
       <pubDate>Fri, 29 Aug 2025 19:41:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dia do Gamer: Nintendo Switch, notebook Lenovo e acessórios com até 44% OFF</title>
+      <link>https://tecnoblog.net/achados/dia-do-gamer-nintendo-switch-notebook-lenovo-e-acessorios-com-ate-44-off/</link>
+      <description>Consoles, notebooks, monitores e outros gadgets gamers estão em promoção com até 44% de desconto hoje; confira as melhores ofertas do Dia do Gamer</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/dia-do-gamer-nintendo-switch-notebook-lenovo-e-acessorios-com-ate-44-off/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/07/nintendo-switch-imagem-lupa-charleauxtecnoblog-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 29 Aug 2025 20:27:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>EUA sancionam rede de TI da Coreia do Norte infiltrada em empresas globais</title>
+      <link>https://tecnoblog.net/noticias/eua-sancionam-rede-de-ti-da-coreia-do-norte-infiltrada-em-empresas-globais/</link>
+      <description>Profissionais de TI teriam usado identidades falsas para gerar receita ilícita com empresas de fachada. Ação atinge diplomata norte-coreano.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/eua-sancionam-rede-de-ti-da-coreia-do-norte-infiltrada-em-empresas-globais/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2021/02/1026570349_7f0bdd521d_k-e1612900145571-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 29 Aug 2025 20:54:28 +0000</pubDate>
     </item>
   </channel>
 </rss>
