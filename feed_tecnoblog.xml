@@ -7,31 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 29 Aug 2025 11:09:20 +0000</lastBuildDate>
-    <item>
-      <title>Impressora 3D feita de Lego combina Python e motores para criar objetos</title>
-      <link>https://tecnoblog.net/noticias/impressora-3d-feita-de-lego-combina-python-e-motores-para-criar-objetos/</link>
-      <description>Equipamento criado por usuário do Reddit é capaz de imprimir objetos de plástico, mas com baixa precisão. Controle é feito via script em Python, que interpreta arquivos G-code.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/impressora-3d-feita-de-lego-combina-python-e-motores-para-criar-objetos/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/gravacao-de-tela-2025-08-27-145712_lebt5qih-_online-video-cutter-com_-1-340x191.gif" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 27 Aug 2025 18:35:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Meta perde pesquisadores de IA recém-contratados após pedidos de demissão</title>
-      <link>https://tecnoblog.net/noticias/meta-perde-pesquisadores-de-ia-recem-contratados-apos-pedidos-de-demissao/</link>
-      <description>Criado há dois meses, o Meta Superintelligence Labs já enfrenta baixas. Dois pesquisadores voltaram para a OpenAI.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/meta-perde-pesquisadores-de-ia-recem-contratados-apos-pedidos-de-demissao/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/02/Capa-Mark-Zuckerberg-01-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 27 Aug 2025 19:24:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Próxima linha Radeon pode fazer AMD voltar a ser forte em GPUs de ponta</title>
-      <link>https://tecnoblog.net/noticias/proxima-linha-radeon-pode-fazer-amd-voltar-a-ser-forte-em-gpus-de-ponta/</link>
-      <description>AMD não tem priorizado placas de vídeo high-end, mas pode mudar estratégia na futura série Radeon RX 10000, com arquitetura RDNA 5.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/proxima-linha-radeon-pode-fazer-amd-voltar-a-ser-forte-em-gpus-de-ponta/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/05/amd-video_capa-1_tb-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 27 Aug 2025 19:33:51 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 29 Aug 2025 12:21:44 +0000</lastBuildDate>
     <item>
       <title>Qual é a diferença entre HD e SSD? Entenda o que muda de um para outro</title>
       <link>https://tecnoblog.net/responde/qual-a-diferenca-entre-hd-e-ssd/</link>
@@ -223,6 +199,30 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-s24-fe-256-gb-com-ram-de-8-gb-cai-para-metade-do-preco-no-magalu/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/galaxy-s24-fe-tem-camera-traseira-tripla-foto-giovanni-santa-rosa-tecnoblog-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Thu, 28 Aug 2025 21:47:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>CEO de navegador rejeita IA e defende a “alegria de navegar na web”</title>
+      <link>https://tecnoblog.net/noticias/ceo-de-navegador-rejeita-ia-e-ceo-defende-a-alegria-de-navegar-na-web/</link>
+      <description>Enquanto rivais como Google e Microsoft apostam em navegadores com assistentes artificiais, o Vivaldi mantém o foco na exploração ativa da internet.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/ceo-de-navegador-rejeita-ia-e-ceo-defende-a-alegria-de-navegar-na-web/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/vivaldi-rejeita-ia-no-seu-navegador-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 29 Aug 2025 11:18:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fábrica da Samsung no Vietnã bate a marca de 2 bilhões de smartphones</title>
+      <link>https://tecnoblog.net/noticias/fabrica-da-samsung-no-vietna-bate-a-marca-de-2-bilhoes-de-smartphones/</link>
+      <description>Após atingir recorde de produção, Samsung avalia expandir atuação no Vietnã para além da manufatura.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/fabrica-da-samsung-no-vietna-bate-a-marca-de-2-bilhoes-de-smartphones/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/01/samsung-variados-capa-4-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 29 Aug 2025 11:32:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Amigas e rivais: OpenAI e Anthropic fazem testes cruzados de segurança em IA</title>
+      <link>https://tecnoblog.net/noticias/amigas-e-rivais-openai-e-anthropic-fazem-testes-cruzados-de-seguranca-em-ia/</link>
+      <description>Parceria rara entre duas das maiores desenvolvedoras de inteligência artificial buscou identificar falhas em avaliações internas e discutir padrões de segurança.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/amigas-e-rivais-openai-e-anthropic-fazem-testes-cruzados-de-seguranca-em-ia/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/06/chatgpt-1_capa-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 29 Aug 2025 11:42:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
