@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 01 Sep 2025 15:11:22 +0000</lastBuildDate>
-    <item>
-      <title>WhatsApp testa mensagens temporárias com duração ainda mais curta</title>
-      <link>https://tecnoblog.net/noticias/whatsapp-testa-mensagens-temporarias-com-duracao-ainda-mais-curta/</link>
-      <description>App poderá apagar mensagens automaticamente em apenas uma hora, mas alerta que elas podem sumir antes mesmo de o contato ler</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/whatsapp-testa-mensagens-temporarias-com-duracao-ainda-mais-curta/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/06/whatsapp_capa-2_tb-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 28 Aug 2025 20:17:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Quais são os tipos de internet? Veja as diferenças entre fibra, cabo, satélite ou rádio</title>
-      <link>https://tecnoblog.net/responde/quais-sao-os-tipos-de-internet-veja-as-diferencas-entre-fibra-cabo-satelite-ou-radio/</link>
-      <description>A internet permite o acesso a grande quantidade de informações e serviços, sendo uma importante ferramenta de entretenimento, educação, notícias, comércio e trabalho</description>
-      <guid isPermaLink="false">https://tecnoblog.net/responde/quais-sao-os-tipos-de-internet-veja-as-diferencas-entre-fibra-cabo-satelite-ou-radio/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/03/wifi_capa_tb-340x191.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 28 Aug 2025 20:56:35 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 01 Sep 2025 16:13:37 +0000</lastBuildDate>
     <item>
       <title>Nubank emite alerta sobre golpe do falso advogado</title>
       <link>https://tecnoblog.net/noticias/nubank-emite-alerta-sobre-golpe-do-falso-advogado/</link>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/iphone-15-tem-oferta-com-menor-preco-historico-na-amazon/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/03/iphone-15-selo-achados-melhor-preco-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 01 Sep 2025 14:17:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Windows 11 25H2 chega em breve, mas sem recursos exclusivos</title>
+      <link>https://tecnoblog.net/noticias/windows-11-25h2-chega-em-breve-mas-sem-recursos-exclusivos/</link>
+      <description>Versão 25H2 do Windows 11 deve ser liberada nas próximas semanas, mas compartilhará recursos funcionais com o atual pacote 24H2.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/windows-11-25h2-chega-em-breve-mas-sem-recursos-exclusivos/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/windows-11-modo-escuro-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 01 Sep 2025 15:23:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cartão Black do BTG Pactual terá novas regras para sala VIP da Mastercard</title>
+      <link>https://tecnoblog.net/noticias/cartao-black-do-btg-pactual-tera-novas-regras-para-sala-vip-da-mastercard/</link>
+      <description>Clientes terão que acumular R$ 15 mil em despesas no trimestre para liberar acesso sem custo a espaços da Mastercard em Guarulhos</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/cartao-black-do-btg-pactual-tera-novas-regras-para-sala-vip-da-mastercard/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/btg-pactual-mastercard-black-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 01 Sep 2025 15:38:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
