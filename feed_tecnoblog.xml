@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 01 Sep 2025 20:12:05 +0000</lastBuildDate>
-    <item>
-      <title>CEO de navegador rejeita IA e defende a “alegria de navegar na web”</title>
-      <link>https://tecnoblog.net/noticias/ceo-de-navegador-rejeita-ia-e-ceo-defende-a-alegria-de-navegar-na-web/</link>
-      <description>Enquanto rivais como Google e Microsoft apostam em navegadores com assistentes artificiais, o Vivaldi mantém o foco na exploração ativa da internet.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/ceo-de-navegador-rejeita-ia-e-ceo-defende-a-alegria-de-navegar-na-web/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/vivaldi-rejeita-ia-no-seu-navegador-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 29 Aug 2025 11:18:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fábrica da Samsung no Vietnã bate a marca de 2 bilhões de smartphones</title>
-      <link>https://tecnoblog.net/noticias/fabrica-da-samsung-no-vietna-bate-a-marca-de-2-bilhoes-de-smartphones/</link>
-      <description>Após atingir recorde de produção, Samsung avalia expandir atuação no Vietnã para além da manufatura.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/fabrica-da-samsung-no-vietna-bate-a-marca-de-2-bilhoes-de-smartphones/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/01/samsung-variados-capa-4-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 29 Aug 2025 11:32:23 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 01 Sep 2025 21:09:35 +0000</lastBuildDate>
     <item>
       <title>Amigas e rivais: OpenAI e Anthropic fazem testes cruzados de segurança em IA</title>
       <link>https://tecnoblog.net/noticias/amigas-e-rivais-openai-e-anthropic-fazem-testes-cruzados-de-seguranca-em-ia/</link>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/youtube-pode-suspender-plano-premium-familia-se-membros-nao-morarem-juntos/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/04/Capas-Youtube-02-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 01 Sep 2025 19:56:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>O que é uma webcam? Veja para que serve e como escolher uma câmera ideal</title>
+      <link>https://tecnoblog.net/guias/o-que-e-uma-webcam-veja-para-que-serve-e-como-escolher-uma-camera-ideal/</link>
+      <description>A resolução, a taxa de quadros, o tipo de foco e o campo de visão são alguns pontos que devem ser avaliados com atenção ao escolher uma webcam</description>
+      <guid isPermaLink="false">https://tecnoblog.net/guias/o-que-e-uma-webcam-veja-para-que-serve-e-como-escolher-uma-camera-ideal/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/webcam-logitech-c270-hd-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 01 Sep 2025 20:15:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Motorola Edge 60 Fusion fica 37% mais barato em oferta no Mercado Livre</title>
+      <link>https://tecnoblog.net/achados/motorola-edge-60-fusion-fica-37-mais-barato-em-oferta-no-mercado-livre/</link>
+      <description>Moto Edge 60 Fusion tem lente Sony de 50 MP, bateria de 5.200 mAh e integração com Moto AI; lançamento da Motorola em 2025 tem oferta no Pix com 37% de desconto</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/motorola-edge-60-fusion-fica-37-mais-barato-em-oferta-no-mercado-livre/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/motorola-edge-60-fusion-achados-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 01 Sep 2025 20:57:37 +0000</pubDate>
     </item>
   </channel>
 </rss>
