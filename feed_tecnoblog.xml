@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 01 Sep 2025 22:10:46 +0000</lastBuildDate>
-    <item>
-      <title>O que é a TV 3.0? Veja o que muda na sua casa com o funcionamento da DTV+</title>
-      <link>https://tecnoblog.net/responde/o-que-e-tv-3-0-veja-o-que-muda-na-sua-casa-com-o-funcionamento-da-dtv-mais/</link>
-      <description>DTV+ terá transmissão de TV aberta com mais qualidade de imagem e som, recursos interativos, anúncios personalizados e opções de acessibilidade</description>
-      <guid isPermaLink="false">https://tecnoblog.net/responde/o-que-e-tv-3-0-veja-o-que-muda-na-sua-casa-com-o-funcionamento-da-dtv-mais/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/ilustracao-da-tv-3-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 29 Aug 2025 14:17:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>HyperOS 3 está a caminho e estes são os aparelhos Xiaomi compatíveis</title>
-      <link>https://tecnoblog.net/noticias/hyperos-3-esta-a-caminho-e-estes-sao-os-aparelhos-xiaomi-compativeis/</link>
-      <description>Xiaomi HyperOS 3 traz otimizações de desempenho, mais funções de inteligência artificial e funcionalidade Super Island como destaques.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/hyperos-3-esta-a-caminho-e-estes-sao-os-aparelhos-xiaomi-compativeis/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/xiaomi-hyperos-3-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 29 Aug 2025 14:22:31 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 01 Sep 2025 23:10:09 +0000</lastBuildDate>
     <item>
       <title>Galaxy S25 com chip Snapdragon tem oferta com menor preço histórico</title>
       <link>https://tecnoblog.net/achados/galaxy-s25-com-chip-snapdragon-tem-oferta-com-menor-preco-historico/</link>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/galaxy-tab-s10-lite-e-lancado-no-brasil-com-s-pen-na-caixa-por-r-2-799/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/tab-s10-lite-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 01 Sep 2025 22:02:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mercado Livre quer virar farmácia e vender remédios online</title>
+      <link>https://tecnoblog.net/noticias/mercado-livre-quer-virar-farmacia-e-vender-remedios-online/</link>
+      <description>Aquisição de farmácia em São Paulo depende de aprovação do Cade. Movimento visa contornar barreiras regulatórias para a venda de medicamentos online.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/mercado-livre-quer-virar-farmacia-e-vender-remedios-online/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/08/capa-meli_2-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 01 Sep 2025 22:50:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anatel altera regras de serviços de telecomunicações; veja o que mudou</title>
+      <link>https://tecnoblog.net/noticias/anatel-altera-regras-de-servicos-de-telecomunicacoes-veja-o-que-mudou/</link>
+      <description>Mudanças no RGC incluem etiqueta com informações essenciais, cadastro obrigatório de ofertas e prazos claros para suspensão e migração de clientes</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/anatel-altera-regras-de-servicos-de-telecomunicacoes-veja-o-que-mudou/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/pessoa-fala-ao-telefone-edited-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 01 Sep 2025 22:55:53 +0000</pubDate>
     </item>
   </channel>
 </rss>
