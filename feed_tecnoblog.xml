@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 01 Sep 2025 19:08:51 +0000</lastBuildDate>
-    <item>
-      <title>Galaxy S24 FE (256 GB) com RAM de 8 GB cai para metade do preço no Magalu</title>
-      <link>https://tecnoblog.net/achados/galaxy-s24-fe-256-gb-com-ram-de-8-gb-cai-para-metade-do-preco-no-magalu/</link>
-      <description>Galaxy S24 FE de 256 GB tem Exynos 2400e, RAM de 8 GB e tela AMOLED de 120 Hz; cupom INFLU200 faz preço cair em 50% no Magazine Luiza</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-s24-fe-256-gb-com-ram-de-8-gb-cai-para-metade-do-preco-no-magalu/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/galaxy-s24-fe-tem-camera-traseira-tripla-foto-giovanni-santa-rosa-tecnoblog-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 28 Aug 2025 21:47:29 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 01 Sep 2025 20:12:05 +0000</lastBuildDate>
     <item>
       <title>CEO de navegador rejeita IA e defende a “alegria de navegar na web”</title>
       <link>https://tecnoblog.net/noticias/ceo-de-navegador-rejeita-ia-e-ceo-defende-a-alegria-de-navegar-na-web/</link>
@@ -153,7 +145,7 @@
       <pubDate>Fri, 29 Aug 2025 21:28:25 +0000</pubDate>
     </item>
     <item>
-      <title>Google avisa: não é preciso trocar a senha do Gmail</title>
+      <title>Google desmente boato de ataque ao Gmail e diz que senhas estão a salvo</title>
       <link>https://tecnoblog.net/noticias/preciso-trocar-a-senha-do-gmail-google-diz-que-nao-e-cita-confusao/</link>
       <description>Gigante da internet cita “confusão” com dois incidentes diferentes. Gmail e Google Workspace não foram comprometidos por atividade hacker.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/preciso-trocar-a-senha-do-gmail-google-diz-que-nao-e-cita-confusao/</guid>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/motorola-edge-50-256-gb-tem-ram-de-12-gb-e-45-de-desconto-na-amazon/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/04/Motorola-Edge-50-tem-RAM-de-12-GB-foto-Motorola-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 01 Sep 2025 18:49:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>YouTube pode suspender plano Premium Família se membros não morarem juntos</title>
+      <link>https://tecnoblog.net/noticias/youtube-pode-suspender-plano-premium-familia-se-membros-nao-morarem-juntos/</link>
+      <description>Conta Premium Família de usuário foi suspensa sob argumento de participantes não morarem na mesma casa, como exige o plano.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/youtube-pode-suspender-plano-premium-familia-se-membros-nao-morarem-juntos/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/04/Capas-Youtube-02-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 01 Sep 2025 19:56:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
