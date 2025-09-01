@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 01 Sep 2025 13:22:53 +0000</lastBuildDate>
-    <item>
-      <title>Cade aperta o cerco contra o Google em investigação sobre uso de notícias</title>
-      <link>https://tecnoblog.net/noticias/cade-aperta-o-cerco-contra-o-google-em-investigacao-sobre-uso-de-noticias/</link>
-      <description>Órgão pede mais informações do Google em inquérito que apura abuso de poder no mercado de notícias. Big tech tem 30 dias para responder.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/cade-aperta-o-cerco-contra-o-google-em-investigacao-sobre-uso-de-noticias/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/07/tecnocast-252_capa-2-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 28 Aug 2025 18:17:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Usuários do YouTube Premium reclamam de anúncios em vídeos</title>
-      <link>https://tecnoblog.net/noticias/usuarios-do-youtube-premium-reclamam-de-anuncios-em-videos/</link>
-      <description>Anúncios publicitários não deveriam aparecer em vídeos para assinantes do YouTube Premium. Google afirma já ter solucionado o problema.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/usuarios-do-youtube-premium-reclamam-de-anuncios-em-videos/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/04/Capas-Youtube-02-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 28 Aug 2025 18:23:06 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 01 Sep 2025 14:11:22 +0000</lastBuildDate>
     <item>
       <title>OpenAI abre escritório em São Paulo, o primeiro da América Latina</title>
       <link>https://tecnoblog.net/noticias/openai-abre-escritorio-em-sao-paulo-o-primeiro-da-america-latina/</link>
@@ -217,12 +201,28 @@
       <pubDate>Mon, 01 Sep 2025 10:40:04 +0000</pubDate>
     </item>
     <item>
-      <title>Preciso trocar a senha do Gmail? Google diz que não e cita “confusão”</title>
+      <title>Google avisa: não é preciso trocar a senha do Gmail</title>
       <link>https://tecnoblog.net/noticias/preciso-trocar-a-senha-do-gmail-google-diz-que-nao-e-cita-confusao/</link>
-      <description>Um alerta legítimo ocorreu em 26 de agosto, mas envolvia dados da plataforma Salesloft Drift, e não senhas do Gmail.</description>
+      <description>Gigante da internet cita “confusão” com dois incidentes diferentes. Gmail e Google Workspace não foram comprometidos por atividade hacker.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/preciso-trocar-a-senha-do-gmail-google-diz-que-nao-e-cita-confusao/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/gmail_capa-2_tb-edited-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 01 Sep 2025 12:59:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>IA favorecerá semana de trabalho de 4 dias, diz CEO da Nvidia</title>
+      <link>https://tecnoblog.net/noticias/ia-favorecera-semana-de-trabalho-de-4-dias-diz-ceo-da-nvidia/</link>
+      <description>Jensen Huang reconhece que alguns empregos irão desaparecer, mas entende que outros surgirão, com todos sendo transformados pela IA.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/ia-favorecera-semana-de-trabalho-de-4-dias-diz-ceo-da-nvidia/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/nvidia-ceo-jensen-huang-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 01 Sep 2025 13:53:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Amazon prepara a chegada do primeiro Echo Dot com Wi-Fi 6E</title>
+      <link>https://tecnoblog.net/noticias/amazon-prepara-a-chegada-do-primeiro-echo-dot-com-wi-fi-6e/</link>
+      <description>A Amazon homologou no Brasil a nova geração do Echo Dot, que será compatível com Wi-Fi 6E, permitindo transmissão de dados em 6 GHz.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/amazon-prepara-a-chegada-do-primeiro-echo-dot-com-wi-fi-6e/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/amazon-echo-wifi-6e-edited-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 01 Sep 2025 13:54:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
