@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 01 Sep 2025 16:13:37 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Sep 2025 17:09:41 +0000</lastBuildDate>
     <item>
       <title>Nubank emite alerta sobre golpe do falso advogado</title>
       <link>https://tecnoblog.net/noticias/nubank-emite-alerta-sobre-golpe-do-falso-advogado/</link>
@@ -169,14 +169,6 @@
       <pubDate>Fri, 29 Aug 2025 21:28:25 +0000</pubDate>
     </item>
     <item>
-      <title>Exclusivo: Novos planos do Vivo Easy começam a valer hoje; veja os preços</title>
-      <link>https://tecnoblog.net/noticias/exclusivo-novos-planos-do-vivo-easy-comecam-a-valer-hoje-veja-os-precos/</link>
-      <description>O plano anual garante desconto de cerca de 30% em relação à assinatura mensal, com pagamento parcelado no cartão de crédito. Modalidades anteriores do Prime não serão mais ofertadas.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/exclusivo-novos-planos-do-vivo-easy-comecam-a-valer-hoje-veja-os-precos/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/vivo-easy-capa-edited-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 01 Sep 2025 10:40:04 +0000</pubDate>
-    </item>
-    <item>
       <title>Google avisa: não é preciso trocar a senha do Gmail</title>
       <link>https://tecnoblog.net/noticias/preciso-trocar-a-senha-do-gmail-google-diz-que-nao-e-cita-confusao/</link>
       <description>Gigante da internet cita “confusão” com dois incidentes diferentes. Gmail e Google Workspace não foram comprometidos por atividade hacker.</description>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/cartao-black-do-btg-pactual-tera-novas-regras-para-sala-vip-da-mastercard/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/btg-pactual-mastercard-black-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 01 Sep 2025 15:38:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>iPhone 16e (128 GB) tem 40% OFF com promoção em até 12x sem juros</title>
+      <link>https://tecnoblog.net/achados/iphone-16e-128-gb-tem-40-off-com-promocao-em-ate-12x-sem-juros/</link>
+      <description>iPhone 16e traz tela OLED de 6,1 polegadas, chip Apple A18 e câmera principal de 48 MP com OIS; versão de 128 GB está em promoção por até 12x sem juros no AliExpress</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/iphone-16e-128-gb-tem-40-off-com-promocao-em-ate-12x-sem-juros/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/03/iphone-16e-achados-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 01 Sep 2025 16:33:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
