@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 01 Sep 2025 12:22:58 +0000</lastBuildDate>
-    <item>
-      <title>Recurso experimental do Edge para Android roda YouTube em segundo plano</title>
-      <link>https://tecnoblog.net/noticias/recurso-experimental-do-edge-para-android-roda-youtube-em-segundo-plano/</link>
-      <description>Novidade faz Microsoft Edge rodar vídeos do YouTube em segundo plano mesmo para quem não tiver assinatura Premium no serviço.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/recurso-experimental-do-edge-para-android-roda-youtube-em-segundo-plano/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/youtube-microsoft-edge-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 28 Aug 2025 16:09:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Motorola Edge 60 Pro (512 GB) tem oferta histórica no Mercado Livre</title>
-      <link>https://tecnoblog.net/achados/motorola-edge-60-pro-512-gb-tem-oferta-historica-no-mercado-livre/</link>
-      <description>Moto Edge 60 Pro tem 12 GB de RAM, bateria de 6.000 mAh, tela POLED com 4.500 nits e câmeras de 50 MP com Moto AI; versão de 512 GB com 38% OFF no Pix e uso de cupom</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/motorola-edge-60-pro-512-gb-tem-oferta-historica-no-mercado-livre/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/motorola-edge-60-pro-foto-giovanni-santa-rosatecnoblog-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 28 Aug 2025 17:15:47 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 01 Sep 2025 13:22:53 +0000</lastBuildDate>
     <item>
       <title>Cade aperta o cerco contra o Google em investigação sobre uso de notícias</title>
       <link>https://tecnoblog.net/noticias/cade-aperta-o-cerco-contra-o-google-em-investigacao-sobre-uso-de-noticias/</link>
@@ -111,6 +95,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/amigas-e-rivais-openai-e-anthropic-fazem-testes-cruzados-de-seguranca-em-ia/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/06/chatgpt-1_capa-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Fri, 29 Aug 2025 11:42:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>O que é a TV 3.0? Veja o que muda na sua casa com o funcionamento da DTV+</title>
+      <link>https://tecnoblog.net/responde/o-que-e-tv-3-0-veja-o-que-muda-na-sua-casa-com-o-funcionamento-da-dtv-mais/</link>
+      <description>DTV+ terá transmissão de TV aberta com mais qualidade de imagem e som, recursos interativos, anúncios personalizados e opções de acessibilidade</description>
+      <guid isPermaLink="false">https://tecnoblog.net/responde/o-que-e-tv-3-0-veja-o-que-muda-na-sua-casa-com-o-funcionamento-da-dtv-mais/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/ilustracao-da-tv-3-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 29 Aug 2025 14:17:42 +0000</pubDate>
     </item>
     <item>
       <title>HyperOS 3 está a caminho e estes são os aparelhos Xiaomi compatíveis</title>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/exclusivo-novos-planos-do-vivo-easy-comecam-a-valer-hoje-veja-os-precos/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/vivo-easy-capa-edited-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 01 Sep 2025 10:40:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Preciso trocar a senha do Gmail? Google diz que não e cita “confusão”</title>
+      <link>https://tecnoblog.net/noticias/preciso-trocar-a-senha-do-gmail-google-diz-que-nao-e-cita-confusao/</link>
+      <description>Um alerta legítimo ocorreu em 26 de agosto, mas envolvia dados da plataforma Salesloft Drift, e não senhas do Gmail.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/preciso-trocar-a-senha-do-gmail-google-diz-que-nao-e-cita-confusao/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/gmail_capa-2_tb-edited-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 01 Sep 2025 12:59:26 +0000</pubDate>
     </item>
   </channel>
 </rss>
