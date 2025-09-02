@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 02 Sep 2025 14:11:24 +0000</lastBuildDate>
-    <item>
-      <title>Lenovo cria notebook com tela que gira para a vertical</title>
-      <link>https://tecnoblog.net/noticias/lenovo-cria-notebook-com-tela-que-gira-para-a-vertical/</link>
-      <description>Com codinome Project Pivo, notebook da Lenovo cuja tela fica na horizontal ou na vertical deve ser apresentado na feira IFA 2025.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/lenovo-cria-notebook-com-tela-que-gira-para-a-vertical/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/lenovo-project-pivo-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 29 Aug 2025 16:33:16 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 02 Sep 2025 15:12:07 +0000</lastBuildDate>
     <item>
       <title>Tesla negou ter dados de acidente fatal, mas hacker conseguiu obter provas</title>
       <link>https://tecnoblog.net/noticias/tesla-negou-ter-dados-de-acidente-fatal-mas-hacker-conseguiu-obter-provas/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/salesforce-cortou-4-mil-empregos-de-suporte-com-uso-da-ia-diz-ceo/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/ceo-salesforce-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 02 Sep 2025 13:57:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Operadora do Nubank libera internet de emergência para os 60 mil clientes</title>
+      <link>https://tecnoblog.net/noticias/operadora-do-nubank-libera-internet-de-emergencia-para-os-60-mil-clientes/</link>
+      <description>Serviço de telefonia NuCel passou a oferecer a Reserva de GB, uma franquia de emergência que entra em ação quando o usuário zera seu pacote de dados. Bônus varia de 2 GB a 10 GB.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/operadora-do-nubank-libera-internet-de-emergencia-para-os-60-mil-clientes/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/10/capa-nubank-operadora-v3-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 02 Sep 2025 15:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
