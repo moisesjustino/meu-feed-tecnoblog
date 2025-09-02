@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 02 Sep 2025 18:14:18 +0000</lastBuildDate>
-    <item>
-      <title>Honor lança versão global do Magic V5, dobrável mais fino do mundo</title>
-      <link>https://tecnoblog.net/noticias/honor-lanca-versao-global-do-magic-v5-dobravel-mais-fino-do-mundo/</link>
-      <description>Celular tem apenas 8,8 mm de espessura e bateria de 5.820 mAh. Honor Magic V5 começa a ser vendido na Europa e não tem data para desembarcar no Brasil.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/honor-lanca-versao-global-do-magic-v5-dobravel-mais-fino-do-mundo/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/honor-magic-v5-340x191.avif" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 29 Aug 2025 19:41:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dia do Gamer: Nintendo Switch, notebook Lenovo e acessórios com até 44% OFF</title>
-      <link>https://tecnoblog.net/achados/dia-do-gamer-nintendo-switch-notebook-lenovo-e-acessorios-com-ate-44-off/</link>
-      <description>Consoles, notebooks, monitores e outros gadgets gamers estão em promoção com até 44% de desconto hoje; confira as melhores ofertas do Dia do Gamer</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/dia-do-gamer-nintendo-switch-notebook-lenovo-e-acessorios-com-ate-44-off/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/07/nintendo-switch-imagem-lupa-charleauxtecnoblog-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 29 Aug 2025 20:27:26 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 02 Sep 2025 19:08:44 +0000</lastBuildDate>
     <item>
       <title>EUA sancionam rede de TI da Coreia do Norte infiltrada em empresas globais</title>
       <link>https://tecnoblog.net/noticias/eua-sancionam-rede-de-ti-da-coreia-do-norte-infiltrada-em-empresas-globais/</link>
@@ -217,12 +201,28 @@
       <pubDate>Tue, 02 Sep 2025 15:39:44 +0000</pubDate>
     </item>
     <item>
-      <title>O Facebook vê todas as fotos no seu celular; veja como evitar</title>
+      <title>O Facebook está vendo todas as fotos no seu celular; saiba como evitar</title>
       <link>https://tecnoblog.net/noticias/o-facebook-ve-todas-as-fotos-no-seu-celular-veja-como-evitar/</link>
       <description>Usuários relatam que configuração ativada por padrão permite ao Facebook escanear a galeria de fotos do celular.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/o-facebook-ve-todas-as-fotos-no-seu-celular-veja-como-evitar/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/03/facebook-capa-3-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 02 Sep 2025 18:08:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>WhatsApp terá Close Friends similar ao do Instagram</title>
+      <link>https://tecnoblog.net/noticias/whatsapp-tera-close-friends-similar-ao-instagram/</link>
+      <description>Novo recurso permitirá escolher uma audiência restrita para os Status, que incluem fotos e vídeos com prazo para desaparecer.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/whatsapp-tera-close-friends-similar-ao-instagram/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/whatsapp-capa-3-edited-1-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 02 Sep 2025 18:21:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ataque hacker a empresa que opera o Pix desviou R$ 710 milhões</title>
+      <link>https://tecnoblog.net/noticias/ataque-hacker-a-empresa-que-opera-o-pix-desviou-r-710-milhoes/</link>
+      <description>Ataque envolveu sistema da Sinqia para acesso ao Pix. Foram desviados R$ 670 milhões do HSBC e R$ 40 milhões da fintech Artta.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/ataque-hacker-a-empresa-que-opera-o-pix-desviou-r-710-milhoes/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/07/pix_capa-3_tb-edited-340x191.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 02 Sep 2025 18:26:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
