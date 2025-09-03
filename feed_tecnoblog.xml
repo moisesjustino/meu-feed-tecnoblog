@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 02 Sep 2025 23:09:42 +0000</lastBuildDate>
-    <item>
-      <title>iPhone 15 tem oferta com menor preço histórico na Amazon</title>
-      <link>https://tecnoblog.net/achados/iphone-15-tem-oferta-com-menor-preco-historico-na-amazon/</link>
-      <description>iPhone 15 (256 GB) tem promoção histórica de 45% de desconto no Pix; dispositivo da Apple traz chip A16 Bionic, tela OLED de 6,1 polegadas e câmera principal de 48 MP com OIS</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/iphone-15-tem-oferta-com-menor-preco-historico-na-amazon/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/03/iphone-15-selo-achados-melhor-preco-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 01 Sep 2025 14:17:44 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 03 Sep 2025 00:51:49 +0000</lastBuildDate>
     <item>
       <title>Windows 11 25H2 chega em breve, mas sem recursos exclusivos</title>
       <link>https://tecnoblog.net/noticias/windows-11-25h2-chega-em-breve-mas-sem-recursos-exclusivos/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/47-dos-brasileiros-nao-tem-computador-em-casa-por-causa-do-alto-custo/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/vaio-tl12-1-340x191.jpeg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 02 Sep 2025 22:33:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Notebooks Alienware Aurora 16 e Area-51 chegam ao Brasil; conheça cada um</title>
+      <link>https://tecnoblog.net/noticias/notebooks-alienware-aurora-16-e-area-51-chegam-ao-brasil-conheca-cada-um/</link>
+      <description>Dell anunciou notebooks Alienware 16 Aurora e Alienware 16 Area-51 no Brasil. O primeiro equilibra jogos e produtividade; o segundo foca em desempenho.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/notebooks-alienware-aurora-16-e-area-51-chegam-ao-brasil-conheca-cada-um/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/alienware-16-area-51-1-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 02 Sep 2025 23:29:50 +0000</pubDate>
     </item>
   </channel>
 </rss>
