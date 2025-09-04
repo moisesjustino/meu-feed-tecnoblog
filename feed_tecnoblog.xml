@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 04 Sep 2025 09:11:41 +0000</lastBuildDate>
-    <item>
-      <title>OpenAI adota controles parentais no ChatGPT após crises de saúde mental</title>
-      <link>https://tecnoblog.net/noticias/openai-adota-controles-parentais-no-chatgpt-apos-crises-de-saude-mental/</link>
-      <description>Novos mecanismos incluem vinculação de contas a responsáveis e uso de modelo mais avançado em conversas consideradas sensíveis</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/openai-adota-controles-parentais-no-chatgpt-apos-crises-de-saude-mental/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/06/openai-4_capa-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 02 Sep 2025 15:16:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Windows 10 perderá suporte em outubro, mas segue em quase metade dos PCs</title>
-      <link>https://tecnoblog.net/noticias/windows-10-perdera-suporte-em-outubro-mas-segue-em-quase-metade-dos-pcs/</link>
-      <description>Dados da Statcounter mostram que Windows 11 tem 49% de participação em PCs. Windows 10 aparece logo atrás, com 45% de presença.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/windows-10-perdera-suporte-em-outubro-mas-segue-em-quase-metade-dos-pcs/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/img_3617-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 02 Sep 2025 15:39:44 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 04 Sep 2025 10:12:03 +0000</lastBuildDate>
     <item>
       <title>Modo bridge ou router: confira as diferenças entre as funções de roteadores</title>
       <link>https://tecnoblog.net/responde/modo-bridge-ou-router-confira-as-diferencas-entre-as-funcoes-de-roteadores/</link>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/fim-da-linha-tres-celulares-da-samsung-nao-recebem-mais-atualizacoes/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2020/09/samsung-galaxy-note-20-ultra-review-14-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Wed, 03 Sep 2025 22:09:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Samsung anuncia o premium acessível Galaxy S25 FE e o tablet S11</title>
+      <link>https://tecnoblog.net/noticias/samsung-anuncia-o-premium-acessivel-galaxy-s25-fe-tab-s11-tambem-chega-as-lojas/</link>
+      <description>Smartphone ganha upgrade na câmera frontal, que agora registra fotos de 12 MP. Samsung aposta no chip Exynos 2400.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/samsung-anuncia-o-premium-acessivel-galaxy-s25-fe-tab-s11-tambem-chega-as-lojas/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/galaxy-s25-fe-1-edited-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 04 Sep 2025 09:46:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Exclusivo: Claro e ChatGPT anunciam parceria para promover inteligência artificial</title>
+      <link>https://tecnoblog.net/noticias/exclusivo-claro-e-chatgpt-anunciam-parceria-para-promover-inteligencia-artificial/</link>
+      <description>A operadora integrará o ChatGPT ao Extra Play e fornecerá acesso ao ChatGPT Plus sem custo adicional.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/exclusivo-claro-e-chatgpt-anunciam-parceria-para-promover-inteligencia-artificial/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/exclusivo-chatgpt-claro-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 04 Sep 2025 10:07:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
