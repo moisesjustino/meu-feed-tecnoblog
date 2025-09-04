@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 04 Sep 2025 18:15:31 +0000</lastBuildDate>
-    <item>
-      <title>Anatel impõe Não Me Perturbe a todas as operadoras de telefonia</title>
-      <link>https://tecnoblog.net/noticias/anatel-impoe-nao-me-perturbe-a-todas-as-operadoras-de-telefonia/</link>
-      <description>Lista criada pela agência já contava com Claro, Vivo, TIM, Sky e outras grandes empresas, mas agora será estendida a todo o setor</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/anatel-impoe-nao-me-perturbe-a-todas-as-operadoras-de-telefonia/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2020/04/chamada-de-voz-e1612204921564-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 03 Sep 2025 13:22:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pico de 11,5 Tb/s: Cloudflare barrou o maior ataque DDoS da história</title>
-      <link>https://tecnoblog.net/noticias/pico-de-115-tb-s-cloudflare-barrou-o-maior-ataque-ddos-da-historia/</link>
-      <description>Cloudflare afirma ter bloqueado ataque DDoS com tráfego de 11,5 Tb/s. Pico foi quase 60% maior que o recorde anterior, registrado em junho.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/pico-de-115-tb-s-cloudflare-barrou-o-maior-ataque-ddos-da-historia/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/07/capa-cyberseguranca-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 03 Sep 2025 13:53:36 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 04 Sep 2025 19:08:47 +0000</lastBuildDate>
     <item>
       <title>Galaxy S25 (128 GB) com 48% OFF em até 12x sem juros no Mercado Livre</title>
       <link>https://tecnoblog.net/achados/galaxy-s25-128-gb-com-48-off-em-ate-12x-sem-juros-no-mercado-livre/</link>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/google-e-condenado-a-pagar-us-425-milhoes-por-violacao-de-privacidade/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/04/google_capa-2-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Thu, 04 Sep 2025 17:18:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Conhece hackers russos? EUA dão recompensa de US$ 10 milhões</title>
+      <link>https://tecnoblog.net/noticias/conhece-hackers-russos-eua-dao-recompensa-de-us-10-milhoes/</link>
+      <description>Marat Valeryevich Tyukov, Mikhail Mikhailovich Gavrilov e Pavel Aleksandrovich Akulov são acusados de ciberataques contra redes elétricas e até usinas nucleares.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/conhece-hackers-russos-eua-dao-recompensa-de-us-10-milhoes/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/02/hackers-e-policia-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 04 Sep 2025 18:24:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Navegadores Arc e Dia vendidos por US$ 610 milhões</title>
+      <link>https://tecnoblog.net/noticias/navegadores-arc-e-dia-vendidos-por-us-610-milhoes/</link>
+      <description>Atlassian, desenvolvedora de Jira e Trello, fecha negócio com startup e aposta em browser com IA para uso profissional</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/navegadores-arc-e-dia-vendidos-por-us-610-milhoes/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/Dia-navegador-2-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 04 Sep 2025 19:05:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
