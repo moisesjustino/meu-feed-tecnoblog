@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 04 Sep 2025 20:12:15 +0000</lastBuildDate>
-    <item>
-      <title>O que é cooler? Saiba qual é a função da ventoinha no PC</title>
-      <link>https://tecnoblog.net/responde/o-que-e-cooler-e-qual-a-sua-funcao-no-computador/</link>
-      <description>O cooler serve para resfriar os componentes do PC, garantindo bom desempenho de processadores, placas de vídeo e SSDs, além de aumentar o tempo de vida útil</description>
-      <guid isPermaLink="false">https://tecnoblog.net/responde/o-que-e-cooler-e-qual-a-sua-funcao-no-computador/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/08/cooler-processador-placa-video-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 03 Sep 2025 14:48:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>O que é impressora 3D? Saiba como o periférico imprime modelos tridimensionais</title>
-      <link>https://tecnoblog.net/responde/o-que-e-impressora-3d-saiba-como-o-periferico-imprime-modelos-tridimensionais/</link>
-      <description>Uma impressora 3D cria objetos tridimensionais a partir de modelos digitais usando o processo de manufatura aditiva, construindo a peça camada por camada</description>
-      <guid isPermaLink="false">https://tecnoblog.net/responde/o-que-e-impressora-3d-saiba-como-o-periferico-imprime-modelos-tridimensionais/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/jakub-zerdzicki-skhzb1uybdu-unsplash-edited-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 03 Sep 2025 15:25:19 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 04 Sep 2025 21:10:26 +0000</lastBuildDate>
     <item>
       <title>Adeus, 16 GB: gamers estão aderindo à RAM de 32 GB</title>
       <link>https://tecnoblog.net/noticias/adeus-16-gb-gamers-estao-aderindo-a-ram-de-32-gb/</link>
@@ -201,7 +185,7 @@
       <pubDate>Thu, 04 Sep 2025 17:18:23 +0000</pubDate>
     </item>
     <item>
-      <title>Conhece hackers russos? EUA dão recompensa de US$ 10 milhões</title>
+      <title>EUA oferecem recompensa de US$ 10 milhões para quem conhecer hackers russos</title>
       <link>https://tecnoblog.net/noticias/conhece-hackers-russos-eua-dao-recompensa-de-us-10-milhoes/</link>
       <description>Marat Valeryevich Tyukov, Mikhail Mikhailovich Gavrilov e Pavel Aleksandrovich Akulov são acusados de ciberataques contra redes elétricas e até usinas nucleares.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/conhece-hackers-russos-eua-dao-recompensa-de-us-10-milhoes/</guid>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-watch-7-tem-60-de-desconto-em-ate-12x-sem-juros-com-cupom/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/galaxy-watch-7-oferta-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Thu, 04 Sep 2025 19:51:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Huawei apresenta Mate XTs, segunda geração de seu smartphone trifold</title>
+      <link>https://tecnoblog.net/noticias/huawei-apresenta-mate-xts-segunda-geracao-de-seu-smartphone-trifold/</link>
+      <description>Novo dobrável chega ao mercado chinês por até R$ 16,8 mil, com chip Kirin 9020, suporte ao Wi-Fi 7 e câmera ultrawide atualizada para 40 MP</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/huawei-apresenta-mate-xts-segunda-geracao-de-seu-smartphone-trifold/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/huawei-mate-xts-costas-1-edited-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 04 Sep 2025 20:51:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Galaxy A36 (256 GB) tem oferta com menor preço histórico no Magalu</title>
+      <link>https://tecnoblog.net/achados/galaxy-a36-256-gb-tem-oferta-com-menor-preco-historico-no-magalu/</link>
+      <description>Galaxy A36 (256 GB) sai por menos da metade do preço de lançamento no Pix; smartphone Samsung traz tela de 6,7" com 120 Hz, câmera de 50 MP e suporte ao Galaxy AI</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-a36-256-gb-tem-oferta-com-menor-preco-historico-no-magalu/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/samsung-galaxy-a36-tem-camera-de-50-mp-foto-thassius-velosotecnoblog-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 04 Sep 2025 20:57:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
