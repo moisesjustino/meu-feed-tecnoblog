@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 04 Sep 2025 16:14:05 +0000</lastBuildDate>
-    <item>
-      <title>Notebooks Alienware 16 Aurora e Area-51 chegam ao Brasil; conheça cada um</title>
-      <link>https://tecnoblog.net/noticias/notebooks-alienware-aurora-16-e-area-51-chegam-ao-brasil-conheca-cada-um/</link>
-      <description>Dell anunciou notebooks Alienware 16 Aurora e Alienware 16 Area-51 no Brasil. O primeiro equilibra jogos e produtividade; o segundo foca em desempenho.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/notebooks-alienware-aurora-16-e-area-51-chegam-ao-brasil-conheca-cada-um/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/alienware-16-area-51-1-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 02 Sep 2025 23:29:50 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 04 Sep 2025 17:09:22 +0000</lastBuildDate>
     <item>
       <title>Internet via satélite no seu celular</title>
       <link>https://tecnoblog.net/tecnocast/internet-via-satelite-no-seu-celular/</link>
@@ -221,8 +213,16 @@
       <link>https://tecnoblog.net/noticias/como-e-a-etiqueta-padrao-da-anatel-para-planos-de-telefonia-internet-e-tv/</link>
       <description>Rótulos trazem informações como franquia, velocidade, canais, taxas e condições de pagamento. Ideia é facilitar compreensão e comparação.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/como-e-a-etiqueta-padrao-da-anatel-para-planos-de-telefonia-internet-e-tv/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/09/usando-celular-terimakasih0-pixabay-edited-340x191.jpg" length="0" type="image/jpeg"/>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/capa-etiquetas-telecom-v2-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Thu, 04 Sep 2025 15:09:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cartões Alelo já podem ser usados no Apple Pay (finalmente)</title>
+      <link>https://tecnoblog.net/noticias/cartoes-alelo-ja-podem-ser-usados-no-apple-pay-finalmente/</link>
+      <description>Cadastro dos cartões Alelo no Apple Pay é simples e pode ser feito pelo aplicativo Meu Alelo ou diretamente via Apple Wallet (Carteira).</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/cartoes-alelo-ja-podem-ser-usados-no-apple-pay-finalmente/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/cartao-alelo-apple-pay-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 04 Sep 2025 16:19:54 +0000</pubDate>
     </item>
   </channel>
 </rss>
