@@ -7,47 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 04 Sep 2025 12:22:20 +0000</lastBuildDate>
-    <item>
-      <title>Modo bridge ou router: confira as diferenças entre as funções de roteadores</title>
-      <link>https://tecnoblog.net/responde/modo-bridge-ou-router-confira-as-diferencas-entre-as-funcoes-de-roteadores/</link>
-      <description>O modo router é ideal para criar uma nova rede e gerenciar múltiplos dispositivos, enquanto o modo bridge é o mais adequado para estender uma rede já existente</description>
-      <guid isPermaLink="false">https://tecnoblog.net/responde/modo-bridge-ou-router-confira-as-diferencas-entre-as-funcoes-de-roteadores/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/11/img_4493-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 02 Sep 2025 16:56:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>O Facebook está vendo todas as fotos no seu celular; saiba como evitar</title>
-      <link>https://tecnoblog.net/noticias/o-facebook-ve-todas-as-fotos-no-seu-celular-veja-como-evitar/</link>
-      <description>Usuários relatam que configuração ativada por padrão permite ao Facebook escanear a galeria de fotos do celular.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/o-facebook-ve-todas-as-fotos-no-seu-celular-veja-como-evitar/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/03/facebook-capa-3-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 02 Sep 2025 18:08:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>WhatsApp terá Close Friends similar ao do Instagram</title>
-      <link>https://tecnoblog.net/noticias/whatsapp-tera-close-friends-similar-ao-instagram/</link>
-      <description>Novo recurso permitirá escolher uma audiência restrita para os Status, que incluem fotos e vídeos com prazo para desaparecer.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/whatsapp-tera-close-friends-similar-ao-instagram/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/whatsapp-capa-3-edited-1-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 02 Sep 2025 18:21:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ataque hacker a empresa que opera o Pix desviou R$ 710 milhões</title>
-      <link>https://tecnoblog.net/noticias/ataque-hacker-a-empresa-que-opera-o-pix-desviou-r-710-milhoes/</link>
-      <description>Ataque envolveu sistema da Sinqia para acesso ao Pix. Foram desviados R$ 670 milhões do HSBC e R$ 40 milhões da fintech Artta.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/ataque-hacker-a-empresa-que-opera-o-pix-desviou-r-710-milhoes/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/07/pix_capa-3_tb-edited-340x191.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 02 Sep 2025 18:26:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Galaxy S25 Plus com Snapdragon 8 Elite tem 45% OFF em oferta no Magalu</title>
-      <link>https://tecnoblog.net/achados/galaxy-s25-plus-com-snapdragon-8-elite-tem-44-off-em-oferta-no-magalu/</link>
-      <description>Galaxy S25 Plus traz Snapdragon 8 Elite, 12 GB de RAM, tela com 120 Hz e Quad HD+ e ferramentas de inteligência artificial; versão de 256 GB em promoção somente no Pix</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-s25-plus-com-snapdragon-8-elite-tem-44-off-em-oferta-no-magalu/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/04/Samsung-Galaxy-S25-Plus-tem-tela-de-67-com-resolucao-QHD-imagem-Samsung-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 02 Sep 2025 20:44:56 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 04 Sep 2025 13:20:14 +0000</lastBuildDate>
     <item>
       <title>iPhone 16 (128 GB) em oferta com 41% de desconto na Amazon</title>
       <link>https://tecnoblog.net/achados/iphone-16-128-gb-em-oferta-com-41-de-desconto-na-amazon/</link>
@@ -111,6 +71,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-s25-128-gb-com-48-off-em-ate-12x-sem-juros-no-mercado-livre/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/galaxy-s25-achados-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Wed, 03 Sep 2025 14:14:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>O que é cooler? Saiba qual é a função do componente no PC</title>
+      <link>https://tecnoblog.net/responde/o-que-e-cooler-e-qual-a-sua-funcao-no-computador/</link>
+      <description>O cooler serve para resfriar os componentes do PC, garantindo bom desempenho de processadores, placas de vídeo e SSDs, além de aumentar o tempo de vida útil</description>
+      <guid isPermaLink="false">https://tecnoblog.net/responde/o-que-e-cooler-e-qual-a-sua-funcao-no-computador/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/08/cooler-processador-placa-video-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 03 Sep 2025 14:48:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>O que é impressora 3D? Saiba como o periférico imprime modelos tridimensionais</title>
+      <link>https://tecnoblog.net/responde/o-que-e-impressora-3d-saiba-como-o-periferico-imprime-modelos-tridimensionais/</link>
+      <description>Uma impressora 3D cria objetos tridimensionais a partir de modelos digitais usando o processo de manufatura aditiva, construindo a peça camada por camada</description>
+      <guid isPermaLink="false">https://tecnoblog.net/responde/o-que-e-impressora-3d-saiba-como-o-periferico-imprime-modelos-tridimensionais/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/jakub-zerdzicki-skhzb1uybdu-unsplash-edited-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 03 Sep 2025 15:25:19 +0000</pubDate>
     </item>
     <item>
       <title>Adeus, 16 GB: gamers estão aderindo à RAM de 32 GB</title>
@@ -223,6 +199,30 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/exclusivo-claro-e-chatgpt-anunciam-parceria-para-promover-inteligencia-artificial/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/exclusivo-chatgpt-claro-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Thu, 04 Sep 2025 10:07:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vitória da 99 e Uber: TJ-SP decide que São Paulo não pode proibir mototáxi</title>
+      <link>https://tecnoblog.net/noticias/vitoria-da-99-e-uber-tj-sp-decide-que-sao-paulo-nao-pode-proibir-mototaxi/</link>
+      <description>Justiça considerou inconstitucional decreto que proíbe serviços como 99Moto e Uber Moto em São Paulo. Prefeitura irá recorrer da decisão.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/vitoria-da-99-e-uber-tj-sp-decide-que-sao-paulo-nao-pode-proibir-mototaxi/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/01/99moto-sp-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 04 Sep 2025 12:50:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Motorola Edge 60 Pro tem câmera frontal de 50 MP e 28% OFF em oferta</title>
+      <link>https://tecnoblog.net/achados/motorola-edge-60-pro-tem-camera-frontal-de-50-mp-e-28-off-em-oferta/</link>
+      <description>Motorola Edge 60 Pro tem sensores frontal, principal e ultrawide de 50 MP e telefoto com zoom óptico de 3x; celular de 256 GB tem 28% de desconto no Mercado Livre</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/motorola-edge-60-pro-tem-camera-frontal-de-50-mp-e-28-off-em-oferta/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/motorola-edge-60-pro-foto-giovanni-santa-rosatecnoblog-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 04 Sep 2025 13:04:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Loja virtual da Apple movimenta R$ 63,8 bilhões por ano no Brasil</title>
+      <link>https://tecnoblog.net/noticias/loja-virtual-da-apple-movimenta-r-638-bilhoes-por-ano-no-brasil/</link>
+      <description>Apenas 10% das transações são sujeitas a comissão pela Apple, com 78% delas pagando taxas reduzidas por meio de programas de incentivo à inovação.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/loja-virtual-da-apple-movimenta-r-638-bilhoes-por-ano-no-brasil/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/capa-apple-app-store-no-brasil-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 04 Sep 2025 13:07:09 +0000</pubDate>
     </item>
   </channel>
 </rss>
