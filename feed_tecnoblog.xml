@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 04 Sep 2025 21:10:26 +0000</lastBuildDate>
-    <item>
-      <title>Adeus, 16 GB: gamers estão aderindo à RAM de 32 GB</title>
-      <link>https://tecnoblog.net/noticias/adeus-16-gb-gamers-estao-aderindo-a-ram-de-32-gb/</link>
-      <description>Pesquisa do Steam mostra avanço de PCs com 32 GB de RAM. Queda no preço das memórias DDR5 e jogos mais exigentes aceleram a migração.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/adeus-16-gb-gamers-estao-aderindo-a-ram-de-32-gb/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/dell-pc-gamer-inspiron-edited-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 03 Sep 2025 15:27:04 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 04 Sep 2025 22:10:28 +0000</lastBuildDate>
     <item>
       <title>Galaxy S24 Plus (256 GB) com RAM de 12 GB tem 54% OFF em promoção</title>
       <link>https://tecnoblog.net/achados/galaxy-s24-plus-256-gb-com-ram-de-12-gb-tem-54-off-em-promocao/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-a36-256-gb-tem-oferta-com-menor-preco-historico-no-magalu/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/samsung-galaxy-a36-tem-camera-de-50-mp-foto-thassius-velosotecnoblog-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Thu, 04 Sep 2025 20:57:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mark Zuckerberg processa Mark Zuckerberg por um motivo… inusitado</title>
+      <link>https://tecnoblog.net/noticias/mark-zuckerberg-processa-mark-zuckerberg-por-um-motivo-inusitado/</link>
+      <description>Advogado com o mesmo nome do CEO da Meta alega que seus perfis no Facebook são suspensos repetidamente. Empresa disse que já restabeleceu os acessos.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/mark-zuckerberg-processa-mark-zuckerberg-por-um-motivo-inusitado/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/02/Capa-Mark-Zuckerberg-01-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 04 Sep 2025 21:47:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
