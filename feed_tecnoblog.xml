@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 05 Sep 2025 21:10:00 +0000</lastBuildDate>
-    <item>
-      <title>Microsoft libera código-fonte do Basic para o clássico chip 6502</title>
-      <link>https://tecnoblog.net/noticias/microsoft-libera-codigo-fonte-do-basic-para-o-classico-chip-6502/</link>
-      <description>Microsoft abriu código do Basic 1.1 para 6502, chip da década de 1970 que equipou máquinas como Apple II, Atari 2600 e Commodore PET.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/microsoft-libera-codigo-fonte-do-basic-para-o-classico-chip-6502/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/05/linguagem-programacao-basic-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 04 Sep 2025 15:02:31 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 05 Sep 2025 22:10:09 +0000</lastBuildDate>
     <item>
       <title>A nova mudança no Amazon Prime impacta os brasileiros? Entenda o caso</title>
       <link>https://tecnoblog.net/noticias/a-nova-mudanca-no-amazon-prime-impacta-os-brasileiros-entenda-o-caso/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/iphone-16e-com-chip-apple-a18-tem-oferta-com-40-de-desconto-na-amazon/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/03/iphone-16e-achados-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Fri, 05 Sep 2025 20:58:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Neuralink é barrada ao tentar registrar “telepatia” e “telecinese”</title>
+      <link>https://tecnoblog.net/noticias/neuralink-e-barrada-ao-tentar-registrar-telepatia-e-telecinese/</link>
+      <description>Empresa de Elon Musk teve pedido de registro negado pelo órgão responsável nos EUA. Nomes de futuros produtos foram reservados por outro empresário em 2023 e 2024.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/neuralink-e-barrada-ao-tentar-registrar-telepatia-e-telecinese/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/11/musk-capa-2-nov-2022-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 05 Sep 2025 21:11:42 +0000</pubDate>
     </item>
   </channel>
 </rss>
