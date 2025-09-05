@@ -7,39 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 05 Sep 2025 14:10:39 +0000</lastBuildDate>
-    <item>
-      <title>Instagram ganha app nativo para iPad após 15 anos de espera</title>
-      <link>https://tecnoblog.net/noticias/instagram-ganha-app-nativo-para-ipad-apos-15-anos-de-espera/</link>
-      <description>Após longa resistência, rede social ganha interface adaptada ao tablet e aposta em Reels para concorrer com TikTok</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/instagram-ganha-app-nativo-para-ipad-apos-15-anos-de-espera/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/instagram-ipad-edited-340x191.webp" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 03 Sep 2025 17:33:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Galaxy Buds 3 tem melhor oferta que já vimos: 59% OFF na Magalu</title>
-      <link>https://tecnoblog.net/achados/galaxy-buds-3-tem-melhor-oferta-que-ja-vimos-59-off-no-magalu/</link>
-      <description>Samsung Galaxy Buds 3 com cancelamento de ruído ativo (ANC) e áudio Hi-Fi em até 24 bits / 96 kHz sai por menos de R$ 700 em oferta com 59% de desconto na Magazine Luiza</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-buds-3-tem-melhor-oferta-que-ja-vimos-59-off-no-magalu/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/galaxy-buds-3-tem-anc-e-adaptive-eq-foto-thassius-velosotecnoblog-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 03 Sep 2025 17:59:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Suíços liberam modelo de IA totalmente aberto</title>
-      <link>https://tecnoblog.net/noticias/suicos-liberam-modelo-de-ia-totalmente-aberto/</link>
-      <description>Apertus é a primeira LLM de código aberto da Suíça e já está disponível para download. IA deve fornecer transparência total em dados e processos de treinamento.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/suicos-liberam-modelo-de-ia-totalmente-aberto/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/apertus-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 03 Sep 2025 18:09:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Meta decide repassar os custos com impostos no Brasil para os anunciantes</title>
-      <link>https://tecnoblog.net/noticias/meta-decide-repassar-os-custos-com-impostos-no-brasil-para-os-anunciantes/</link>
-      <description>Medida impacta a publicidade no Instagram, Facebook e outras plataformas digitais. Decisão não tem relação com qualquer novidade recente do governo.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/meta-decide-repassar-os-custos-com-impostos-no-brasil-para-os-anunciantes/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/02/Capa-Mark-Zuckerberg-02-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 03 Sep 2025 18:16:11 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 05 Sep 2025 15:12:00 +0000</lastBuildDate>
     <item>
       <title>Galaxy Tab S10 FE (128 GB) tem oferta de 38% OFF em até 12x sem juros</title>
       <link>https://tecnoblog.net/achados/galaxy-tab-s10-fe-128-gb-tem-oferta-de-38-off-em-ate-12x-sem-juros/</link>
@@ -111,6 +79,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/loja-virtual-da-apple-movimenta-r-638-bilhoes-por-ano-no-brasil/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/capa-apple-app-store-no-brasil-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Thu, 04 Sep 2025 13:07:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>O que é DLSS? Conheça a tecnologia de aprimoramento da Nvidia</title>
+      <link>https://tecnoblog.net/responde/o-que-e-dlss-conheca-a-tecnologia-de-aprimoramento-da-nvidia/</link>
+      <description>O DLSS usa a IA para aumentar o desempenho gráfico em jogos, gerando imagens de alta resolução com maior nitidez e detalhes</description>
+      <guid isPermaLink="false">https://tecnoblog.net/responde/o-que-e-dlss-conheca-a-tecnologia-de-aprimoramento-da-nvidia/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/nvidia-dlss-edited-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 04 Sep 2025 13:36:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>O que é VRAM? Entenda o papel da memória de placas de vídeo dedicadas</title>
+      <link>https://tecnoblog.net/responde/o-que-e-vram-entenda-o-papel-da-memoria-de-placas-de-video-dedicadas/</link>
+      <description>A VRAM armazena dados gráficos que podem ser acessados rapidamente pela GPU, acelerando o processamento de informações de vídeo</description>
+      <guid isPermaLink="false">https://tecnoblog.net/responde/o-que-e-vram-entenda-o-papel-da-memoria-de-placas-de-video-dedicadas/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/ilustracao-de-vram-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 04 Sep 2025 14:00:41 +0000</pubDate>
     </item>
     <item>
       <title>Tablets Samsung até 51% OFF: Galaxy Tab S9, Tab S10 FE e mais ofertas</title>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/samsung-prepara-o-lancamento-do-galaxy-a17-4g-no-brasil/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/12/20241203_123202-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Fri, 05 Sep 2025 13:21:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>O que esperar do iPhone 17 Pro Max e demais aparelhos da Apple</title>
+      <link>https://tecnoblog.net/noticias/o-que-esperar-do-iphone-17-pro-max-e-demais-aparelhos-da-apple/</link>
+      <description>Gigante de Cupertino deve revelar quatro modelos em evento nesta terça-feira (09/09). Nova linha da Apple pode trazer design renovado, chip A19 e mais novidades.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/o-que-esperar-do-iphone-17-pro-max-e-demais-aparelhos-da-apple/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/03/iphone-17-pro-asherdipps-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 05 Sep 2025 14:45:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Após ataque ao Pix, Banco Central reforça segurança do sistema financeiro</title>
+      <link>https://tecnoblog.net/noticias/apos-ataque-ao-pix-banco-central-reforca-seguranca-do-sistema-financeiro/</link>
+      <description>Novas medidas do Banco Central visam prevenir fraudes e proteger o sistema financeiro. Anúncio surge após desvio de R$ 710 milhões via sistema do Pix.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/apos-ataque-ao-pix-banco-central-reforca-seguranca-do-sistema-financeiro/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/03/pix_capa-1_tb-340x191.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 05 Sep 2025 14:56:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
