@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 05 Sep 2025 13:20:22 +0000</lastBuildDate>
-    <item>
-      <title>Câmara aprova pena maior para receptação de celular furtado ou roubado</title>
-      <link>https://tecnoblog.net/noticias/camara-aprova-pena-maior-para-receptacao-de-celular-furtado-ou-roubado/</link>
-      <description>Texto prevê aumento de pena em casos de receptação de celulares, armas e veículos. Também cria novo tipo penal de furto qualificado de celulares em benefício de terceiros.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/camara-aprova-pena-maior-para-receptacao-de-celular-furtado-ou-roubado/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/capa-roubo-de-celular-01-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 03 Sep 2025 16:57:10 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 05 Sep 2025 14:10:39 +0000</lastBuildDate>
     <item>
       <title>Instagram ganha app nativo para iPad após 15 anos de espera</title>
       <link>https://tecnoblog.net/noticias/instagram-ganha-app-nativo-para-ipad-apos-15-anos-de-espera/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/circule-para-pesquisar-do-google-ganha-traducao-continua-ao-rolar-a-tela/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/circle-to-search-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Fri, 05 Sep 2025 10:48:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Samsung prepara o lançamento do Galaxy A17 4G no Brasil</title>
+      <link>https://tecnoblog.net/noticias/samsung-prepara-o-lancamento-do-galaxy-a17-4g-no-brasil/</link>
+      <description>Celular passou pela homologação na Anatel e já pode ser vendido no país. Modelo vem com carregador de 15 W e bateria de 5.000 mAh.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/samsung-prepara-o-lancamento-do-galaxy-a17-4g-no-brasil/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/12/20241203_123202-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 05 Sep 2025 13:21:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
