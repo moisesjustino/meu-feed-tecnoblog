@@ -7,31 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 05 Sep 2025 20:12:14 +0000</lastBuildDate>
-    <item>
-      <title>O que é DLSS? Conheça a tecnologia de aprimoramento da Nvidia</title>
-      <link>https://tecnoblog.net/responde/o-que-e-dlss-conheca-a-tecnologia-de-aprimoramento-da-nvidia/</link>
-      <description>O DLSS usa a IA para aumentar o desempenho gráfico em jogos, gerando imagens de alta resolução com maior nitidez e detalhes</description>
-      <guid isPermaLink="false">https://tecnoblog.net/responde/o-que-e-dlss-conheca-a-tecnologia-de-aprimoramento-da-nvidia/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/nvidia-dlss-edited-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 04 Sep 2025 13:36:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>O que é VRAM? Entenda o papel da memória de placas de vídeo dedicadas</title>
-      <link>https://tecnoblog.net/responde/o-que-e-vram-entenda-o-papel-da-memoria-de-placas-de-video-dedicadas/</link>
-      <description>A VRAM armazena dados gráficos que podem ser acessados rapidamente pela GPU, acelerando o processamento de informações de vídeo</description>
-      <guid isPermaLink="false">https://tecnoblog.net/responde/o-que-e-vram-entenda-o-papel-da-memoria-de-placas-de-video-dedicadas/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/ilustracao-de-vram-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 04 Sep 2025 14:00:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tablets Samsung até 52% OFF: Galaxy Tab S9, Tab S10 FE e mais ofertas</title>
-      <link>https://tecnoblog.net/achados/tablets-samsung-ate-51-off-galaxy-tab-s9-tab-s10-fe-e-mais-ofertas/</link>
-      <description>Galaxy Tab S9 (256 GB) e Tab S10 FE e Tab S10 Lite (128 GB) estão em oferta essa semana; veja os melhores descontos pelos tablets da Samsung</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/tablets-samsung-ate-51-off-galaxy-tab-s9-tab-s10-fe-e-mais-ofertas/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/solucionador-matematico-identifica-e-resolve-contas-foto-giovanni-santa-rosatecnoblog-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 04 Sep 2025 14:35:32 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 05 Sep 2025 21:10:00 +0000</lastBuildDate>
     <item>
       <title>Microsoft libera código-fonte do Basic para o clássico chip 6502</title>
       <link>https://tecnoblog.net/noticias/microsoft-libera-codigo-fonte-do-basic-para-o-classico-chip-6502/</link>
@@ -111,6 +87,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-a36-256-gb-tem-oferta-com-menor-preco-historico-no-magalu/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/samsung-galaxy-a36-tem-camera-de-50-mp-foto-thassius-velosotecnoblog-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Thu, 04 Sep 2025 20:57:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>O que é Starlink? Entenda como funciona a internet de Elon Musk</title>
+      <link>https://tecnoblog.net/responde/o-que-e-starlink/</link>
+      <description>A Starlink fornece acesso à internet de alta velocidade usando uma rede de satélites, levando conexão para áreas rurais e remotas sem infraestrutura de internet tradicional</description>
+      <guid isPermaLink="false">https://tecnoblog.net/responde/o-que-e-starlink/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/05/starlink-antena-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 04 Sep 2025 21:12:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>O que é Direct-to-Device (D2D)? Veja como funciona e quais celulares são compatíveis</title>
+      <link>https://tecnoblog.net/responde/o-que-e-direct-to-device-d2d-veja-como-funciona-e-quais-celulares-sao-compativeis/</link>
+      <description>A tecnologia Direct-to-Device permite que satélites enviem sinais a dispositivos sem intermédio de infraestruturas terrestres</description>
+      <guid isPermaLink="false">https://tecnoblog.net/responde/o-que-e-direct-to-device-d2d-veja-como-funciona-e-quais-celulares-sao-compativeis/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/ilustracao-de-satelite-direct-to-device-1-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 04 Sep 2025 21:35:13 +0000</pubDate>
     </item>
     <item>
       <title>Mark Zuckerberg processa Mark Zuckerberg por um motivo… inusitado</title>
@@ -217,12 +209,20 @@
       <pubDate>Fri, 05 Sep 2025 19:13:24 +0000</pubDate>
     </item>
     <item>
-      <title>Santander caiu? App do banco tem erro e fica fora do ar nesta sexta (5)</title>
+      <title>Santander caiu? App do banco ficou fora do ar nesta sexta (5)</title>
       <link>https://tecnoblog.net/noticias/santander-caiu-app-do-banco-tem-erro-e-fica-fora-do-ar-nesta-sexta-5/</link>
-      <description>Clientes não conseguem acessar conta, mas aplicativo de cartões opera normalmente. Nas redes sociais, banco diz que sistema passa por instabilidade.</description>
+      <description>Clientes não conseguiam acessar conta, mas aplicativo de cartões operava normalmente. Nas redes sociais, banco disse que sistema passava por instabilidade.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/santander-caiu-app-do-banco-tem-erro-e-fica-fora-do-ar-nesta-sexta-5/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/04/banco_santander-edited-340x191.jpeg" length="0" type="image/jpeg"/>
       <pubDate>Fri, 05 Sep 2025 19:24:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>iPhone 16e com chip Apple A18 tem oferta com 40% de desconto na Amazon</title>
+      <link>https://tecnoblog.net/achados/iphone-16e-com-chip-apple-a18-tem-oferta-com-40-de-desconto-na-amazon/</link>
+      <description>Smartphone da Apple possui tela OLED de 6,1", chip Apple A18 (3nm) e câmera principal de 48 MP com OIS; versão de 128 GB em promoção com 40% OFF válida no Pix</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/iphone-16e-com-chip-apple-a18-tem-oferta-com-40-de-desconto-na-amazon/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/03/iphone-16e-achados-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 05 Sep 2025 20:58:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
