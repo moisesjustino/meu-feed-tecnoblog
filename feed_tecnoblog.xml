@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 05 Sep 2025 22:10:09 +0000</lastBuildDate>
-    <item>
-      <title>A nova mudança no Amazon Prime impacta os brasileiros? Entenda o caso</title>
-      <link>https://tecnoblog.net/noticias/a-nova-mudanca-no-amazon-prime-impacta-os-brasileiros-entenda-o-caso/</link>
-      <description>Amazon decidiu encerrar o programa Prime Invitee, que permitia compartilhar o frete grátis com pessoas de fora do domicílio.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/a-nova-mudanca-no-amazon-prime-impacta-os-brasileiros-entenda-o-caso/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/01/amazon-prime-capa-3-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 04 Sep 2025 15:02:32 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 05 Sep 2025 23:10:14 +0000</lastBuildDate>
     <item>
       <title>Como é a etiqueta padrão da Anatel para planos de telefonia, internet e TV</title>
       <link>https://tecnoblog.net/noticias/como-e-a-etiqueta-padrao-da-anatel-para-planos-de-telefonia-internet-e-tv/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/neuralink-e-barrada-ao-tentar-registrar-telepatia-e-telecinese/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/11/musk-capa-2-nov-2022-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Fri, 05 Sep 2025 21:11:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>O Facebook quer que a gente volte a cutucar</title>
+      <link>https://tecnoblog.net/noticias/o-facebook-quer-que-a-gente-volte-a-cutucar/</link>
+      <description>Nova versão do botão de cutucar inclui contagem de interações e ícones para engajar usuários mais jovens.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/o-facebook-quer-que-a-gente-volte-a-cutucar/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/04/O-que-e-cutucar-no-facebook-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 05 Sep 2025 22:20:53 +0000</pubDate>
     </item>
   </channel>
 </rss>
