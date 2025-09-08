@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 08 Sep 2025 18:16:36 +0000</lastBuildDate>
-    <item>
-      <title>Mark Zuckerberg processa Mark Zuckerberg por um motivo… inusitado</title>
-      <link>https://tecnoblog.net/noticias/mark-zuckerberg-processa-mark-zuckerberg-por-um-motivo-inusitado/</link>
-      <description>Advogado com o mesmo nome do CEO da Meta alega que seus perfis no Facebook são suspensos repetidamente. Empresa disse que já restabeleceu os acessos.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/mark-zuckerberg-processa-mark-zuckerberg-por-um-motivo-inusitado/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/02/Capa-Mark-Zuckerberg-01-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 04 Sep 2025 21:47:17 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 08 Sep 2025 19:09:27 +0000</lastBuildDate>
     <item>
       <title>Circule para Pesquisar, do Google, ganha tradução contínua ao rolar a tela</title>
       <link>https://tecnoblog.net/noticias/circule-para-pesquisar-do-google-ganha-traducao-continua-ao-rolar-a-tela/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-s25-ultra-512-gb-tem-46-off-em-ate-10x-no-app-day-da-amazon/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/galaxy-s25-ultra-tem-camera-de-200-mp-foto-samsung-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 08 Sep 2025 17:53:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google Meet fora do ar: serviço apresenta instabilidade nesta segunda (8)</title>
+      <link>https://tecnoblog.net/noticias/google-meet-fora-do-ar-servico-apresenta-instabilidade-nesta-segunda-feira-8/</link>
+      <description>Usuários relataram falhas no carregamento da interface, impedindo a participação em reuniões. Google afirma que problema foi resolvido.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/google-meet-fora-do-ar-servico-apresenta-instabilidade-nesta-segunda-feira-8/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/05/meet_capa-1_tb-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 08 Sep 2025 18:40:59 +0000</pubDate>
     </item>
   </channel>
 </rss>
