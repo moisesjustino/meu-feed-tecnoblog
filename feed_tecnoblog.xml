@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 08 Sep 2025 15:10:45 +0000</lastBuildDate>
-    <item>
-      <title>Navegadores Arc e Dia são vendidos por US$ 610 milhões</title>
-      <link>https://tecnoblog.net/noticias/navegadores-arc-e-dia-vendidos-por-us-610-milhoes/</link>
-      <description>Atlassian, desenvolvedora de Jira e Trello, fecha negócio com startup e aposta em browser com IA para uso profissional</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/navegadores-arc-e-dia-vendidos-por-us-610-milhoes/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/Dia-navegador-2-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 04 Sep 2025 19:05:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Galaxy Watch 7 tem 60% de desconto em até 12x sem juros com cupom</title>
-      <link>https://tecnoblog.net/achados/galaxy-watch-7-tem-60-de-desconto-em-ate-12x-sem-juros-com-cupom/</link>
-      <description>Galaxy Watch 7 BT 40 mm em oferta por menos de R$ 1 mil reais no AliExpress; smartwatch Samsung tem 13 sensores LED, tela AMOLED de 1,3" e suporte ao Galaxy AI</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-watch-7-tem-60-de-desconto-em-ate-12x-sem-juros-com-cupom/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/12/galaxy-watch-7-achado-dia-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 04 Sep 2025 19:51:48 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 08 Sep 2025 16:13:23 +0000</lastBuildDate>
     <item>
       <title>Huawei apresenta Mate XTs, segunda geração de seu smartphone trifold</title>
       <link>https://tecnoblog.net/noticias/huawei-apresenta-mate-xts-segunda-geracao-de-seu-smartphone-trifold/</link>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/fim-de-uma-era-nova-launcher-vai-acabar/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2021/01/nova-launcher-tecnoblog-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 08 Sep 2025 15:08:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google lança Modo IA em português; veja como funciona</title>
+      <link>https://tecnoblog.net/noticias/google-lanca-modo-ia-em-portugues-veja-como-funciona/</link>
+      <description>Ferramenta usa IA para desdobrar perguntas complexas, articular resultados de múltiplas fontes e exibir respostas em diferentes formatos</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/google-lanca-modo-ia-em-portugues-veja-como-funciona/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/08/google-ia-capa-1-edited-2-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 08 Sep 2025 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nintendo derruba site e ganha US$ 2 milhões em disputa antipirataria</title>
+      <link>https://tecnoblog.net/noticias/nintendo-derruba-site-e-ganha-us-2-milhoes-em-disputa-antipirataria/</link>
+      <description>Nintendo fechou acordo judicial com administrador do Modded Hardware, que terá indenizar empresa e encerrar atividades tidas como ilegais.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/nintendo-derruba-site-e-ganha-us-2-milhoes-em-disputa-antipirataria/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/07/yoshi-mario-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 08 Sep 2025 16:11:26 +0000</pubDate>
     </item>
   </channel>
 </rss>
