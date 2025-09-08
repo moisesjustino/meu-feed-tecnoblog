@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 08 Sep 2025 14:12:25 +0000</lastBuildDate>
-    <item>
-      <title>Google é condenado a pagar US$ 425 milhões por violação de privacidade</title>
-      <link>https://tecnoblog.net/noticias/google-e-condenado-a-pagar-us-425-milhoes-por-violacao-de-privacidade/</link>
-      <description>Júri nos EUA decidiu que a empresa coletou dados de usuários mesmo após desativação do rastreamento. Google informou que vai recorrer.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/google-e-condenado-a-pagar-us-425-milhoes-por-violacao-de-privacidade/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/04/google_capa-2-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 04 Sep 2025 17:18:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>EUA oferecem recompensa de US$ 10 milhões para quem conhecer hackers russos</title>
-      <link>https://tecnoblog.net/noticias/conhece-hackers-russos-eua-dao-recompensa-de-us-10-milhoes/</link>
-      <description>Marat Valeryevich Tyukov, Mikhail Mikhailovich Gavrilov e Pavel Aleksandrovich Akulov são acusados de ciberataques contra redes elétricas e até usinas nucleares.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/conhece-hackers-russos-eua-dao-recompensa-de-us-10-milhoes/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/02/hackers-e-policia-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 04 Sep 2025 18:24:50 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 08 Sep 2025 15:10:45 +0000</lastBuildDate>
     <item>
       <title>Navegadores Arc e Dia são vendidos por US$ 610 milhões</title>
       <link>https://tecnoblog.net/noticias/navegadores-arc-e-dia-vendidos-por-us-610-milhoes/</link>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/iphone-17-vazam-detalhes-sobre-bateria-e-capinhas/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/iphone-17-pro-capinhas-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 08 Sep 2025 13:44:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>82,6% dos brasileiros são otimistas com a IA no ambiente de trabalho</title>
+      <link>https://tecnoblog.net/noticias/826-dos-brasileiros-acreditam-que-ia-pode-melhorar-seu-trabalho/</link>
+      <description>O Brasil é o segundo país que mais utiliza a IA com confiança (42,5%), atrás apenas da Índia (43,5%), e apresenta menor sensação de despreparo frente às mudanças.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/826-dos-brasileiros-acreditam-que-ia-pode-melhorar-seu-trabalho/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/06/ia-3-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 08 Sep 2025 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fim de uma era: Nova Launcher vai acabar</title>
+      <link>https://tecnoblog.net/noticias/fim-de-uma-era-nova-launcher-vai-acabar/</link>
+      <description>Lançado há mais de uma década, app referência em personalização do Android perdeu criador e único desenvolvedor. Projeto sofreu após demissões em massa em 2024.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/fim-de-uma-era-nova-launcher-vai-acabar/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2021/01/nova-launcher-tecnoblog-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 08 Sep 2025 15:08:40 +0000</pubDate>
     </item>
   </channel>
 </rss>
