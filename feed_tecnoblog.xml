@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 08 Sep 2025 13:23:57 +0000</lastBuildDate>
-    <item>
-      <title>Cartões Alelo já podem ser usados no Apple Pay (finalmente)</title>
-      <link>https://tecnoblog.net/noticias/cartoes-alelo-ja-podem-ser-usados-no-apple-pay-finalmente/</link>
-      <description>Cadastro dos cartões Alelo no Apple Pay é simples e pode ser feito pelo aplicativo Meu Alelo ou diretamente via Apple Wallet (Carteira).</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/cartoes-alelo-ja-podem-ser-usados-no-apple-pay-finalmente/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/cartao-alelo-apple-pay-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 04 Sep 2025 16:19:54 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 08 Sep 2025 14:12:25 +0000</lastBuildDate>
     <item>
       <title>Google é condenado a pagar US$ 425 milhões por violação de privacidade</title>
       <link>https://tecnoblog.net/noticias/google-e-condenado-a-pagar-us-425-milhoes-por-violacao-de-privacidade/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/samsung-traz-galaxy-a17-e-a07-ao-brasil-estes-sao-os-precos/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/20250908_075813-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 08 Sep 2025 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>iPhone 17: vazam detalhes sobre bateria e capinhas</title>
+      <link>https://tecnoblog.net/noticias/iphone-17-vazam-detalhes-sobre-bateria-e-capinhas/</link>
+      <description>iPhone 17 deve ser anunciado nesta terça-feira (09/09). Rumores indicam baterias maiores em quase todos os modelos. Versão Air deve substituir modelo Plus.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/iphone-17-vazam-detalhes-sobre-bateria-e-capinhas/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/iphone-17-pro-capinhas-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 08 Sep 2025 13:44:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
