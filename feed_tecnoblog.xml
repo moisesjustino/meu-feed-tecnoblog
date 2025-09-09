@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 09 Sep 2025 15:12:59 +0000</lastBuildDate>
-    <item>
-      <title>O que é AMD FidelityFX? Entenda o funcionamento da tecnologia de aprimoramento gráfico</title>
-      <link>https://tecnoblog.net/responde/o-que-e-amd-fidelityfx-entenda-o-funcionamento-da-tecnologia-de-aprimoramento-grafico/</link>
-      <description>O AMD FidelityFX é uma coleção de ferramentas que ajuda a otimizar o desempenho visual em jogos, oferecendo recursos como super resolução e mais</description>
-      <guid isPermaLink="false">https://tecnoblog.net/responde/o-que-e-amd-fidelityfx-entenda-o-funcionamento-da-tecnologia-de-aprimoramento-grafico/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/amd-fidelityfx-01-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 05 Sep 2025 19:37:36 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 09 Sep 2025 16:14:02 +0000</lastBuildDate>
     <item>
       <title>iPhone 16e com chip Apple A18 tem oferta com 41% de desconto na Amazon</title>
       <link>https://tecnoblog.net/achados/iphone-16e-com-chip-apple-a18-tem-oferta-com-40-de-desconto-na-amazon/</link>
@@ -217,12 +209,20 @@
       <pubDate>Tue, 09 Sep 2025 14:00:50 +0000</pubDate>
     </item>
     <item>
-      <title>iPhone 17: estes são os prováveis novos celulares da Apple</title>
+      <title>iPhone 17 vaza na web antes da hora; veja as imagens</title>
       <link>https://tecnoblog.net/noticias/iphone-17-estes-sao-os-provaveis-novos-celulares-da-apple/</link>
       <description>Novos iPhones aparecem antes do evento. Vazamento confirma o inédito iPhone 17 Air.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/iphone-17-estes-sao-os-provaveis-novos-celulares-da-apple/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/captura-de-tela-2025-09-09-113142-edited-340x191.png" length="0" type="image/jpeg"/>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/captura-de-tela-2025-09-09-113142-edited-1-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Tue, 09 Sep 2025 14:37:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ex-chefe do WhatsApp acusa Meta de expor dados de usuários</title>
+      <link>https://tecnoblog.net/noticias/ex-chefe-do-whatsapp-acusa-meta-de-expor-dados-de-usuarios/</link>
+      <description>Ação judicial alega que empresa de Mark Zuckerberg ignorou falhas de segurança propositalmente e demitiu executivo como retaliação. Meta nega acusações.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/ex-chefe-do-whatsapp-acusa-meta-de-expor-dados-de-usuarios/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/02/Capa-Mark-Zuckerberg-02-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 09 Sep 2025 15:51:59 +0000</pubDate>
     </item>
   </channel>
 </rss>
