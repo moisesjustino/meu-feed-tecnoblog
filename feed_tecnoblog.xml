@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 09 Sep 2025 19:08:49 +0000</lastBuildDate>
-    <item>
-      <title>Nintendo derruba site e ganha US$ 2 milhões em disputa antipirataria</title>
-      <link>https://tecnoblog.net/noticias/nintendo-derruba-site-e-ganha-us-2-milhoes-em-disputa-antipirataria/</link>
-      <description>Nintendo fechou acordo judicial com administrador do Modded Hardware, que terá indenizar empresa e encerrar atividades tidas como ilegais.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/nintendo-derruba-site-e-ganha-us-2-milhoes-em-disputa-antipirataria/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/07/yoshi-mario-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 08 Sep 2025 16:11:26 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 09 Sep 2025 20:12:13 +0000</lastBuildDate>
     <item>
       <title>Perplexity Pro de graça: como obter a inteligência artificial premium</title>
       <link>https://tecnoblog.net/noticias/perplexity-pro-de-graca-como-obter-a-inteligencia-artificial-premium/</link>
@@ -65,7 +57,7 @@
       <pubDate>Mon, 08 Sep 2025 19:41:56 +0000</pubDate>
     </item>
     <item>
-      <title>O que é FPS em jogos? Entenda quais fatores influenciam a taxa de quadros por segundo</title>
+      <title>O que é FPS em jogos? Entenda os fatores que influenciam a taxa de quadros por segundo</title>
       <link>https://tecnoblog.net/responde/o-que-e-fps/</link>
       <description>O FPS mede a fluidez visual em um jogo, indicando quantos quadros são exibidos na tela a cada segundo. Quanto maior a taxa de quadros, mais suave e responsiva é a experiência</description>
       <guid isPermaLink="false">https://tecnoblog.net/responde/o-que-e-fps/</guid>
@@ -155,7 +147,7 @@
     <item>
       <title>iPhone 17 vaza na web antes da hora; veja as imagens</title>
       <link>https://tecnoblog.net/noticias/iphone-17-estes-sao-os-provaveis-novos-celulares-da-apple/</link>
-      <description>Novos iPhones aparecem antes do evento. Vazamento confirma o inédito iPhone 17 Air.</description>
+      <description>Novos iPhones aparecem antes do evento. Vazamento confirma o inédito iPhone Air.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/iphone-17-estes-sao-os-provaveis-novos-celulares-da-apple/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/captura-de-tela-2025-09-09-113142-edited-1-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Tue, 09 Sep 2025 14:37:32 +0000</pubDate>
@@ -193,7 +185,7 @@
       <pubDate>Tue, 09 Sep 2025 17:32:24 +0000</pubDate>
     </item>
     <item>
-      <title>Apple anuncia iPhone Air, seu celular mais fino; veja preços no Brasil</title>
+      <title>iPhone Air é anunciado pela Apple com apenas 5,6 mm; veja preços no Brasil</title>
       <link>https://tecnoblog.net/noticias/apple-anuncia-o-iphone-air-modelo-mais-fino-em-anos/</link>
       <description>Smartphone da linha iPhone 17 tem 5,6 milímetros de espessura e conta com estrutura mais resistente a impactos.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/apple-anuncia-o-iphone-air-modelo-mais-fino-em-anos/</guid>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/apple-confirma-data-do-ios-26-veja-novidades-e-iphones-compativeis/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/liquid_glass__f595gw1ozwi2_large_2x-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 09 Sep 2025 18:40:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Galaxy S24 FE (256 GB) tem oferta com 51% de desconto no Magalu</title>
+      <link>https://tecnoblog.net/achados/galaxy-s24-fe-256-gb-tem-oferta-com-51-de-desconto-no-magalu/</link>
+      <description>Galaxy S24 FE traz tela AMOLED Dinâmico de 6,7", câmera de 50 MP que filma em 8K, bateria de 4.700 mAh e chip Exynos 2400e; oferta por menos da metade do preço original somente no pix</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-s24-fe-256-gb-tem-oferta-com-51-de-desconto-no-magalu/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/03/Galaxy-S24-FE-promete-7-anos-de-Android-foto-Giovanni-Santa-Rosa-Tecnoblog-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 09 Sep 2025 19:48:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
