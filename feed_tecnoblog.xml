@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 09 Sep 2025 12:23:29 +0000</lastBuildDate>
-    <item>
-      <title>Você teria? Este suporte sobe, desce e gira o seu notebook</title>
-      <link>https://tecnoblog.net/noticias/voce-teria-este-suporte-sobe-desce-e-gira-o-seu-notebook/</link>
-      <description>Acessório da Lenovo usa a webcam para seguir o rosto do usuário e ajustar altura, inclinação e rotação da tela. Produto ainda é conceito e não tem previsão de lançamento.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/voce-teria-este-suporte-sobe-desce-e-gira-o-seu-notebook/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/smart-motion-concept-340x191.gif" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 05 Sep 2025 18:13:25 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 09 Sep 2025 13:25:06 +0000</lastBuildDate>
     <item>
       <title>O que é uma placa-mãe? Conheça os tipos e o funcionamento da motherboard</title>
       <link>https://tecnoblog.net/responde/o-que-e-uma-placa-mae-conheca-os-tipos-e-o-funcionamento-da-motherboard/</link>
@@ -213,7 +205,7 @@
       <link>https://tecnoblog.net/noticias/hoje-tem-evento-do-iphone-17-a-partir-das-14h-saiba-como-assistir/</link>
       <description>Apple deve anunciar quatro modelos da linha iPhone 17 nesta terça-feira (09/09). Evento será transmitido ao vivo no YouTube e no site da Apple.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/hoje-tem-evento-do-iphone-17-a-partir-das-14h-saiba-como-assistir/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/apple-evento-capa-340x191.jpg" length="0" type="image/jpeg"/>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/apple-evento-capa-edited-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 09 Sep 2025 10:01:00 +0000</pubDate>
     </item>
     <item>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/aulas-contra-phishing-nao-funcionam-como-o-esperado-diz-estudo/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/01/capa-tbr-phishing-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Tue, 09 Sep 2025 10:33:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Galaxy Buds 3 tem 55% de desconto em até 18x no 9.9 do Mercado Livre</title>
+      <link>https://tecnoblog.net/achados/galaxy-buds-3-tem-55-de-desconto-em-ate-18x-no-9-9-do-mercado-livre/</link>
+      <description>Galaxy Buds 3 tem cancelamento ativo de ruído (ANC), áudio Hi-Fi e inteligência artificial integrada; fones da Samsung têm oferta com parcelamento</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-buds-3-tem-55-de-desconto-em-ate-18x-no-9-9-do-mercado-livre/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/galaxy-buds-3-tem-anc-e-adaptive-eq-foto-thassius-velosotecnoblog-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 09 Sep 2025 13:10:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
