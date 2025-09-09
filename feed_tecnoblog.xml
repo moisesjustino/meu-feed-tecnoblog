@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 09 Sep 2025 14:10:03 +0000</lastBuildDate>
-    <item>
-      <title>Santander caiu? App do banco ficou fora do ar nesta sexta (5)</title>
-      <link>https://tecnoblog.net/noticias/santander-caiu-app-do-banco-tem-erro-e-fica-fora-do-ar-nesta-sexta-5/</link>
-      <description>Clientes não conseguiam acessar conta, mas aplicativo de cartões operava normalmente. Nas redes sociais, banco disse que sistema passava por instabilidade.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/santander-caiu-app-do-banco-tem-erro-e-fica-fora-do-ar-nesta-sexta-5/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/04/banco_santander-edited-340x191.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 05 Sep 2025 19:24:05 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 09 Sep 2025 15:12:59 +0000</lastBuildDate>
     <item>
       <title>O que é AMD FidelityFX? Entenda o funcionamento da tecnologia de aprimoramento gráfico</title>
       <link>https://tecnoblog.net/responde/o-que-e-amd-fidelityfx-entenda-o-funcionamento-da-tecnologia-de-aprimoramento-grafico/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-s24-ultra-256-gb-cai-para-metade-do-preco-em-oferta-no-9-9/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/galaxy-s24-ultra-achados-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Tue, 09 Sep 2025 14:00:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>iPhone 17: estes são os prováveis novos celulares da Apple</title>
+      <link>https://tecnoblog.net/noticias/iphone-17-estes-sao-os-provaveis-novos-celulares-da-apple/</link>
+      <description>Novos iPhones aparecem antes do evento. Vazamento confirma o inédito iPhone 17 Air.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/iphone-17-estes-sao-os-provaveis-novos-celulares-da-apple/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/captura-de-tela-2025-09-09-113142-edited-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 09 Sep 2025 14:37:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
