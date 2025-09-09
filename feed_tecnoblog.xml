@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 09 Sep 2025 18:13:33 +0000</lastBuildDate>
-    <item>
-      <title>Fim de uma era: Nova Launcher vai acabar</title>
-      <link>https://tecnoblog.net/noticias/fim-de-uma-era-nova-launcher-vai-acabar/</link>
-      <description>Lançado há mais de uma década, app referência em personalização do Android perdeu criador e único desenvolvedor. Projeto sofreu após demissões em massa em 2024.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/fim-de-uma-era-nova-launcher-vai-acabar/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2021/01/nova-launcher-tecnoblog-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 08 Sep 2025 15:08:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google lança Modo IA em português; veja como funciona</title>
-      <link>https://tecnoblog.net/noticias/google-lanca-modo-ia-em-portugues-veja-como-funciona/</link>
-      <description>Ferramenta usa IA para desdobrar perguntas complexas, articular resultados de múltiplas fontes e exibir respostas em diferentes formatos.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/google-lanca-modo-ia-em-portugues-veja-como-funciona/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/08/google-ia-capa-1-edited-2-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 08 Sep 2025 16:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 09 Sep 2025 19:08:49 +0000</lastBuildDate>
     <item>
       <title>Nintendo derruba site e ganha US$ 2 milhões em disputa antipirataria</title>
       <link>https://tecnoblog.net/noticias/nintendo-derruba-site-e-ganha-us-2-milhoes-em-disputa-antipirataria/</link>
@@ -209,9 +193,9 @@
       <pubDate>Tue, 09 Sep 2025 17:32:24 +0000</pubDate>
     </item>
     <item>
-      <title>Apple anuncia iPhone Air, o smartphone mais fino da empresa</title>
+      <title>Apple anuncia iPhone Air, seu celular mais fino; veja preços no Brasil</title>
       <link>https://tecnoblog.net/noticias/apple-anuncia-o-iphone-air-modelo-mais-fino-em-anos/</link>
-      <description>Smartphone tem 5,6 milímetros de espessura e conta com duas câmeras na traseira. Ele roda sistema iOS 26, nova geração com direito ao visual Liquid Glass.</description>
+      <description>Smartphone da linha iPhone 17 tem 5,6 milímetros de espessura e conta com estrutura mais resistente a impactos.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/apple-anuncia-o-iphone-air-modelo-mais-fino-em-anos/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/captura-de-tela-2025-09-09-144133-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Tue, 09 Sep 2025 17:55:12 +0000</pubDate>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/apple-anuncia-linha-iphone-17/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/captura-de-tela-2025-09-09-145708-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Tue, 09 Sep 2025 18:13:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>iPhone 16 fica até 13% mais barato no Brasil; veja os novos preços</title>
+      <link>https://tecnoblog.net/noticias/iphone-16-fica-ate-13-mais-barato-no-brasil-veja-os-novos-precos/</link>
+      <description>Redução acompanha estreia do iPhone 17 e vale apenas para compras na loja oficial da Apple, que também retirou modelos antigos do portfólio</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/iphone-16-fica-ate-13-mais-barato-no-brasil-veja-os-novos-precos/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/09/iphone-16-apple-store-1-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 09 Sep 2025 18:28:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Apple confirma data do iOS 26; veja novidades e iPhones compatíveis</title>
+      <link>https://tecnoblog.net/noticias/apple-confirma-data-do-ios-26-veja-novidades-e-iphones-compativeis/</link>
+      <description>Sistema sucede o iOS 18 e chega aos aparelhos em 15 de setembro. Atualização traz interface repaginada e mais integração com o ChatGPT, da OpenAI.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/apple-confirma-data-do-ios-26-veja-novidades-e-iphones-compativeis/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/liquid_glass__f595gw1ozwi2_large_2x-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 09 Sep 2025 18:40:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
