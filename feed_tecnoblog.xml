@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 10 Sep 2025 13:20:30 +0000</lastBuildDate>
-    <item>
-      <title>Google Meet fora do ar: serviço apresenta instabilidade nesta segunda (8)</title>
-      <link>https://tecnoblog.net/noticias/google-meet-fora-do-ar-servico-apresenta-instabilidade-nesta-segunda-feira-8/</link>
-      <description>Usuários relataram falhas no carregamento da interface, impedindo a participação em reuniões. Google afirma que problema foi resolvido.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/google-meet-fora-do-ar-servico-apresenta-instabilidade-nesta-segunda-feira-8/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/05/meet_capa-1_tb-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 08 Sep 2025 18:40:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenAI terá plataforma de emprego para rivalizar com o LinkedIn</title>
-      <link>https://tecnoblog.net/noticias/openai-tera-plataforma-de-emprego-para-rivalizar-com-o-linkedin/</link>
-      <description>Prevista para 2026, OpenAI Jobs Platform usará IA para aproximar empresas e trabalhadores. Serviço também prevê certificações por meio da OpenAI Academy.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/openai-tera-plataforma-de-emprego-para-rivalizar-com-o-linkedin/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/openai-4_capa-edited-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 08 Sep 2025 19:41:41 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 10 Sep 2025 14:10:54 +0000</lastBuildDate>
     <item>
       <title>Galaxy Z Fold 6 (512 GB) tem 54% de desconto em promoção da Amazon</title>
       <link>https://tecnoblog.net/achados/galaxy-z-fold-6-512-gb-tem-54-de-desconto-em-promocao-da-amazon/</link>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/spotify-finalmente-comeca-a-liberar-audio-lossless-no-plano-premium/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/03/spotify_capa-1_tb-edited-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Wed, 10 Sep 2025 13:04:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Após defender home office, Microsoft agora prioriza trabalho presencial</title>
+      <link>https://tecnoblog.net/noticias/apos-defender-home-office-microsoft-agora-prioriza-trabalho-presencial/</link>
+      <description>Funcionários da Microsoft terão que ir ao escritório pelo menos três vezes por semana a partir de fevereiro de 2026. Home office será mantido, mas sem prioridade.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/apos-defender-home-office-microsoft-agora-prioriza-trabalho-presencial/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/04/sede-microsoft-redmond-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 10 Sep 2025 13:48:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft testa IA no Windows 11 para editar imagens sem apps</title>
+      <link>https://tecnoblog.net/noticias/microsoft-testa-ia-no-windows-11-para-editar-imagens-sem-apps/</link>
+      <description>Novidade permite remover fundo, borrar e apagar objetos de fotos diretamente no  Explorador de Arquivos. Funcionalidade está sendo liberada no programa Windows Insiders.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/microsoft-testa-ia-no-windows-11-para-editar-imagens-sem-apps/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/07/windows-11-3-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 10 Sep 2025 13:57:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
