@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 11 Sep 2025 18:13:38 +0000</lastBuildDate>
-    <item>
-      <title>Microsoft testa IA no Windows 11 para editar imagens sem apps</title>
-      <link>https://tecnoblog.net/noticias/microsoft-testa-ia-no-windows-11-para-editar-imagens-sem-apps/</link>
-      <description>Novidade permite remover fundo, borrar e apagar objetos de fotos diretamente no  Explorador de Arquivos. Funcionalidade está sendo liberada no programa Windows Insiders.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/microsoft-testa-ia-no-windows-11-para-editar-imagens-sem-apps/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/07/windows-11-3-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 10 Sep 2025 13:57:25 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 11 Sep 2025 19:08:31 +0000</lastBuildDate>
     <item>
       <title>O que é UEFI? Saiba para que serve o firmware e como funciona no PC</title>
       <link>https://tecnoblog.net/responde/o-que-e-uefi-saiba-para-que-serve-o-firmware-e-como-funciona-no-pc/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-s25-128-gb-tem-promocao-com-cupom-em-12x-no-mercado-livre/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/galaxy-s25-achados-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Thu, 11 Sep 2025 17:28:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>O que é uma placa de vídeo? Veja se você precisa do hardware e saiba como escolher uma placa gráfica</title>
+      <link>https://tecnoblog.net/guias/o-que-e-uma-placa-de-video-veja-se-voce-precisa-do-hardware-e-saiba-como-escolher-uma-placa-grafica/</link>
+      <description>A placa de vídeo tem a função de processar dados gráficos de maneira dedicada em computadores, além de executar cálculos complexos</description>
+      <guid isPermaLink="false">https://tecnoblog.net/guias/o-que-e-uma-placa-de-video-veja-se-voce-precisa-do-hardware-e-saiba-como-escolher-uma-placa-grafica/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/ilustracao-de-placa-de-video-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 11 Sep 2025 18:42:40 +0000</pubDate>
     </item>
   </channel>
 </rss>
