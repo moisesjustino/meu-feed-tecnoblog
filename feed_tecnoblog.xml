@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 11 Sep 2025 15:11:06 +0000</lastBuildDate>
-    <item>
-      <title>Apple confirma data do iOS 26; veja novidades e iPhones compatíveis</title>
-      <link>https://tecnoblog.net/noticias/apple-confirma-data-do-ios-26-veja-novidades-e-iphones-compativeis/</link>
-      <description>Sistema sucede o iOS 18 e chega aos aparelhos em 15 de setembro. Atualização traz interface repaginada e mais integração com o ChatGPT, da OpenAI.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/apple-confirma-data-do-ios-26-veja-novidades-e-iphones-compativeis/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/liquid_glass__f595gw1ozwi2_large_2x-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 09 Sep 2025 18:40:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Galaxy S24 FE (256 GB) tem oferta com 51% de desconto no Magalu</title>
-      <link>https://tecnoblog.net/achados/galaxy-s24-fe-256-gb-tem-oferta-com-51-de-desconto-no-magalu/</link>
-      <description>Galaxy S24 FE traz tela AMOLED Dinâmico de 6,7", câmera de 50 MP que filma em 8K, bateria de 4.700 mAh e chip Exynos 2400e; oferta por menos da metade do preço original somente no pix</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-s24-fe-256-gb-tem-oferta-com-51-de-desconto-no-magalu/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/03/Galaxy-S24-FE-promete-7-anos-de-Android-foto-Giovanni-Santa-Rosa-Tecnoblog-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 09 Sep 2025 19:48:55 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 11 Sep 2025 16:13:53 +0000</lastBuildDate>
     <item>
       <title>Vinil de bolso? Empresa anuncia disco colecionável de 4 polegadas</title>
       <link>https://tecnoblog.net/noticias/vinil-de-bolso-empresa-anuncia-disco-colecionavel-de-4-polegadas/</link>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/bancos-deverao-rejeitar-pix-e-outras-transacoes-em-contas-usadas-em-fraudes/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/arte-do-pix-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Thu, 11 Sep 2025 15:01:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>WhatsApp sofre pane que impede abertura de PDFs</title>
+      <link>https://tecnoblog.net/noticias/whatsapp-sofre-pane-que-impede-abertura-de-pdfs/</link>
+      <description>Bug impede acesso a arquivos PDF no app e compromete acesso a documentos importantes. Usuários relatam falha nas redes sociais.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/whatsapp-sofre-pane-que-impede-abertura-de-pdfs/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/capa-whats-fora2_thumb_tb-edited-1-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 11 Sep 2025 15:16:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Criador da web diz que algoritmos viciantes deveriam ser banidos</title>
+      <link>https://tecnoblog.net/noticias/criador-da-web-diz-que-algoritmos-viciantes-deveriam-ser-banidos/</link>
+      <description>Tim Berners-Lee critica falta de transparência nas redes sociais, aponta polarização crescente e cobra regras para sistemas de recomendação de conteúdo</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/criador-da-web-diz-que-algoritmos-viciantes-deveriam-ser-banidos/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/tim-berners-lee-edited-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 11 Sep 2025 15:40:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
