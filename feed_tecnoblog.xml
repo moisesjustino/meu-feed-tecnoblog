@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 11 Sep 2025 12:21:38 +0000</lastBuildDate>
-    <item>
-      <title>Ex-chefe do WhatsApp acusa Meta de expor dados de usuários</title>
-      <link>https://tecnoblog.net/noticias/ex-chefe-do-whatsapp-acusa-meta-de-expor-dados-de-usuarios/</link>
-      <description>Ação judicial alega que empresa de Mark Zuckerberg ignorou falhas de segurança propositalmente e demitiu executivo como retaliação. Meta nega acusações.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/ex-chefe-do-whatsapp-acusa-meta-de-expor-dados-de-usuarios/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/02/Capa-Mark-Zuckerberg-02-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 09 Sep 2025 15:51:59 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 11 Sep 2025 13:17:29 +0000</lastBuildDate>
     <item>
       <title>Galaxy S25 Plus tem oferta histórica com 49% OFF no 9.9 do Mercado Livre</title>
       <link>https://tecnoblog.net/achados/galaxy-s25-plus-tem-oferta-historica-com-49-off-no-9-9-do-mercado-livre/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/grammarly-agora-revisa-e-reescreve-textos-em-portugues/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2021/01/glenn-carstens-peters-npxXWgQ33ZQ-unsplash-scaled-e1609901999296-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Wed, 10 Sep 2025 23:48:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Galaxy S25 Plus (256 GB) tem desconto histórico de 49% OFF na Magalu</title>
+      <link>https://tecnoblog.net/achados/galaxy-s25-plus-256-gb-tem-desconto-historico-de-49-off-na-magalu/</link>
+      <description>Galaxy S25 Plus (256 GB) tem tela AMOLED até 2.600 nits, processador Snapdragon 8 Elite e menor preço histórico em promoção na Magazine Luiza</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-s25-plus-256-gb-tem-desconto-historico-de-49-off-na-magalu/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/04/Samsung-Galaxy-S25-Plus-tem-tela-de-67-com-resolucao-QHD-imagem-Samsung-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 11 Sep 2025 13:02:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
