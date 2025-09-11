@@ -7,31 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 11 Sep 2025 19:08:31 +0000</lastBuildDate>
-    <item>
-      <title>O que é UEFI? Saiba para que serve o firmware e como funciona no PC</title>
-      <link>https://tecnoblog.net/responde/o-que-e-uefi-saiba-para-que-serve-o-firmware-e-como-funciona-no-pc/</link>
-      <description>UEFI é responsável por verificar os principais componentes do computador e, se não houver falhas críticas, inicializar o sistema operacional</description>
-      <guid isPermaLink="false">https://tecnoblog.net/responde/o-que-e-uefi-saiba-para-que-serve-o-firmware-e-como-funciona-no-pc/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/uefi-funcionamento-2-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 10 Sep 2025 14:25:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>O que é Trust Platform Module (TPM)? Entenda a função do módulo obrigatório no Windows 11</title>
-      <link>https://tecnoblog.net/responde/o-que-e-trust-platform-module-tpm-entenda-a-funcao-do-modulo-obrigatorio-no-windows-11/</link>
-      <description>TPM é um chip de segurança que protege dados e chaves criptográficas em PCs e notebooks, além de garantir a integridade do sistema operacional e do hardware</description>
-      <guid isPermaLink="false">https://tecnoblog.net/responde/o-que-e-trust-platform-module-tpm-entenda-a-funcao-do-modulo-obrigatorio-no-windows-11/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/o-que-e-tpm-e-por-que-ele-e-exigido-no-windows-11-capa-edited-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 10 Sep 2025 15:17:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft e LG vão levar o Xbox para dentro dos carros</title>
-      <link>https://tecnoblog.net/noticias/microsoft-e-lg-vao-levar-o-xbox-para-dentro-dos-carros/</link>
-      <description>Jogos do Xbox Cloud Gaming estarão disponíveis em veículos com a plataforma de conteúdo da LG. Novidade vai exigir assinatura do Game Pass.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/microsoft-e-lg-vao-levar-o-xbox-para-dentro-dos-carros/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/captura-de-tela-2025-09-10-120309-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 10 Sep 2025 15:19:24 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 11 Sep 2025 20:10:29 +0000</lastBuildDate>
     <item>
       <title>iPhone 16e (128 GB) com chip A18 tem 41% OFF em oferta na Amazon</title>
       <link>https://tecnoblog.net/achados/iphone-16e-128-gb-tem-menor-preco-historico-em-oferta-na-amazon/</link>
@@ -111,6 +87,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/reddit-muda-metrica-para-priorizar-engajamento-real/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/04/brett-jordan-0fytazjhhxs-unsplash-edited-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Wed, 10 Sep 2025 20:31:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>O que é OpenCL? Saiba para que serve a arquitetura e entenda seu funcionamento</title>
+      <link>https://tecnoblog.net/responde/o-que-e-opencl-saiba-para-que-serve-a-arquitetura-e-entenda-seu-funcionamento/</link>
+      <description>O OpenCL é uma API que permite que desenvolvedores criem programas que podem ser executados em diferentes hardwares, aproveitando o poder de processamento paralelo</description>
+      <guid isPermaLink="false">https://tecnoblog.net/responde/o-que-e-opencl-saiba-para-que-serve-a-arquitetura-e-entenda-seu-funcionamento/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/opencl-logo-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 10 Sep 2025 21:58:40 +0000</pubDate>
     </item>
     <item>
       <title>Tradução simultânea da Apple também chega a AirPods antigos</title>
@@ -217,12 +201,28 @@
       <pubDate>Thu, 11 Sep 2025 17:28:15 +0000</pubDate>
     </item>
     <item>
-      <title>O que é uma placa de vídeo? Veja se você precisa do hardware e saiba como escolher uma placa gráfica</title>
+      <title>O que é uma placa de vídeo? Saiba como escolher uma GPU para seu setup</title>
       <link>https://tecnoblog.net/guias/o-que-e-uma-placa-de-video-veja-se-voce-precisa-do-hardware-e-saiba-como-escolher-uma-placa-grafica/</link>
       <description>A placa de vídeo tem a função de processar dados gráficos de maneira dedicada em computadores, além de executar cálculos complexos</description>
       <guid isPermaLink="false">https://tecnoblog.net/guias/o-que-e-uma-placa-de-video-veja-se-voce-precisa-do-hardware-e-saiba-como-escolher-uma-placa-grafica/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/ilustracao-de-placa-de-video-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Thu, 11 Sep 2025 18:42:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>CEO da Warner diz que HBO Max deveria custar mais</title>
+      <link>https://tecnoblog.net/noticias/ceo-da-warner-diz-que-hbo-max-deveria-custar-mais/</link>
+      <description>Para David Zaslav, qualidade do conteúdo justifica preços mais altos. Plano sem anúncios ficou mais caro no Brasil no fim de agosto.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/ceo-da-warner-diz-que-hbo-max-deveria-custar-mais/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/hbo-max-novos-precos-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 11 Sep 2025 19:11:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Arm anuncia próxima geração de CPUs e GPUs que equiparão seu celular</title>
+      <link>https://tecnoblog.net/noticias/arm-anuncia-proxima-geracao-de-cpus-e-gpus-que-equiparao-seu-celular/</link>
+      <description>CPU Arm C1 traz versões Ultra, Premium, Pro e Nano, com ganhos de até 25% de desempenho. Já GPUs Mali G1 chegam nas versões Ultra, Premium e Pro.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/arm-anuncia-proxima-geracao-de-cpus-e-gpus-que-equiparao-seu-celular/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/arm-celular-capa-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 11 Sep 2025 19:15:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
