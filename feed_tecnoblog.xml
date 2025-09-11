@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 11 Sep 2025 16:13:53 +0000</lastBuildDate>
-    <item>
-      <title>Vinil de bolso? Empresa anuncia disco colecionável de 4 polegadas</title>
-      <link>https://tecnoblog.net/noticias/vinil-de-bolso-empresa-anuncia-disco-colecionavel-de-4-polegadas/</link>
-      <description>Tiny Vinyl é um mini disco de vinil em formato dupla face. Novidade combina nostalgia da mídia física com design compacto, e chega aos EUA no fim de setembro.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/vinil-de-bolso-empresa-anuncia-disco-colecionavel-de-4-polegadas/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/tiny-vynil-edited-340x191.webp" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 09 Sep 2025 20:32:35 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 11 Sep 2025 17:09:08 +0000</lastBuildDate>
     <item>
       <title>Galaxy S24 Ultra tem promoção com o menor preço dos últimos meses</title>
       <link>https://tecnoblog.net/achados/galaxy-s24-ultra-tem-promocao-com-o-menor-preco-dos-ultimos-meses/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/criador-da-web-diz-que-algoritmos-viciantes-deveriam-ser-banidos/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/tim-berners-lee-edited-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Thu, 11 Sep 2025 15:40:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mais vídeos do YouTube terão áudio dublado</title>
+      <link>https://tecnoblog.net/noticias/mais-videos-do-youtube-terao-audio-dublado/</link>
+      <description>Ferramenta que traduz e dubla vídeos automaticamente agora está disponível para milhões de criadores. Recurso chega a todos após dois anos de testes.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/mais-videos-do-youtube-terao-audio-dublado/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/04/youtube-celular-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 11 Sep 2025 17:09:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
