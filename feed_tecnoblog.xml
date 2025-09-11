@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 11 Sep 2025 14:11:32 +0000</lastBuildDate>
-    <item>
-      <title>iPhone 16 fica até 13% mais barato no Brasil; veja os novos preços</title>
-      <link>https://tecnoblog.net/noticias/iphone-16-fica-ate-13-mais-barato-no-brasil-veja-os-novos-precos/</link>
-      <description>Redução acompanha estreia do iPhone 17 e vale apenas para compras na loja oficial da Apple, que também retirou modelos antigos do portfólio</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/iphone-16-fica-ate-13-mais-barato-no-brasil-veja-os-novos-precos/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/09/iphone-16-apple-store-1-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 09 Sep 2025 18:28:17 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 11 Sep 2025 15:11:06 +0000</lastBuildDate>
     <item>
       <title>Apple confirma data do iOS 26; veja novidades e iPhones compatíveis</title>
       <link>https://tecnoblog.net/noticias/apple-confirma-data-do-ios-26-veja-novidades-e-iphones-compativeis/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-tab-s10-fe-plus-128-gb-esta-44-mais-barato-e-tem-tela-de-131/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/05/Galaxy-Tab-S10-FE-tem-tela-de-109-polegadas-foto-Giovanni-Santa-RosaTecnoblog-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Thu, 11 Sep 2025 14:01:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bancos deverão rejeitar Pix e outras transações em contas usadas em fraudes</title>
+      <link>https://tecnoblog.net/noticias/bancos-deverao-rejeitar-pix-e-outras-transacoes-em-contas-usadas-em-fraudes/</link>
+      <description>Nova norma do Banco Central busca reduzir fraudes no Brasil envolvendo contas bancárias. Medida vale para Pix, TED e outros meios.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/bancos-deverao-rejeitar-pix-e-outras-transacoes-em-contas-usadas-em-fraudes/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/arte-do-pix-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 11 Sep 2025 15:01:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
