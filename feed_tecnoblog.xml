@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 12 Sep 2025 14:10:48 +0000</lastBuildDate>
-    <item>
-      <title>Galaxy S24 Ultra tem 58% OFF em oferta histórica exclusiva na Amazon</title>
-      <link>https://tecnoblog.net/achados/galaxy-s24-ultra-tem-58-off-em-oferta-historica-exclusiva-na-amazon/</link>
-      <description>Galaxy S24 Ultra de 256 GB oferece conjunto de câmeras robusto, alto desempenho e desconto de 58% em melhor promoção histórica para assinantes Amazon Prime</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-s24-ultra-tem-58-off-em-oferta-historica-exclusiva-na-amazon/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/01/galaxy-s24-ultra-tem-4-cameras-com-zoom-optico-de-ate-5x-foto-thassius-velosotecnoblog-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 10 Sep 2025 17:06:13 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 12 Sep 2025 15:10:41 +0000</lastBuildDate>
     <item>
       <title>Fãs fazem abaixo-assinado para presidente da Samsung</title>
       <link>https://tecnoblog.net/noticias/fas-fazem-abaixo-assinado-para-presidente-da-samsung/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/xiaomi-15t-pro-e-homologado-pela-anatel-antes-do-lancamento/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/xiaomi-15t-pro-vazamento-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Fri, 12 Sep 2025 13:42:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Instagram corrige falha que reduzia alcance de stories</title>
+      <link>https://tecnoblog.net/noticias/instagram-corrige-falha-que-reduzia-alcance-de-stories/</link>
+      <description>Adam Mosseri anunciou correção de bug no Instagram que reduzia alcance de stories quando usuários publicavam muitos deles em um só dia.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/instagram-corrige-falha-que-reduzia-alcance-de-stories/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/04/capa-quem-visualizou-stories-instagram-2_tb-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 12 Sep 2025 15:09:41 +0000</pubDate>
     </item>
   </channel>
 </rss>
