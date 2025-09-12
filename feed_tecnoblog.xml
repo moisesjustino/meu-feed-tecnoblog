@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 12 Sep 2025 15:10:41 +0000</lastBuildDate>
-    <item>
-      <title>Fãs fazem abaixo-assinado para presidente da Samsung</title>
-      <link>https://tecnoblog.net/noticias/fas-fazem-abaixo-assinado-para-presidente-da-samsung/</link>
-      <description>Petição online, ainda com baixa adesão, pede a substituição do chefe da divisão de câmeras da empresa. Documento acusa Samsung de estagnação de hardware e software.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/fas-fazem-abaixo-assinado-para-presidente-da-samsung/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/03/1000012599-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 10 Sep 2025 17:26:10 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 12 Sep 2025 16:11:47 +0000</lastBuildDate>
     <item>
       <title>Dona do Evernote compra Vimeo por US$ 1,38 bilhão</title>
       <link>https://tecnoblog.net/noticias/dona-do-evernote-compra-vimeo-por-us-138-bilhao/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/instagram-corrige-falha-que-reduzia-alcance-de-stories/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/04/capa-quem-visualizou-stories-instagram-2_tb-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Fri, 12 Sep 2025 15:09:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Burger King usava senha “admin” para proteger sistemas de lojas</title>
+      <link>https://tecnoblog.net/noticias/burger-king-usava-senha-admin-para-proteger-sistemas-de-lojas/</link>
+      <description>Vulnerabilidades iam de senhas triviais a cadastros sem verificação, expondo áudios de drive-thru e informações de funcionários</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/burger-king-usava-senha-admin-para-proteger-sistemas-de-lojas/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/burger-king-edited-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 12 Sep 2025 15:14:49 +0000</pubDate>
     </item>
   </channel>
 </rss>
