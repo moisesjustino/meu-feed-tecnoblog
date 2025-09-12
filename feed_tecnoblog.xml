@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 12 Sep 2025 19:08:29 +0000</lastBuildDate>
-    <item>
-      <title>iPhone 16 Pro fica 28% mais barato que iPhone 17 Pro em oferta</title>
-      <link>https://tecnoblog.net/achados/iphone-16-pro-fica-28-mais-barato-que-iphone-17-pro-em-oferta/</link>
-      <description>iPhone 16 Pro de 256 GB tem câmeras principal e ultrawide de 48 MP, chip Apple A18 Pro e promoção no Mercado Livre após o lançamento da linha iPhone 17</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/iphone-16-pro-fica-28-mais-barato-que-iphone-17-pro-em-oferta/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/01/iphone-16-pro-foto-thassius-velosotecnoblog-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 10 Sep 2025 19:16:13 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 12 Sep 2025 20:12:00 +0000</lastBuildDate>
     <item>
       <title>iPhone Air e iPhone 17 Pro usam versões diferentes do chip A19 Pro</title>
       <link>https://tecnoblog.net/noticias/iphone-air-e-iphone-17-pro-usam-versoes-diferentes-do-chip-a19-pro/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-s24-plus-256-gb-tem-53-off-em-ate-18x-no-mercado-livre/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/02/Galaxy-S24-Plus-promete-7-anos-de-Android-foto-Thassius-VelosoTecnoblog-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Fri, 12 Sep 2025 18:48:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Teams vai alertar usuários sobre links suspeitos</title>
+      <link>https://tecnoblog.net/noticias/microsoft-teams-vai-alertar-usuarios-sobre-links-suspeitos/</link>
+      <description>Recurso integrado ao Microsoft Defender exibirá um banner de aviso em mensagens com URLs potencialmente maliciosas. Novidade é prevista para novembro.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/microsoft-teams-vai-alertar-usuarios-sobre-links-suspeitos/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/04/notebook-microsof-teams-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 12 Sep 2025 19:24:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
