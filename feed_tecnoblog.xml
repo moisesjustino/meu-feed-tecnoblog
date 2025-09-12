@@ -7,31 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 12 Sep 2025 20:12:00 +0000</lastBuildDate>
-    <item>
-      <title>iPhone Air e iPhone 17 Pro usam versões diferentes do chip A19 Pro</title>
-      <link>https://tecnoblog.net/noticias/iphone-air-e-iphone-17-pro-usam-versoes-diferentes-do-chip-a19-pro/</link>
-      <description>Primeiro modelo da linha Air tem chip com cinco núcleos de processamento gráfico, contra seis da versão Pro. Impacto deve ser pequeno no uso diário.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/iphone-air-e-iphone-17-pro-usam-versoes-diferentes-do-chip-a19-pro/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/captura-de-tela-2025-09-09-144133-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 10 Sep 2025 19:28:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Reddit muda métrica para priorizar engajamento real</title>
-      <link>https://tecnoblog.net/noticias/reddit-muda-metrica-para-priorizar-engajamento-real/</link>
-      <description>Nova atualização troca contagem de inscritos em subreddits por dados sobre visitas e contribuições semanais. Medida aproxima Reddit de Facebook e TikTok.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/reddit-muda-metrica-para-priorizar-engajamento-real/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/04/brett-jordan-0fytazjhhxs-unsplash-edited-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 10 Sep 2025 20:31:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>O que é OpenCL? Saiba para que serve a arquitetura e entenda seu funcionamento</title>
-      <link>https://tecnoblog.net/responde/o-que-e-opencl-saiba-para-que-serve-a-arquitetura-e-entenda-seu-funcionamento/</link>
-      <description>O OpenCL é uma API que permite que desenvolvedores criem programas que podem ser executados em diferentes hardwares, aproveitando o poder de processamento paralelo</description>
-      <guid isPermaLink="false">https://tecnoblog.net/responde/o-que-e-opencl-saiba-para-que-serve-a-arquitetura-e-entenda-seu-funcionamento/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/opencl-logo-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 10 Sep 2025 21:58:40 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 12 Sep 2025 21:09:25 +0000</lastBuildDate>
     <item>
       <title>Tradução simultânea da Apple também chega a AirPods antigos</title>
       <link>https://tecnoblog.net/noticias/traducao-simultanea-da-apple-tambem-chega-a-airpods-antigos/</link>
@@ -223,6 +199,30 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/microsoft-teams-vai-alertar-usuarios-sobre-links-suspeitos/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/04/notebook-microsof-teams-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Fri, 12 Sep 2025 19:24:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>WhatsApp vai organizar respostas em telas separadas dentro de grupos</title>
+      <link>https://tecnoblog.net/noticias/whatsapp-vai-organizar-respostas-em-telas-separadas-dentro-de-grupos/</link>
+      <description>Recurso em teste na versão beta cria subchats vinculados a mensagens específicas, facilitando a organização quando há muitas mensagens</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/whatsapp-vai-organizar-respostas-em-telas-separadas-dentro-de-grupos/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/06/whatsapp_capa-2_tb-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 12 Sep 2025 20:24:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft corrige bug no Windows que impedia instalação de apps</title>
+      <link>https://tecnoblog.net/noticias/microsoft-corrige-bug-no-windows-que-impedia-instalacao-de-apps/</link>
+      <description>Falha gerava solicitações do Controle de Conta de Usuário (UAC) e dificultava execução de apps sem permissão de administrador. Bug surgiu após atualização de agosto.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/microsoft-corrige-bug-no-windows-que-impedia-instalacao-de-apps/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/03/windows-11-1-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 12 Sep 2025 20:39:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Motorola Edge 60 Fusion (256 GB) com 38% de desconto em oferta no Magalu</title>
+      <link>https://tecnoblog.net/achados/motorola-edge-60-fusion-256-gb-com-38-de-desconto-em-oferta-no-magalu/</link>
+      <description>Motorola Edge 60 Fusion possui câmera Sony Lytia 700C de 50 MP, tela POLED de 120 Hz e bateria de 5.200 mAh; versão de 256 GB está com 38% OFF no Magazine Luiza</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/motorola-edge-60-fusion-256-gb-com-38-de-desconto-em-oferta-no-magalu/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/motorola-edge-60-fusion-achados-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 12 Sep 2025 20:53:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
