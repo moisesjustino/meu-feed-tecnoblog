@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 15 Sep 2025 13:21:50 +0000</lastBuildDate>
-    <item>
-      <title>Galaxy S25 Plus (256 GB) tem desconto histórico de 49% OFF na Magalu</title>
-      <link>https://tecnoblog.net/achados/galaxy-s25-plus-256-gb-tem-desconto-historico-de-49-off-na-magalu/</link>
-      <description>Galaxy S25 Plus (256 GB) tem tela AMOLED até 2.600 nits, processador Snapdragon 8 Elite e menor preço histórico em promoção na Magazine Luiza</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-s25-plus-256-gb-tem-desconto-historico-de-49-off-na-magalu/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/04/Samsung-Galaxy-S25-Plus-tem-tela-de-67-com-resolucao-QHD-imagem-Samsung-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 11 Sep 2025 13:02:27 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 15 Sep 2025 14:11:59 +0000</lastBuildDate>
     <item>
       <title>Quick Charge 5+ recarrega 50% da bateria em 5 minutos com menos calor</title>
       <link>https://tecnoblog.net/noticias/quick-charge-5-recarrega-50-da-bateria-em-5-minutos-com-menos-calor/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/albania-nomeia-robo-de-ia-como-ministra/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/diella-ai-edited-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 15 Sep 2025 12:27:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Qualcomm confirma Snapdragon 8 Elite Gen 5 e explica a confusão dos nomes</title>
+      <link>https://tecnoblog.net/noticias/qualcomm-confirma-snapdragon-8-elite-gen-5-e-explica-a-confusao-dos-nomes/</link>
+      <description>Snapdragon 8 Elite Gen 5 é o sucessor do chip Snapdragon 8 Elite. Parece que gerações foram puladas, mas Qualcomm explica mudança no nome.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/qualcomm-confirma-snapdragon-8-elite-gen-5-e-explica-a-confusao-dos-nomes/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/snapdragon-8-elite-gen-5-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 15 Sep 2025 13:43:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
