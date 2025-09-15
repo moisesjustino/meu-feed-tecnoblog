@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 15 Sep 2025 14:11:59 +0000</lastBuildDate>
-    <item>
-      <title>Quick Charge 5+ recarrega 50% da bateria em 5 minutos com menos calor</title>
-      <link>https://tecnoblog.net/noticias/quick-charge-5-recarrega-50-da-bateria-em-5-minutos-com-menos-calor/</link>
-      <description>Qualcomm anuncia Quick Charge 5+, padrão de recarga que vai de 0 a 50% em 5 minutos. Novidade mantém desempenho da versão anterior, mas gera menos calor.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/quick-charge-5-recarrega-50-da-bateria-em-5-minutos-com-menos-calor/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/quick-charg-5-plus-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 11 Sep 2025 13:23:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Netflix e Amazon fecham novo contrato de publicidade</title>
-      <link>https://tecnoblog.net/noticias/netflix-e-amazon-fecham-novo-contrato-de-publicidade/</link>
-      <description>Parceria libera publicidade com dados proprietários para segmentar campanhas. Acordo permite compra de anúncios via Amazon DSP e vale para o Brasil.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/netflix-e-amazon-fecham-novo-contrato-de-publicidade/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/04/netflix_capa-1_tb-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 11 Sep 2025 13:46:42 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 15 Sep 2025 15:12:54 +0000</lastBuildDate>
     <item>
       <title>Galaxy Tab S10 FE (128 GB) com S Pen tem 40% OFF em oferta histórica</title>
       <link>https://tecnoblog.net/achados/galaxy-tab-s10-fe-128-gb-com-s-pen-tem-40-off-em-oferta-historica/</link>
@@ -111,6 +95,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/arm-anuncia-proxima-geracao-de-cpus-e-gpus-que-equiparao-seu-celular/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/arm-celular-capa-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Thu, 11 Sep 2025 19:15:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>O que é anti-aliasing? Entenda como funciona a técnica de suavização de serrilhado</title>
+      <link>https://tecnoblog.net/responde/o-que-e-anti-aliasing/</link>
+      <description>Anti-aliasing é capaz ajustar aspectos visuais de jogos para melhorar a qualidade gráfica e oferecer maior imersão aos usuários</description>
+      <guid isPermaLink="false">https://tecnoblog.net/responde/o-que-e-anti-aliasing/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/nvidia-dlss-edited-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 11 Sep 2025 19:37:23 +0000</pubDate>
     </item>
     <item>
       <title>Gmail terá aba para acompanhar compras e entregas</title>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/qualcomm-confirma-snapdragon-8-elite-gen-5-e-explica-a-confusao-dos-nomes/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/snapdragon-8-elite-gen-5-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 15 Sep 2025 13:43:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Polícia Civil e Anatel desmantelam fábrica de bloqueadores de sinal em SP</title>
+      <link>https://tecnoblog.net/noticias/policia-civil-e-anatel-desmantelam-fabrica-de-bloqueadores-de-sinal-em-sp/</link>
+      <description>Equipamentos eram vendidos ilegalmente a organizações criminosas, segundo a polícia. Dispositivos já haviam causado interferência em serviços essenciais.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/policia-civil-e-anatel-desmantelam-fabrica-de-bloqueadores-de-sinal-em-sp/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/operacao-conjunta-desmantela-fabrica-clandestina-de-bloqueadores-de-sinais-em-sao-paulo1-edited-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 15 Sep 2025 14:44:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
