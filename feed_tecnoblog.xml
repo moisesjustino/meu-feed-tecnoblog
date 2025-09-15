@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 15 Sep 2025 18:16:38 +0000</lastBuildDate>
-    <item>
-      <title>Mais vídeos do YouTube terão áudio dublado</title>
-      <link>https://tecnoblog.net/noticias/mais-videos-do-youtube-terao-audio-dublado/</link>
-      <description>Ferramenta que traduz e dubla vídeos automaticamente agora está disponível para milhões de criadores. Recurso chega a todos após dois anos de testes.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/mais-videos-do-youtube-terao-audio-dublado/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/04/youtube-celular-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 11 Sep 2025 17:09:01 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 15 Sep 2025 19:08:57 +0000</lastBuildDate>
     <item>
       <title>Galaxy A36 tem chip Snapdragon e 49% de desconto no Mercado Livre</title>
       <link>https://tecnoblog.net/achados/galaxy-a36-tem-chip-snapdragon-e-49-de-desconto-no-mercado-livre/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/spotify-vai-liberar-novas-funcoes-para-quem-nao-paga-assinatura/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/03/spotify_capa-1_tb-edited-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 15 Sep 2025 17:57:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kindle, Kindle Colorsoft e Paperwhite têm até 28% OFF na Amazon</title>
+      <link>https://tecnoblog.net/achados/kindle-kindle-colorsoft-e-paperwhite-tem-ate-28-off-na-amazon/</link>
+      <description>Kindle Week traz descontos em leitores digitais e ebooks; Kindle básico sai por apenas R$ 521 e tem tela e-ink de 6" com antirreflexo e modo noturno</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/kindle-kindle-colorsoft-e-paperwhite-tem-ate-28-off-na-amazon/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/kindle-colorsoft-tem-tela-colorida-de-7-foto-thassius-velosotecnoblog-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 15 Sep 2025 18:55:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
