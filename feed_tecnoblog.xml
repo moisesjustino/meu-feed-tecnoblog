@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 15 Sep 2025 12:22:30 +0000</lastBuildDate>
-    <item>
-      <title>Grammarly agora revisa e reescreve textos em português</title>
-      <link>https://tecnoblog.net/noticias/grammarly-agora-revisa-e-reescreve-textos-em-portugues/</link>
-      <description>Plataforma lança suporte a português e outros idiomas, incluindo francês e espanhol, após anos de pedidos dos usuários</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/grammarly-agora-revisa-e-reescreve-textos-em-portugues/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2021/01/glenn-carstens-peters-npxXWgQ33ZQ-unsplash-scaled-e1609901999296-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 10 Sep 2025 23:48:25 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 15 Sep 2025 13:21:50 +0000</lastBuildDate>
     <item>
       <title>Galaxy S25 Plus (256 GB) tem desconto histórico de 49% OFF na Magalu</title>
       <link>https://tecnoblog.net/achados/galaxy-s25-plus-256-gb-tem-desconto-historico-de-49-off-na-magalu/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/documento-que-defende-uso-etico-da-ia-na-educacao-cita-fontes-inexistentes/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/06/ia-3-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Fri, 12 Sep 2025 22:03:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Albânia nomeia robô de IA como ministra</title>
+      <link>https://tecnoblog.net/noticias/albania-nomeia-robo-de-ia-como-ministra/</link>
+      <description>Batizada de Diella, entidade virtual será responsável por gerenciar licitações públicas contra fraudes. Inteligência artificial foi desenvolvida com apoio da Microsoft.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/albania-nomeia-robo-de-ia-como-ministra/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/diella-ai-edited-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 15 Sep 2025 12:27:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
