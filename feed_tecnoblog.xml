@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 15 Sep 2025 17:09:47 +0000</lastBuildDate>
-    <item>
-      <title>Criador da web diz que algoritmos viciantes deveriam ser banidos</title>
-      <link>https://tecnoblog.net/noticias/criador-da-web-diz-que-algoritmos-viciantes-deveriam-ser-banidos/</link>
-      <description>Tim Berners-Lee critica falta de transparência nas redes sociais, aponta polarização crescente e cobra regras para sistemas de recomendação de conteúdo.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/criador-da-web-diz-que-algoritmos-viciantes-deveriam-ser-banidos/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/tim-berners-lee-edited-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 11 Sep 2025 15:40:58 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 15 Sep 2025 18:16:38 +0000</lastBuildDate>
     <item>
       <title>Mais vídeos do YouTube terão áudio dublado</title>
       <link>https://tecnoblog.net/noticias/mais-videos-do-youtube-terao-audio-dublado/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/motorola-edge-60-pro-com-12-gb-de-ram-tem-oferta-imperdivel-na-amazon/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/motorola-edge-60-pro-foto-giovanni-santa-rosatecnoblog-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 15 Sep 2025 16:00:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Spotify vai liberar novas funções para quem não paga assinatura</title>
+      <link>https://tecnoblog.net/noticias/spotify-vai-liberar-novas-funcoes-para-quem-nao-paga-assinatura/</link>
+      <description>Plataforma vai permitir escolher e reproduzir músicas no plano gratuito. Estratégia visa ampliar engajamento e arrecadação com publicidade.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/spotify-vai-liberar-novas-funcoes-para-quem-nao-paga-assinatura/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/03/spotify_capa-1_tb-edited-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 15 Sep 2025 17:57:57 +0000</pubDate>
     </item>
   </channel>
 </rss>
