@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 15 Sep 2025 21:10:00 +0000</lastBuildDate>
-    <item>
-      <title>CEO da Warner diz que HBO Max deveria custar mais</title>
-      <link>https://tecnoblog.net/noticias/ceo-da-warner-diz-que-hbo-max-deveria-custar-mais/</link>
-      <description>Para David Zaslav, qualidade do conteúdo justifica preços mais altos. Plano sem anúncios ficou mais caro no Brasil no fim de agosto.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/ceo-da-warner-diz-que-hbo-max-deveria-custar-mais/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/hbo-max-novos-precos-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 11 Sep 2025 19:11:48 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 15 Sep 2025 22:09:59 +0000</lastBuildDate>
     <item>
       <title>Arm anuncia próxima geração de CPUs e GPUs que equiparão seu celular</title>
       <link>https://tecnoblog.net/noticias/arm-anuncia-proxima-geracao-de-cpus-e-gpus-que-equiparao-seu-celular/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/guias/melhor-celular-samsung/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/03/1000012734-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 15 Sep 2025 19:55:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Como escolher uma caixa de som? Saiba encontrar o modelo certo para festas ou uso doméstico</title>
+      <link>https://tecnoblog.net/guias/como-escolher-uma-caixa-de-som-saiba-encontrar-o-modelo-certo-para-festas-ou-uso-domestico/</link>
+      <description>A escolha de uma caixa de som deve ser baseada na finalidade de uso, modelo do periférico e opções de conectividade</description>
+      <guid isPermaLink="false">https://tecnoblog.net/guias/como-escolher-uma-caixa-de-som-saiba-encontrar-o-modelo-certo-para-festas-ou-uso-domestico/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2021/03/Caixa-de-som-inteligente-Pulse-Smarty-6-1060x596.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 15 Sep 2025 21:35:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
