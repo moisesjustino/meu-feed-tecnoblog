@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 16 Sep 2025 14:11:53 +0000</lastBuildDate>
-    <item>
-      <title>Burger King usava senha “admin” para proteger sistemas de lojas</title>
-      <link>https://tecnoblog.net/noticias/burger-king-usava-senha-admin-para-proteger-sistemas-de-lojas/</link>
-      <description>Vulnerabilidades iam de senhas triviais a cadastros sem verificação, expondo áudios de drive-thru e informações de funcionários</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/burger-king-usava-senha-admin-para-proteger-sistemas-de-lojas/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/burger-king-edited-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 12 Sep 2025 15:14:49 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 16 Sep 2025 15:12:36 +0000</lastBuildDate>
     <item>
       <title>Galaxy Watch 7 tem oferta de 56% OFF em até 12x sem juros na Amazon</title>
       <link>https://tecnoblog.net/achados/galaxy-watch-7-tem-oferta-de-56-off-em-ate-12x-sem-juros-na-amazon/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/apple-encerra-suporte-ao-icloud-no-ios-10-e-macos-sierra/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/apple-icloud-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 16 Sep 2025 13:40:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Como escolher uma placa-mãe? Saiba encontrar uma motherboard compatível com seus hardwares</title>
+      <link>https://tecnoblog.net/guias/como-escolher-uma-placa-mae-saiba-encontrar-uma-motherboard-compativel-com-seus-hardwares/</link>
+      <description>Uma placa-mãe precisa ser compatível com o processador (CPU) e com os pentes de memória RAM, e deve ter tamanho adequado para o gabinete</description>
+      <guid isPermaLink="false">https://tecnoblog.net/guias/como-escolher-uma-placa-mae-saiba-encontrar-uma-motherboard-compativel-com-seus-hardwares/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/placa-mae-mini-itx-tecnoblog-3-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 16 Sep 2025 14:30:51 +0000</pubDate>
     </item>
   </channel>
 </rss>
