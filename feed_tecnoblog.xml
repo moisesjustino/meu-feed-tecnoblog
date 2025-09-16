@@ -7,31 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 16 Sep 2025 12:22:11 +0000</lastBuildDate>
-    <item>
-      <title>O que é anti-aliasing? Entenda como funciona a técnica de suavização de serrilhado</title>
-      <link>https://tecnoblog.net/responde/o-que-e-anti-aliasing/</link>
-      <description>Anti-aliasing é capaz ajustar aspectos visuais de jogos para melhorar a qualidade gráfica e oferecer maior imersão aos usuários</description>
-      <guid isPermaLink="false">https://tecnoblog.net/responde/o-que-e-anti-aliasing/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/nvidia-dlss-edited-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 11 Sep 2025 19:37:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Gmail terá aba para acompanhar compras e entregas</title>
-      <link>https://tecnoblog.net/noticias/gmail-tera-aba-para-acompanhar-compras-e-entregas/</link>
-      <description>Serviço de email do Google também vai destacar promoções relevantes e cupons de desconto recebidos</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/gmail-tera-aba-para-acompanhar-compras-e-entregas/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/gmail_capa-2_tb-edited-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 11 Sep 2025 21:09:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Xiaomi 15T Pro é homologado pela Anatel antes do lançamento</title>
-      <link>https://tecnoblog.net/noticias/xiaomi-15t-pro-e-homologado-pela-anatel-antes-do-lancamento/</link>
-      <description>Xiaomi 15T Pro será revelado em 24 de setembro. Celular passou por homologação na Anatel e pode chegar ao Brasil logo após o anúncio oficial.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/xiaomi-15t-pro-e-homologado-pela-anatel-antes-do-lancamento/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/xiaomi-15t-pro-vazamento-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 12 Sep 2025 13:42:45 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 16 Sep 2025 13:22:23 +0000</lastBuildDate>
     <item>
       <title>Instagram corrige falha que reduzia alcance de stories</title>
       <link>https://tecnoblog.net/noticias/instagram-corrige-falha-que-reduzia-alcance-de-stories/</link>
@@ -223,6 +199,30 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/one-ui-8-samsung-comeca-a-distribuir-atualizacao-saiba-quando-chega/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/fold-7-aberto-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 15 Sep 2025 23:14:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft vai forçar a instalação do 365 Copilot no Windows</title>
+      <link>https://tecnoblog.net/noticias/microsoft-vai-forcar-a-instalacao-do-365-copilot-no-windows/</link>
+      <description>Instalação será automática a partir de outubro, com conclusão prevista em novembro. Assistente de IA ficará no menu Iniciar, habilitado por padrão.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/microsoft-vai-forcar-a-instalacao-do-365-copilot-no-windows/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/01/microsoft-365-capa-4-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 16 Sep 2025 12:39:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Galaxy S25 Plus (256 GB) tem oferta imperdível pela metade do preço</title>
+      <link>https://tecnoblog.net/achados/galaxy-s25-plus-256-gb-tem-oferta-imperdivel-pela-metade-do-preco/</link>
+      <description>Galaxy S25 Plus (256 GB) está 50% mais barato na Magalu; celular Samsung tem RAM de 12 GB, Snapdragon 8 Elite e tela AMOLED de 6,7 polegadas</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-s25-plus-256-gb-tem-oferta-imperdivel-pela-metade-do-preco/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/04/Samsung-Galaxy-S25-Plus-tem-tela-de-67-com-resolucao-QHD-imagem-Samsung-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 16 Sep 2025 13:03:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Meta: vazam os primeiros óculos inteligentes com tela</title>
+      <link>https://tecnoblog.net/noticias/meta-vazam-os-primeiros-oculos-inteligentes-com-tela/</link>
+      <description>Vídeo publicado acidentalmente revela o design de dois novos óculos. Meta pode anunciá-los oficialmente em evento nesta semana.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/meta-vazam-os-primeiros-oculos-inteligentes-com-tela/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/meta-essilorluxottica-smart-glasses-full-lineup-340x191.webp" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 16 Sep 2025 13:16:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
