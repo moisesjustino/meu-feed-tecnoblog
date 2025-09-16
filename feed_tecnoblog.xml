@@ -7,31 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 16 Sep 2025 17:09:41 +0000</lastBuildDate>
-    <item>
-      <title>WhatsApp vai organizar respostas em telas separadas dentro de grupos</title>
-      <link>https://tecnoblog.net/noticias/whatsapp-vai-organizar-respostas-em-telas-separadas-dentro-de-grupos/</link>
-      <description>Recurso em teste na versão beta cria subchats vinculados a mensagens específicas, facilitando a organização quando há muitas mensagens</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/whatsapp-vai-organizar-respostas-em-telas-separadas-dentro-de-grupos/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/06/whatsapp_capa-2_tb-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 12 Sep 2025 20:24:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft corrige bug no Windows que impedia instalação de apps</title>
-      <link>https://tecnoblog.net/noticias/microsoft-corrige-bug-no-windows-que-impedia-instalacao-de-apps/</link>
-      <description>Falha gerava solicitações do Controle de Conta de Usuário (UAC) e dificultava execução de apps sem permissão de administrador. Bug surgiu após atualização de agosto.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/microsoft-corrige-bug-no-windows-que-impedia-instalacao-de-apps/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/03/windows-11-1-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 12 Sep 2025 20:39:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Motorola Edge 60 Fusion (256 GB) com 38% de desconto em oferta no Magalu</title>
-      <link>https://tecnoblog.net/achados/motorola-edge-60-fusion-256-gb-com-38-de-desconto-em-oferta-no-magalu/</link>
-      <description>Motorola Edge 60 Fusion possui câmera Sony Lytia 700C de 50 MP, tela POLED de 120 Hz e bateria de 5.200 mAh; versão de 256 GB está com 38% OFF no Magazine Luiza</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/motorola-edge-60-fusion-256-gb-com-38-de-desconto-em-oferta-no-magalu/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/motorola-edge-60-fusion-achados-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 12 Sep 2025 20:53:13 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 16 Sep 2025 18:16:40 +0000</lastBuildDate>
     <item>
       <title>Documento que defende uso ético da IA na educação cita fontes inexistentes</title>
       <link>https://tecnoblog.net/noticias/documento-que-defende-uso-etico-da-ia-na-educacao-cita-fontes-inexistentes/</link>
@@ -201,7 +177,7 @@
       <pubDate>Tue, 16 Sep 2025 15:54:44 +0000</pubDate>
     </item>
     <item>
-      <title>Galaxy Watch 7 em oferta por menos de mil reais com cupom no Magalu</title>
+      <title>Galaxy Watch 7 em oferta por menos de R$ 1 mil reais com cupom no Magalu</title>
       <link>https://tecnoblog.net/achados/galaxy-watch-7-em-oferta-por-menos-de-mil-reais-com-cupom-no-magalu/</link>
       <description>Galaxy Watch 7 BT 44 mm está com 63% de desconto no Magazine Luiza ; smartwatch Samsung conta com 13 sensores LED, tela AMOLED de 1,5", chip Exynos W1000 e suporte ao Galaxy AI</description>
       <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-watch-7-em-oferta-por-menos-de-mil-reais-com-cupom-no-magalu/</guid>
@@ -223,6 +199,30 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/duolingo-tera-integracao-com-linkedin-para-mostrar-pontuacao-em-idiomas/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/duolingo-grafico-edited-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Tue, 16 Sep 2025 17:07:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Donos de iPhone se dividem entre 128 GB e 256 GB. Qual a sua escolha?</title>
+      <link>https://tecnoblog.net/noticias/donos-de-iphone-se-dividem-entre-128-gb-e-256-gb-qual-a-sua-escolha/</link>
+      <description>Dados inéditos revelam que o armazenamento intermediário se tornou a escolha de 43% dos consumidores brasileiros.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/donos-de-iphone-se-dividem-entre-128-gb-e-256-gb-qual-a-sua-escolha/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/captura-de-tela-2025-09-09-145708-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 16 Sep 2025 17:21:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Procon Carioca multa farmácias em R$ 1 milhão por uso irregular de CPF de clientes</title>
+      <link>https://tecnoblog.net/noticias/procon-carioca-multa-farmacias-em-r-1-milhao-por-uso-irregular-de-cpf-de-clientes/</link>
+      <description>Operação no Rio de Janeiro (RJ) segue diretrizes da LGPD e combate exigência de CPF para descontos. Mais de 30 estabelecimentos foram penalizados em uma semana.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/procon-carioca-multa-farmacias-em-r-1-milhao-por-uso-irregular-de-cpf-de-clientes/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/procon-carioca-edited-340x191.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 16 Sep 2025 17:59:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Galaxy S25 Ultra (512 GB) tem melhor oferta em meses até 10x na Amazon</title>
+      <link>https://tecnoblog.net/achados/galaxy-s25-ultra-512-gb-tem-melhor-oferta-em-meses-ate-10x-na-amazon/</link>
+      <description>Galaxy S25 Ultra de 512 GB tem Snapdragon 8 Elite e RAM de 12 GB, além de câmeras com sensor de 200 MP e zoom óptico de 5x; oferta com 46% OFF tem parcelamento até 10x</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-s25-ultra-512-gb-tem-melhor-oferta-em-meses-ate-10x-na-amazon/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/galaxy-s25-ultra-tem-camera-de-200-mp-foto-samsung-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 16 Sep 2025 18:13:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
