@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 15 Sep 2025 23:09:36 +0000</lastBuildDate>
-    <item>
-      <title>Arm anuncia próxima geração de CPUs e GPUs que equiparão seu celular</title>
-      <link>https://tecnoblog.net/noticias/arm-anuncia-proxima-geracao-de-cpus-e-gpus-que-equiparao-seu-celular/</link>
-      <description>CPU Arm C1 traz versões Ultra, Premium, Pro e Nano, com ganhos de até 25% de desempenho. Já GPUs Mali G1 chegam nas versões Ultra, Premium e Pro.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/arm-anuncia-proxima-geracao-de-cpus-e-gpus-que-equiparao-seu-celular/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/arm-celular-capa-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 11 Sep 2025 19:15:17 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 16 Sep 2025 00:52:25 +0000</lastBuildDate>
     <item>
       <title>O que é anti-aliasing? Entenda como funciona a técnica de suavização de serrilhado</title>
       <link>https://tecnoblog.net/responde/o-que-e-anti-aliasing/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/guias/como-escolher-uma-caixa-de-som-saiba-encontrar-o-modelo-certo-para-festas-ou-uso-domestico/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2021/03/Caixa-de-som-inteligente-Pulse-Smarty-6-1060x596.jpg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 15 Sep 2025 21:35:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>One UI 8: Samsung começa a distribuir atualização; saiba quando chega para você</title>
+      <link>https://tecnoblog.net/noticias/one-ui-8-samsung-comeca-a-distribuir-atualizacao-saiba-quando-chega/</link>
+      <description>Atualização baseada no Android 16 começa pelos modelos mais recentes e será liberada gradualmente até o fim de outubro</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/one-ui-8-samsung-comeca-a-distribuir-atualizacao-saiba-quando-chega/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/fold-7-aberto-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 15 Sep 2025 23:14:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
