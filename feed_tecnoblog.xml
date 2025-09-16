@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 16 Sep 2025 13:22:23 +0000</lastBuildDate>
-    <item>
-      <title>Instagram corrige falha que reduzia alcance de stories</title>
-      <link>https://tecnoblog.net/noticias/instagram-corrige-falha-que-reduzia-alcance-de-stories/</link>
-      <description>Adam Mosseri anunciou correção de bug no Instagram que reduzia alcance de stories quando usuários publicavam muitos deles em um só dia.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/instagram-corrige-falha-que-reduzia-alcance-de-stories/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/04/capa-quem-visualizou-stories-instagram-2_tb-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 12 Sep 2025 15:09:41 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 16 Sep 2025 14:11:53 +0000</lastBuildDate>
     <item>
       <title>Burger King usava senha “admin” para proteger sistemas de lojas</title>
       <link>https://tecnoblog.net/noticias/burger-king-usava-senha-admin-para-proteger-sistemas-de-lojas/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/meta-vazam-os-primeiros-oculos-inteligentes-com-tela/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/meta-essilorluxottica-smart-glasses-full-lineup-340x191.webp" length="0" type="image/jpeg"/>
       <pubDate>Tue, 16 Sep 2025 13:16:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Apple encerra suporte ao iCloud no iOS 10 e macOS Sierra</title>
+      <link>https://tecnoblog.net/noticias/apple-encerra-suporte-ao-icloud-no-ios-10-e-macos-sierra/</link>
+      <description>Apple mudou recentemente os requisitos mínimos do iCloud. Plataforma agora só funciona a partir do iOS 11 ou do macOS High Sierra.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/apple-encerra-suporte-ao-icloud-no-ios-10-e-macos-sierra/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/apple-icloud-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 16 Sep 2025 13:40:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
