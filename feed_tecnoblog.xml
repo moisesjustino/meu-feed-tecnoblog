@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 16 Sep 2025 18:16:40 +0000</lastBuildDate>
-    <item>
-      <title>Documento que defende uso ético da IA na educação cita fontes inexistentes</title>
-      <link>https://tecnoblog.net/noticias/documento-que-defende-uso-etico-da-ia-na-educacao-cita-fontes-inexistentes/</link>
-      <description>Relatório oficial de província canadense inclui referências fictícias e levanta questionamentos sobre uso de IA na elaboração</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/documento-que-defende-uso-etico-da-ia-na-educacao-cita-fontes-inexistentes/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/06/ia-3-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 12 Sep 2025 22:03:14 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 16 Sep 2025 19:09:19 +0000</lastBuildDate>
     <item>
       <title>Albânia nomeia robô de IA como ministra</title>
       <link>https://tecnoblog.net/noticias/albania-nomeia-robo-de-ia-como-ministra/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-s25-ultra-512-gb-tem-melhor-oferta-em-meses-ate-10x-na-amazon/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/galaxy-s25-ultra-tem-camera-de-200-mp-foto-samsung-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Tue, 16 Sep 2025 18:13:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Campanha na Europa pede sistemas operacionais com 15 anos de atualizações</title>
+      <link>https://tecnoblog.net/noticias/campanha-na-europa-pede-sistemas-operacionais-com-15-anos-de-atualizacoes/</link>
+      <description>Fim próximo do suporte ao Windows 10 motivou coalização Right to Repair Europe a criar campanha. Grupo diz que 400 milhões de PCs ficarão obsoletos.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/campanha-na-europa-pede-sistemas-operacionais-com-15-anos-de-atualizacoes/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/03/windows-10-tela-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 16 Sep 2025 18:46:37 +0000</pubDate>
     </item>
   </channel>
 </rss>
