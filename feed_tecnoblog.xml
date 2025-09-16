@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 16 Sep 2025 20:12:24 +0000</lastBuildDate>
-    <item>
-      <title>Polícia Civil e Anatel desmantelam fábrica de bloqueadores de sinal em SP</title>
-      <link>https://tecnoblog.net/noticias/policia-civil-e-anatel-desmantelam-fabrica-de-bloqueadores-de-sinal-em-sp/</link>
-      <description>Equipamentos eram vendidos ilegalmente a organizações criminosas, segundo a polícia. Dispositivos já haviam causado interferência em serviços essenciais.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/policia-civil-e-anatel-desmantelam-fabrica-de-bloqueadores-de-sinal-em-sp/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/operacao-conjunta-desmantela-fabrica-clandestina-de-bloqueadores-de-sinais-em-sao-paulo1-edited-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 15 Sep 2025 14:44:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>China acusa Nvidia de violar lei antimonopólio</title>
-      <link>https://tecnoblog.net/noticias/china-acusa-nvidia-de-violar-lei-antimonopolio/</link>
-      <description>Empresa teria desrespeitado compromissos de acordo firmado em 2020. Anúncio é visto como retaliação a medidas dos EUA contra empresas chinesas.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/china-acusa-nvidia-de-violar-lei-antimonopolio/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/05/nvidia-video_capa-2_tb-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 15 Sep 2025 15:29:19 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 16 Sep 2025 21:10:08 +0000</lastBuildDate>
     <item>
       <title>Windows 11 deve ganhar botão que testa velocidade da internet</title>
       <link>https://tecnoblog.net/noticias/windows-11-deve-ganhar-botao-que-testa-velocidade-da-internet/</link>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/openai-vai-limitar-o-acesso-de-menores-de-18-anos-ao-chatgpt/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/06/sam-altman-1-capa-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Tue, 16 Sep 2025 20:06:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google revela novo aplicativo de busca para Windows</title>
+      <link>https://tecnoblog.net/noticias/google-revela-novo-aplicativo-de-busca-para-windows/</link>
+      <description>Em fase experimental, app do Google para os Windows 10 e 11 funciona como uma barra de pesquisa móvel. Por ora, está disponível apenas em inglês.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/google-revela-novo-aplicativo-de-busca-para-windows/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/google-para-windows-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 16 Sep 2025 20:25:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Galaxy Tab S10 Lite (128 GB) fica R$ 670 reais mais barato em oferta com cupom</title>
+      <link>https://tecnoblog.net/achados/galaxy-tab-s10-lite-128-gb-fica-r-670-reais-mais-barato-em-oferta-com-cupom/</link>
+      <description>Galaxy Tab S10 Lite (128 GB) tem oferta com 24% de desconto no Magazine Luiza; novo tablet da Samsung traz chip Exynos 1380, tela de 10,9", bateria de 8.000 mAh e Galaxy AI</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-tab-s10-lite-128-gb-fica-r-670-reais-mais-barato-em-oferta-com-cupom/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/galaxy-tab-s10-lite-achados-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 16 Sep 2025 20:58:46 +0000</pubDate>
     </item>
   </channel>
 </rss>
