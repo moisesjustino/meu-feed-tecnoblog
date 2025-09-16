@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 16 Sep 2025 15:12:36 +0000</lastBuildDate>
-    <item>
-      <title>Galaxy Watch 7 tem oferta de 56% OFF em até 12x sem juros na Amazon</title>
-      <link>https://tecnoblog.net/achados/galaxy-watch-7-tem-oferta-de-56-off-em-ate-12x-sem-juros-na-amazon/</link>
-      <description>Galaxy Watch 7 BT 40 mm pode ser parcelado em 12x sem juros na Amazon; smartwatch leva sensor BioActive com 13 sensores LED, tela AMOLED de 1,3" e suporte ao Galaxy AI</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-watch-7-tem-oferta-de-56-off-em-ate-12x-sem-juros-na-amazon/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/galaxy-watch-7-oferta-recomendada-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 12 Sep 2025 16:33:24 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 16 Sep 2025 16:14:17 +0000</lastBuildDate>
     <item>
       <title>Nintendo revive Virtual Boy com jogos 3D para Switch Online</title>
       <link>https://tecnoblog.net/noticias/nintendo-revive-virtual-boy-com-jogos-3d-para-switch-online/</link>
@@ -217,12 +209,20 @@
       <pubDate>Tue, 16 Sep 2025 13:40:58 +0000</pubDate>
     </item>
     <item>
-      <title>Como escolher uma placa-mãe? Saiba encontrar uma motherboard compatível com seus hardwares</title>
+      <title>Como escolher uma placa-mãe: encontre uma compatível com seu hardware</title>
       <link>https://tecnoblog.net/guias/como-escolher-uma-placa-mae-saiba-encontrar-uma-motherboard-compativel-com-seus-hardwares/</link>
       <description>Uma placa-mãe precisa ser compatível com o processador (CPU) e com os pentes de memória RAM, e deve ter tamanho adequado para o gabinete</description>
       <guid isPermaLink="false">https://tecnoblog.net/guias/como-escolher-uma-placa-mae-saiba-encontrar-uma-motherboard-compativel-com-seus-hardwares/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/placa-mae-mini-itx-tecnoblog-3-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 16 Sep 2025 14:30:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>iOS 26 drena a bateria do iPhone? Apple diz que é temporário</title>
+      <link>https://tecnoblog.net/noticias/ios-26-drena-a-bateria-do-iphone-apple-diz-que-e-temporario/</link>
+      <description>Apple explica que queda de desempenho ou de duração da bateria podem ocorrer no iPhone após atualizações do sistema operacional, mas que isso é temporário.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/ios-26-drena-a-bateria-do-iphone-apple-diz-que-e-temporario/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/Captura-de-Tela-2025-06-09-as-14.21.50-edited-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 16 Sep 2025 15:54:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
