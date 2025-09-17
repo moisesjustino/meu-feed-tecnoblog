@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 17 Sep 2025 12:22:02 +0000</lastBuildDate>
-    <item>
-      <title>iOS 26 chega hoje; veja quais iPhones rodam o novo sistema</title>
-      <link>https://tecnoblog.net/noticias/ios-26-chega-hoje-veja-quais-iphones-rodam-o-novo-sistema/</link>
-      <description>Apple começa a liberar nesta segunda (15/09) o novo sistema operacional dos iPhones. Atualização traz interface Liquid Glass, novos recursos de IA e mais personalização.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/ios-26-chega-hoje-veja-quais-iphones-rodam-o-novo-sistema/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/05/Capa-TBR-iOS-26-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 15 Sep 2025 15:58:13 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 17 Sep 2025 13:21:18 +0000</lastBuildDate>
     <item>
       <title>Motorola Edge 60 Pro com 12 GB de RAM tem oferta imperdível na Amazon</title>
       <link>https://tecnoblog.net/achados/motorola-edge-60-pro-com-12-gb-de-ram-tem-oferta-imperdivel-na-amazon/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/tecnocast/iphone-air/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/tecnocast-387_capa-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Tue, 16 Sep 2025 23:14:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>MacBook pode ganhar tela sensível ao toque, mas ainda vai demorar</title>
+      <link>https://tecnoblog.net/noticias/macbook-pode-ganhar-tela-sensivel-ao-toque-mas-ainda-vai-demorar/</link>
+      <description>Estreia de touchscreen em laptops da Apple viria de aposta em produtividade. MacBook com chip de iPhone também pode estar a caminho.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/macbook-pode-ganhar-tela-sensivel-ao-toque-mas-ainda-vai-demorar/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/10/highlights_display__ed8l4csvmfee-destaque-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 17 Sep 2025 13:03:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
