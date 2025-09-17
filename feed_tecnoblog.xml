@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 17 Sep 2025 22:10:02 +0000</lastBuildDate>
-    <item>
-      <title>Como escolher uma placa-mãe: encontre uma compatível com seu hardware</title>
-      <link>https://tecnoblog.net/guias/como-escolher-uma-placa-mae-saiba-encontrar-uma-motherboard-compativel-com-seus-hardwares/</link>
-      <description>Uma placa-mãe precisa ser compatível com o processador (CPU) e com os pentes de memória RAM, e deve ter tamanho adequado para o gabinete</description>
-      <guid isPermaLink="false">https://tecnoblog.net/guias/como-escolher-uma-placa-mae-saiba-encontrar-uma-motherboard-compativel-com-seus-hardwares/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/placa-mae-mini-itx-tecnoblog-3-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 16 Sep 2025 14:30:51 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 17 Sep 2025 23:10:43 +0000</lastBuildDate>
     <item>
       <title>O que é VRM? Veja para que serve o Módulo Regulador de Tensão</title>
       <link>https://tecnoblog.net/responde/o-que-e-vrm-veja-para-que-serve-o-modulo-regulador-de-tensao/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/motorola-edge-60-pro-512-gb-com-camera-sony-tem-35-off-em-promocao/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/motorola-edge-60-pro-foto-giovanni-santa-rosatecnoblog-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Wed, 17 Sep 2025 20:59:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Zoom terá avatares realistas de IA para videochamadas</title>
+      <link>https://tecnoblog.net/noticias/zoom-tera-avatares-realistas-de-ia-para-videochamadas/</link>
+      <description>Personagem poderá ser exibido quando usuário não estiver arrumado para aparecer na câmera. CEO acredita que teremos clones digitais no futuro.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/zoom-tera-avatares-realistas-de-ia-para-videochamadas/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/03/capa-zoom_tb-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 17 Sep 2025 22:21:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
