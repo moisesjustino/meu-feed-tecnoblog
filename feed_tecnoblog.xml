@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 17 Sep 2025 17:09:17 +0000</lastBuildDate>
-    <item>
-      <title>Microsoft vai forçar a instalação do 365 Copilot no Windows</title>
-      <link>https://tecnoblog.net/noticias/microsoft-vai-forcar-a-instalacao-do-365-copilot-no-windows/</link>
-      <description>Instalação será automática a partir de outubro, com conclusão prevista em novembro. Assistente de IA ficará no menu Iniciar, habilitado por padrão.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/microsoft-vai-forcar-a-instalacao-do-365-copilot-no-windows/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/01/microsoft-365-capa-4-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 16 Sep 2025 12:39:21 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 17 Sep 2025 18:16:07 +0000</lastBuildDate>
     <item>
       <title>Galaxy S25 Plus (256 GB) tem oferta imperdível pela metade do preço</title>
       <link>https://tecnoblog.net/achados/galaxy-s25-plus-256-gb-tem-oferta-imperdivel-pela-metade-do-preco/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/iphone-16-fica-43-mais-barato-que-iphone-17-em-oferta-no-mercado-livre/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/01/iphone-16-imagem-thassius-velosotecnoblog-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Wed, 17 Sep 2025 17:06:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Motorola Edge 50 Fusion (256 GB) com RAM de 8 GB tem 46% OFF na Magalu</title>
+      <link>https://tecnoblog.net/achados/motorola-edge-50-fusion-256-gb-com-ram-de-8-gb-tem-46-off-na-magalu/</link>
+      <description>Motorola Edge 50 Fusion 5G de 256 GB tem chip Qualcomm acompanhado por RAM de 8 GB, tela POLED de 6,7" com taxa de atualização de 120 Hz e oferta com 46% de desconto</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/motorola-edge-50-fusion-256-gb-com-ram-de-8-gb-tem-46-off-na-magalu/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/01/motorola-edge-50-fusion-foto-thassius-velosotecnoblog-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 17 Sep 2025 18:10:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
