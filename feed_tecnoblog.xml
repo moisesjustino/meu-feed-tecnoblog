@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 17 Sep 2025 13:21:18 +0000</lastBuildDate>
-    <item>
-      <title>Motorola Edge 60 Pro com 12 GB de RAM tem oferta imperdível na Amazon</title>
-      <link>https://tecnoblog.net/achados/motorola-edge-60-pro-com-12-gb-de-ram-tem-oferta-imperdivel-na-amazon/</link>
-      <description>Smartphone premium da Motorola tem 12 GB de RAM, bateria de 6.000 mAh, tela POLED de 120 Hz com 4.500 nits e câmeras de 50 MP com Moto AI; versão de 256 GB com 30% de desconto no Pix</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/motorola-edge-60-pro-com-12-gb-de-ram-tem-oferta-imperdivel-na-amazon/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/motorola-edge-60-pro-foto-giovanni-santa-rosatecnoblog-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 15 Sep 2025 16:00:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Spotify vai liberar novas funções para quem não paga assinatura</title>
-      <link>https://tecnoblog.net/noticias/spotify-vai-liberar-novas-funcoes-para-quem-nao-paga-assinatura/</link>
-      <description>Plataforma vai permitir escolher e reproduzir músicas no plano gratuito. Estratégia visa ampliar engajamento e arrecadação com publicidade.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/spotify-vai-liberar-novas-funcoes-para-quem-nao-paga-assinatura/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/03/spotify_capa-1_tb-edited-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 15 Sep 2025 17:57:57 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 17 Sep 2025 14:10:59 +0000</lastBuildDate>
     <item>
       <title>Kindle, Kindle Colorsoft e Paperwhite têm até 28% OFF na Amazon</title>
       <link>https://tecnoblog.net/achados/kindle-kindle-colorsoft-e-paperwhite-tem-ate-28-off-na-amazon/</link>
@@ -111,6 +95,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/guias/como-escolher-uma-placa-mae-saiba-encontrar-uma-motherboard-compativel-com-seus-hardwares/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/placa-mae-mini-itx-tecnoblog-3-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 16 Sep 2025 14:30:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>O que é VRM? Veja para que serve o Módulo Regulador de Tensão</title>
+      <link>https://tecnoblog.net/responde/o-que-e-vrm-veja-para-que-serve-o-modulo-regulador-de-tensao/</link>
+      <description>O VRM é formado por controlador, MOSFETs, capacitores e indutores. Em modelos mais robustos, também pode incluir drivers, duplicadores de fase e dissipadores</description>
+      <guid isPermaLink="false">https://tecnoblog.net/responde/o-que-e-vrm-veja-para-que-serve-o-modulo-regulador-de-tensao/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/07/placa-mae-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 16 Sep 2025 15:30:42 +0000</pubDate>
     </item>
     <item>
       <title>iOS 26 drena a bateria do iPhone? Apple diz que é temporário</title>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/macbook-pode-ganhar-tela-sensivel-ao-toque-mas-ainda-vai-demorar/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/10/highlights_display__ed8l4csvmfee-destaque-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Wed, 17 Sep 2025 13:03:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Entidade faz apelo para Microsoft manter o Windows 10</title>
+      <link>https://tecnoblog.net/noticias/entidade-faz-apelo-para-microsoft-manter-o-windows-10/</link>
+      <description>Consumer Reports pede à Satya Nadella, CEO da Microsoft, que suporte ao Windows 10 seja mantido. Companhia não dá sinais de que irá atender ao pedido.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/entidade-faz-apelo-para-microsoft-manter-o-windows-10/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/img_3617-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 17 Sep 2025 14:07:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
