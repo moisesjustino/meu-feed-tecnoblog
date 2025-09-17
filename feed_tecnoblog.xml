@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 16 Sep 2025 23:08:24 +0000</lastBuildDate>
-    <item>
-      <title>Windows 11 deve ganhar botão que testa velocidade da internet</title>
-      <link>https://tecnoblog.net/noticias/windows-11-deve-ganhar-botao-que-testa-velocidade-da-internet/</link>
-      <description>Botão que mede velocidade da conexão à internet foi encontrado em versões de teste do Windows 11. Por ora, novidade direciona para testador do Bing.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/windows-11-deve-ganhar-botao-que-testa-velocidade-da-internet/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/windows-11-botao-teste-internet-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 15 Sep 2025 15:48:42 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 17 Sep 2025 00:52:29 +0000</lastBuildDate>
     <item>
       <title>iOS 26 chega hoje; veja quais iPhones rodam o novo sistema</title>
       <link>https://tecnoblog.net/noticias/ios-26-chega-hoje-veja-quais-iphones-rodam-o-novo-sistema/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-tab-s10-lite-128-gb-fica-r-670-reais-mais-barato-em-oferta-com-cupom/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/galaxy-tab-s10-lite-achados-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Tue, 16 Sep 2025 20:58:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>iPhone Air</title>
+      <link>https://tecnoblog.net/tecnocast/iphone-air/</link>
+      <description>Sem descrição breve.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/tecnocast/iphone-air/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/tecnocast-387_capa-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 16 Sep 2025 23:14:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
