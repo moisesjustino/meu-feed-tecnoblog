@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 18 Sep 2025 19:08:58 +0000</lastBuildDate>
-    <item>
-      <title>iPhone Air</title>
-      <link>https://tecnoblog.net/tecnocast/iphone-air/</link>
-      <description>Sem descrição breve.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/tecnocast/iphone-air/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/tecnocast-387_capa-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 16 Sep 2025 23:14:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>O que é broadcast? Entenda como funciona a transmissão de sinal de TV e rádio</title>
-      <link>https://tecnoblog.net/responde/o-que-e-broadcast-entenda-como-funciona-a-transmissao-de-sinal-de-tv-e-radio/</link>
-      <description>O broadcast transmite a mensagem de um remetente para múltiplos receptores simultaneamente, sem a necessidade de direcionar o conteúdo individualmente para cada um</description>
-      <guid isPermaLink="false">https://tecnoblog.net/responde/o-que-e-broadcast-entenda-como-funciona-a-transmissao-de-sinal-de-tv-e-radio/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/antonino-visalli-rtmusqaiix0-unsplash-edited-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 17 Sep 2025 12:59:21 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 18 Sep 2025 20:12:37 +0000</lastBuildDate>
     <item>
       <title>MacBook pode ganhar tela sensível ao toque, mas ainda vai demorar</title>
       <link>https://tecnoblog.net/noticias/macbook-pode-ganhar-tela-sensivel-ao-toque-mas-ainda-vai-demorar/</link>
@@ -111,6 +95,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/reddit-quer-mais-controle-sobre-como-google-e-openai-usam-dados-em-ia/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/04/brett-jordan-0fytazjhhxs-unsplash-edited-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Wed, 17 Sep 2025 20:52:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Samsung Galaxy: saiba as diferenças entre as linhas A, M, S e Z</title>
+      <link>https://tecnoblog.net/responde/samsung-galaxy-saiba-as-diferencas-entre-as-linhas-a-m-s-e-z/</link>
+      <description>A Samsung oferece diferentes linhas de smartphones, que podem atender desde tarefas básicas do dia a dia até demandas de alta performance</description>
+      <guid isPermaLink="false">https://tecnoblog.net/responde/samsung-galaxy-saiba-as-diferencas-entre-as-linhas-a-m-s-e-z/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/linhas-de-smartphones-da-samsung-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 17 Sep 2025 20:57:51 +0000</pubDate>
     </item>
     <item>
       <title>Motorola Edge 60 Pro (512 GB) com câmera Sony tem 35% OFF em promoção</title>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/gnome-49-e-oficial-veja-o-que-o-ambiente-de-desktop-para-linux-traz-de-novo/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/gnome-49-brescia-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Thu, 18 Sep 2025 18:51:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vivo muda contrato da fibra ótica e vai derrubar velocidade de inadimplentes</title>
+      <link>https://tecnoblog.net/noticias/vivo-muda-contrato-da-fibra-otica-e-vai-derrubar-velocidade-de-inadimplentes/</link>
+      <description>Operadora celebrou a chegada do Vivo Fibra de até 10 Gb/s. No entanto, estrutura da oferta inclui baixa velocidade real e “bônus” que pode ser desativado.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/vivo-muda-contrato-da-fibra-otica-e-vai-derrubar-velocidade-de-inadimplentes/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/04/vivo-celular-capa-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 18 Sep 2025 19:32:39 +0000</pubDate>
     </item>
   </channel>
 </rss>
