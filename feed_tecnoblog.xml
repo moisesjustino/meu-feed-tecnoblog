@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 19 Sep 2025 13:21:04 +0000</lastBuildDate>
-    <item>
-      <title>China proíbe compras de chips da Nvidia por empresas locais</title>
-      <link>https://tecnoblog.net/noticias/china-proibe-compras-de-chips-da-nvidia-por-empresas-locais/</link>
-      <description>Medida atinge empresas como ByteDance e Alibaba. China e Estados Unidos estão em meio a uma disputa comercial e tecnológica.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/china-proibe-compras-de-chips-da-nvidia-por-empresas-locais/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/05/nvidia-video_capa-1_tb-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 17 Sep 2025 16:23:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>AMD lança 4 chips Ryzen na surdina (tem até Zen 3)</title>
-      <link>https://tecnoblog.net/noticias/amd-lanca-4-chips-ryzen-na-surdina-tem-ate-zen-3/</link>
-      <description>Duas das novas CPUs da AMD têm arquitetura Zen 5, mas os demais modelos mostram que as arquiteturas Zen 4 e Zen 3 ainda resistem.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/amd-lanca-4-chips-ryzen-na-surdina-tem-ate-zen-3/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2021/04/chip-amd-ryzen-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 17 Sep 2025 16:50:16 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 19 Sep 2025 14:11:16 +0000</lastBuildDate>
     <item>
       <title>iPhone 16 fica 43% mais barato que iPhone 17 em oferta no Mercado Livre</title>
       <link>https://tecnoblog.net/achados/iphone-16-fica-43-mais-barato-que-iphone-17-em-oferta-no-mercado-livre/</link>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/na-china-banheiros-publicos-mostram-anuncios-para-liberar-papel-higienico/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/china-banheiro-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Fri, 19 Sep 2025 12:09:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Intel promete manter GPUs Arc após parceria com Nvidia</title>
+      <link>https://tecnoblog.net/noticias/intel-promete-manter-gpus-arc-apos-parceria-com-nvidia/</link>
+      <description>Intel explica que manterá sua programação atual de lançamentos de produtos. Acordo com a Nvidia resultará em soluções complementares.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/intel-promete-manter-gpus-arc-apos-parceria-com-nvidia/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/12/intel-arc-b580-2-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 19 Sep 2025 13:53:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>iPhone Air resiste a quase 60 kg de pressão sem quebrar</title>
+      <link>https://tecnoblog.net/noticias/iphone-air-resiste-a-quase-60-kg-de-pressao-sem-quebrar/</link>
+      <description>Apple divulgou testes com o modelo de 5,6 mm de espessura. Nova linha iPhone 17 suporta força e quedas sem danos visíveis e conta o Ceramic Shield 2, mais resistente a riscos.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/iphone-air-resiste-a-quase-60-kg-de-pressao-sem-quebrar/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/iphone-air-bend-test-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 19 Sep 2025 14:04:48 +0000</pubDate>
     </item>
   </channel>
 </rss>
