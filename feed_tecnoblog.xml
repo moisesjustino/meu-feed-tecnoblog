@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 19 Sep 2025 21:09:51 +0000</lastBuildDate>
-    <item>
-      <title>Kindle Paperwhite tem resistência à água e 28% de desconto na Amazon</title>
-      <link>https://tecnoblog.net/achados/kindle-paperwhite-tem-resistencia-a-agua-e-28-de-desconto-na-amazon/</link>
-      <description>Kindle Paperwhite (16 GB) de 12ª Geração tem tela e-ink de 7 polegadas, promete bateria para até 12 semanas e traz proteção IPX8 contra água e poeira</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/kindle-paperwhite-tem-resistencia-a-agua-e-28-de-desconto-na-amazon/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/07/oferta-kindle-prime-day-amazon-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 18 Sep 2025 14:21:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kindle tem melhor oferta desde julho na Kindle Week da Amazon</title>
-      <link>https://tecnoblog.net/achados/kindle-tem-melhor-oferta-desde-julho-na-kindle-week-da-amazon/</link>
-      <description>Kindle com tela antirreflexo de 6 polegadas, 16 GB de armazenamento e luz frontal tem 20% de desconto na Kindle Week da Amazon</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/kindle-tem-melhor-oferta-desde-julho-na-kindle-week-da-amazon/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/05/Kindle-2024-tem-tela-tao-brilhante-quanto-a-do-Paperwhite-foto-Laura-CanalTecnoblog-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 18 Sep 2025 14:26:48 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 19 Sep 2025 22:10:20 +0000</lastBuildDate>
     <item>
       <title>Huawei Watch GT 6 e GT 6 Pro são homologados e já podem ser vendidos no Brasil</title>
       <link>https://tecnoblog.net/noticias/huawei-watch-gt-6-e-gt-6-pro-sao-homologados-e-ja-podem-ser-vendidos-no-brasil/</link>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-a56-256-gb-com-tela-de-120-hz-fica-44-mais-barato-em-promocao/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/04/Galaxy-A56-tem-camera-de-50-MP-foto-Thassius-VelosoTecnoblog-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Fri, 19 Sep 2025 20:57:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Huawei Watch GT6 é apresentado e já está à venda no Brasil</title>
+      <link>https://tecnoblog.net/noticias/huawei-watch-gt6-e-apresentado-e-ja-esta-a-venda-no-brasil/</link>
+      <description>Empresa oficializa a nova linha de relógios com bateria de até 21 dias e recursos avançados para ciclismo. Pré-venda começa em 1º de outubro.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/huawei-watch-gt6-e-apresentado-e-ja-esta-a-venda-no-brasil/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/huawei-watch-gt-6-pro-highlights-cycling-2x-340x191.webp" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 19 Sep 2025 21:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chefão da Meta explica bug ao vivo com óculos smart</title>
+      <link>https://tecnoblog.net/noticias/chefao-da-meta-explica-bug-ao-vivo-com-oculos-smart/</link>
+      <description>Bosworth explicou que a frase “Ei, Meta” acionou diversos aparelhos ao mesmo tempo, causando instabilidade na apresentação e derrubando recursos</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/chefao-da-meta-explica-bug-ao-vivo-com-oculos-smart/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/ray-ban-meta-display-glasses-foto-thassius-veloso-tecnoblog-2-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 19 Sep 2025 21:38:50 +0000</pubDate>
     </item>
   </channel>
 </rss>
