@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 19 Sep 2025 11:09:24 +0000</lastBuildDate>
-    <item>
-      <title>Microsoft exibe aviso para evitar que usuários baixem o Google Chrome</title>
-      <link>https://tecnoblog.net/noticias/microsoft-exibe-aviso-para-evitar-que-usuarios-baixem-o-google-chrome/</link>
-      <description>Empresa começou a exibir mensagem promocional exaltando recursos do Microsoft Edge. Companhia tenta reduzir migração de usuários para o rival.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/microsoft-exibe-aviso-para-evitar-que-usuarios-baixem-o-google-chrome/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/04/microsoft_capa-2-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 17 Sep 2025 16:15:55 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 19 Sep 2025 12:22:14 +0000</lastBuildDate>
     <item>
       <title>China proíbe compras de chips da Nvidia por empresas locais</title>
       <link>https://tecnoblog.net/noticias/china-proibe-compras-de-chips-da-nvidia-por-empresas-locais/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/irregularidade-no-mercado-de-hds-rende-multa-de-r-45-milhoes/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/cartist-hhtfeskz4xq-unsplash-edited-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Thu, 18 Sep 2025 21:02:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Na China, banheiros públicos mostram anúncios para liberar papel higiênico</title>
+      <link>https://tecnoblog.net/noticias/na-china-banheiros-publicos-mostram-anuncios-para-liberar-papel-higienico/</link>
+      <description>Modernização de banheiros faz parte de um programa governamental conhecido como a "revolução dos banheiros".</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/na-china-banheiros-publicos-mostram-anuncios-para-liberar-papel-higienico/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/china-banheiro-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 19 Sep 2025 12:09:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
