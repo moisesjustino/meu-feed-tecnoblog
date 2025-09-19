@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 19 Sep 2025 17:09:55 +0000</lastBuildDate>
-    <item>
-      <title>Unicast, multicast e broadcast: saiba o que muda entre os tipos de transmissão</title>
-      <link>https://tecnoblog.net/responde/unicast-multicast-e-broadcast-saiba-o-que-muda-entre-os-tipos-de-transmissao/</link>
-      <description>Unicast, multicast e broadcast são meios de transmissão de dados entre um emissor e um receptor, mas com diferentes formatos de fluxo de dados</description>
-      <guid isPermaLink="false">https://tecnoblog.net/responde/unicast-multicast-e-broadcast-saiba-o-que-muda-entre-os-tipos-de-transmissao/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/ilustracao-de-rede-de-internet-edited-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 17 Sep 2025 19:51:59 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 19 Sep 2025 18:15:43 +0000</lastBuildDate>
     <item>
       <title>Windows 10: veja como ativar o suporte estendido da Microsoft</title>
       <link>https://tecnoblog.net/noticias/windows-10-veja-como-ativar-o-suporte-estendido-da-microsoft/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/microsoft-paint-vai-ter-formato-de-arquivo-parecido-com-o-psd-do-photoshop/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/04/microsoft-cocreator-paint-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Fri, 19 Sep 2025 16:24:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Galaxy S24 FE tem 48% OFF com cupom na Magalu e traz RAM de 8 GB</title>
+      <link>https://tecnoblog.net/achados/galaxy-s24-fe-tem-48-off-com-cupom-na-magalu-e-traz-ram-de-8-gb/</link>
+      <description>Galaxy S24 FE de 128 GB tem RAM de 8 GB, câmera tripla com sensores telefoto e ultrawide e tela AMOLED de 120 Hz com 6,7"; celular Samsung fica 48% mais barato em oferta</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-s24-fe-tem-48-off-com-cupom-na-magalu-e-traz-ram-de-8-gb/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/galaxy-s24-fe-tem-camera-traseira-tripla-foto-giovanni-santa-rosa-tecnoblog-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 19 Sep 2025 17:17:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
