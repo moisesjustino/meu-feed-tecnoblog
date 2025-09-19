@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 19 Sep 2025 16:13:30 +0000</lastBuildDate>
-    <item>
-      <title>Motorola Edge 50 Fusion (256 GB) com RAM de 8 GB tem 46% OFF na Magalu</title>
-      <link>https://tecnoblog.net/achados/motorola-edge-50-fusion-256-gb-com-ram-de-8-gb-tem-46-off-na-magalu/</link>
-      <description>Motorola Edge 50 Fusion 5G de 256 GB tem chip Qualcomm acompanhado por RAM de 8 GB, tela POLED de 6,7" com taxa de atualização de 120 Hz e oferta com 46% de desconto</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/motorola-edge-50-fusion-256-gb-com-ram-de-8-gb-tem-46-off-na-magalu/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/01/motorola-edge-50-fusion-foto-thassius-velosotecnoblog-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 17 Sep 2025 18:10:08 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 19 Sep 2025 17:09:55 +0000</lastBuildDate>
     <item>
       <title>Unicast, multicast e broadcast: saiba o que muda entre os tipos de transmissão</title>
       <link>https://tecnoblog.net/responde/unicast-multicast-e-broadcast-saiba-o-que-muda-entre-os-tipos-de-transmissao/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/samsung-vai-exibir-anuncios-na-tela-das-geladeiras/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/12/samsung1-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Fri, 19 Sep 2025 16:09:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Paint vai ter formato de arquivo parecido com o PSD do Photoshop</title>
+      <link>https://tecnoblog.net/noticias/microsoft-paint-vai-ter-formato-de-arquivo-parecido-com-o-psd-do-photoshop/</link>
+      <description>Microsoft Paint para Windows 11 permitirá salvar trabalhos como projetos, tal como o Photoshop. Arquivos resultantes terão extensão ".paint".</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/microsoft-paint-vai-ter-formato-de-arquivo-parecido-com-o-psd-do-photoshop/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/04/microsoft-cocreator-paint-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 19 Sep 2025 16:24:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
