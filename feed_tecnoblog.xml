@@ -7,31 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 19 Sep 2025 18:15:43 +0000</lastBuildDate>
-    <item>
-      <title>Windows 10: veja como ativar o suporte estendido da Microsoft</title>
-      <link>https://tecnoblog.net/noticias/windows-10-veja-como-ativar-o-suporte-estendido-da-microsoft/</link>
-      <description>Suporte ao Windows 10 termina em 14 de outubro de 2025. Mas usuários poderão receber atualizações de segurança por um ano. Veja como a seguir.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/windows-10-veja-como-ativar-o-suporte-estendido-da-microsoft/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/windows-10-computador-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 17 Sep 2025 20:20:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Reddit quer mais controle sobre como Google e OpenAI usam dados em IA</title>
-      <link>https://tecnoblog.net/noticias/reddit-quer-mais-controle-sobre-como-google-e-openai-usam-dados-em-ia/</link>
-      <description>Plataforma quer converter usuários de IAs em membros do Reddit e propõe novo acordo com empresas. Proposta envolve maior integração com produtos.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/reddit-quer-mais-controle-sobre-como-google-e-openai-usam-dados-em-ia/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/04/brett-jordan-0fytazjhhxs-unsplash-edited-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 17 Sep 2025 20:52:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Samsung Galaxy: saiba as diferenças entre as linhas A, M, S e Z</title>
-      <link>https://tecnoblog.net/responde/samsung-galaxy-saiba-as-diferencas-entre-as-linhas-a-m-s-e-z/</link>
-      <description>A Samsung oferece diferentes linhas de smartphones, que podem atender desde tarefas básicas do dia a dia até demandas de alta performance</description>
-      <guid isPermaLink="false">https://tecnoblog.net/responde/samsung-galaxy-saiba-as-diferencas-entre-as-linhas-a-m-s-e-z/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/linhas-de-smartphones-da-samsung-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 17 Sep 2025 20:57:51 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 19 Sep 2025 19:08:46 +0000</lastBuildDate>
     <item>
       <title>Motorola Edge 60 Pro (512 GB) com câmera Sony tem 35% OFF em promoção</title>
       <link>https://tecnoblog.net/achados/motorola-edge-60-pro-512-gb-com-camera-sony-tem-35-off-em-promocao/</link>
@@ -187,7 +163,7 @@
     <item>
       <title>iPhone Air resiste a quase 60 kg de pressão sem quebrar</title>
       <link>https://tecnoblog.net/noticias/iphone-air-resiste-a-quase-60-kg-de-pressao-sem-quebrar/</link>
-      <description>Apple divulgou testes com o modelo de 5,6 mm de espessura. Nova linha iPhone 17 suporta força e quedas sem danos visíveis e conta o Ceramic Shield 2, mais resistente a riscos.</description>
+      <description>Apple divulgou testes com o modelo de 5,6 mm de espessura. Nova linha iPhone 17 suporta força e quedas sem danos visíveis e conta com o Ceramic Shield 2, mais resistente a riscos.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/iphone-air-resiste-a-quase-60-kg-de-pressao-sem-quebrar/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/iphone-air-bend-test-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Fri, 19 Sep 2025 14:04:48 +0000</pubDate>
@@ -223,6 +199,30 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-s24-fe-tem-48-off-com-cupom-na-magalu-e-traz-ram-de-8-gb/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/galaxy-s24-fe-tem-camera-traseira-tripla-foto-giovanni-santa-rosa-tecnoblog-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Fri, 19 Sep 2025 17:17:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>CEO da Apple diz que iPhones não estão mais caros por causa das tarifas</title>
+      <link>https://tecnoblog.net/noticias/ceo-da-apple-diz-que-iphones-nao-estao-mais-caros-por-causa-das-tarifas/</link>
+      <description>Versão Pro ficou US$ 100 mais cara em comparação com a última geração. Tim Cook diz que preço não foi impactado pelas tarifas do governo Trump.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/ceo-da-apple-diz-que-iphones-nao-estao-mais-caros-por-causa-das-tarifas/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/captura-de-tela-2025-09-09-145708-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 19 Sep 2025 18:43:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Samsung lança monitor Odyssey OLED G6 de 500 Hz no Brasil</title>
+      <link>https://tecnoblog.net/noticias/samsung-lanca-monitor-odyssey-oled-g6-de-500-hz-no-brasil/</link>
+      <description>Monitor oferece ainda suporte a AMD FreeSync Premium Pro e Nvidia G-Sync, brilho de até 1.000 nits e tecnologia Samsung OLED Safeguard+.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/samsung-lanca-monitor-odyssey-oled-g6-de-500-hz-no-brasil/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/samsung-odyssey-oled-g6-500-hz-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 19 Sep 2025 18:56:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>iPhone 16 Pro Max (512 GB) tem melhor oferta do ano na Amazon</title>
+      <link>https://tecnoblog.net/achados/iphone-16-pro-max-512-gb-tem-melhor-oferta-do-ano-na-amazon/</link>
+      <description>iPhone 16 Pro Max de 512 GB com RAM de 8 GB, chip Apple A18 Pro e câmera tripla com dois sensores de 48 MP fica 36% mais barato após lançamento da linha iPhone 17</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/iphone-16-pro-max-512-gb-tem-melhor-oferta-do-ano-na-amazon/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/01/iphone-16-pro-foto-thassius-velosotecnoblog-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 19 Sep 2025 19:03:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
