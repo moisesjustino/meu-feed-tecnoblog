@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 22 Sep 2025 13:23:03 +0000</lastBuildDate>
-    <item>
-      <title>Como baixar vídeo do TikTok facilmente</title>
-      <link>https://tecnoblog.net/publieditoriais/como-baixar-video-do-tiktok-facilmente/</link>
-      <description>EaseUS Video Downloader é uma das ferramentas mais práticas para download de vídeos do TikTok. Saiba como usá-la e conheça outras opções.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/publieditoriais/como-baixar-video-do-tiktok-facilmente/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/baixar-video-tiktok-easeus-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 18 Sep 2025 14:44:43 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 22 Sep 2025 14:12:53 +0000</lastBuildDate>
     <item>
       <title>Galaxy S24 Plus (256 GB) com 55% OFF em oferta de até 12x sem juros</title>
       <link>https://tecnoblog.net/achados/galaxy-s24-plus-256-gb-com-55-off-em-oferta-de-ate-12x-sem-juros/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/chatgpt-e-testado-em-ataque-para-roubar-dados-do-gmail/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/openai-4_capa-edited-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 22 Sep 2025 13:04:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>One UI 8 chega à linha Galaxy S25 no Brasil</title>
+      <link>https://tecnoblog.net/noticias/one-ui-8-chega-a-linha-galaxy-s25-no-brasil/</link>
+      <description>Samsung começou a distribuir One UI 8 com Android 16 para modelos Galaxy S25 no Brasil. Interface traz recursos de IA, ajustes de design e mais.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/one-ui-8-chega-a-linha-galaxy-s25-no-brasil/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/one-ui-8-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 22 Sep 2025 14:01:31 +0000</pubDate>
     </item>
   </channel>
 </rss>
