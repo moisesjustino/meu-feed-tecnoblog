@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 22 Sep 2025 15:12:59 +0000</lastBuildDate>
-    <item>
-      <title>Drones com roteador de 5G podem levar internet a áreas remotas</title>
-      <link>https://tecnoblog.net/noticias/drones-com-roteador-5g-poderao-levar-internet-a-areas-remotas/</link>
-      <description>Globalstar avalia o uso de aeronaves não tripuladas para ampliar cobertura de rede. Empresa já é responsável pelos recursos de conectividade via satélite dos iPhones.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/drones-com-roteador-5g-poderao-levar-internet-a-areas-remotas/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/06/5g-3_capa_tb-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 18 Sep 2025 17:25:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Moto G56 5G (256 GB) tem RAM de 8 GB e melhor oferta desde lançamento</title>
-      <link>https://tecnoblog.net/achados/moto-g56-5g-256-gb-tem-ram-de-8-gb-e-melhor-oferta-desde-lancamento/</link>
-      <description>Moto G56 tem RAM de 8 GB expansíveis até 16 GB, câmera de 50 MP e tela com taxa de atualização de 120 Hz; celular 5G da Motorola tem 37% de desconto em promoção</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/moto-g56-5g-256-gb-tem-ram-de-8-gb-e-melhor-oferta-desde-lancamento/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/motorola-moto-g56-5g-foto-divulgacao-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 18 Sep 2025 18:01:10 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 22 Sep 2025 16:14:22 +0000</lastBuildDate>
     <item>
       <title>Gnome 49 é oficial: veja o que o ambiente para Linux traz de novo</title>
       <link>https://tecnoblog.net/noticias/gnome-49-e-oficial-veja-o-que-o-ambiente-de-desktop-para-linux-traz-de-novo/</link>
@@ -219,10 +203,26 @@
     <item>
       <title>Ransomware é responsável por caos em aeroportos da Europa</title>
       <link>https://tecnoblog.net/noticias/ransomware-e-responsavel-por-caos-em-aeroportos-da-europa/</link>
-      <description>Passageiros enfrentam longas filas e atrasos, enquanto companhias aéreas recorreram a laptops, iPads e até cartões de embarque manuscritos</description>
+      <description>Passageiros enfrentam longas filas e atrasos, enquanto companhias aéreas recorreram a laptops, iPads e até cartões de embarque manuscritos.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/ransomware-e-responsavel-por-caos-em-aeroportos-da-europa/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/aeroporto-amsterda-pim-de-boer-unsplash-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 22 Sep 2025 14:47:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Donos do novo iPhone 17 se queixam de problemas com arranhões</title>
+      <link>https://tecnoblog.net/noticias/donos-do-novo-iphone-17-se-queixam-de-problemas-com-arranhoes/</link>
+      <description>Usuários relatam riscos já nas primeiras horas de uso. Substituição de acabamento em titânio por alumínio é apontada como principal causa.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/donos-do-novo-iphone-17-se-queixam-de-problemas-com-arranhoes/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/iphone-17-pro-arranhado-edited-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 22 Sep 2025 15:23:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vivo lança Fibra Lite, com assinatura anual e pagamento no cartão</title>
+      <link>https://tecnoblog.net/noticias/vivo-lanca-fibra-lite-com-assinatura-anual-e-pagamento-no-cartao/</link>
+      <description>Novo plano banda larga Vivo Fibra Lite oferece 500 Mb/s por R$ 90 mensais. Pagamento é pré-pago, parcelado em 12 vezes no cartão de crédito.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/vivo-lanca-fibra-lite-com-assinatura-anual-e-pagamento-no-cartao/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/04/vivo-fibra-capa-tecnoblog-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 22 Sep 2025 15:56:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
