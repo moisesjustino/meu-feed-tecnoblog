@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 22 Sep 2025 22:10:41 +0000</lastBuildDate>
-    <item>
-      <title>Galaxy S25 (256 GB) tem oferta histórica com 50% OFF no Mercado Livre</title>
-      <link>https://tecnoblog.net/achados/galaxy-s25-256-gb-tem-oferta-historica-com-50-off-no-mercado-livre/</link>
-      <description>Galaxy S25 (256 GB) está à venda no Pix em promoção de 50% de desconto; celular Samsung traz Snapdragon 8 Elite, tela AMOLED Dinâmico de 120 Hz e câmera de 50 MP que filma em 8K</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-s25-256-gb-tem-oferta-historica-com-50-off-no-mercado-livre/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/galaxy-s24-traz-processador-snapdragon-8-elite-da-qualcomm-foto-thassius-velosotecnoblog-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 19 Sep 2025 15:30:01 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 22 Sep 2025 23:10:25 +0000</lastBuildDate>
     <item>
       <title>Samsung vai exibir anúncios na tela das geladeiras</title>
       <link>https://tecnoblog.net/noticias/samsung-vai-exibir-anuncios-na-tela-das-geladeiras/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/mediatek-dimensity-9500-chega-para-rivalizar-com-novo-chip-da-qualcomm/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/10/mediatek-dimensity-geral-destaque-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 22 Sep 2025 21:05:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Samsung pode copiar função da Apple que barra ligação de spam</title>
+      <link>https://tecnoblog.net/noticias/samsung-pode-copiar-funcao-da-apple-que-barra-ligacao-de-spam/</link>
+      <description>Função em teste na One UI 8.5 usaria inteligência artificial para transcrever chamadas e permitir que o usuário decida se atende ou não</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/samsung-pode-copiar-funcao-da-apple-que-barra-ligacao-de-spam/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/flip-7-fe-aberto-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 22 Sep 2025 22:47:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
