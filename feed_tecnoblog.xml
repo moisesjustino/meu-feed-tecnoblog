@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 22 Sep 2025 12:22:39 +0000</lastBuildDate>
-    <item>
-      <title>Huawei Watch GT 6 e GT 6 Pro são homologados e já podem ser vendidos no Brasil</title>
-      <link>https://tecnoblog.net/noticias/huawei-watch-gt-6-e-gt-6-pro-sao-homologados-e-ja-podem-ser-vendidos-no-brasil/</link>
-      <description>Documentos da Anatel confirmam os novos smartwatches da fabricante chinesa no país. Relógios terão suporte a NFC para pagamentos por aproximação.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/huawei-watch-gt-6-e-gt-6-pro-sao-homologados-e-ja-podem-ser-vendidos-no-brasil/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/05/Huawei-Watch-5-4-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 18 Sep 2025 14:38:22 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 22 Sep 2025 13:23:03 +0000</lastBuildDate>
     <item>
       <title>Como baixar vídeo do TikTok facilmente</title>
       <link>https://tecnoblog.net/publieditoriais/como-baixar-video-do-tiktok-facilmente/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/chefao-da-meta-explica-bug-ao-vivo-com-oculos-smart/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/ray-ban-meta-display-glasses-foto-thassius-veloso-tecnoblog-2-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Fri, 19 Sep 2025 21:38:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT é testado em ataque para roubar dados do Gmail</title>
+      <link>https://tecnoblog.net/noticias/chatgpt-e-testado-em-ataque-para-roubar-dados-do-gmail/</link>
+      <description>Pesquisadores da Radware usaram injeção de prompts para extrair dados da caixa de entrada do e-mail. OpenAI reconheceu a falha e já corrigiu o problema.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/chatgpt-e-testado-em-ataque-para-roubar-dados-do-gmail/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/openai-4_capa-edited-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 22 Sep 2025 13:04:57 +0000</pubDate>
     </item>
   </channel>
 </rss>
