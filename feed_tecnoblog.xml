@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 22 Sep 2025 14:12:53 +0000</lastBuildDate>
-    <item>
-      <title>Galaxy S24 Plus (256 GB) com 55% OFF em oferta de até 12x sem juros</title>
-      <link>https://tecnoblog.net/achados/galaxy-s24-plus-256-gb-com-55-off-em-oferta-de-ate-12x-sem-juros/</link>
-      <description>Galaxy S24 Plus (256 GB) pode ser adquirido em promoção de até 12x sem juros na Amazon; smartphone Samsung traz tela AMOLED de 6,7", Exynos 2400 e 12 GB de RAM</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-s24-plus-256-gb-com-55-off-em-oferta-de-ate-12x-sem-juros/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/galaxy-s24-plus-oferta-recomendada-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 18 Sep 2025 17:01:51 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 22 Sep 2025 15:12:59 +0000</lastBuildDate>
     <item>
       <title>Drones com roteador de 5G podem levar internet a áreas remotas</title>
       <link>https://tecnoblog.net/noticias/drones-com-roteador-5g-poderao-levar-internet-a-areas-remotas/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/one-ui-8-chega-a-linha-galaxy-s25-no-brasil/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/one-ui-8-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 22 Sep 2025 14:01:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ransomware é responsável por caos em aeroportos da Europa</title>
+      <link>https://tecnoblog.net/noticias/ransomware-e-responsavel-por-caos-em-aeroportos-da-europa/</link>
+      <description>Passageiros enfrentam longas filas e atrasos, enquanto companhias aéreas recorreram a laptops, iPads e até cartões de embarque manuscritos</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/ransomware-e-responsavel-por-caos-em-aeroportos-da-europa/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/aeroporto-amsterda-pim-de-boer-unsplash-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 22 Sep 2025 14:47:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
