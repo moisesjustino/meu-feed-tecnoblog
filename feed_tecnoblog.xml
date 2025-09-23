@@ -7,31 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 23 Sep 2025 13:22:17 +0000</lastBuildDate>
-    <item>
-      <title>CEO da Apple diz que iPhones não estão mais caros por causa das tarifas</title>
-      <link>https://tecnoblog.net/noticias/ceo-da-apple-diz-que-iphones-nao-estao-mais-caros-por-causa-das-tarifas/</link>
-      <description>Versão Pro ficou US$ 100 mais cara em comparação com a última geração. Tim Cook diz que preço não foi impactado pelas tarifas do governo Trump.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/ceo-da-apple-diz-que-iphones-nao-estao-mais-caros-por-causa-das-tarifas/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/captura-de-tela-2025-09-09-145708-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 19 Sep 2025 18:43:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Samsung lança monitor Odyssey OLED G6 de 500 Hz no Brasil</title>
-      <link>https://tecnoblog.net/noticias/samsung-lanca-monitor-odyssey-oled-g6-de-500-hz-no-brasil/</link>
-      <description>Monitor oferece ainda suporte a AMD FreeSync Premium Pro e Nvidia G-Sync, brilho de até 1.000 nits e tecnologia Samsung OLED Safeguard+.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/samsung-lanca-monitor-odyssey-oled-g6-de-500-hz-no-brasil/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/monitor-samsung-odyssey-oled-g6-500-hz-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 19 Sep 2025 18:56:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>iPhone 16 Pro Max (512 GB) tem melhor oferta do ano na Amazon</title>
-      <link>https://tecnoblog.net/achados/iphone-16-pro-max-512-gb-tem-melhor-oferta-do-ano-na-amazon/</link>
-      <description>iPhone 16 Pro Max de 512 GB com RAM de 8 GB, chip Apple A18 Pro e câmera tripla com dois sensores de 48 MP fica 36% mais barato após lançamento da linha iPhone 17</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/iphone-16-pro-max-512-gb-tem-melhor-oferta-do-ano-na-amazon/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/01/iphone-16-pro-foto-thassius-velosotecnoblog-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 19 Sep 2025 19:03:44 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 23 Sep 2025 14:11:48 +0000</lastBuildDate>
     <item>
       <title>WhatsApp testa função que notifica até quem silenciou o grupo</title>
       <link>https://tecnoblog.net/noticias/whatsapp-testa-funcao-que-notifica-ate-quem-silenciou-o-grupo/</link>
@@ -223,6 +199,30 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/ray-ban-meta-gen-2-chega-ao-brasil-saiba-o-preco/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/lifestyle-still-1-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 23 Sep 2025 12:51:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dia das Crianças: Galaxy Tab S10 Lite com tela de 10,9″ tem cupom na Magalu</title>
+      <link>https://tecnoblog.net/achados/dia-das-criancas-galaxy-tab-s10-lite-com-tela-de-109-tem-cupom-na-magalu/</link>
+      <description>Galaxy Tab S10 Lite (128 GB) é boa opção de tablet para estudos, com RAM de 6 GB e tela de 10,9 polegadas; cupom na Magazine Luiza traz 23% de desconto em oferta</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/dia-das-criancas-galaxy-tab-s10-lite-com-tela-de-109-tem-cupom-na-magalu/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/galaxy-tab-s10-lite-achados-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 23 Sep 2025 13:25:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Depois de investir na Intel, Nvidia vai injetar US$ 100 bilhões na OpenAI</title>
+      <link>https://tecnoblog.net/noticias/depois-de-investir-na-intel-nvidia-vai-injetar-us-100-bilhoes-na-openai/</link>
+      <description>Nvidia investirá até US$ 100 bilhões na OpenAI para criar infraestrutura de IA que inclui 10 gigawatts de energia para datacenters.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/depois-de-investir-na-intel-nvidia-vai-injetar-us-100-bilhoes-na-openai/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/openai-nvidia-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 23 Sep 2025 13:33:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cansou dos apps de namoro? Facebook ganha IA para te ajudar nisso</title>
+      <link>https://tecnoblog.net/noticias/cansou-dos-apps-de-namoro-facebook-ganha-ia-para-te-ajudar-nisso/</link>
+      <description>Novos recursos do Facebook Namoro refinam a busca e reduzem a fadiga do deslize. Funções chegam aos EUA e Canadá, ainda sem previsão para o Brasil.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/cansou-dos-apps-de-namoro-facebook-ganha-ia-para-te-ajudar-nisso/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/02/Capa-Facebook-Namoro-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 23 Sep 2025 13:43:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
