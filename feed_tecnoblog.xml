@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 23 Sep 2025 19:09:06 +0000</lastBuildDate>
-    <item>
-      <title>Ransomware é responsável por caos em aeroportos da Europa</title>
-      <link>https://tecnoblog.net/noticias/ransomware-e-responsavel-por-caos-em-aeroportos-da-europa/</link>
-      <description>Passageiros enfrentam longas filas e atrasos, enquanto companhias aéreas recorreram a laptops, iPads e até cartões de embarque manuscritos.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/ransomware-e-responsavel-por-caos-em-aeroportos-da-europa/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/aeroporto-amsterda-pim-de-boer-unsplash-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 22 Sep 2025 14:47:14 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 23 Sep 2025 20:12:29 +0000</lastBuildDate>
     <item>
       <title>Donos do novo iPhone 17 se queixam de problemas com arranhões</title>
       <link>https://tecnoblog.net/noticias/donos-do-novo-iphone-17-se-queixam-de-problemas-com-arranhoes/</link>
@@ -177,9 +169,9 @@
       <pubDate>Tue, 23 Sep 2025 15:12:24 +0000</pubDate>
     </item>
     <item>
-      <title>Claro libera Disney+ sem custo extra para assinantes</title>
+      <title>Claro libera Disney+ de graça até o fim do ano</title>
       <link>https://tecnoblog.net/noticias/claro-libera-disney-sem-custo-extra-para-assinantes/</link>
-      <description>A promoção se assemelha ao benefício do Globoplay, que foi incluído nas assinaturas da Claro em 2024. Operadora enviou emails informando aos clientes sobre a novidade.</description>
+      <description>Ação promocional vale para clientes do hub de conteúdo Claro TV+. Serviço da Disney custa R$ 27,90 por mês.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/claro-libera-disney-sem-custo-extra-para-assinantes/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/11/capa-claro_tb-edited-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Tue, 23 Sep 2025 15:39:28 +0000</pubDate>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/motorola-edge-60-fusion-tem-oferta-historica-com-40-off-no-mercado-livre/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/motorola-edge-60-fusion-tem-camera-sony-lytia-700c-foto-giovanni-santa-rosatecnoblog-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Tue, 23 Sep 2025 19:04:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>WhatsApp ganha tradutor de mensagens; veja como funciona</title>
+      <link>https://tecnoblog.net/noticias/whatsapp-ganha-tradutor-de-mensagens-veja-como-funciona/</link>
+      <description>Recurso já é compatível em português no Android e no iOS. Ferramenta permite traduzir mensagens individuais ou conversas inteiras de forma automática.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/whatsapp-ganha-tradutor-de-mensagens-veja-como-funciona/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/whatsapp-traducao-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 23 Sep 2025 19:21:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
