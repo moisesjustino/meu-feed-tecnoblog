@@ -7,39 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 23 Sep 2025 18:17:13 +0000</lastBuildDate>
-    <item>
-      <title>Chefão da Meta explica bug ao vivo com óculos smart</title>
-      <link>https://tecnoblog.net/noticias/chefao-da-meta-explica-bug-ao-vivo-com-oculos-smart/</link>
-      <description>Bosworth explicou que a frase “Ei, Meta” acionou diversos aparelhos ao mesmo tempo, causando instabilidade na apresentação e derrubando recursos</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/chefao-da-meta-explica-bug-ao-vivo-com-oculos-smart/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/ray-ban-meta-display-glasses-foto-thassius-veloso-tecnoblog-2-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 19 Sep 2025 21:38:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Xiaomi, Redmi ou Poco: conheça as diferenças entre as linhas de celular da fabricante chinesa</title>
-      <link>https://tecnoblog.net/responde/xiaomi-redmi-ou-poco-conheca-as-diferencas-entre-as-linhas-de-celular-da-fabricante-chinesa/</link>
-      <description>Os celulares Redmi são voltadas para usuários mais básicos, os modelos Poco são indicados para o público intermediário, enquanto a linha Xiaomi é ideal para entusiastas de tecnologia</description>
-      <guid isPermaLink="false">https://tecnoblog.net/responde/xiaomi-redmi-ou-poco-conheca-as-diferencas-entre-as-linhas-de-celular-da-fabricante-chinesa/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/09/20240926_092324-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 19 Sep 2025 21:52:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>ChatGPT é testado em ataque para roubar dados do Gmail</title>
-      <link>https://tecnoblog.net/noticias/chatgpt-e-testado-em-ataque-para-roubar-dados-do-gmail/</link>
-      <description>Pesquisadores da Radware usaram injeção de prompts para extrair dados da caixa de entrada do e-mail. OpenAI reconheceu a falha e já corrigiu o problema.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/chatgpt-e-testado-em-ataque-para-roubar-dados-do-gmail/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/openai-4_capa-edited-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 22 Sep 2025 13:04:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Galaxy S25: atualização da One UI 8 chega aos celulares no Brasil</title>
-      <link>https://tecnoblog.net/noticias/one-ui-8-chega-a-linha-galaxy-s25-no-brasil/</link>
-      <description>Interface traz recursos de IA e ajustes de design, entre outras novidades. Veja os passos para atualizar agora mesmo.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/one-ui-8-chega-a-linha-galaxy-s25-no-brasil/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/one-ui-8-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 22 Sep 2025 14:01:31 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 23 Sep 2025 19:09:06 +0000</lastBuildDate>
     <item>
       <title>Ransomware é responsável por caos em aeroportos da Europa</title>
       <link>https://tecnoblog.net/noticias/ransomware-e-responsavel-por-caos-em-aeroportos-da-europa/</link>
@@ -129,6 +97,14 @@
       <pubDate>Mon, 22 Sep 2025 21:05:55 +0000</pubDate>
     </item>
     <item>
+      <title>Padrão, Pro, Pro Max e Air: entenda as diferenças entre os modelos de iPhone</title>
+      <link>https://tecnoblog.net/responde/padrao-pro-pro-max-e-air-entenda-as-diferencas-entre-os-modelos-de-iphone/</link>
+      <description>A Apple lança diferentes modelos de iPhone para oferecer uma variedade de dispositivos, preços e recursos, atendendo a diversas necessidade e preferências dos consumidores</description>
+      <guid isPermaLink="false">https://tecnoblog.net/responde/padrao-pro-pro-max-e-air-entenda-as-diferencas-entre-os-modelos-de-iphone/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/iphone-17-pro-01-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 22 Sep 2025 21:19:05 +0000</pubDate>
+    </item>
+    <item>
       <title>Samsung pode copiar função da Apple que barra ligação de spam</title>
       <link>https://tecnoblog.net/noticias/samsung-pode-copiar-funcao-da-apple-que-barra-ligacao-de-spam/</link>
       <description>Função em teste na One UI 8.5 usaria inteligência artificial para transcrever chamadas e permitir que o usuário decida se atende ou não</description>
@@ -163,7 +139,7 @@
     <item>
       <title>Depois de investir na Intel, Nvidia vai injetar US$ 100 bilhões na OpenAI</title>
       <link>https://tecnoblog.net/noticias/depois-de-investir-na-intel-nvidia-vai-injetar-us-100-bilhoes-na-openai/</link>
-      <description>Nvidia investirá até US$ 100 bilhões na OpenAI para criar infraestrutura de IA que inclui 10 gigawatts de energia para datacenters.</description>
+      <description>Nvidia investirá até US$ 100 bilhões na OpenAI para criar infraestrutura de IA que inclui 10 gigawatts de energia para data centers.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/depois-de-investir-na-intel-nvidia-vai-injetar-us-100-bilhoes-na-openai/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/openai-nvidia-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Tue, 23 Sep 2025 13:33:06 +0000</pubDate>
@@ -211,7 +187,7 @@
     <item>
       <title>Workslop: trabalho ruim feito com IA vira dor de cabeça para colegas</title>
       <link>https://tecnoblog.net/noticias/workslop-trabalho-ruim-feito-com-ia-vira-dor-de-cabeca-para-colegas/</link>
-      <description>Levantamento indica que 40% dos entrevistados já receberam materiais de baixa qualidade gerados por IA e foram obrigados a perder tempo corrigindo erros</description>
+      <description>Levantamento indica que 40% dos entrevistados já receberam materiais de baixa qualidade gerados por IA e foram obrigados a perder tempo corrigindo erros.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/workslop-trabalho-ruim-feito-com-ia-vira-dor-de-cabeca-para-colegas/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/vitaly-gariev-lllzksmxe7a-unsplash-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 23 Sep 2025 15:39:44 +0000</pubDate>
@@ -223,6 +199,30 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/papa-leao-14-se-recusa-a-lancar-um-avatar-com-ia/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/1620px-homily_during_the_inauguration_of_leo_xiv-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 23 Sep 2025 15:53:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google Play: atualização promete melhorar experiência com jogos e apps</title>
+      <link>https://tecnoblog.net/noticias/google-play-atualizacao-promete-melhorar-experiencia-com-jogos-e-apps/</link>
+      <description>Principais novidades envolvem o Google Play Games, que exibirá avanços do jogador e, finalmente, está chegando de modo oficial a PCs.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/google-play-atualizacao-promete-melhorar-experiencia-com-jogos-e-apps/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/09/capa-play-store-1-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 23 Sep 2025 18:25:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>União Europeia cobra Apple, Google e Microsoft por medidas mais rígidas contra golpes</title>
+      <link>https://tecnoblog.net/noticias/uniao-europeia-cobra-apple-google-e-microsoft-por-medidas-mais-rigidas-contra-golpes/</link>
+      <description>Bloco europeu apura se gigantes da tecnologia policiam fraudes financeiras. Investigação se ampara na Lei de Serviços Digitais, que permite multas mais pesadas.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/uniao-europeia-cobra-apple-google-e-microsoft-por-medidas-mais-rigidas-contra-golpes/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2021/10/1280px-european_union_flags_2-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 23 Sep 2025 18:30:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Motorola Edge 60 Fusion tem oferta histórica com 40% OFF no Mercado Livre</title>
+      <link>https://tecnoblog.net/achados/motorola-edge-60-fusion-tem-oferta-historica-com-40-off-no-mercado-livre/</link>
+      <description>Moto Edge 60 Fusion de 256 GB tem promoção histórica de 40% de desconto; celular possui câmera Sony de 50 MP com Moto AI, tela POLED de 120 Hz e bateria de 5.200 mAh;</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/motorola-edge-60-fusion-tem-oferta-historica-com-40-off-no-mercado-livre/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/motorola-edge-60-fusion-tem-camera-sony-lytia-700c-foto-giovanni-santa-rosatecnoblog-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 23 Sep 2025 19:04:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
