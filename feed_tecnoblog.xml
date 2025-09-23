@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 23 Sep 2025 14:11:48 +0000</lastBuildDate>
-    <item>
-      <title>WhatsApp testa função que notifica até quem silenciou o grupo</title>
-      <link>https://tecnoblog.net/noticias/whatsapp-testa-funcao-que-notifica-ate-quem-silenciou-o-grupo/</link>
-      <description>Recurso em teste no iPhone e no Android permite que membros de uma conversa notifiquem todos de uma só vez.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/whatsapp-testa-funcao-que-notifica-ate-quem-silenciou-o-grupo/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/whatsapp-capa-3-edited-1-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 19 Sep 2025 19:26:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft incentiva uso de PCs com Windows 11 e chip Arm</title>
-      <link>https://tecnoblog.net/noticias/microsoft-incentiva-uso-de-pcs-com-windows-11-e-chip-arm/</link>
-      <description>Microsoft divulgou lista de softwares compatíveis com Arm no Windows 11, como 1Password, Chrome, Photoshop, entre tantos outros.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/microsoft-incentiva-uso-de-pcs-com-windows-11-e-chip-arm/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/03/Asus-Zenbook-A14-Foto-Thassius-Veloso-Tecnoblog-3-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 19 Sep 2025 20:30:25 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 23 Sep 2025 15:12:19 +0000</lastBuildDate>
     <item>
       <title>OpenAI pode desenvolver rival para o Echo Dot da Amazon</title>
       <link>https://tecnoblog.net/noticias/openai-pode-desenvolver-rival-para-o-echo-dot-da-amazon/</link>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/cansou-dos-apps-de-namoro-facebook-ganha-ia-para-te-ajudar-nisso/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/02/Capa-Facebook-Namoro-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Tue, 23 Sep 2025 13:43:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Motorola lança Moto G06 no Brasil, celular de entrada com tela de 120 Hz</title>
+      <link>https://tecnoblog.net/noticias/motorola-lanca-moto-g06-no-brasil-celular-de-entrada-com-tela-de-120-hz/</link>
+      <description>Moto G06, da Motorola, chega ao Brasil com tela de 6,9 polegadas e câmera traseira única de 50 megapixels. Preços oficiais partem de R$ 999.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/motorola-lanca-moto-g06-no-brasil-celular-de-entrada-com-tela-de-120-hz/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/motorola-moto-g06-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 23 Sep 2025 14:32:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Galaxy S24 Plus (256 GB) tem 54% OFF em até 18x no Mercado Livre</title>
+      <link>https://tecnoblog.net/achados/galaxy-s24-plus-256-gb-tem-54-off-em-ate-18x-no-mercado-livre/</link>
+      <description>Galaxy S24 Plus (256 GB) tem RAM de 12 GB, tela AMOLED com taxa de atualização de 120 Hz e três câmeras traseiras; oferta com 54% no Mercado Livre pode ser parcelada</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-s24-plus-256-gb-tem-54-off-em-ate-18x-no-mercado-livre/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/02/Galaxy-S24-Plus-promete-7-anos-de-Android-foto-Thassius-VelosoTecnoblog-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 23 Sep 2025 14:43:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
