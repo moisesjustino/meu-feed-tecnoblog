@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 23 Sep 2025 09:12:46 +0000</lastBuildDate>
-    <item>
-      <title>Samsung vai exibir anúncios na tela das geladeiras</title>
-      <link>https://tecnoblog.net/noticias/samsung-vai-exibir-anuncios-na-tela-das-geladeiras/</link>
-      <description>Novidade será testada nos EUA e expansão dependerá da reação dos consumidores. No Brasil, os modelos afetados podem custar até R$ 30 mil.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/samsung-vai-exibir-anuncios-na-tela-das-geladeiras/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/12/samsung1-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 19 Sep 2025 16:09:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Paint vai ter formato de arquivo parecido com o PSD do Photoshop</title>
-      <link>https://tecnoblog.net/noticias/microsoft-paint-vai-ter-formato-de-arquivo-parecido-com-o-psd-do-photoshop/</link>
-      <description>Microsoft Paint para Windows 11 permitirá salvar trabalhos como projetos, tal como o Photoshop. Arquivos resultantes terão extensão ".paint".</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/microsoft-paint-vai-ter-formato-de-arquivo-parecido-com-o-psd-do-photoshop/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/04/microsoft-cocreator-paint-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 19 Sep 2025 16:24:06 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 23 Sep 2025 10:11:56 +0000</lastBuildDate>
     <item>
       <title>Galaxy S24 FE tem 48% OFF com cupom na Magalu e traz RAM de 8 GB</title>
       <link>https://tecnoblog.net/achados/galaxy-s24-fe-tem-48-off-com-cupom-na-magalu-e-traz-ram-de-8-gb/</link>
@@ -113,6 +97,14 @@
       <pubDate>Fri, 19 Sep 2025 21:38:50 +0000</pubDate>
     </item>
     <item>
+      <title>Xiaomi, Redmi ou Poco: conheça as diferenças entre as linhas de celular da fabricante chinesa</title>
+      <link>https://tecnoblog.net/responde/xiaomi-redmi-ou-poco-conheca-as-diferencas-entre-as-linhas-de-celular-da-fabricante-chinesa/</link>
+      <description>Os celulares Redmi são voltadas para usuários mais básicos, os modelos Poco são indicados para o público intermediário, enquanto a linha Xiaomi é ideal para entusiastas de tecnologia</description>
+      <guid isPermaLink="false">https://tecnoblog.net/responde/xiaomi-redmi-ou-poco-conheca-as-diferencas-entre-as-linhas-de-celular-da-fabricante-chinesa/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/09/20240926_092324-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 19 Sep 2025 21:52:30 +0000</pubDate>
+    </item>
+    <item>
       <title>ChatGPT é testado em ataque para roubar dados do Gmail</title>
       <link>https://tecnoblog.net/noticias/chatgpt-e-testado-em-ataque-para-roubar-dados-do-gmail/</link>
       <description>Pesquisadores da Radware usaram injeção de prompts para extrair dados da caixa de entrada do e-mail. OpenAI reconheceu a falha e já corrigiu o problema.</description>
@@ -121,9 +113,9 @@
       <pubDate>Mon, 22 Sep 2025 13:04:57 +0000</pubDate>
     </item>
     <item>
-      <title>One UI 8 chega à linha Galaxy S25 no Brasil</title>
+      <title>Galaxy S25: atualização da One UI 8 chega aos celulares no Brasil</title>
       <link>https://tecnoblog.net/noticias/one-ui-8-chega-a-linha-galaxy-s25-no-brasil/</link>
-      <description>Samsung começou a distribuir One UI 8 com Android 16 para modelos Galaxy S25 no Brasil. Interface traz recursos de IA, ajustes de design e mais.</description>
+      <description>Interface traz recursos de IA e ajustes de design, entre outras novidades. Veja os passos para atualizar agora mesmo.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/one-ui-8-chega-a-linha-galaxy-s25-no-brasil/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/one-ui-8-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 22 Sep 2025 14:01:31 +0000</pubDate>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/samsung-pode-copiar-funcao-da-apple-que-barra-ligacao-de-spam/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/flip-7-fe-aberto-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 22 Sep 2025 22:47:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>União Europeia quer rever a lei dos cookies</title>
+      <link>https://tecnoblog.net/noticias/uniao-europeia-quer-rever-a-lei-dos-cookies/</link>
+      <description>Comissão Europeia discute possibilidades de simplificar diretrizes sobre aviso de uso de dados. Conversas incluem empresas de tecnologia e países do bloco.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/uniao-europeia-quer-rever-a-lei-dos-cookies/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2021/04/vivaldi-aviso-cookies-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 23 Sep 2025 09:54:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
