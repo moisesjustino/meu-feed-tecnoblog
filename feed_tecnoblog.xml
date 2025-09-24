@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 24 Sep 2025 19:09:04 +0000</lastBuildDate>
-    <item>
-      <title>Samsung pode copiar função da Apple que barra ligação de spam</title>
-      <link>https://tecnoblog.net/noticias/samsung-pode-copiar-funcao-da-apple-que-barra-ligacao-de-spam/</link>
-      <description>Função em teste na One UI 8.5 usaria inteligência artificial para transcrever chamadas e permitir que o usuário decida se atende ou não</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/samsung-pode-copiar-funcao-da-apple-que-barra-ligacao-de-spam/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/flip-7-fe-aberto-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 22 Sep 2025 22:47:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>União Europeia quer rever a lei dos cookies</title>
-      <link>https://tecnoblog.net/noticias/uniao-europeia-quer-rever-a-lei-dos-cookies/</link>
-      <description>Comissão Europeia discute possibilidades de simplificar diretrizes sobre aviso de uso de dados. Conversas incluem empresas de tecnologia e países do bloco.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/uniao-europeia-quer-rever-a-lei-dos-cookies/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2021/04/vivaldi-aviso-cookies-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 23 Sep 2025 09:54:52 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 24 Sep 2025 20:12:40 +0000</lastBuildDate>
     <item>
       <title>Ray-Ban Meta Gen 2 chega ao Brasil; saiba o preço</title>
       <link>https://tecnoblog.net/noticias/ray-ban-meta-gen-2-chega-ao-brasil-saiba-o-preco/</link>
@@ -171,7 +155,7 @@
     <item>
       <title>WhatsApp passa por instabilidade e apresenta lentidão nesta quarta (24)</title>
       <link>https://tecnoblog.net/noticias/whatsapp-passa-por-instabilidade-e-apresenta-lentidao-nesta-quarta-24/</link>
-      <description>Usuários do mensageiro relatam problemas no envio de áudios, fotos e até figurinhas. Ligações também são afetadas.</description>
+      <description>Usuários do mensageiro apontaram problemas no envio de áudios, fotos e até figurinhas. Ligações também foram afetadas.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/whatsapp-passa-por-instabilidade-e-apresenta-lentidao-nesta-quarta-24/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/capa-whats-fora2_thumb_tb-edited-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Wed, 24 Sep 2025 15:09:18 +0000</pubDate>
@@ -219,10 +203,26 @@
     <item>
       <title>Instagram permitirá que usuário ajuste recomendações de conteúdo</title>
       <link>https://tecnoblog.net/noticias/instagram-permitira-que-usuario-ajuste-recomendacoes-de-conteudo/</link>
-      <description>Instagram testará funcionalidade que permite ao usuário ajustar os tópicos recomendados pelo algoritmo da rede social, começando pelos Reels.</description>
+      <description>Plataforma testará funcionalidade que permite ao usuário ajustar os tópicos recomendados pelo algoritmo da rede social, começando pelos Reels.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/instagram-permitira-que-usuario-ajuste-recomendacoes-de-conteudo/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/instagram-algoritmo-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Wed, 24 Sep 2025 18:36:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>YouTube permitirá ocultar sugestões no fim de vídeos</title>
+      <link>https://tecnoblog.net/noticias/youtube-permitira-ocultar-sugestoes-no-fim-de-videos/</link>
+      <description>Novo recurso dá opção de esconder indicações nos segundos finais. Impacto para criadores deve ser mínimo, segundo dados do Google.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/youtube-permitira-ocultar-sugestoes-no-fim-de-videos/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/04/Capas-Youtube-02-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 24 Sep 2025 19:21:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Logitech lança teclado que carrega com a luz da sua casa</title>
+      <link>https://tecnoblog.net/noticias/logitech-lanca-teclado-que-carrega-com-a-luz-da-sua-casa/</link>
+      <description>Signature Slim Solar Plus K980 utiliza luz solar ou de lâmpadas para alimentar bateria. Periférico custa US$ 99 no exterior e ainda não tem data para chegar ao Brasil.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/logitech-lanca-teclado-que-carrega-com-a-luz-da-sua-casa/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/logitech-teclado-luz-1280x720-1-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 24 Sep 2025 19:33:48 +0000</pubDate>
     </item>
   </channel>
 </rss>
