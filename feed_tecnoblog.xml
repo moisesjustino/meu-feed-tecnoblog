@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 24 Sep 2025 18:16:22 +0000</lastBuildDate>
-    <item>
-      <title>Modelos de iPhone: entenda as diferenças entre as versões padrão, Pro, Pro Max e Air</title>
-      <link>https://tecnoblog.net/responde/padrao-pro-pro-max-e-air-entenda-as-diferencas-entre-os-modelos-de-iphone/</link>
-      <description>A Apple lança diferentes modelos de iPhone para oferecer uma variedade de dispositivos, preços e recursos, atendendo a diversas necessidade e preferências dos consumidores</description>
-      <guid isPermaLink="false">https://tecnoblog.net/responde/padrao-pro-pro-max-e-air-entenda-as-diferencas-entre-os-modelos-de-iphone/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/iphone-17-pro-01-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 22 Sep 2025 21:19:05 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 24 Sep 2025 19:09:04 +0000</lastBuildDate>
     <item>
       <title>Samsung pode copiar função da Apple que barra ligação de spam</title>
       <link>https://tecnoblog.net/noticias/samsung-pode-copiar-funcao-da-apple-que-barra-ligacao-de-spam/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/dia-das-criancas-nintendo-switch-em-promocao-com-41-off-em-ate-18x/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/07/nintendo-switch-achados-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Wed, 24 Sep 2025 16:48:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Instagram permitirá que usuário ajuste recomendações de conteúdo</title>
+      <link>https://tecnoblog.net/noticias/instagram-permitira-que-usuario-ajuste-recomendacoes-de-conteudo/</link>
+      <description>Instagram testará funcionalidade que permite ao usuário ajustar os tópicos recomendados pelo algoritmo da rede social, começando pelos Reels.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/instagram-permitira-que-usuario-ajuste-recomendacoes-de-conteudo/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/instagram-algoritmo-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 24 Sep 2025 18:36:10 +0000</pubDate>
     </item>
   </channel>
 </rss>
