@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 24 Sep 2025 14:09:57 +0000</lastBuildDate>
-    <item>
-      <title>Galaxy Tab S9 tem 56% OFF antes do Dia das Crianças e tela de 11″</title>
-      <link>https://tecnoblog.net/achados/galaxy-tab-s9-com-tela-de-11-tem-56-off-antes-do-dia-das-criancas/</link>
-      <description>Desconto de 56% é o melhor dos últimos meses; tablet Samsung é bom para estudar e desenhar, e tem tela de 11 polegadas e RAM de 12 GB</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-tab-s9-com-tela-de-11-tem-56-off-antes-do-dia-das-criancas/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/06/galaxy-tab-s9-imagem-thassius-velosotecnoblog-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 22 Sep 2025 18:03:28 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 24 Sep 2025 15:12:06 +0000</lastBuildDate>
     <item>
       <title>Windows 11: Microsoft testa papel de parede animado no sistema</title>
       <link>https://tecnoblog.net/noticias/windows-11-microsoft-testa-papel-de-parede-animado-no-sistema/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/android-para-pcs-esta-mais-perto-de-se-tornar-realidade/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/08/capa-android-13-3-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Wed, 24 Sep 2025 13:40:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>WhatsApp passa por instabilidade e apresenta lentidão nesta quarta (24)</title>
+      <link>https://tecnoblog.net/noticias/whatsapp-passa-por-instabilidade-e-apresenta-lentidao-nesta-quarta-24/</link>
+      <description>Usuários do mensageiro relatam problemas no envio de áudios, fotos e até figurinhas. Ligações também são afetadas.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/whatsapp-passa-por-instabilidade-e-apresenta-lentidao-nesta-quarta-24/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/capa-whats-fora2_thumb_tb-edited-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 24 Sep 2025 15:09:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
