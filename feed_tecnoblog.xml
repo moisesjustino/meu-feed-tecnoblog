@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 25 Sep 2025 15:12:32 +0000</lastBuildDate>
-    <item>
-      <title>Google Play: atualização promete melhorar experiência com jogos e apps</title>
-      <link>https://tecnoblog.net/noticias/google-play-atualizacao-promete-melhorar-experiencia-com-jogos-e-apps/</link>
-      <description>Principais novidades envolvem o Google Play Games, que exibirá avanços do jogador e, finalmente, está chegando de modo oficial a PCs.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/google-play-atualizacao-promete-melhorar-experiencia-com-jogos-e-apps/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/09/capa-play-store-1-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 23 Sep 2025 18:25:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>União Europeia cobra Apple, Google e Microsoft por medidas mais rígidas contra golpes</title>
-      <link>https://tecnoblog.net/noticias/uniao-europeia-cobra-apple-google-e-microsoft-por-medidas-mais-rigidas-contra-golpes/</link>
-      <description>Bloco europeu apura se gigantes da tecnologia policiam fraudes financeiras. Investigação se ampara na Lei de Serviços Digitais, que permite multas mais pesadas.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/uniao-europeia-cobra-apple-google-e-microsoft-por-medidas-mais-rigidas-contra-golpes/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2021/10/1280px-european_union_flags_2-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 23 Sep 2025 18:30:37 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 25 Sep 2025 16:14:02 +0000</lastBuildDate>
     <item>
       <title>Motorola Edge 60 Fusion tem oferta histórica com 40% OFF no Mercado Livre</title>
       <link>https://tecnoblog.net/achados/motorola-edge-60-fusion-tem-oferta-historica-com-40-off-no-mercado-livre/</link>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-s25-256-gb-tem-oferta-imperdivel-com-cupom-no-magalu/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/galaxy-s24-traz-processador-snapdragon-8-elite-da-qualcomm-foto-thassius-velosotecnoblog-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Thu, 25 Sep 2025 14:14:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Xiaomi 17 chega com Snapdragon 8 Elite Gen 5; versões Pro têm tela traseira</title>
+      <link>https://tecnoblog.net/noticias/xiaomi-17-chega-com-snapdragon-8-elite-gen-5-versoes-pro-tem-tela-traseira/</link>
+      <description>Xiaomi revelou três celulares com Snapdragon 8 Elite Gen 5. Xiaomi 17 traz bateria de 7.000 mAh, enquanto modelos Pro têm tela traseira AMOLED como destaque.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/xiaomi-17-chega-com-snapdragon-8-elite-gen-5-versoes-pro-tem-tela-traseira/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/xioami-17-pro-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 25 Sep 2025 15:27:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>YouTube começa a restringir contas após verificação de idade</title>
+      <link>https://tecnoblog.net/noticias/youtube-comeca-a-restringir-contas-apos-verificacao-de-idade/</link>
+      <description>Plataforma amplia uso de IA que limita contas de menores de 18 anos, exigindo documentos para comprovação. Relatos vêm dos EUA e da Europa, sem sinais no Brasil.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/youtube-comeca-a-restringir-contas-apos-verificacao-de-idade/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/04/youtube-celular-3-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 25 Sep 2025 15:31:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
