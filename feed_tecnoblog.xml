@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 25 Sep 2025 13:23:24 +0000</lastBuildDate>
-    <item>
-      <title>Workslop: trabalho ruim feito com IA vira dor de cabeça para colegas</title>
-      <link>https://tecnoblog.net/noticias/workslop-trabalho-ruim-feito-com-ia-vira-dor-de-cabeca-para-colegas/</link>
-      <description>Levantamento indica que 40% dos entrevistados já receberam materiais de baixa qualidade gerados por IA e foram obrigados a perder tempo corrigindo erros.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/workslop-trabalho-ruim-feito-com-ia-vira-dor-de-cabeca-para-colegas/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/vitaly-gariev-lllzksmxe7a-unsplash-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 23 Sep 2025 15:39:44 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 25 Sep 2025 14:12:07 +0000</lastBuildDate>
     <item>
       <title>Papa Leão 14 se recusa a lançar um avatar com IA</title>
       <link>https://tecnoblog.net/noticias/papa-leao-14-se-recusa-a-lancar-um-avatar-com-ia/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/dell-lanca-fones-pro-plus-earbuds-com-ia-para-uso-profissional/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/dell-pro-plus-earbuds-340x191.jpeg" length="0" type="image/jpeg"/>
       <pubDate>Thu, 25 Sep 2025 13:00:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Snapdragon X2 Elite: Qualcomm revela chips ainda mais potentes para PCs</title>
+      <link>https://tecnoblog.net/noticias/snapdragon-x2-elite-qualcomm-revela-chips-ainda-mais-potentes-para-pcs/</link>
+      <description>Qualcomm anunciou dois chips Snapdragon X2 Elite e um X2 Elite Extreme de alto desempenho. Eles chegam em 2026 para equipar PCs com Windows 11.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/snapdragon-x2-elite-qualcomm-revela-chips-ainda-mais-potentes-para-pcs/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/snadpragon-x2-elite-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 25 Sep 2025 13:25:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
