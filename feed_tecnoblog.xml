@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 25 Sep 2025 16:14:02 +0000</lastBuildDate>
-    <item>
-      <title>Motorola Edge 60 Fusion tem oferta histórica com 40% OFF no Mercado Livre</title>
-      <link>https://tecnoblog.net/achados/motorola-edge-60-fusion-tem-oferta-historica-com-40-off-no-mercado-livre/</link>
-      <description>Moto Edge 60 Fusion de 256 GB tem promoção histórica de 40% de desconto; celular possui câmera Sony de 50 MP com Moto AI, tela POLED de 120 Hz e bateria de 5.200 mAh;</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/motorola-edge-60-fusion-tem-oferta-historica-com-40-off-no-mercado-livre/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/motorola-edge-60-fusion-tem-camera-sony-lytia-700c-foto-giovanni-santa-rosatecnoblog-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 23 Sep 2025 19:04:07 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 25 Sep 2025 17:10:07 +0000</lastBuildDate>
     <item>
       <title>WhatsApp ganha tradutor de mensagens; veja como funciona</title>
       <link>https://tecnoblog.net/noticias/whatsapp-ganha-tradutor-de-mensagens-veja-como-funciona/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/youtube-comeca-a-restringir-contas-apos-verificacao-de-idade/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/04/youtube-celular-3-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Thu, 25 Sep 2025 15:31:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anatel vai ativar alertas da Defesa Civil no Centro-Oeste</title>
+      <link>https://tecnoblog.net/noticias/anatel-vai-ativar-alertas-da-defesa-civil-no-centro-oeste/</link>
+      <description>Defesa Civil fará teste no sábado (27). Sistema cobrirá todo o país a partir de outubro, com notificações de condições extremas e desastres naturais.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/anatel-vai-ativar-alertas-da-defesa-civil-no-centro-oeste/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/05/capa-alerta-defesa-civil_tb-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 25 Sep 2025 16:25:49 +0000</pubDate>
     </item>
   </channel>
 </rss>
