@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 25 Sep 2025 14:12:07 +0000</lastBuildDate>
-    <item>
-      <title>Papa Leão 14 se recusa a lançar um avatar com IA</title>
-      <link>https://tecnoblog.net/noticias/papa-leao-14-se-recusa-a-lancar-um-avatar-com-ia/</link>
-      <description>Pontífice vetou ideia que permitiria audiências virtuais. IAs não oficiais, no entanto, já existem em diversas plataformas.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/papa-leao-14-se-recusa-a-lancar-um-avatar-com-ia/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/1620px-homily_during_the_inauguration_of_leo_xiv-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 23 Sep 2025 15:53:39 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 25 Sep 2025 15:12:32 +0000</lastBuildDate>
     <item>
       <title>Google Play: atualização promete melhorar experiência com jogos e apps</title>
       <link>https://tecnoblog.net/noticias/google-play-atualizacao-promete-melhorar-experiencia-com-jogos-e-apps/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/snapdragon-x2-elite-qualcomm-revela-chips-ainda-mais-potentes-para-pcs/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/snadpragon-x2-elite-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Thu, 25 Sep 2025 13:25:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Galaxy S25 (256 GB) tem oferta imperdível com cupom no Magalu</title>
+      <link>https://tecnoblog.net/achados/galaxy-s25-256-gb-tem-oferta-imperdivel-com-cupom-no-magalu/</link>
+      <description>Galaxy S25 (256 GB) em promoção com cupom de 50% de desconto no Magazine Luiza; celular Samsung traz Snapdragon 8 Elite, tela AMOLED Dinâmico de 120 Hz e câmera de 50 MP com vídeos em 8K</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-s25-256-gb-tem-oferta-imperdivel-com-cupom-no-magalu/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/galaxy-s24-traz-processador-snapdragon-8-elite-da-qualcomm-foto-thassius-velosotecnoblog-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 25 Sep 2025 14:14:49 +0000</pubDate>
     </item>
   </channel>
 </rss>
