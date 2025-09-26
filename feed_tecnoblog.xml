@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 26 Sep 2025 09:12:41 +0000</lastBuildDate>
-    <item>
-      <title>Samsung lança Galaxy S25 FE e Tab S11; confira os preços</title>
-      <link>https://tecnoblog.net/noticias/samsung-lanca-galaxy-s25-fe-tab-s11-e-s10-lite-no-brasil-veja-os-precos/</link>
-      <description>Fabricante sul-coreana anunciou a chegada do celular econômico da linha Galaxy S25 ao mercado nacional. Modelo custa R$ 5.499 e tem tela de 6,7 polegadas.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/samsung-lanca-galaxy-s25-fe-tab-s11-e-s10-lite-no-brasil-veja-os-precos/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/img_0493-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 24 Sep 2025 15:12:54 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 26 Sep 2025 10:12:07 +0000</lastBuildDate>
     <item>
       <title>Samsung lança fone com “preço inédito” no Brasil</title>
       <link>https://tecnoblog.net/noticias/samsung-lanca-fone-com-preco-inedito-no-brasil/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/motorola-edge-60-pro-256-gb-tem-o-menor-preco-que-ja-vimos-em-oferta-na-amazon/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/motorola-edge-60-pro-foto-giovanni-santa-rosatecnoblog-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Thu, 25 Sep 2025 20:59:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Samsung: “Vamos duplicar o acesso dos brasileiros à inteligência artificial”</title>
+      <link>https://tecnoblog.net/noticias/samsung-vamos-duplicar-o-acesso-dos-brasileiros-a-inteligencia-artificial/</link>
+      <description>A Samsung planeja incluir a IA em modelos de smartphones mais acessíveis, como o Galaxy A17 5G, destacando a importância de democratizar a tecnologia para todas as faixas de preço.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/samsung-vamos-duplicar-o-acesso-dos-brasileiros-a-inteligencia-artificial/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/gustavo-assuncao-e-vice-presidente-senior-da-samsung-2-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 26 Sep 2025 09:06:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
