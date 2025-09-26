@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 26 Sep 2025 16:13:55 +0000</lastBuildDate>
-    <item>
-      <title>Instagram permitirá que usuário ajuste recomendações de conteúdo</title>
-      <link>https://tecnoblog.net/noticias/instagram-permitira-que-usuario-ajuste-recomendacoes-de-conteudo/</link>
-      <description>Plataforma testará funcionalidade que permite ao usuário ajustar os tópicos recomendados pelo algoritmo da rede social, começando pelos Reels.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/instagram-permitira-que-usuario-ajuste-recomendacoes-de-conteudo/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/instagram-algoritmo-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 24 Sep 2025 18:36:10 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 26 Sep 2025 17:09:50 +0000</lastBuildDate>
     <item>
       <title>YouTube permitirá ocultar sugestões no fim de vídeos</title>
       <link>https://tecnoblog.net/noticias/youtube-permitira-ocultar-sugestoes-no-fim-de-videos/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/windows-11-testa-ia-no-app-fotos-para-organizar-imagens/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/07/windows-11-3-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Fri, 26 Sep 2025 15:36:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Intel e Apple podem voltar a trabalhar juntas</title>
+      <link>https://tecnoblog.net/noticias/intel-e-apple-podem-voltar-a-trabalhar-juntas/</link>
+      <description>Possível parceria poderia fazer Apple investir na Intel. Contudo, é improvável que Intel volte a fornecer processadores para linha Mac.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/intel-e-apple-podem-voltar-a-trabalhar-juntas/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/05/intel_capa-1_tb-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 26 Sep 2025 16:14:35 +0000</pubDate>
     </item>
   </channel>
 </rss>
