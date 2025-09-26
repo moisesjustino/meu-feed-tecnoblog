@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 26 Sep 2025 14:10:04 +0000</lastBuildDate>
-    <item>
-      <title>iPhone pode ganhar suporte a smartwatches de outras marcas</title>
-      <link>https://tecnoblog.net/noticias/iphone-pode-ganhar-suporte-a-smartwatches-de-outras-marcas/</link>
-      <description>Apple pode melhorar integração com dispositivos de terceiros em futura atualização. Movimento seria possível resposta às pressões regulatórias da União Europeia.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/iphone-pode-ganhar-suporte-a-smartwatches-de-outras-marcas/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/watch-ultra-azul-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 24 Sep 2025 15:40:03 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 26 Sep 2025 15:12:01 +0000</lastBuildDate>
     <item>
       <title>Google Fotos para Android ganha edição de imagens por conversação</title>
       <link>https://tecnoblog.net/noticias/google-fotos-para-android-ganha-edicao-de-imagens-por-conversacao/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/raspberry-pi-500-chega-com-16-gb-de-ram-e-teclado-mecanico/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/raspberry-pi-500-plus-1-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Fri, 26 Sep 2025 13:43:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Console Xbox Ally X esgota após anúncio de preço</title>
+      <link>https://tecnoblog.net/noticias/console-xbox-ally-x-esgota-apos-anuncio-de-preco/</link>
+      <description>Novo portátil da Microsoft e Asus custa mais que o Nintendo Switch 2 nos EUA. Produto será vendido no Brasil, mas ainda não têm data e preço definido.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/console-xbox-ally-x-esgota-apos-anuncio-de-preco/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/Gs8Sx4Oa0AAy63F-340x191.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 26 Sep 2025 14:30:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
