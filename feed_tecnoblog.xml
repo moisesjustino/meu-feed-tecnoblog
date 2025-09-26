@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 26 Sep 2025 17:09:50 +0000</lastBuildDate>
-    <item>
-      <title>YouTube permitirá ocultar sugestões no fim de vídeos</title>
-      <link>https://tecnoblog.net/noticias/youtube-permitira-ocultar-sugestoes-no-fim-de-videos/</link>
-      <description>Novo recurso dá opção de esconder indicações nos segundos finais. Impacto para criadores deve ser mínimo, segundo dados do Google.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/youtube-permitira-ocultar-sugestoes-no-fim-de-videos/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/04/Capas-Youtube-02-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 24 Sep 2025 19:21:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Logitech lança teclado que carrega com a luz da sua casa</title>
-      <link>https://tecnoblog.net/noticias/logitech-lanca-teclado-que-carrega-com-a-luz-da-sua-casa/</link>
-      <description>Signature Slim Solar Plus K980 utiliza luz solar ou de lâmpadas para alimentar bateria. Periférico custa US$ 99 no exterior e ainda não tem data para chegar ao Brasil.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/logitech-lanca-teclado-que-carrega-com-a-luz-da-sua-casa/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/logitech-teclado-luz-1280x720-1-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 24 Sep 2025 19:33:48 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 26 Sep 2025 18:14:35 +0000</lastBuildDate>
     <item>
       <title>Microsoft: novo resfriamento reduz calor de chips de IA em até 3 vezes</title>
       <link>https://tecnoblog.net/noticias/microsoft-novo-resfriamento-reduz-calor-de-chips-de-ia-em-ate-3-vezes/</link>
@@ -113,6 +97,14 @@
       <pubDate>Thu, 25 Sep 2025 15:31:11 +0000</pubDate>
     </item>
     <item>
+      <title>Celulares da Huawei: saiba a diferença entre as linhas vendidas pela fabricante</title>
+      <link>https://tecnoblog.net/responde/celulares-da-huawei-saiba-a-diferenca-entre-as-linhas-vendidas-pela-fabricante/</link>
+      <description>P Series, nova Series e Mate Series são as três principais linhas de celulares da Huawei, com distribuição em diversas regiões</description>
+      <guid isPermaLink="false">https://tecnoblog.net/responde/celulares-da-huawei-saiba-a-diferenca-entre-as-linhas-vendidas-pela-fabricante/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/huawei-pura-series-edited-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 25 Sep 2025 15:57:48 +0000</pubDate>
+    </item>
+    <item>
       <title>Anatel vai ativar alertas da Defesa Civil no Centro-Oeste</title>
       <link>https://tecnoblog.net/noticias/anatel-vai-ativar-alertas-da-defesa-civil-no-centro-oeste/</link>
       <description>Defesa Civil fará teste no sábado (27). Sistema cobrirá todo o país a partir de outubro, com notificações de condições extremas e desastres naturais.</description>
@@ -177,14 +169,6 @@
       <pubDate>Thu, 25 Sep 2025 20:59:19 +0000</pubDate>
     </item>
     <item>
-      <title>Samsung: “Vamos duplicar o acesso dos brasileiros à inteligência artificial”</title>
-      <link>https://tecnoblog.net/noticias/samsung-vamos-duplicar-o-acesso-dos-brasileiros-a-inteligencia-artificial/</link>
-      <description>A Samsung planeja incluir a IA em modelos de smartphones mais acessíveis, como o Galaxy A17 5G, destacando a importância de democratizar a tecnologia para todas as faixas de preço.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/samsung-vamos-duplicar-o-acesso-dos-brasileiros-a-inteligencia-artificial/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/gustavo-assuncao-e-vice-presidente-senior-da-samsung-2-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 26 Sep 2025 09:06:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Raspberry Pi 500+ chega com 16 GB de RAM e teclado mecânico</title>
       <link>https://tecnoblog.net/noticias/raspberry-pi-500-chega-com-16-gb-de-ram-e-teclado-mecanico/</link>
       <description>Raspberry Pi 500+ também traz SSD de 256 GB. Tudo isso faz o modelo custar oficialmente mais do que o dobro do seu antecessor: US$ 200.</description>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/intel-e-apple-podem-voltar-a-trabalhar-juntas/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/05/intel_capa-1_tb-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Fri, 26 Sep 2025 16:14:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Notebook Energizer tem bateria para 28 horas e não pode viajar de avião</title>
+      <link>https://tecnoblog.net/noticias/notebook-energizer-tem-bateria-para-28-horas-e-nao-pode-viajar-de-aviao/</link>
+      <description>Modelo EnergyBook Pro Ultra tem tela de 18 polegadas e bateria de 192 Wh, mas ultrapassa limite aceito em voos comerciais</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/notebook-energizer-tem-bateria-para-28-horas-e-nao-pode-viajar-de-aviao/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/energybook-pro-ultra_gaming-setup-edited-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 26 Sep 2025 17:54:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Meta lança o Vibes, feed de vídeos curtos gerados por IA</title>
+      <link>https://tecnoblog.net/noticias/meta-lanca-o-vibes-feed-de-videos-curtos-gerados-por-ia/</link>
+      <description>Similar ao TikTok e Reels, novidade permite criar vídeos do zero ou editar clipes. Feed está disponível no app Meta AI e no site meta.ai.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/meta-lanca-o-vibes-feed-de-videos-curtos-gerados-por-ia/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/vibes_header-340x191.gif" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 26 Sep 2025 17:59:54 +0000</pubDate>
     </item>
   </channel>
 </rss>
