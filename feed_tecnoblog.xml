@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 26 Sep 2025 23:10:16 +0000</lastBuildDate>
-    <item>
-      <title>Galaxy S25 (256 GB) tem oferta imperdível com cupom no Magalu</title>
-      <link>https://tecnoblog.net/achados/galaxy-s25-256-gb-tem-oferta-imperdivel-com-cupom-no-magalu/</link>
-      <description>Galaxy S25 (256 GB) em promoção com cupom de 50% de desconto no Magazine Luiza; celular Samsung traz Snapdragon 8 Elite, tela AMOLED Dinâmico de 120 Hz e câmera de 50 MP com vídeos em 8K</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-s25-256-gb-tem-oferta-imperdivel-com-cupom-no-magalu/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/galaxy-s24-traz-processador-snapdragon-8-elite-da-qualcomm-foto-thassius-velosotecnoblog-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 25 Sep 2025 14:14:49 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 27 Sep 2025 00:51:20 +0000</lastBuildDate>
     <item>
       <title>Xiaomi 17 chega com Snapdragon 8 Elite Gen 5; versões Pro têm tela traseira</title>
       <link>https://tecnoblog.net/noticias/xiaomi-17-chega-com-snapdragon-8-elite-gen-5-versoes-pro-tem-tela-traseira/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-buds-3-tem-56-off-em-ate-18x-em-promocao-no-mercado-livre/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/galaxy-buds-3-tem-anc-e-adaptive-eq-foto-thassius-velosotecnoblog-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Fri, 26 Sep 2025 22:13:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Apple cria app inspirado no ChatGPT para preparar nova Siri</title>
+      <link>https://tecnoblog.net/noticias/apple-cria-app-inspirado-no-chatgpt-para-preparar-nova-siri/</link>
+      <description>Ferramenta interna chamada Veritas serve para testar recursos da assistente, que só deve ganhar versão atualizada em março de 2026</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/apple-cria-app-inspirado-no-chatgpt-para-preparar-nova-siri/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/06/siri-wwdc-24-1-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 26 Sep 2025 23:28:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
