@@ -7,47 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 29 Sep 2025 19:09:05 +0000</lastBuildDate>
-    <item>
-      <title>Raspberry Pi 500+ chega com 16 GB de RAM e teclado mecânico</title>
-      <link>https://tecnoblog.net/noticias/raspberry-pi-500-chega-com-16-gb-de-ram-e-teclado-mecanico/</link>
-      <description>Raspberry Pi 500+ também traz SSD de 256 GB. Tudo isso faz o modelo custar oficialmente mais do que o dobro do seu antecessor: US$ 200.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/raspberry-pi-500-chega-com-16-gb-de-ram-e-teclado-mecanico/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/raspberry-pi-500-plus-1-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 26 Sep 2025 13:43:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Console Xbox Ally X esgota após anúncio de preço</title>
-      <link>https://tecnoblog.net/noticias/console-xbox-ally-x-esgota-apos-anuncio-de-preco/</link>
-      <description>Novo portátil da Microsoft e Asus custa mais que o Nintendo Switch 2 nos EUA. Produto será vendido no Brasil, mas ainda não tem data e preço definidos.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/console-xbox-ally-x-esgota-apos-anuncio-de-preco/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/Gs8Sx4Oa0AAy63F-340x191.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 26 Sep 2025 14:30:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Meta libera Instagram sem anúncios no Reino Unido, mas isso tem um preço</title>
-      <link>https://tecnoblog.net/noticias/meta-libera-instagram-sem-anuncios-no-reino-unido-mas-isso-tem-um-preco/</link>
-      <description>Usuários poderão escolher entre pagar por uma experiência sem publicidade ou continuar com o acesso gratuito. Medida também vale para Facebook.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/meta-libera-instagram-sem-anuncios-no-reino-unido-mas-isso-tem-um-preco/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/02/Capa-Mark-Zuckerberg-03-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 26 Sep 2025 15:30:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Windows 11 testa IA no app Fotos para organizar imagens</title>
-      <link>https://tecnoblog.net/noticias/windows-11-testa-ia-no-app-fotos-para-organizar-imagens/</link>
-      <description>Recurso usa inteligência artificial para agrupar fotos automaticamente em pastas. Atualização está disponível para membros do Windows Insider.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/windows-11-testa-ia-no-app-fotos-para-organizar-imagens/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/07/windows-11-3-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 26 Sep 2025 15:36:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Intel e Apple podem voltar a trabalhar juntas</title>
-      <link>https://tecnoblog.net/noticias/intel-e-apple-podem-voltar-a-trabalhar-juntas/</link>
-      <description>Possível parceria poderia fazer Apple investir na Intel. Contudo, é improvável que Intel volte a fornecer processadores para linha Mac.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/intel-e-apple-podem-voltar-a-trabalhar-juntas/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/05/intel_capa-1_tb-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 26 Sep 2025 16:14:35 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 29 Sep 2025 20:12:07 +0000</lastBuildDate>
     <item>
       <title>Notebook Energizer tem bateria para 28 horas e não pode viajar de avião</title>
       <link>https://tecnoblog.net/noticias/notebook-energizer-tem-bateria-para-28-horas-e-nao-pode-viajar-de-aviao/</link>
@@ -223,6 +183,46 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/microsoft-anuncia-ias-no-office-para-automatizar-documentos-e-planilhas/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/agent-mode-microsoft--340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 29 Sep 2025 18:46:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Motorola revela novo Moto X70 Air, com design ultrafino e IA</title>
+      <link>https://tecnoblog.net/noticias/motorola-revela-novo-moto-x70-air-com-design-ultrafino-e-ia/</link>
+      <description>Fabricante divulgou teaser no mercado chinês. Celular deve competir com iPhone Air, mas especificações serão reveladas em outubro.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/motorola-revela-novo-moto-x70-air-com-design-ultrafino-e-ia/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/moto-x70-air-edited-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 29 Sep 2025 19:24:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude Sonnet 4.5 é lançado com foco em programação</title>
+      <link>https://tecnoblog.net/noticias/claude-sonnet-4-5-e-lancado-com-foco-em-programacao/</link>
+      <description>Novo modelo de linguagem da Anthropic promete criar aplicações completas de forma autônoma.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/claude-sonnet-4-5-e-lancado-com-foco-em-programacao/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/anthropic_model_release_logo-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 29 Sep 2025 19:38:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Linux 6.17 é lançado por Linus Torvalds; confira as novidades</title>
+      <link>https://tecnoblog.net/noticias/linux-6-17-e-lancado-por-linus-torvalds-confira-as-novidades/</link>
+      <description>Kernel Linux 6.17 não traz mudanças drásticas, mas chega com ajustes de compatibilidade para chips AMD e Intel, e em Macs, por exemplo.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/linux-6-17-e-lancado-por-linus-torvalds-confira-as-novidades/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/04/linux-linus-torvalds-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 29 Sep 2025 19:52:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vídeo: arma americana derruba 61 drones imediatamente</title>
+      <link>https://tecnoblog.net/noticias/video-arma-americana-derruba-61-drones-imediatamente/</link>
+      <description>Arma Leonidas utiliza um feixe de micro-ondas de alta potência para neutralizar enxames de drones. Governo dos EUA e aliados militares assistiram à demonstração.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/video-arma-americana-derruba-61-drones-imediatamente/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/epirus-arma-340x191.webp" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 29 Sep 2025 19:54:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT terá venda de produtos dentro de conversas</title>
+      <link>https://tecnoblog.net/noticias/chatgpt-tera-venda-de-produtos-dentro-de-conversas/</link>
+      <description>Ferramenta estreia nos EUA em parceria com a Etsy, aceita Apple Pay e Google Pay e pode abrir uma nova frente de receita para a OpenAI</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/chatgpt-tera-venda-de-produtos-dentro-de-conversas/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/chatgpt-instant-checkout-etsy-340x191.webp" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 29 Sep 2025 20:05:10 +0000</pubDate>
     </item>
   </channel>
 </rss>
