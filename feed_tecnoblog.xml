@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 29 Sep 2025 18:17:16 +0000</lastBuildDate>
-    <item>
-      <title>ChatGPT ganha recurso que antecipa tarefas e faz pesquisas por você</title>
-      <link>https://tecnoblog.net/noticias/chatgpt-ganha-recurso-que-antecipa-tarefas-e-faz-pesquisas-por-voce/</link>
-      <description>Novidade da OpenAI, ChatGPT Pulse reúne sugestões em boletins diários, usando o histórico de conversas com a IA.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/chatgpt-ganha-recurso-que-antecipa-tarefas-e-faz-pesquisas-por-voce/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/06/chatgpt-2_capa-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 25 Sep 2025 20:07:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Motorola Edge 60 Pro (256 GB) tem o menor preço que já vimos em oferta na Amazon</title>
-      <link>https://tecnoblog.net/achados/motorola-edge-60-pro-256-gb-tem-o-menor-preco-que-ja-vimos-em-oferta-na-amazon/</link>
-      <description>Motorola Edge 60 Pro tem bateria de 6.000 mAh, tela POLED de 120 Hz com 4.500 nits e câmeras de 50 MP com Moto AI; versão de 256 GB com 31% de desconto na Amazon</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/motorola-edge-60-pro-256-gb-tem-o-menor-preco-que-ja-vimos-em-oferta-na-amazon/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/motorola-edge-60-pro-foto-giovanni-santa-rosatecnoblog-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 25 Sep 2025 20:59:19 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 29 Sep 2025 19:09:05 +0000</lastBuildDate>
     <item>
       <title>Raspberry Pi 500+ chega com 16 GB de RAM e teclado mecânico</title>
       <link>https://tecnoblog.net/noticias/raspberry-pi-500-chega-com-16-gb-de-ram-e-teclado-mecanico/</link>
@@ -111,6 +95,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/samsung-one-ui-8-5-pode-usar-ia-para-otimizar-conectividade/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/one-ui-8-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Fri, 26 Sep 2025 20:27:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tablets da Samsung: saiba qual o público das linhas Galaxy Tab A e Galaxy Tab S</title>
+      <link>https://tecnoblog.net/responde/tablets-da-samsung-saiba-qual-o-publico-das-linhas-galaxy-tab-a-e-galaxy-tab-s/</link>
+      <description>A série Galaxy Tab S é focada em alto desempenho e recursos avançados, enquanto a linha Galaxy Tab A é a mais acessível e para uso geral</description>
+      <guid isPermaLink="false">https://tecnoblog.net/responde/tablets-da-samsung-saiba-qual-o-publico-das-linhas-galaxy-tab-a-e-galaxy-tab-s/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/galaxy-tab-s10-ultra-2-edited-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 26 Sep 2025 20:53:33 +0000</pubDate>
     </item>
     <item>
       <title>Motorola Edge 50 (256 GB) com RAM de 12 GB tem 43% OFF em oferta na Amazon</title>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/dia-das-criancas-redmi-pad-2-com-tela-de-11-tem-48-off-com-cupom/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/redmi-pad-2-roda-hyperos-baseado-no-android-15-foto-thassius-velosotecnoblog-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 29 Sep 2025 17:29:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft anuncia IAs no Office para automatizar documentos e planilhas</title>
+      <link>https://tecnoblog.net/noticias/microsoft-anuncia-ias-no-office-para-automatizar-documentos-e-planilhas/</link>
+      <description>Agent Mode chega ao Excel e Word e usa IA da OpenAI e da Anthropic. Já o Office Agent cria documentos, apresentações e planilhas a partir do chat do Copilot.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/microsoft-anuncia-ias-no-office-para-automatizar-documentos-e-planilhas/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/agent-mode-microsoft--340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 29 Sep 2025 18:46:42 +0000</pubDate>
     </item>
   </channel>
 </rss>
