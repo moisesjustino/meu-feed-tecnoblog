@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 29 Sep 2025 16:12:14 +0000</lastBuildDate>
-    <item>
-      <title>Samsung alfineta Apple durante evento no Brasil; veja o vídeo</title>
-      <link>https://tecnoblog.net/noticias/samsung-alfineta-apple-durante-evento-no-brasil-veja-o-video/</link>
-      <description>Filme publicitário da Samsung mostra atriz devorando maçã e apresenta o Galaxy Watch 8, que mede antioxidantes na pele do usuário.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/samsung-alfineta-apple-durante-evento-no-brasil-veja-o-video/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/evento-samsung-maca-2-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 25 Sep 2025 19:09:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Modelos de iPad: o que muda entre as linhas normal, Air, Pro e mini do tablet Apple</title>
-      <link>https://tecnoblog.net/responde/modelos-de-ipad-o-que-muda-entre-as-linhas-normal-air-pro-e-mini-do-tablet-apple/</link>
-      <description>Cada modelo de iPad traz diferentes aspectos técnicos em relação a desempenho, tamanho e recursos, além de atender as necessidades de diferentes públicos</description>
-      <guid isPermaLink="false">https://tecnoblog.net/responde/modelos-de-ipad-o-que-muda-entre-as-linhas-normal-air-pro-e-mini-do-tablet-apple/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2021/12/ipad-mini-6-2021-11-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 25 Sep 2025 19:46:28 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 29 Sep 2025 17:11:06 +0000</lastBuildDate>
     <item>
       <title>Pressionada, Microsoft dará suporte estendido grátis ao Windows 10 na Europa</title>
       <link>https://tecnoblog.net/noticias/pressionada-microsoft-dara-suporte-estendido-gratis-ao-windows-10-na-europa/</link>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/anatel-dos-eua-vaza-segredos-do-iphone-16e-sem-querer/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/03/1000014209-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 29 Sep 2025 15:37:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>EA Games aceita oferta bilionária e é vendida a fundo saudita</title>
+      <link>https://tecnoblog.net/noticias/ea-games-aceita-oferta-bilionaria-e-e-vendida-a-fundo-saudita/</link>
+      <description>Gigante por trás de The Sims, Battlefield e EA Sports FC (antigo FIFA) foi vendida por US$ 55 bilhões. Aquisição é a maior já feita por um patrocinador financeiro.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/ea-games-aceita-oferta-bilionaria-e-e-vendida-a-fundo-saudita/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/ea-sports-and-ea-games-are-splitting-up_9r9j-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 29 Sep 2025 16:21:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>F-Droid pode fechar por causa de nova regra do Google para apps Android</title>
+      <link>https://tecnoblog.net/noticias/f-droid-pode-fechar-por-causa-de-nova-regra-do-google-para-apps-android/</link>
+      <description>Google vai exigir registro de desenvolvedores de apps para Android. Medida pode inviabilizar projeto F-Droid, que distribui apps abertos para o sistema.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/f-droid-pode-fechar-por-causa-de-nova-regra-do-google-para-apps-android/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/06/capa-sideloading-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 29 Sep 2025 16:29:28 +0000</pubDate>
     </item>
   </channel>
 </rss>
