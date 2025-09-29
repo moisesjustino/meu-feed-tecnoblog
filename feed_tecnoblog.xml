@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 29 Sep 2025 15:11:59 +0000</lastBuildDate>
-    <item>
-      <title>Amazon vai pagar US$ 2,5 bilhões por práticas enganosas no Prime</title>
-      <link>https://tecnoblog.net/noticias/amazon-vai-pagar-us-25-bilhoes-por-praticas-enganosas-no-prime/</link>
-      <description>Acordo com a FTC encerra processo que acusava empresa de práticas enganosas no Prime. Além da multa, a empresa terá que providenciar mudanças na plataforma.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/amazon-vai-pagar-us-25-bilhoes-por-praticas-enganosas-no-prime/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/01/amazon-prime-capa-4-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 25 Sep 2025 18:04:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Galaxy S24 FE (128 GB) tem 48% OFF com cupom após chegada do Galaxy S25 FE</title>
-      <link>https://tecnoblog.net/achados/galaxy-s24-fe-128-gb-tem-48-off-com-cupom-apos-chegada-do-galaxy-s25-fe/</link>
-      <description>Galaxy S24 FE em promoção com cupom no Magazine Luiza; smartphone premium traz tela AMOLED Dinâmico de 120 Hz, trio de câmeras com principal de 50 MP e bateria de 4.700 mAh</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-s24-fe-128-gb-tem-48-off-com-cupom-apos-chegada-do-galaxy-s25-fe/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/03/Galaxy-S24-FE-promete-7-anos-de-Android-foto-Giovanni-Santa-Rosa-Tecnoblog-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 25 Sep 2025 18:11:35 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 29 Sep 2025 16:12:14 +0000</lastBuildDate>
     <item>
       <title>Samsung alfineta Apple durante evento no Brasil; veja o vídeo</title>
       <link>https://tecnoblog.net/noticias/samsung-alfineta-apple-durante-evento-no-brasil-veja-o-video/</link>
@@ -195,7 +179,7 @@
     <item>
       <title>Pix fora do ar: sistema de pagamentos caiu nesta segunda (29)</title>
       <link>https://tecnoblog.net/noticias/pix-fora-do-ar-sistema-de-pagamentos-caiu-nesta-segunda-29/</link>
-      <description>Falha é generalizada e afeta todos os bancos. Problema começou por volta de 11h.</description>
+      <description>Falha generalizada afetou praticamente todos os bancos. Problema começou por volta de 11h e foi resolvido no início da tarde.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/pix-fora-do-ar-sistema-de-pagamentos-caiu-nesta-segunda-29/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/07/pix_capa-3_tb-edited-340x191.jpeg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 29 Sep 2025 14:30:12 +0000</pubDate>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-a36-com-tela-de-120-hz-tem-47-off-com-cupom-no-mercado-livre/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/galaxy-a36-achados-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 29 Sep 2025 15:07:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Samsung prepara telas dobráveis para importante cliente dos EUA. Seria a Apple?</title>
+      <link>https://tecnoblog.net/noticias/samsung-prepara-telas-dobraveis-para-cliente-dos-eua-rumores-apontam-para-a-apple/</link>
+      <description>Presidente da Samsung Display confirma preparativos para produção displays para um "cliente norte-americano". Apple deve lançar um iPhone dobrável em 2026.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/samsung-prepara-telas-dobraveis-para-cliente-dos-eua-rumores-apontam-para-a-apple/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2020/06/conceito-iphone-dobravel-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 29 Sep 2025 15:37:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>“Anatel dos EUA” vaza segredos do iPhone 16e sem querer</title>
+      <link>https://tecnoblog.net/noticias/anatel-dos-eua-vaza-segredos-do-iphone-16e-sem-querer/</link>
+      <description>Documento de 163 páginas da FCC detalha engenharia do aparelho, dando a concorrentes acesso a segredos comerciais.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/anatel-dos-eua-vaza-segredos-do-iphone-16e-sem-querer/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/03/1000014209-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 29 Sep 2025 15:37:53 +0000</pubDate>
     </item>
   </channel>
 </rss>
