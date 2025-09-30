@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 30 Sep 2025 15:10:04 +0000</lastBuildDate>
-    <item>
-      <title>LG lança TV com IA pensada para a terceira idade</title>
-      <link>https://tecnoblog.net/noticias/lg-lanca-tv-com-ia-pensada-para-a-terceira-idade/</link>
-      <description>Easy TV conta com interface simplificada, controle remoto com botões maiores e câmera para videochamadas. Produto tem versões em 65 e 75 polegadas.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/lg-lanca-tv-com-ia-pensada-para-a-terceira-idade/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/2509-lg-easytv-1-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 26 Sep 2025 19:32:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Samsung: One UI 8.5 pode usar IA para otimizar conectividade</title>
-      <link>https://tecnoblog.net/noticias/samsung-one-ui-8-5-pode-usar-ia-para-otimizar-conectividade/</link>
-      <description>Rumores indicam que próxima atualização da interface terá recursos para alternar automaticamente entre Wi-Fi e dados móveis. Vazamentos mostram possível versão de testes.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/samsung-one-ui-8-5-pode-usar-ia-para-otimizar-conectividade/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/one-ui-8-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 26 Sep 2025 20:27:57 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 30 Sep 2025 16:14:29 +0000</lastBuildDate>
     <item>
       <title>Tablets da Samsung: saiba qual o público das linhas Galaxy Tab A e Galaxy Tab S</title>
       <link>https://tecnoblog.net/responde/tablets-da-samsung-saiba-qual-o-publico-das-linhas-galaxy-tab-a-e-galaxy-tab-s/</link>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/openai-prepara-app-estilo-tiktok-com-videos-feitos-por-ia/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/06/sam-altman-1-capa-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Tue, 30 Sep 2025 13:42:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Logitech MX Master 4 é anunciado com novo sistema de feedback tátil</title>
+      <link>https://tecnoblog.net/noticias/logitech-mx-master-4-e-anunciado-com-novo-sistema-de-feedback-tatil/</link>
+      <description>Mouse será lançado em outubro nos EUA e na Europa. Preço e disponibilidade no Brasil ainda não foram divulgados.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/logitech-mx-master-4-e-anunciado-com-novo-sistema-de-feedback-tatil/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/mx-master-4-edited-340x191.webp" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 30 Sep 2025 15:15:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Desenvolvedor mantém GPU de 13 anos viva no Linux</title>
+      <link>https://tecnoblog.net/noticias/desenvolvedor-mantem-gpu-de-13-anos-viva-no-linux/</link>
+      <description>Timur Kristóf, terceirizado da Valve, lança patches para dar sobrevida a GPUs antigas. Atualizações corrigem falhas e ampliam compatibilidade com hardware moderno.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/desenvolvedor-mantem-gpu-de-13-anos-viva-no-linux/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/radeon-hd-7990-devil-13-1-edited-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 30 Sep 2025 16:07:37 +0000</pubDate>
     </item>
   </channel>
 </rss>
