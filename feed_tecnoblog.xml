@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 30 Sep 2025 12:23:34 +0000</lastBuildDate>
-    <item>
-      <title>Meta lança o Vibes, feed de vídeos curtos gerados por IA</title>
-      <link>https://tecnoblog.net/noticias/meta-lanca-o-vibes-feed-de-videos-curtos-gerados-por-ia/</link>
-      <description>Similar ao TikTok e Reels, novidade permite criar vídeos do zero ou editar clipes. Feed está disponível no app Meta AI e no site meta.ai.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/meta-lanca-o-vibes-feed-de-videos-curtos-gerados-por-ia/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/vibes_header-340x191.gif" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 26 Sep 2025 17:59:54 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 30 Sep 2025 13:23:32 +0000</lastBuildDate>
     <item>
       <title>Trump assina ordem para TikTok ser vendido nos EUA</title>
       <link>https://tecnoblog.net/noticias/trump-assina-ordem-para-tiktok-ser-vendido-nos-eua/</link>
@@ -121,7 +113,7 @@
       <pubDate>Mon, 29 Sep 2025 14:50:36 +0000</pubDate>
     </item>
     <item>
-      <title>Galaxy A36 com tela de 120 Hz tem 47% OFF com cupom no Mercado Livre</title>
+      <title>Galaxy A36 com tela de 120 Hz tem 48% OFF com cupom no Mercado Livre</title>
       <link>https://tecnoblog.net/achados/galaxy-a36-com-tela-de-120-hz-tem-47-off-com-cupom-no-mercado-livre/</link>
       <description>Galaxy A36 de 128 GB tem promoção no Pix com cupom no Mercado Livre; smartphone traz tela Super AMOLED de 120 Hz, trio de câmeras, chip da Qualcomm e bateria de 5.000 mAh</description>
       <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-a36-com-tela-de-120-hz-tem-47-off-com-cupom-no-mercado-livre/</guid>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/opera-lanca-neon-navegador-por-assinatura-com-ia-para-realizar-tarefas/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/neon_start_page_light02-edited-2-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Tue, 30 Sep 2025 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Galaxy Ring fica preso a dedo de usuário após bateria inchar</title>
+      <link>https://tecnoblog.net/noticias/galaxy-ring-fica-preso-a-dedo-de-usuario-apos-bateria-inchar/</link>
+      <description>Problema fez youtuber perder voo e passar a noite em hotel antes de receber assistência médica para retirar o acessório</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/galaxy-ring-fica-preso-a-dedo-de-usuario-apos-bateria-inchar/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/07/img_7342-edited-1-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 30 Sep 2025 13:02:54 +0000</pubDate>
     </item>
   </channel>
 </rss>
