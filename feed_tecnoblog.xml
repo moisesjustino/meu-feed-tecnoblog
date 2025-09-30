@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 30 Sep 2025 13:23:32 +0000</lastBuildDate>
-    <item>
-      <title>Trump assina ordem para TikTok ser vendido nos EUA</title>
-      <link>https://tecnoblog.net/noticias/trump-assina-ordem-para-tiktok-ser-vendido-nos-eua/</link>
-      <description>Donald Trump, presidente dos EUA, assinou ordem executiva que determinada venda das operações americanas do TikTok para investidores do país.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/trump-assina-ordem-para-tiktok-ser-vendido-nos-eua/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/donald-trump-comicio-edited-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 26 Sep 2025 19:13:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Galaxy S24 (256 GB) com 56% de desconto em oferta exclusiva na Amazon</title>
-      <link>https://tecnoblog.net/achados/galaxy-s24-256-gb-com-56-de-desconto-em-oferta-exclusiva-na-amazon/</link>
-      <description>Galaxy S24 de 256 GB em promoção com cupom leva tela AMOLED de 120 Hz, trio de câmeras com principal de 50 MP e vídeos em 8K e atualizações até o Android 21</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-s24-256-gb-com-56-de-desconto-em-oferta-exclusiva-na-amazon/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/02/Galaxy-S24-em-oferta-Foto-Thassius-VelosoTecnoblog-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 26 Sep 2025 19:17:06 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 30 Sep 2025 14:12:40 +0000</lastBuildDate>
     <item>
       <title>LG lança TV com IA pensada para a terceira idade</title>
       <link>https://tecnoblog.net/noticias/lg-lanca-tv-com-ia-pensada-para-a-terceira-idade/</link>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/galaxy-ring-fica-preso-a-dedo-de-usuario-apos-bateria-inchar/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/07/img_7342-edited-1-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 30 Sep 2025 13:02:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dia das Crianças: PlayStation 5 fica 26% mais barato com cupom na Magalu</title>
+      <link>https://tecnoblog.net/achados/dia-das-criancas-playstation-5-fica-26-mais-barato-com-cupom-na-magalu/</link>
+      <description>PlayStation 5 Digital em oferta para Dia das Crianças tem SSD de 825 GB, tem bundle com Astrobot e Gran Turismo 7 e gráficos em 4K com Ray Tracing</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/dia-das-criancas-playstation-5-fica-26-mais-barato-com-cupom-na-magalu/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/03/ps5-achado-do-dia-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 30 Sep 2025 13:41:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI prepara app estilo TikTok com vídeos feitos por IA</title>
+      <link>https://tecnoblog.net/noticias/openai-prepara-app-estilo-tiktok-com-videos-feitos-por-ia/</link>
+      <description>Conteúdo deve ser limitado a 10 segundos e criado no próprio app, sem uso da galeria. Plataforma pode se basear no novo modelo Sora 2.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/openai-prepara-app-estilo-tiktok-com-videos-feitos-por-ia/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/06/sam-altman-1-capa-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 30 Sep 2025 13:42:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
