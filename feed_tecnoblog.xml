@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 30 Sep 2025 07:12:30 +0000</lastBuildDate>
-    <item>
-      <title>Notebook Energizer tem bateria para 28 horas e não pode viajar de avião</title>
-      <link>https://tecnoblog.net/noticias/notebook-energizer-tem-bateria-para-28-horas-e-nao-pode-viajar-de-aviao/</link>
-      <description>Modelo EnergyBook Pro Ultra tem tela de 18 polegadas e bateria de 192 Wh, mas ultrapassa limite aceito em voos comerciais</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/notebook-energizer-tem-bateria-para-28-horas-e-nao-pode-viajar-de-aviao/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/energybook-pro-ultra_gaming-setup-edited-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 26 Sep 2025 17:54:37 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 30 Sep 2025 08:16:23 +0000</lastBuildDate>
     <item>
       <title>Meta lança o Vibes, feed de vídeos curtos gerados por IA</title>
       <link>https://tecnoblog.net/noticias/meta-lanca-o-vibes-feed-de-videos-curtos-gerados-por-ia/</link>
@@ -115,9 +107,10 @@
     <item>
       <title>TikTok Lite: versão leve do app dá recompensas em dinheiro</title>
       <link>https://tecnoblog.net/publieditoriais/tiktok-lite-versao-leve-do-app-da-recompensas-em-dinheiro/</link>
-      <description>Sem descrição breve.</description>
+      <description>TikTok Lite é ideal para celulares com pouca memória ou com plano de dados limitado. App também permite ganhar dinheiro com tarefas e indicações.</description>
       <guid isPermaLink="false">https://tecnoblog.net/publieditoriais/tiktok-lite-versao-leve-do-app-da-recompensas-em-dinheiro/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/tiktok-lite-capa-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 29 Sep 2025 14:33:00 +0000</pubDate>
     </item>
     <item>
       <title>Pressionada, OpenAI lança controle parental no ChatGPT</title>
@@ -222,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/chatgpt-tera-venda-de-produtos-dentro-de-conversas/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/chatgpt-instant-checkout-etsy-340x191.webp" length="0" type="image/jpeg"/>
       <pubDate>Mon, 29 Sep 2025 20:05:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Opera lança Neon, navegador por assinatura com IA para realizar tarefas</title>
+      <link>https://tecnoblog.net/noticias/opera-lanca-neon-navegador-por-assinatura-com-ia-para-realizar-tarefas/</link>
+      <description>Com chatbot integrado, ferramenta pode resumir vídeos, elaborar relatórios, cancelar assinaturas em emails e até auxiliar em compras online</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/opera-lanca-neon-navegador-por-assinatura-com-ia-para-realizar-tarefas/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/neon_start_page_light02-edited-2-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 30 Sep 2025 08:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
