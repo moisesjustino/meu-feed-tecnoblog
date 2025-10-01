@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 01 Oct 2025 18:16:14 +0000</lastBuildDate>
-    <item>
-      <title>Modelos de notebook da Samsung: veja a diferença entre cada Galaxy Book</title>
-      <link>https://tecnoblog.net/responde/modelos-de-notebook-da-samsung-veja-a-diferenca-entre-cada-galaxy-book/</link>
-      <description>Os notebooks da Samsung podem ser usados para estudos, trabalho, jogos e até mesmo para edição de imagens e vídeos em alta definição</description>
-      <guid isPermaLink="false">https://tecnoblog.net/responde/modelos-de-notebook-da-samsung-veja-a-diferenca-entre-cada-galaxy-book/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/01/1000052091-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 29 Sep 2025 19:21:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Motorola revela novo Moto X70 Air, com design ultrafino e IA</title>
-      <link>https://tecnoblog.net/noticias/motorola-revela-novo-moto-x70-air-com-design-ultrafino-e-ia/</link>
-      <description>Fabricante divulgou teaser no mercado chinês. Celular deve competir com iPhone Air, mas especificações serão reveladas em outubro.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/motorola-revela-novo-moto-x70-air-com-design-ultrafino-e-ia/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/moto-x70-air-edited-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 29 Sep 2025 19:24:40 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 01 Oct 2025 19:08:54 +0000</lastBuildDate>
     <item>
       <title>Claude Sonnet 4.5 é lançado com foco em programação</title>
       <link>https://tecnoblog.net/noticias/claude-sonnet-4-5-e-lancado-com-foco-em-programacao/</link>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-a36-256-gb-com-ram-de-8-gb-tem-48-off-em-oferta-na-amazon/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/samsung-galaxy-a36-tem-camera-de-50-mp-foto-thassius-velosotecnoblog-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Wed, 01 Oct 2025 17:31:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mudança silenciosa na Amazon gera revolta entre clientes brasileiros</title>
+      <link>https://tecnoblog.net/noticias/mudanca-silenciosa-na-amazon-gera-revolta-entre-consumidores-brasileiros/</link>
+      <description>Echo Show passa a exibir publicidade de variados produtos, desde multivitamínicos até tablets. Não é possível desativar a função.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/mudanca-silenciosa-na-amazon-gera-revolta-entre-consumidores-brasileiros/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/echo-show-com-publicidade-2-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 01 Oct 2025 18:57:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>“Eu juro, nós não escutamos o seu microfone”, diz chefe do Instagram</title>
+      <link>https://tecnoblog.net/noticias/eu-juro-nos-nao-escutamos-o-seu-microfone-diz-chefe-do-instagram/</link>
+      <description>Conversas com amigos não são usadas na publicidade. Interações com a Meta AI, por outro lado, farão parte dos dados coletados para segmentar anúncios.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/eu-juro-nos-nao-escutamos-o-seu-microfone-diz-chefe-do-instagram/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/10/adam-mosseri-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 01 Oct 2025 19:04:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
