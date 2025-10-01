@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 01 Oct 2025 19:08:54 +0000</lastBuildDate>
-    <item>
-      <title>Claude Sonnet 4.5 é lançado com foco em programação</title>
-      <link>https://tecnoblog.net/noticias/claude-sonnet-4-5-e-lancado-com-foco-em-programacao/</link>
-      <description>Novo modelo de linguagem da Anthropic promete criar aplicações completas de forma autônoma.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/claude-sonnet-4-5-e-lancado-com-foco-em-programacao/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/anthropic_model_release_logo-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 29 Sep 2025 19:38:33 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 01 Oct 2025 20:12:58 +0000</lastBuildDate>
     <item>
       <title>Linux 6.17 é lançado por Linus Torvalds; confira as novidades</title>
       <link>https://tecnoblog.net/noticias/linux-6-17-e-lancado-por-linus-torvalds-confira-as-novidades/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/eu-juro-nos-nao-escutamos-o-seu-microfone-diz-chefe-do-instagram/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/10/adam-mosseri-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Wed, 01 Oct 2025 19:04:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Oppo lança linha Reno 14 no Brasil; veja os preços</title>
+      <link>https://tecnoblog.net/noticias/oppo-lanca-linha-reno-14-no-brasil-veja-os-precos/</link>
+      <description>Novos smartphones da fabricante chinesa apostam em mais recursos para fotografias noturnas. Reno 14 F chega por R$ 3.499, enquanto Reno 14 custa R$ 4.999.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/oppo-lanca-linha-reno-14-no-brasil-veja-os-precos/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/img_0795-edited-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 01 Oct 2025 19:32:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
