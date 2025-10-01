@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 01 Oct 2025 16:14:22 +0000</lastBuildDate>
-    <item>
-      <title>F-Droid pode fechar por causa de nova regra do Google para apps Android</title>
-      <link>https://tecnoblog.net/noticias/f-droid-pode-fechar-por-causa-de-nova-regra-do-google-para-apps-android/</link>
-      <description>Google vai exigir registro de desenvolvedores de apps para Android. Medida pode inviabilizar projeto F-Droid, que distribui apps abertos para o sistema.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/f-droid-pode-fechar-por-causa-de-nova-regra-do-google-para-apps-android/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/06/capa-sideloading-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 29 Sep 2025 16:29:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dia das Crianças: Redmi Pad 2 com tela de 11″ tem 48% OFF com cupom</title>
-      <link>https://tecnoblog.net/achados/dia-das-criancas-redmi-pad-2-com-tela-de-11-tem-48-off-com-cupom/</link>
-      <description>Redmi Pad 2 (128 GB) é tablet para estudos da Xiaomi com tela de 11 polegadas e RAM de 4 GB; promoção de Dia das Crianças cai preço em 48%</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/dia-das-criancas-redmi-pad-2-com-tela-de-11-tem-48-off-com-cupom/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/redmi-pad-2-roda-hyperos-baseado-no-android-15-foto-thassius-velosotecnoblog-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 29 Sep 2025 17:29:53 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 01 Oct 2025 17:10:31 +0000</lastBuildDate>
     <item>
       <title>Microsoft anuncia IAs no Office para automatizar documentos e planilhas</title>
       <link>https://tecnoblog.net/noticias/microsoft-anuncia-ias-no-office-para-automatizar-documentos-e-planilhas/</link>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/xbox-game-pass-fica-ate-99-mais-caro-no-brasil/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/07/xbox-game-pass-000-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Wed, 01 Oct 2025 15:32:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Botão para contestar Pix passa a ser obrigatório; veja como funciona</title>
+      <link>https://tecnoblog.net/noticias/botao-para-contestar-pix-passa-a-ser-obrigatorio-veja-como-funciona/</link>
+      <description>Empresas devem oferecer mecanismo para questionar pagamentos sem depender de atendimento humano. Prazo de devolução é de até 11 dias.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/botao-para-contestar-pix-passa-a-ser-obrigatorio-veja-como-funciona/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/07/pix_capa-3_tb-edited-340x191.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 01 Oct 2025 16:25:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Amazon lança nova geração do Kindle Scribe com tela colorida e IA</title>
+      <link>https://tecnoblog.net/noticias/amazon-lanca-nova-geracao-do-kindle-scribe-com-tela-colorida-e-ia/</link>
+      <description>Aparelhos estão mais finos, leves e rápidos, com tela maior de 11 polegadas. Dispositivos devem chegar às lojas ainda em 2025.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/amazon-lanca-nova-geracao-do-kindle-scribe-com-tela-colorida-e-ia/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/kindle-scribe-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 01 Oct 2025 17:01:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
