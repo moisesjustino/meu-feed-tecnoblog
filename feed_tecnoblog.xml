@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 01 Oct 2025 22:10:17 +0000</lastBuildDate>
-    <item>
-      <title>ChatGPT terá venda de produtos dentro de conversas</title>
-      <link>https://tecnoblog.net/noticias/chatgpt-tera-venda-de-produtos-dentro-de-conversas/</link>
-      <description>Ferramenta estreia nos EUA em parceria com a Etsy, aceita Apple Pay e Google Pay e pode abrir uma nova frente de receita para a OpenAI</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/chatgpt-tera-venda-de-produtos-dentro-de-conversas/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/chatgpt-instant-checkout-etsy-340x191.webp" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 29 Sep 2025 20:05:10 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 01 Oct 2025 23:09:45 +0000</lastBuildDate>
     <item>
       <title>Tablets da Xiaomi: conheça as linhas e quais modelos são vendidos no Brasil</title>
       <link>https://tecnoblog.net/responde/tablets-da-xiaomi-conheca-as-linhas-e-quais-modelos-sao-vendidos-no-brasil/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/reino-unido-exige-novamente-acesso-a-backups-de-clientes-da-apple/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/04/apple_capa-1_tb-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Wed, 01 Oct 2025 20:57:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>iPad (128 GB) com Apple A16 fica 29% mais barato antes do Dia das Crianças</title>
+      <link>https://tecnoblog.net/achados/ipad-128-gb-com-apple-a16-fica-29-mais-barato-antes-do-dia-das-criancas/</link>
+      <description>iPad (128 GB) tem chip Apple A16, RAM de 6 GB, tela de 11 polegadas e desconto de 29% antes do Dia das Crianças em oferta na Amazon</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/ipad-128-gb-com-apple-a16-fica-29-mais-barato-antes-do-dia-das-criancas/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/ipad-de-11a-geracao-tem-chip-apple-a16-imagem-divulgacao-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 01 Oct 2025 22:13:57 +0000</pubDate>
     </item>
   </channel>
 </rss>
