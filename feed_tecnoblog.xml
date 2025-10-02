@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 02 Oct 2025 17:07:54 +0000</lastBuildDate>
-    <item>
-      <title>Logitech MX Master 4 é anunciado com novo sistema de feedback tátil</title>
-      <link>https://tecnoblog.net/noticias/logitech-mx-master-4-e-anunciado-com-novo-sistema-de-feedback-tatil/</link>
-      <description>Mouse será lançado em outubro nos EUA e na Europa. Preço e disponibilidade no Brasil ainda não foram divulgados.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/logitech-mx-master-4-e-anunciado-com-novo-sistema-de-feedback-tatil/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/mx-master-4-edited-340x191.webp" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 30 Sep 2025 15:15:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Desenvolvedor mantém GPU de 13 anos viva no Linux</title>
-      <link>https://tecnoblog.net/noticias/desenvolvedor-mantem-gpu-de-13-anos-viva-no-linux/</link>
-      <description>Timur Kristóf, terceirizado da Valve, lança patches para dar sobrevida a GPUs antigas. Atualizações corrigem falhas e ampliam compatibilidade com hardware moderno.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/desenvolvedor-mantem-gpu-de-13-anos-viva-no-linux/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/radeon-hd-7990-devil-13-1-edited-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 30 Sep 2025 16:07:37 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 02 Oct 2025 18:16:08 +0000</lastBuildDate>
     <item>
       <title>Dia das Crianças: Galaxy Tab A9 com 4 GB de RAM tem 51% OFF em oferta</title>
       <link>https://tecnoblog.net/achados/dia-das-criancas-galaxy-tab-a9-com-4-gb-de-ram-tem-51-off-em-oferta/</link>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/samsung-one-ui-8-5-pode-ter-funcao-para-esconder-dados-sensiveis-em-fotos/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/05/Capa-TBR-OneUI-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Thu, 02 Oct 2025 15:32:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Conheça os novos ícones do Office</title>
+      <link>https://tecnoblog.net/noticias/conheca-os-novos-icones-do-office/</link>
+      <description>Visual inspirado no Copilot adota gradientes mais fortes e formas arredondadas. Mudança chega a dez apps principais.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/conheca-os-novos-icones-do-office/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/office-2025-340x191.webp" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 02 Oct 2025 17:09:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Moto G86 (256 GB) com câmera Sony de 50 MP tem promoção histórica</title>
+      <link>https://tecnoblog.net/achados/moto-g86-256-gb-com-camera-sony-de-50-mp-tem-promocao-historica/</link>
+      <description>Moto G86 (256 GB) tem câmera Sony de 50 MP, RAM de 8 GB e tela POLED de 120 Hz; celular da Motorola fica 31% mais barato em oferta na Magalu</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/moto-g86-256-gb-com-camera-sony-de-50-mp-tem-promocao-historica/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/moto-g86-achados-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 02 Oct 2025 17:21:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
