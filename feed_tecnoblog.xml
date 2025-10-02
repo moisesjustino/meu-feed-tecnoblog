@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 02 Oct 2025 12:21:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Oct 2025 13:21:08 +0000</lastBuildDate>
     <item>
       <title>Tablets da Xiaomi: conheça as linhas e quais modelos são vendidos no Brasil</title>
       <link>https://tecnoblog.net/responde/tablets-da-xiaomi-conheca-as-linhas-e-quais-modelos-sao-vendidos-no-brasil/</link>
@@ -169,14 +169,6 @@
       <pubDate>Wed, 01 Oct 2025 17:31:51 +0000</pubDate>
     </item>
     <item>
-      <title>Mudança silenciosa na Amazon gera revolta entre clientes brasileiros</title>
-      <link>https://tecnoblog.net/noticias/mudanca-silenciosa-na-amazon-gera-revolta-entre-consumidores-brasileiros/</link>
-      <description>Echo Show passa a exibir publicidade de variados produtos, desde multivitamínicos até tablets. Não é possível desativar a função.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/mudanca-silenciosa-na-amazon-gera-revolta-entre-consumidores-brasileiros/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/echo-show-com-publicidade-2-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 01 Oct 2025 18:57:20 +0000</pubDate>
-    </item>
-    <item>
       <title>“Eu juro, nós não escutamos o seu microfone”, diz chefe do Instagram</title>
       <link>https://tecnoblog.net/noticias/eu-juro-nos-nao-escutamos-o-seu-microfone-diz-chefe-do-instagram/</link>
       <description>Conversas com amigos não são usadas na publicidade. Interações com a Meta AI, por outro lado, farão parte dos dados coletados para segmentar anúncios.</description>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/ipad-128-gb-com-apple-a16-fica-29-mais-barato-antes-do-dia-das-criancas/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/ipad-de-11a-geracao-tem-chip-apple-a16-imagem-divulgacao-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Wed, 01 Oct 2025 22:13:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Galaxy S24 Ultra (256 GB) tem desconto exclusivo de 54% OFF na Amazon</title>
+      <link>https://tecnoblog.net/achados/galaxy-s24-ultra-256-gb-tem-desconto-exclusivo-de-55-off-na-amazon/</link>
+      <description>Galaxy S24 Ultra (256 GB) tem Snapdragon 8 Gen 3 com RAM de 12 GB e quatro câmeras traseiras, incluindo sensor de 200 MP e periscópica de 50 MP com zoom óptico até 5x</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-s24-ultra-256-gb-tem-desconto-exclusivo-de-55-off-na-amazon/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/galaxy-s24-ultra-achados-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 02 Oct 2025 12:39:59 +0000</pubDate>
     </item>
   </channel>
 </rss>
