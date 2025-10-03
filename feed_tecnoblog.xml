@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 03 Oct 2025 18:16:02 +0000</lastBuildDate>
-    <item>
-      <title>“Eu juro, nós não escutamos o seu microfone”, diz chefe do Instagram</title>
-      <link>https://tecnoblog.net/noticias/eu-juro-nos-nao-escutamos-o-seu-microfone-diz-chefe-do-instagram/</link>
-      <description>Conversas com amigos não são usadas na publicidade. Interações com a Meta AI, por outro lado, farão parte dos dados coletados para segmentar anúncios.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/eu-juro-nos-nao-escutamos-o-seu-microfone-diz-chefe-do-instagram/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/10/adam-mosseri-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 01 Oct 2025 19:04:12 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 03 Oct 2025 19:08:47 +0000</lastBuildDate>
     <item>
       <title>Tablets da Motorola: saiba quais linhas são vendidas pela fabricante</title>
       <link>https://tecnoblog.net/responde/tablets-da-motorola-saiba-quais-linhas-sao-vendidas-pela-fabricante/</link>
@@ -185,7 +177,7 @@
       <pubDate>Fri, 03 Oct 2025 14:44:21 +0000</pubDate>
     </item>
     <item>
-      <title>Perplexity libera gratuitamente navegador Comet com IA</title>
+      <title>Comet AI: Perplexity libera navegador gratuito com IA</title>
       <link>https://tecnoblog.net/noticias/perplexity-libera-gratuitamente-navegador-comet-com-ia/</link>
       <description>Empresa aposta em recursos que resumem páginas, comparam preços e ajudam em tarefas de escritório para diferenciar seu navegador</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/perplexity-libera-gratuitamente-navegador-comet-com-ia/</guid>
@@ -219,10 +211,18 @@
     <item>
       <title>Anatel sugere “habilitação digital”  para uso de celulares no Brasil</title>
       <link>https://tecnoblog.net/noticias/anatel-sugere-habilitacao-digital-para-uso-de-celulares-no-brasil/</link>
-      <description>Ideia seria proteger consumidores vulneráveis, como crianças e idosos, por meio de cursos durante a ativação do aparelho.</description>
+      <description>Treinamento seria opcional. Ideia seria proteger consumidores vulneráveis, como crianças e idosos, por meio de cursos durante a ativação do aparelho.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/anatel-sugere-habilitacao-digital-para-uso-de-celulares-no-brasil/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/04/anatel-capa-tecnoblog-340x191.png" length="0" type="image/jpeg"/>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/marcelo-scacabarozi-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Fri, 03 Oct 2025 18:11:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>O Brasil na corrida pelos data centers de IA</title>
+      <link>https://tecnoblog.net/tecnocast/o-brasil-na-corrida-pelos-data-centers-de-ia/</link>
+      <description>Sem descrição breve.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/tecnocast/o-brasil-na-corrida-pelos-data-centers-de-ia/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/tecnocast-388_capa-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 03 Oct 2025 18:44:41 +0000</pubDate>
     </item>
   </channel>
 </rss>
