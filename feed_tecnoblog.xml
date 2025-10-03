@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 03 Oct 2025 20:11:54 +0000</lastBuildDate>
-    <item>
-      <title>Tablets da Motorola: saiba quais linhas são vendidas pela fabricante</title>
-      <link>https://tecnoblog.net/responde/tablets-da-motorola-saiba-quais-linhas-sao-vendidas-pela-fabricante/</link>
-      <description>A Motorola não lança oficialmente novos tablets no Brasil, sendo o último modelo o Moto Tab G70, que estreou no país em 2022</description>
-      <guid isPermaLink="false">https://tecnoblog.net/responde/tablets-da-motorola-saiba-quais-linhas-sao-vendidas-pela-fabricante/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/01/motorola-moto-tab-g70-3-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 01 Oct 2025 19:18:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Oppo lança linha Reno 14 no Brasil; veja os preços</title>
-      <link>https://tecnoblog.net/noticias/oppo-lanca-linha-reno-14-no-brasil-veja-os-precos/</link>
-      <description>Novos smartphones da fabricante chinesa apostam em mais recursos para fotografias noturnas. Reno 14 F chega por R$ 3.499, enquanto Reno 14 custa R$ 4.999.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/oppo-lanca-linha-reno-14-no-brasil-veja-os-precos/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/img_0795-edited-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 01 Oct 2025 19:32:08 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 03 Oct 2025 21:09:24 +0000</lastBuildDate>
     <item>
       <title>Galaxy S24 Plus com 12 GB de RAM tem 55% de desconto em oferta no Magalu</title>
       <link>https://tecnoblog.net/achados/galaxy-s24-plus-com-12-gb-de-ram-tem-55-de-desconto-em-oferta-no-magalu/</link>
@@ -111,6 +95,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/moto-g86-256-gb-com-camera-sony-de-50-mp-tem-promocao-historica/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/moto-g86-achados-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Thu, 02 Oct 2025 17:21:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>O que é Vega OS? Saiba como funciona o sucessor do Fire OS, da Amazon</title>
+      <link>https://tecnoblog.net/responde/o-que-e-vega-os-saiba-como-funciona-o-sucessor-do-fire-os-da-amazon/</link>
+      <description>Substituto do Fire OS, o Vega OS será  uma interface mais leve e otimizada para os futuros dispositivos de streaming e smart TVs da Amazon</description>
+      <guid isPermaLink="false">https://tecnoblog.net/responde/o-que-e-vega-os-saiba-como-funciona-o-sucessor-do-fire-os-da-amazon/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/amazon-vega-os-03-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 02 Oct 2025 17:58:44 +0000</pubDate>
     </item>
     <item>
       <title>Apple pausa projeto de Vision Pro mais barato e aposta em óculos com IA</title>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/tecnocast/o-brasil-na-corrida-pelos-data-centers-de-ia/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/tecnocast-388_capa-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Fri, 03 Oct 2025 18:44:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>OneDrive pode ganhar app no Windows 11 integrado ao Copilot; veja imagens</title>
+      <link>https://tecnoblog.net/noticias/onedrive-pode-ganhar-app-no-windows-11-com-integracao-ao-copilot-veja-imagens/</link>
+      <description>Microsoft desenvolve app com interface renovada, que pode unificar funções hoje espalhadas pelo sistema. Novidade ainda não tem previsão de lançamento.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/onedrive-pode-ganhar-app-no-windows-11-com-integracao-ao-copilot-veja-imagens/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/01/microsoft-365-capa-7-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 03 Oct 2025 20:53:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
