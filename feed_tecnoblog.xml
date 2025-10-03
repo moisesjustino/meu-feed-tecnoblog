@@ -7,39 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 03 Oct 2025 16:13:09 +0000</lastBuildDate>
-    <item>
-      <title>iFood retoma entregas por drones no Brasil</title>
-      <link>https://tecnoblog.net/noticias/ifood-retoma-entregas-por-drones-no-brasil/</link>
-      <description>Operação recomeça em Sergipe com autorização permanente da ANAC. Serviço funcionará todos os dias.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/ifood-retoma-entregas-por-drones-no-brasil/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2020/08/drone-ifood-entrega-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 01 Oct 2025 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Xbox Game Pass fica até 99% mais caro no Brasil</title>
-      <link>https://tecnoblog.net/noticias/xbox-game-pass-fica-ate-99-mais-caro-no-brasil/</link>
-      <description>Game Pass teve reajuste nos preços de todos os planos. Ultimate passa a custar R$ 119,90 por mês, praticamente o dobro.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/xbox-game-pass-fica-ate-99-mais-caro-no-brasil/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/07/xbox-game-pass-000-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 01 Oct 2025 15:32:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Botão para contestar Pix passa a ser obrigatório; veja como funciona</title>
-      <link>https://tecnoblog.net/noticias/botao-para-contestar-pix-passa-a-ser-obrigatorio-veja-como-funciona/</link>
-      <description>Empresas devem oferecer mecanismo para questionar pagamentos sem depender de atendimento humano. Prazo de devolução é de até 11 dias.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/botao-para-contestar-pix-passa-a-ser-obrigatorio-veja-como-funciona/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/07/pix_capa-3_tb-edited-340x191.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 01 Oct 2025 16:25:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Amazon lança nova geração do Kindle Scribe com tela colorida e IA</title>
-      <link>https://tecnoblog.net/noticias/amazon-lanca-nova-geracao-do-kindle-scribe-com-tela-colorida-e-ia/</link>
-      <description>Aparelhos estão mais finos, leves e rápidos, com tela maior de 11 polegadas. Dispositivos devem chegar às lojas ainda em 2025.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/amazon-lanca-nova-geracao-do-kindle-scribe-com-tela-colorida-e-ia/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/kindle-scribe-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 01 Oct 2025 17:01:07 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 03 Oct 2025 17:09:41 +0000</lastBuildDate>
     <item>
       <title>Galaxy A36 (256 GB) com RAM de 8 GB tem 48% OFF em oferta na Amazon</title>
       <link>https://tecnoblog.net/achados/galaxy-a36-256-gb-com-ram-de-8-gb-tem-48-off-em-oferta-na-amazon/</link>
@@ -111,6 +79,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-s24-ultra-256-gb-tem-desconto-exclusivo-de-55-off-na-amazon/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/galaxy-s24-ultra-achados-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Thu, 02 Oct 2025 12:39:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tablets da Lenovo: saiba a diferença entre as linhas Lenovo Tab e IdeaTab</title>
+      <link>https://tecnoblog.net/responde/tablets-da-lenovo-saiba-a-diferenca-entre-as-linhas-lenovo-tab-e-ideatab/</link>
+      <description>Os modelos de tablet da Lenovo apresentam variações nas especificações técnicas, como quantidade de memória RAM, tamanho de tela e capacidade de armazenamento</description>
+      <guid isPermaLink="false">https://tecnoblog.net/responde/tablets-da-lenovo-saiba-a-diferenca-entre-as-linhas-lenovo-tab-e-ideatab/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/lenovotab_poplar_ai02-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 02 Oct 2025 14:11:05 +0000</pubDate>
     </item>
     <item>
       <title>Anatel apreende 1,7 milhão de metros de cabos de fibra ótica em SP</title>
@@ -223,6 +199,30 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/perplexity-libera-gratuitamente-navegador-comet-com-ia/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/perplexity-chrome-screenshot-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Fri, 03 Oct 2025 15:11:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>WhatsApp vai permitir reservar nomes de usuário</title>
+      <link>https://tecnoblog.net/noticias/whatsapp-vai-permitir-reservar-nomes-de-usuario/</link>
+      <description>Novidade foi encontrada em versões de teste e ainda não tem data para liberação. Mudança é o primeiro passo para o fim da exposição obrigatória do número de telefone.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/whatsapp-vai-permitir-reservar-nomes-de-usuario/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/whatsapp-capa-3-edited-1-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 03 Oct 2025 16:22:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Lenovo Tab M9 com 4 GB de RAM e 46% OFF em oferta antes do Dia das Crianças</title>
+      <link>https://tecnoblog.net/achados/lenovo-tab-m9-com-4-gb-de-ram-e-46-off-em-oferta-antes-do-dia-das-criancas/</link>
+      <description>Tablet Lenovo Tab M9 de 64 GB de armazenamento, 4 GB de RAM e tela LCD de 9 polegadas está em promoção com cupom no Mercado Livre para o Dia das Crianças</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/lenovo-tab-m9-com-4-gb-de-ram-e-46-off-em-oferta-antes-do-dia-das-criancas/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/lenovo-tab-m9-achados-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 03 Oct 2025 16:48:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Xbox Cloud Gaming pode ganhar versão gratuita com anúncios, diz site</title>
+      <link>https://tecnoblog.net/noticias/xbox-cloud-gaming-pode-ganhar-versao-gratuita-com-anuncios-diz-site/</link>
+      <description>Testes internos envolvem até dois minutos de propaganda e limite mensal de cinco horas. Planos do Xbox Game Pass foram reformulados e ficaram mais caros.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/xbox-cloud-gaming-pode-ganhar-versao-gratuita-com-anuncios-diz-site/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/07/xbox-game-pass-000-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 03 Oct 2025 17:02:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
