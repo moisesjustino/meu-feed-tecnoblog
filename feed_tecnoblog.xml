@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 06 Oct 2025 17:10:50 +0000</lastBuildDate>
-    <item>
-      <title>Conheça os novos ícones do Office</title>
-      <link>https://tecnoblog.net/noticias/conheca-os-novos-icones-do-office/</link>
-      <description>Visual inspirado no Copilot adota gradientes mais fortes e formas arredondadas. Mudança chega a dez apps principais.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/conheca-os-novos-icones-do-office/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/office-2025-340x191.webp" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 02 Oct 2025 17:09:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Moto G86 (256 GB) com câmera Sony de 50 MP tem promoção histórica</title>
-      <link>https://tecnoblog.net/achados/moto-g86-256-gb-com-camera-sony-de-50-mp-tem-promocao-historica/</link>
-      <description>Moto G86 (256 GB) tem câmera Sony de 50 MP, RAM de 8 GB e tela POLED de 120 Hz; celular da Motorola fica 31% mais barato em oferta na Magalu</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/moto-g86-256-gb-com-camera-sony-de-50-mp-tem-promocao-historica/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/moto-g86-achados-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 02 Oct 2025 17:21:27 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 06 Oct 2025 18:16:45 +0000</lastBuildDate>
     <item>
       <title>O que é Vega OS? Saiba como funciona o sucessor do Fire OS, da Amazon</title>
       <link>https://tecnoblog.net/responde/o-que-e-vega-os-saiba-como-funciona-o-sucessor-do-fire-os-da-amazon/</link>
@@ -219,10 +203,26 @@
     <item>
       <title>Coreia do Norte usa IA, cria funcionários falsos e  obtém US$ 1 bilhão para programa nuclear</title>
       <link>https://tecnoblog.net/noticias/infiltrados-conseguem-us-1-bilhao-para-programa-nuclear-da-coreia-do-norte/</link>
-      <description>Usando identidades falsas e inteligência artificial, agentes conseguem vagas em companhias globais e repassam salários ao governo norte-coreano</description>
+      <description>Usando identidades falsas e inteligência artificial, agentes conseguem vagas em companhias globais e repassam salários ao governo norte-coreano.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/infiltrados-conseguem-us-1-bilhao-para-programa-nuclear-da-coreia-do-norte/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/04/ivan-x-candidato-ia-340x191.webp" length="0" type="image/jpeg"/>
       <pubDate>Mon, 06 Oct 2025 16:50:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Galaxy S25 Plus (256 GB) tem 51% OFF na melhor oferta que já vimos</title>
+      <link>https://tecnoblog.net/achados/galaxy-s25-plus-256-gb-tem-51-off-na-melhor-oferta-que-ja-vimos/</link>
+      <description>Galaxy S25 Plus de 256 GB tem chip da Qualcomm, RAM de 12 GB e câmera tripla com sensor de 50 MP e zoom óptico de 3x; preço cai para menos da metade no Mercado Livre</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-s25-plus-256-gb-tem-51-off-na-melhor-oferta-que-ja-vimos/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/04/Samsung-Galaxy-S25-Plus-tem-tela-de-67-com-resolucao-QHD-imagem-Samsung-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 06 Oct 2025 17:43:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Caixa, Itaú, Nubank e outros bancos sofrem instabilidade nesta segunda</title>
+      <link>https://tecnoblog.net/noticias/caixa-itau-nubank-e-outros-bancos-sofrem-instabilidade-nesta-segunda/</link>
+      <description>Plataforma DownDetector registra serviços bancários fora do ar em 06/10.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/caixa-itau-nubank-e-outros-bancos-sofrem-instabilidade-nesta-segunda/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/downdetector-6-outubro-edited-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 06 Oct 2025 17:50:40 +0000</pubDate>
     </item>
   </channel>
 </rss>
