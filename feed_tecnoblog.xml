@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 06 Oct 2025 16:13:58 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Oct 2025 17:10:50 +0000</lastBuildDate>
     <item>
       <title>Conheça os novos ícones do Office</title>
       <link>https://tecnoblog.net/noticias/conheca-os-novos-icones-do-office/</link>
@@ -169,14 +169,6 @@
       <pubDate>Mon, 06 Oct 2025 10:39:54 +0000</pubDate>
     </item>
     <item>
-      <title>Itaú começa a vender os óculos Ray-Ban Meta parcelados em 18x</title>
-      <link>https://tecnoblog.net/noticias/exclusivo-itau-comeca-a-vender-os-oculos-ray-ban-meta-parcelados-em-18x/</link>
-      <description>O preço inicial é de R$ 3.299, com cashback e pagamento via Pix. Segundo o Itaú, a venda reforça a estratégia do banco de oferecer lançamentos tecnológicos.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/exclusivo-itau-comeca-a-vender-os-oculos-ray-ban-meta-parcelados-em-18x/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/ray-ban-meta-2-wayfarer-edited-340x191.webp" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 06 Oct 2025 12:30:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Como a JBL luta contra a falsificação de caixas de som no Brasil</title>
       <link>https://tecnoblog.net/noticias/como-a-jbl-luta-contra-a-falsificacao-de-caixas-de-som-no-brasil/</link>
       <description>Rodrigo Kniest, presidente da Harman (JBL) no Brasil, contou ao Tecnoblog as estratégias da companhia para combater a pirataria no país.</description>
@@ -205,7 +197,7 @@
       <link>https://tecnoblog.net/noticias/cansou-do-spam-iphone-tem-novo-filtro-inteligente-de-ligacoes/</link>
       <description>Recurso do iOS 26 permite que a Siri atenda chamadas de números desconhecidos e mostre a transcrição na tela. Funcionalidade visa reduzir chamadas de spam e fraudes.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/cansou-do-spam-iphone-tem-novo-filtro-inteligente-de-ligacoes/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/87-how-to-use-call-screening-on-iphone-_-apple-support-340x191.jpeg" length="0" type="image/jpeg"/>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/image-edited-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 06 Oct 2025 15:15:50 +0000</pubDate>
     </item>
     <item>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-s24-ultra-256-gb-tem-54-off-em-oferta-com-cupom-no-magalu/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/07/galaxy-s24-ultra-foto-thassius-velosotecnoblog-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 06 Oct 2025 15:20:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Coreia do Norte usa IA, cria funcionários falsos e  obtém US$ 1 bilhão para programa nuclear</title>
+      <link>https://tecnoblog.net/noticias/infiltrados-conseguem-us-1-bilhao-para-programa-nuclear-da-coreia-do-norte/</link>
+      <description>Usando identidades falsas e inteligência artificial, agentes conseguem vagas em companhias globais e repassam salários ao governo norte-coreano</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/infiltrados-conseguem-us-1-bilhao-para-programa-nuclear-da-coreia-do-norte/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/04/ivan-x-candidato-ia-340x191.webp" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 06 Oct 2025 16:50:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
