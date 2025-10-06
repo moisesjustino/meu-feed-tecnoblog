@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 06 Oct 2025 14:12:03 +0000</lastBuildDate>
-    <item>
-      <title>Tablets da Lenovo: saiba a diferença entre as linhas Lenovo Tab e IdeaTab</title>
-      <link>https://tecnoblog.net/responde/tablets-da-lenovo-saiba-a-diferenca-entre-as-linhas-lenovo-tab-e-ideatab/</link>
-      <description>Os modelos de tablet da Lenovo apresentam variações nas especificações técnicas, como quantidade de memória RAM, tamanho de tela e capacidade de armazenamento</description>
-      <guid isPermaLink="false">https://tecnoblog.net/responde/tablets-da-lenovo-saiba-a-diferenca-entre-as-linhas-lenovo-tab-e-ideatab/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/lenovotab_poplar_ai02-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 02 Oct 2025 14:11:05 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 06 Oct 2025 15:11:46 +0000</lastBuildDate>
     <item>
       <title>Anatel apreende 1,7 milhão de metros de cabos de fibra ótica em SP</title>
       <link>https://tecnoblog.net/noticias/anatel-apreende-17-milhao-de-metros-de-cabos-de-fibra-otica-em-sp/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/amd-e-openai-firmam-parceria-que-desafia-dominio-da-nvidia-em-ia/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/05/amd_capa-2_tb-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 06 Oct 2025 14:00:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ícone da robótica recomenda: não se aproxime dos humanoides atuais</title>
+      <link>https://tecnoblog.net/noticias/icone-da-robotica-recomenda-nao-se-aproxime-dos-humanoides-atuais/</link>
+      <description>Rodney Brooks, pioneiro da robótica e cofundador da iRobot, alerta que os robôs humanoides atuais não são seguros.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/icone-da-robotica-recomenda-nao-se-aproxime-dos-humanoides-atuais/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/nvidia-e-foxconn-planejam-usar-robos-humanoides-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 06 Oct 2025 14:23:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
