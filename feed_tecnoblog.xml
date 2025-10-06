@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 06 Oct 2025 19:09:06 +0000</lastBuildDate>
-    <item>
-      <title>O que é Vega OS? Saiba como funciona o sucessor do Fire OS, da Amazon</title>
-      <link>https://tecnoblog.net/responde/o-que-e-vega-os-saiba-como-funciona-o-sucessor-do-fire-os-da-amazon/</link>
-      <description>Substituto do Fire OS, o Vega OS será  uma interface mais leve e otimizada para os futuros dispositivos de streaming e smart TVs da Amazon</description>
-      <guid isPermaLink="false">https://tecnoblog.net/responde/o-que-e-vega-os-saiba-como-funciona-o-sucessor-do-fire-os-da-amazon/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/amazon-vega-os-03-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 02 Oct 2025 17:58:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Apple pausa projeto de Vision Pro mais barato e aposta em óculos com IA</title>
-      <link>https://tecnoblog.net/noticias/apple-pausa-projeto-de-vision-pro-mais-barato-e-aposta-em-oculos-com-ia/</link>
-      <description>Produtos em estudo miram concorrência direta com os óculos da Meta, que ganharam versão com tela translúcida e chegaram ao Brasil em 2025</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/apple-pausa-projeto-de-vision-pro-mais-barato-e-aposta-em-oculos-com-ia/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/06/apple-vision-pro-02-thassius-veloso-tecnoblog-01-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 02 Oct 2025 19:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 06 Oct 2025 20:12:25 +0000</lastBuildDate>
     <item>
       <title>Galaxy S24 FE (256 GB) em oferta por até 12x sem juros na Amazon</title>
       <link>https://tecnoblog.net/achados/galaxy-s24-fe-256-gb-em-oferta-por-ate-12x-sem-juros-na-amazon/</link>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/caixa-itau-nubank-e-outros-bancos-sofrem-instabilidade-nesta-segunda/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/downdetector-6-outubro-edited-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 06 Oct 2025 17:50:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Adblockers estão afetando visualizações de vídeos no YouTube</title>
+      <link>https://tecnoblog.net/noticias/adblockers-estao-afetando-visualizacoes-de-videos-no-youtube/</link>
+      <description>YouTubers relatam queda nas visualizações desde agosto. YouTube nega mudanças no serviço e aponta recurso de bloqueadores de anúncios como causa.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/adblockers-estao-afetando-visualizacoes-de-videos-no-youtube/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/11/adblock-capa-1-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 06 Oct 2025 19:10:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Galaxy S24 (256 GB) chega a 55% de desconto com cupom no Magazine Luiza</title>
+      <link>https://tecnoblog.net/achados/galaxy-s24-256-gb-chega-a-55-de-desconto-com-cupom-no-magazine-luiza/</link>
+      <description>Galaxy S24 de 256 GB leva tela AMOLED Dinâmico de 120 Hz, trio de câmeras com principal de 50 MP, gravação de vídeos em 8K e atualizações de sistema até o Android 21</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-s24-256-gb-chega-a-55-de-desconto-com-cupom-no-magazine-luiza/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/02/Galaxy-S24-em-oferta-Foto-Thassius-VelosoTecnoblog-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 06 Oct 2025 19:30:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
