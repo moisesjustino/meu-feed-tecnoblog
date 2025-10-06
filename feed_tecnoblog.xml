@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 06 Oct 2025 10:13:22 +0000</lastBuildDate>
-    <item>
-      <title>Galaxy S24 Plus com 12 GB de RAM tem 55% de desconto em oferta no Magalu</title>
-      <link>https://tecnoblog.net/achados/galaxy-s24-plus-com-12-gb-de-ram-tem-55-de-desconto-em-oferta-no-magalu/</link>
-      <description>Galaxy S24 Plus de 256 GB sai pelo preço promocional somente no Pix; smartphone possui tela de 6,7" com 120 Hz, 12 GB de RAM e já recebe nova atualização Android</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-s24-plus-com-12-gb-de-ram-tem-55-de-desconto-em-oferta-no-magalu/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/02/Galaxy-S24-Plus-promete-7-anos-de-Android-foto-Thassius-VelosoTecnoblog-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 01 Oct 2025 20:28:44 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 06 Oct 2025 11:10:05 +0000</lastBuildDate>
     <item>
       <title>Operadora brasileira leva prêmio de 5G mais rápido do mundo</title>
       <link>https://tecnoblog.net/noticias/operadora-brasileira-leva-premio-de-5g-mais-rapido-do-mundo/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/onedrive-pode-ganhar-app-no-windows-11-com-integracao-ao-copilot-veja-imagens/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/01/microsoft-365-capa-7-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Fri, 03 Oct 2025 20:53:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sideloading no Android: Google vai cobrar registro de desenvolvedores</title>
+      <link>https://tecnoblog.net/noticias/sideloading-no-android-google-vai-cobrar-registro-de-desenvolvedores/</link>
+      <description>Novo sistema de segurança exigirá cadastro e pagamento de US$ 25 mesmo de apps que estiverem fora da Play Store.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/sideloading-no-android-google-vai-cobrar-registro-de-desenvolvedores/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/08/capa-android-13-3-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 06 Oct 2025 10:39:54 +0000</pubDate>
     </item>
   </channel>
 </rss>
