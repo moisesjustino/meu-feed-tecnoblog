@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 06 Oct 2025 13:22:59 +0000</lastBuildDate>
-    <item>
-      <title>Galaxy S24 Ultra (256 GB) tem desconto exclusivo de 54% OFF na Amazon</title>
-      <link>https://tecnoblog.net/achados/galaxy-s24-ultra-256-gb-tem-desconto-exclusivo-de-55-off-na-amazon/</link>
-      <description>Galaxy S24 Ultra (256 GB) tem Snapdragon 8 Gen 3 com RAM de 12 GB e quatro câmeras traseiras, incluindo sensor de 200 MP e periscópica de 50 MP com zoom óptico até 5x</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-s24-ultra-256-gb-tem-desconto-exclusivo-de-55-off-na-amazon/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/galaxy-s24-ultra-achados-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 02 Oct 2025 12:39:59 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 06 Oct 2025 14:12:03 +0000</lastBuildDate>
     <item>
       <title>Tablets da Lenovo: saiba a diferença entre as linhas Lenovo Tab e IdeaTab</title>
       <link>https://tecnoblog.net/responde/tablets-da-lenovo-saiba-a-diferenca-entre-as-linhas-lenovo-tab-e-ideatab/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/como-a-jbl-luta-contra-a-falsificacao-de-caixas-de-som-no-brasil/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/caixa-som-bluetooth-jbl-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 06 Oct 2025 13:14:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>AMD e OpenAI firmam parceria que desafia domínio da Nvidia em IA</title>
+      <link>https://tecnoblog.net/noticias/amd-e-openai-firmam-parceria-que-desafia-dominio-da-nvidia-em-ia/</link>
+      <description>Acordo prevê fornecimento de 6 gigawatts em GPUs e pode gerar dezenas de bilhões de dólares em receita para a AMD.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/amd-e-openai-firmam-parceria-que-desafia-dominio-da-nvidia-em-ia/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/05/amd_capa-2_tb-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 06 Oct 2025 14:00:49 +0000</pubDate>
     </item>
   </channel>
 </rss>
