@@ -7,47 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 07 Oct 2025 15:12:36 +0000</lastBuildDate>
-    <item>
-      <title>Xbox Cloud Gaming pode ganhar versão gratuita com anúncios, diz site</title>
-      <link>https://tecnoblog.net/noticias/xbox-cloud-gaming-pode-ganhar-versao-gratuita-com-anuncios-diz-site/</link>
-      <description>Testes internos envolvem até dois minutos de propaganda e limite mensal de cinco horas. Planos do Xbox Game Pass foram reformulados e ficaram mais caros.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/xbox-cloud-gaming-pode-ganhar-versao-gratuita-com-anuncios-diz-site/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/07/xbox-game-pass-000-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 03 Oct 2025 17:02:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Anatel sugere “habilitação digital”  para uso de celulares no Brasil</title>
-      <link>https://tecnoblog.net/noticias/anatel-sugere-habilitacao-digital-para-uso-de-celulares-no-brasil/</link>
-      <description>Treinamento seria opcional. Ideia seria proteger consumidores vulneráveis, como crianças e idosos, por meio de cursos durante a ativação do aparelho.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/anatel-sugere-habilitacao-digital-para-uso-de-celulares-no-brasil/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/marcelo-scacabarozi-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 03 Oct 2025 18:11:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>O Brasil na corrida pelos data centers de IA</title>
-      <link>https://tecnoblog.net/tecnocast/o-brasil-na-corrida-pelos-data-centers-de-ia/</link>
-      <description>Sem descrição breve.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/tecnocast/o-brasil-na-corrida-pelos-data-centers-de-ia/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/tecnocast-388_capa-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 03 Oct 2025 18:44:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>OneDrive pode ganhar app no Windows 11 integrado ao Copilot; veja imagens</title>
-      <link>https://tecnoblog.net/noticias/onedrive-pode-ganhar-app-no-windows-11-com-integracao-ao-copilot-veja-imagens/</link>
-      <description>Microsoft desenvolve app com interface renovada, que pode unificar funções hoje espalhadas pelo sistema. Novidade ainda não tem previsão de lançamento.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/onedrive-pode-ganhar-app-no-windows-11-com-integracao-ao-copilot-veja-imagens/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/01/microsoft-365-capa-7-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 03 Oct 2025 20:53:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dual channel ou single channel: as diferenças nos modos de comunicação da RAM</title>
-      <link>https://tecnoblog.net/responde/dual-channel-ou-single-channel-as-diferencas-nos-modos-de-comunicacao-da-ram/</link>
-      <description>Single channel e dual channel são caminhos de comunicação entre a memória RAM e o processador de um computador, influenciando na velocidade e desempenho</description>
-      <guid isPermaLink="false">https://tecnoblog.net/responde/dual-channel-ou-single-channel-as-diferencas-nos-modos-de-comunicacao-da-ram/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/andrey-matveev-unsplash-edited-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 03 Oct 2025 21:08:20 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 07 Oct 2025 16:14:22 +0000</lastBuildDate>
     <item>
       <title>Sideloading no Android: Google vai cobrar registro de desenvolvedores</title>
       <link>https://tecnoblog.net/noticias/sideloading-no-android-google-vai-cobrar-registro-de-desenvolvedores/</link>
@@ -127,6 +87,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/caixa-itau-nubank-e-outros-bancos-sofrem-instabilidade-nesta-segunda/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/downdetector-6-outubro-edited-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 06 Oct 2025 17:50:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quais são os tipos de MacBook? Veja a diferença entre MacBook Air e MacBook Pro</title>
+      <link>https://tecnoblog.net/responde/quais-sao-os-tipos-de-macbook-veja-a-diferenca-entre-macbook-air-e-macbook-pro/</link>
+      <description>Os modelos de MacBook se diferenciam em tamanho e desempenho, sendo o MacBook Air otimizado para portabilidade e o MacBook Pro focado em maior poder de processamento</description>
+      <guid isPermaLink="false">https://tecnoblog.net/responde/quais-sao-os-tipos-de-macbook-veja-a-diferenca-entre-macbook-air-e-macbook-pro/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2021/01/macbook-pro-apple-m1-4-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 06 Oct 2025 17:53:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Notebooks da Positivo: veja as linhas para estudo ou trabalho</title>
+      <link>https://tecnoblog.net/responde/notebooks-da-positivo-veja-as-linhas-para-estudo-ou-trabalho/</link>
+      <description>Vision, Motion e Duo são algumas das principais linhas de notebook da Positivo, reunindo laptops básicos e intermediários da marca</description>
+      <guid isPermaLink="false">https://tecnoblog.net/responde/notebooks-da-positivo-veja-as-linhas-para-estudo-ou-trabalho/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2021/11/positivo-duo-c464d-windows-11-18-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 06 Oct 2025 18:19:09 +0000</pubDate>
     </item>
     <item>
       <title>Adblockers estão afetando visualizações de vídeos no YouTube</title>
@@ -223,6 +199,30 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/auditoria-usa-ia-passa-vergonha-e-devolve-dinheiro-de-projeto/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/deloitte-edited-340x191.webp" length="0" type="image/jpeg"/>
       <pubDate>Tue, 07 Oct 2025 14:57:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Meli+ Mega: novo plano inclui Disney+, Netflix, HBO Max e Apple TV+</title>
+      <link>https://tecnoblog.net/noticias/meli-mega-novo-plano-inclui-disney-netflix-hbo-max-e-apple-tv/</link>
+      <description>Pacote inclui opções mais baratas dos serviços de streaming, mas pode ser personalizado. Preço promocional começa em R$ 39,90 e vale por dois meses.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/meli-mega-novo-plano-inclui-disney-netflix-hbo-max-e-apple-tv/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/08/capa-meli_3-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 07 Oct 2025 15:30:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Qualcomm é a nova dona da Arduino</title>
+      <link>https://tecnoblog.net/noticias/qualcomm-e-a-nova-dona-da-arduino/</link>
+      <description>Qualcomm anunciou compra da Arduino, empresa italiana mundialmente conhecida pelas placas de programação que levam o seu nome.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/qualcomm-e-a-nova-dona-da-arduino/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/qualcomm-arduino-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 07 Oct 2025 15:38:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Galaxy Buds Core com ANC custa menos de R$ 260 em oferta no Mercado Livre</title>
+      <link>https://tecnoblog.net/achados/galaxy-buds-core-com-anc-custa-menos-de-r-260-em-oferta-no-mercado-livre/</link>
+      <description>Galaxy Buds Core tem cancelamento de ruído ativo (ANC), autonomia de até 35 horas e proteção IP54 contra água e poeira; fone Samsung está 26% mais barato no Mercado Livre</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-buds-core-com-anc-custa-menos-de-r-260-em-oferta-no-mercado-livre/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/galaxy-buds-core-tem-preco-sugerido-de-r-349-foto-thassius-velosotecnoblog-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 07 Oct 2025 16:00:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
