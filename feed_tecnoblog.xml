@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 07 Oct 2025 17:10:07 +0000</lastBuildDate>
-    <item>
-      <title>Sideloading no Android: Google vai cobrar registro de desenvolvedores</title>
-      <link>https://tecnoblog.net/noticias/sideloading-no-android-google-vai-cobrar-registro-de-desenvolvedores/</link>
-      <description>Novo sistema de segurança exigirá cadastro e pagamento de US$ 25 mesmo de apps que estiverem fora da Play Store.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/sideloading-no-android-google-vai-cobrar-registro-de-desenvolvedores/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/08/capa-android-13-3-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 06 Oct 2025 10:39:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Como a JBL luta contra a falsificação de caixas de som no Brasil</title>
-      <link>https://tecnoblog.net/noticias/como-a-jbl-luta-contra-a-falsificacao-de-caixas-de-som-no-brasil/</link>
-      <description>Rodrigo Kniest, presidente da Harman (JBL) no Brasil, contou ao Tecnoblog as estratégias da companhia para combater a pirataria no país.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/como-a-jbl-luta-contra-a-falsificacao-de-caixas-de-som-no-brasil/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/caixa-som-bluetooth-jbl-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 06 Oct 2025 13:14:21 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 07 Oct 2025 18:16:54 +0000</lastBuildDate>
     <item>
       <title>AMD e OpenAI firmam parceria que desafia domínio da Nvidia em IA</title>
       <link>https://tecnoblog.net/noticias/amd-e-openai-firmam-parceria-que-desafia-dominio-da-nvidia-em-ia/</link>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-buds-core-com-anc-custa-menos-de-r-260-em-oferta-no-mercado-livre/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/galaxy-buds-core-tem-preco-sugerido-de-r-349-foto-thassius-velosotecnoblog-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Tue, 07 Oct 2025 16:00:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kindle tem oferta exclusiva em até 12x sem juros na Amazon</title>
+      <link>https://tecnoblog.net/achados/kindle-tem-oferta-exclusiva-em-ate-12x-sem-juros-na-amazon/</link>
+      <description>Kindle tem tela e-ink de 6 polegadas com modo noturno, 16 GB de armazenamento e desconto exclusivo para assinantes na Mega Oferta Amazon Prime</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/kindle-tem-oferta-exclusiva-em-ate-12x-sem-juros-na-amazon/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/05/Kindle-2024-tem-tela-tao-brilhante-quanto-a-do-Paperwhite-foto-Laura-CanalTecnoblog-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 07 Oct 2025 17:39:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Apple faz chacota de pane do Windows em novo comercial</title>
+      <link>https://tecnoblog.net/noticias/apple-faz-chacota-de-pane-do-windows-em-novo-comercial/</link>
+      <description>Campanha relembra apagão global de 2024, causado por falha da CrowdStrike. Episódio gerou tela azul em PCs com sistema da Microsoft, mas não afetou Macs.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/apple-faz-chacota-de-pane-do-windows-em-novo-comercial/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/captura-de-tela-2025-10-07-141509-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 07 Oct 2025 17:39:46 +0000</pubDate>
     </item>
   </channel>
 </rss>
