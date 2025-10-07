@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 07 Oct 2025 10:12:13 +0000</lastBuildDate>
-    <item>
-      <title>Disney põe fim ao Star+ e anuncia Hulu no Brasil</title>
-      <link>https://tecnoblog.net/noticias/disney-poe-fim-ao-star-e-anuncia-hulu-no-brasil/</link>
-      <description>Catálogo do Star será migrado para o Hulu em 8 de outubro. Mudança encerra a marca Star+ na América Latina.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/disney-poe-fim-ao-star-e-anuncia-hulu-no-brasil/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/disney-7-brands-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 03 Oct 2025 13:01:54 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 07 Oct 2025 11:09:55 +0000</lastBuildDate>
     <item>
       <title>Onde nascem as caixas de som JBL? Harman mostra produção no Brasil</title>
       <link>https://tecnoblog.net/noticias/ondem-nascem-as-caixas-de-som-jbl-harman-mostra-producao-no-brasil/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/bezos-admite-bolha-da-ia-mas-diz-que-ela-pode-ser-positiva/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2021/07/jeff-bezos-fundo-preto-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 06 Oct 2025 21:38:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sora: novo recurso da OpenAI tenta conter polêmica com vídeos gerados por IA</title>
+      <link>https://tecnoblog.net/noticias/sora-novo-recurso-da-openai-tenta-conter-polemica-com-videos-gerados-por-ia/</link>
+      <description>Ferramenta de geração de vídeos da OpenAI viraliza, mas gera debate sobre deepfakes e controle de imagem.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/sora-novo-recurso-da-openai-tenta-conter-polemica-com-videos-gerados-por-ia/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/g2htm3lx0aavo8k-edited-1-340x191.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 07 Oct 2025 10:43:37 +0000</pubDate>
     </item>
   </channel>
 </rss>
