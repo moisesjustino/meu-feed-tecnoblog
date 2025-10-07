@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 07 Oct 2025 18:16:54 +0000</lastBuildDate>
-    <item>
-      <title>AMD e OpenAI firmam parceria que desafia domínio da Nvidia em IA</title>
-      <link>https://tecnoblog.net/noticias/amd-e-openai-firmam-parceria-que-desafia-dominio-da-nvidia-em-ia/</link>
-      <description>Acordo prevê fornecimento de 6 gigawatts em GPUs e pode gerar dezenas de bilhões de dólares em receita para a AMD.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/amd-e-openai-firmam-parceria-que-desafia-dominio-da-nvidia-em-ia/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/05/amd_capa-2_tb-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 06 Oct 2025 14:00:49 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 07 Oct 2025 19:08:57 +0000</lastBuildDate>
     <item>
       <title>Ícone da robótica recomenda: não se aproxime dos humanoides atuais</title>
       <link>https://tecnoblog.net/noticias/icone-da-robotica-recomenda-nao-se-aproxime-dos-humanoides-atuais/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/apple-faz-chacota-de-pane-do-windows-em-novo-comercial/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/captura-de-tela-2025-10-07-141509-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Tue, 07 Oct 2025 17:39:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Califórnia proíbe streamings de mostrar comerciais em volume mais alto</title>
+      <link>https://tecnoblog.net/noticias/california-proibe-streamings-de-mostrar-comerciais-em-volume-mais-alto/</link>
+      <description>Lei da Califórnia que entrará em vigor em 2026 proíbe serviços de streaming de reproduzir comerciais com volume mais alto em relação ao conteúdo assistido.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/california-proibe-streamings-de-mostrar-comerciais-em-volume-mais-alto/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/03/TV-LG-C4-55-Thassius-Veloso-Tecnoblog-1-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 07 Oct 2025 18:29:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
