@@ -7,31 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 07 Oct 2025 19:08:57 +0000</lastBuildDate>
-    <item>
-      <title>Ícone da robótica recomenda: não se aproxime dos humanoides atuais</title>
-      <link>https://tecnoblog.net/noticias/icone-da-robotica-recomenda-nao-se-aproxime-dos-humanoides-atuais/</link>
-      <description>Rodney Brooks, pioneiro da robótica e cofundador da iRobot, alerta que os robôs humanoides atuais não são seguros.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/icone-da-robotica-recomenda-nao-se-aproxime-dos-humanoides-atuais/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/nvidia-e-foxconn-planejam-usar-robos-humanoides-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 06 Oct 2025 14:23:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cansou do spam? iPhone tem novo filtro inteligente de ligações</title>
-      <link>https://tecnoblog.net/noticias/cansou-do-spam-iphone-tem-novo-filtro-inteligente-de-ligacoes/</link>
-      <description>Recurso do iOS 26 permite que a Siri atenda chamadas de números desconhecidos e mostre a transcrição na tela. Funcionalidade visa reduzir chamadas de spam e fraudes.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/cansou-do-spam-iphone-tem-novo-filtro-inteligente-de-ligacoes/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/image-edited-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 06 Oct 2025 15:15:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pix Parcelado só deve ser lançado pelo Banco Central em 2026</title>
-      <link>https://tecnoblog.net/noticias/pix-parcelado-so-deve-ser-lancado-pelo-banco-central-em-2026/</link>
-      <description>Banco Central já está nos preparativos finais do Pix Parcelado, mas modalidade só deve estrear oficialmente em 2026, talvez no primeiro semestre.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/pix-parcelado-so-deve-ser-lancado-pelo-banco-central-em-2026/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/03/pix_capa-1_tb-340x191.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 06 Oct 2025 15:19:20 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 07 Oct 2025 20:12:25 +0000</lastBuildDate>
     <item>
       <title>Galaxy S24 Ultra (256 GB) tem 54% OFF em oferta com cupom no Magalu</title>
       <link>https://tecnoblog.net/achados/galaxy-s24-ultra-256-gb-tem-54-off-em-oferta-com-cupom-no-magalu/</link>
@@ -223,6 +199,30 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/california-proibe-streamings-de-mostrar-comerciais-em-volume-mais-alto/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/03/TV-LG-C4-55-Thassius-Veloso-Tecnoblog-1-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 07 Oct 2025 18:29:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Moto G86 (256 GB) tem menor preço desde lançamento com cupom no Magalu</title>
+      <link>https://tecnoblog.net/achados/moto-g86-256-gb-tem-menor-preco-desde-lancamento-com-cupom-no-magalu/</link>
+      <description>Moto G86 traz câmera Sony de 50 MP com IA, 8 GB de memória RAM e tela POLED de 120 Hz; celular da Motorola de 256 GB tem promoção histórica no Magazine Luiza</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/moto-g86-256-gb-tem-menor-preco-desde-lancamento-com-cupom-no-magalu/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/moto-g86-achados-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 07 Oct 2025 19:16:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Discord confirma vazamento de dados de usuários após ataque</title>
+      <link>https://tecnoblog.net/noticias/discord-confirma-vazamento-de-dados-de-usuarios-apos-ataque/</link>
+      <description>Falha de segurança em um fornecedor de atendimento expôs dados sensíveis, mas senhas não foram afetadas. Discord acusa tentativa de extorsão financeira.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/discord-confirma-vazamento-de-dados-de-usuarios-apos-ataque/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/11/discord-capa-2-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 07 Oct 2025 19:16:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sorvepotel: o que é o vírus que vem atacando o WhatsApp no Brasil?</title>
+      <link>https://tecnoblog.net/noticias/sorvepotel-o-que-e-o-virus-que-vem-atacando-o-whatsapp-no-brasil/</link>
+      <description>Programa malicioso simula arquivos legítimos, monitora atividades financeiras e exibe páginas falsas para capturar senhas</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/sorvepotel-o-que-e-o-virus-que-vem-atacando-o-whatsapp-no-brasil/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/08/capa-whats-fora-3_thumb_tb-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 07 Oct 2025 19:57:57 +0000</pubDate>
     </item>
   </channel>
 </rss>
