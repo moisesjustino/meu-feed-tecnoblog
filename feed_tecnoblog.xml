@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 08 Oct 2025 20:12:40 +0000</lastBuildDate>
-    <item>
-      <title>O que é multicast? Confira vantagens e desvantagens do modo de transmissão de dados</title>
-      <link>https://tecnoblog.net/responde/o-que-e-multicast-confira-vantagens-e-desvantagens-do-modo-de-transmissao-de-dados/</link>
-      <description>O multicast permite que uma única transmissão de dados seja enviada de uma fonte para um grupo específico de destinatários simultaneamente, reduzindo o tráfego de rede</description>
-      <guid isPermaLink="false">https://tecnoblog.net/responde/o-que-e-multicast-confira-vantagens-e-desvantagens-do-modo-de-transmissao-de-dados/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/ilustracao-de-rede-de-internet-edited-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 07 Oct 2025 14:19:21 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 08 Oct 2025 21:10:29 +0000</lastBuildDate>
     <item>
       <title>Auditoria usa IA, passa vergonha e devolve dinheiro de projeto</title>
       <link>https://tecnoblog.net/noticias/auditoria-usa-ia-passa-vergonha-e-devolve-dinheiro-de-projeto/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-s24-fe-128-gb-pelo-menor-preco-que-ja-vimos-em-oferta-com-cupom/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/03/Galaxy-S24-FE-promete-7-anos-de-Android-foto-Giovanni-Santa-Rosa-Tecnoblog-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Wed, 08 Oct 2025 19:38:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Apple faz mudança em suportes de loja após “scratchgate” do iPhone 17</title>
+      <link>https://tecnoblog.net/noticias/apple-faz-mudanca-em-suportes-de-loja-apos-scratchgate-do-iphone-17/</link>
+      <description>Empresa adota proteção de silicone em carregadores MagSafe de bancadas da Apple Store para evitar marcas nos celulares</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/apple-faz-mudanca-em-suportes-de-loja-apos-scratchgate-do-iphone-17/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/iphone-17-pro-02-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 08 Oct 2025 20:30:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
