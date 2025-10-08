@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 08 Oct 2025 19:08:50 +0000</lastBuildDate>
-    <item>
-      <title>Vai ficar ainda mais difícil instalar o Windows 11 sem uma conta Microsoft</title>
-      <link>https://tecnoblog.net/noticias/vai-ficar-ainda-mais-dificil-instalar-o-windows-11-sem-uma-conta-microsoft/</link>
-      <description>Microsoft começou a remover recursos que permitiam a instalação do Windows 11 com uma conta local, que não exige acesso à internet durante o procedimento.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/vai-ficar-ainda-mais-dificil-instalar-o-windows-11-sem-uma-conta-microsoft/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/03/windows-11-3-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 07 Oct 2025 13:51:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Galaxy Z Fold 6 (512 GB) tem desconto exclusivo de 58% em até 12x sem juros</title>
-      <link>https://tecnoblog.net/achados/galaxy-z-fold-6-512-gb-tem-desconto-exclusivo-de-57-em-ate-12x-sem-juros/</link>
-      <description>Galaxy Z Fold 6 de 512 GB em promoção histórica na Mega Oferta Amazon Prime; celular dobrável tem tela interna AMOLED de 7,6 polegadas, chip Snapdragon 8 Gen 3 e câmera tripla com zoom óptico de 3x</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-z-fold-6-512-gb-tem-desconto-exclusivo-de-57-em-ate-12x-sem-juros/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/01/tela-do-galagalaxy-z-fold-6-tela-interna-de-76-polegadas-foto-thassius-velosotecnoblogxy-a16-e-amoled-com-resolucao-full-hd-foto-thassius-velosotecnoblog-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 07 Oct 2025 14:08:30 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 08 Oct 2025 20:12:40 +0000</lastBuildDate>
     <item>
       <title>O que é multicast? Confira vantagens e desvantagens do modo de transmissão de dados</title>
       <link>https://tecnoblog.net/responde/o-que-e-multicast-confira-vantagens-e-desvantagens-do-modo-de-transmissao-de-dados/</link>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/samsung-pode-liberar-beta-da-one-ui-8-5-ja-em-novembro/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/05/Capa-TBR-OneUI-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Wed, 08 Oct 2025 18:37:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Galaxy S25 (256 GB) com 49% de desconto em oferta no Magalu</title>
+      <link>https://tecnoblog.net/achados/galaxy-s25-256-gb-com-49-de-desconto-em-oferta-no-magalu/</link>
+      <description>Galaxy S25 (256 GB) tem Snapdragon 8 Elite com RAM de 12 GB, câmera tripla com zoom óptico de 3x e tela AMOLED com brilho até 2.600 nits</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-s25-256-gb-com-49-de-desconto-em-oferta-no-magalu/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/galaxy-s24-traz-processador-snapdragon-8-elite-da-qualcomm-foto-thassius-velosotecnoblog-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 08 Oct 2025 19:17:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Galaxy S24 FE (128 GB) pelo menor preço que já vimos em oferta com cupom</title>
+      <link>https://tecnoblog.net/achados/galaxy-s24-fe-128-gb-pelo-menor-preco-que-ja-vimos-em-oferta-com-cupom/</link>
+      <description>Smartphone premium da Samsung em promoção com cupom no Magalu traz tela AMOLED de 6,7", 8 GB de RAM e trio de câmeras com principal de 50 MP</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-s24-fe-128-gb-pelo-menor-preco-que-ja-vimos-em-oferta-com-cupom/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/03/Galaxy-S24-FE-promete-7-anos-de-Android-foto-Giovanni-Santa-Rosa-Tecnoblog-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 08 Oct 2025 19:38:51 +0000</pubDate>
     </item>
   </channel>
 </rss>
