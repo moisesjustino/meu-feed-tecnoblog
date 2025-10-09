@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 09 Oct 2025 14:12:04 +0000</lastBuildDate>
-    <item>
-      <title>Quais são os modelos de notebook Asus? Saiba a diferença entre Vivobook e Zenbook</title>
-      <link>https://tecnoblog.net/responde/quais-sao-os-modelos-de-notebook-asus-saiba-a-diferenca-entre-vivobook-e-zenbook/</link>
-      <description>Asus oferece modelos para uso diário, produtividade, produção audiovisual e até para jogos; veja detalhes sobre cada linha de notebook</description>
-      <guid isPermaLink="false">https://tecnoblog.net/responde/quais-sao-os-modelos-de-notebook-asus-saiba-a-diferenca-entre-vivobook-e-zenbook/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/03/Asus-Vivobook-16-Foto-Thassius-Veloso-Tecnoblog-4-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 07 Oct 2025 17:58:42 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 09 Oct 2025 15:27:41 +0000</lastBuildDate>
     <item>
       <title>Califórnia proíbe streamings de mostrar comerciais em volume mais alto</title>
       <link>https://tecnoblog.net/noticias/california-proibe-streamings-de-mostrar-comerciais-em-volume-mais-alto/</link>
@@ -211,7 +203,7 @@
     <item>
       <title>Realme 15 5G e Realme 15 Pro são anunciados no Brasil; saiba os preços</title>
       <link>https://tecnoblog.net/noticias/realme-15-5g-e-realme-15-pro-sao-anunciados-no-brasil-saiba-os-precos/</link>
-      <description>Modelos contam com bateria de até 7.000 mAh, resistência IP68/IP69 e promessa de três atualizações do Android</description>
+      <description>Modelos contam com bateria de até 7.000 mAh, resistência IP68/IP69 e promessa de três atualizações do Android.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/realme-15-5g-e-realme-15-pro-sao-anunciados-no-brasil-saiba-os-precos/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/realme-15-pro-4-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Thu, 09 Oct 2025 13:18:52 +0000</pubDate>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/kindle-com-desconto-exclusivo-28-off-em-ate-12x-sem-juros/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/05/Kindle-2024-tem-tela-tao-brilhante-quanto-a-do-Paperwhite-foto-Laura-CanalTecnoblog-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Thu, 09 Oct 2025 13:40:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ubuntu 25.10 chega com Gnome 49 e kernel 6.17; confira os detalhes</title>
+      <link>https://tecnoblog.net/noticias/ubuntu-25-10-chega-com-gnome-49-e-kernel-6-17-confira-os-detalhes/</link>
+      <description>Distribuição Ubuntu 25.10 "Questing Quokka" é lançada com ambiente Gnome 49 como destaque, ferramentas como LibreOffice 25.8.1, e suporte melhorado a gráficos.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/ubuntu-25-10-chega-com-gnome-49-e-kernel-6-17-confira-os-detalhes/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/ubuntu-25-10-1-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 09 Oct 2025 14:49:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
