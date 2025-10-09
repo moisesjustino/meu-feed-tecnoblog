@@ -7,39 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 09 Oct 2025 19:09:21 +0000</lastBuildDate>
-    <item>
-      <title>Garmin Forerunner 55 tem bateria para 14 dias e 36% OFF em até 10x na Amazon</title>
-      <link>https://tecnoblog.net/achados/garmin-forerunner-55-tem-bateria-para-14-dias-e-36-off-em-ate-10x-na-amazon/</link>
-      <description>Garmin Forerunner 55 promete bateria de longa duração, tem recursos de saúde avançados e desconto de 36% com parcelamento em até 10x exclusivo Amazon Prime</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/garmin-forerunner-55-tem-bateria-para-14-dias-e-36-off-em-ate-10x-na-amazon/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/garmin-forerunner-55-tem-bateria-de-longa-duracao-foto-divulgacao-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 07 Oct 2025 20:17:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>HMD Touch 4G é um celular básico que remete a um smartphone</title>
-      <link>https://tecnoblog.net/noticias/hmd-touch-4g-e-um-celular-basico-que-remete-a-um-smartphone/</link>
-      <description>HMD lançou o Touch 4G, um celular básico com recursos de smartphone. Modelo tem tela de 3,2 polegadas em vez de teclado numérico, e traz câmera traseira de 2 MP.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/hmd-touch-4g-e-um-celular-basico-que-remete-a-um-smartphone/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/hmd-touch-4g-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 07 Oct 2025 20:21:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Linhas de notebook da Acer: veja as características de cada série da marca</title>
-      <link>https://tecnoblog.net/responde/linhas-de-notebook-da-acer-veja-as-caracteristicas-de-cada-serie-da-marca/</link>
-      <description>As linhas de notebook da Acer atendem a demandas básicas do dia a dia, tarefas para trabalho ou estudo, além de uso intensivo para jogos</description>
-      <guid isPermaLink="false">https://tecnoblog.net/responde/linhas-de-notebook-da-acer-veja-as-caracteristicas-de-cada-serie-da-marca/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/notebooks-acer-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 07 Oct 2025 21:10:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>O que é unicast? Veja exemplos do modo de transmissão de dados ponto a ponto</title>
-      <link>https://tecnoblog.net/responde/o-que-e-unicast-veja-exemplos-do-modo-de-transmissao-de-dados-ponto-a-ponto/</link>
-      <description>A função do unicast é enviar dados de um único remetente para um único destinatário específico na rede, criando uma comunicação ponto a ponto</description>
-      <guid isPermaLink="false">https://tecnoblog.net/responde/o-que-e-unicast-veja-exemplos-do-modo-de-transmissao-de-dados-ponto-a-ponto/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/tbr-ti-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 07 Oct 2025 21:10:38 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 09 Oct 2025 20:12:38 +0000</lastBuildDate>
     <item>
       <title>Google lança ferramenta de vibe coding no Brasil</title>
       <link>https://tecnoblog.net/noticias/google-lanca-ferramenta-de-vibe-coding-no-brasil/</link>
@@ -119,6 +87,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/kindle-paperwhite-ate-10x-sem-juros-tem-28-off-com-cupom-exclusivo/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/07/oferta-kindle-prime-day-amazon-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Wed, 08 Oct 2025 18:14:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Como acessar a carteira de vacinação digital do SUS pelo celular ou PC</title>
+      <link>https://tecnoblog.net/responde/como-acessar-a-carteira-de-vacinacao-digital-do-sus/</link>
+      <description>A carteira de vacinação é um documento oficial que registra todas as doses de vacina da pessoa, servindo para comprovar a imunização contra doenças</description>
+      <guid isPermaLink="false">https://tecnoblog.net/responde/como-acessar-a-carteira-de-vacinacao-digital-do-sus/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2021/02/como-acessar-a-carteira-de-vacinacao-digital-do-sus-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 08 Oct 2025 18:34:51 +0000</pubDate>
     </item>
     <item>
       <title>Samsung pode liberar beta da One UI 8.5 já em novembro</title>
@@ -223,6 +199,30 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/lg-aumenta-garantia-de-ar-condicionado-para-dois-anos/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/ar-condicionado-split-dual-inverter-lg-edited-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Thu, 09 Oct 2025 18:49:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Edit: editor para linha de comando será nativo no Windows 11</title>
+      <link>https://tecnoblog.net/noticias/microsoft-edit-editor-para-linha-de-comando-sera-nativo-no-windows-11/</link>
+      <description>Edit é um editor de texto para linha de comando e com código-fonte aberto. Ferramenta já é encontrada em versão de teste do Windows 11, mas também é possível baixá-la.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/microsoft-edit-editor-para-linha-de-comando-sera-nativo-no-windows-11/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/05/microsoft-edit-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 09 Oct 2025 19:36:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Panther Lake: Intel revela nova geração de chips Core Ultra</title>
+      <link>https://tecnoblog.net/noticias/panther-lake-intel-revela-nova-geracao-de-chips-core-ultra/</link>
+      <description>Próxima geração de processadores Core Ultra chegará em 2026, com litografia Intel 18A e novos núcleos de CPU. GPU Xe3 deve aumentar em 50% o desempenho gráfico.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/panther-lake-intel-revela-nova-geracao-de-chips-core-ultra/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/intel-core-ultra-serie-3-edited-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 09 Oct 2025 19:51:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Galaxy Z Fold 6 (512 GB) tem desconto histórico de 63% em oferta na Amazon</title>
+      <link>https://tecnoblog.net/achados/galaxy-z-fold-6-512-gb-tem-desconto-historico-de-63-em-oferta-na-amazon/</link>
+      <description>Celular dobrável da Samsung em promoção exclusiva para assinantes Amazon Prime. Traz telas AMOLED de 7,6" e 6,3" com 120 Hz, Snapdragon 8 Gen 3 e câmeras com gravações em 8K</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-z-fold-6-512-gb-tem-desconto-historico-de-63-em-oferta-na-amazon/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/01/tela-do-galagalaxy-z-fold-6-tela-interna-de-76-polegadas-foto-thassius-velosotecnoblogxy-a16-e-amoled-com-resolucao-full-hd-foto-thassius-velosotecnoblog-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 09 Oct 2025 20:07:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
