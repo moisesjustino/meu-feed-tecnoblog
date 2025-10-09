@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 09 Oct 2025 13:24:18 +0000</lastBuildDate>
-    <item>
-      <title>Apple faz chacota de pane do Windows em novo comercial</title>
-      <link>https://tecnoblog.net/noticias/apple-faz-chacota-de-pane-do-windows-em-novo-comercial/</link>
-      <description>Campanha relembra apagão global de 2024, causado por falha da CrowdStrike. Episódio gerou tela azul em PCs com sistema da Microsoft, mas não afetou Macs.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/apple-faz-chacota-de-pane-do-windows-em-novo-comercial/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/captura-de-tela-2025-10-07-141509-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 07 Oct 2025 17:39:46 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 09 Oct 2025 14:12:04 +0000</lastBuildDate>
     <item>
       <title>Quais são os modelos de notebook Asus? Saiba a diferença entre Vivobook e Zenbook</title>
       <link>https://tecnoblog.net/responde/quais-sao-os-modelos-de-notebook-asus-saiba-a-diferenca-entre-vivobook-e-zenbook/</link>
@@ -155,7 +147,7 @@
     <item>
       <title>Realme 15 ganha versão baseada em Game of Thrones</title>
       <link>https://tecnoblog.net/noticias/realme-15-ganha-versao-baseada-em-game-of-thrones/</link>
-      <description>Celular tem traseira que muda de cor e embalagem colecionável. Versão padrão do aparelho deve ser lançada no Brasil, mas edição especial ainda não tem data.</description>
+      <description>Celular tem traseira que muda de cor e embalagem colecionável. Versão especial chega ao Brasil pelo preço sugerido de R$ 5.999.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/realme-15-ganha-versao-baseada-em-game-of-thrones/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/realme-15-pro-got-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Wed, 08 Oct 2025 16:34:40 +0000</pubDate>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/realme-15-5g-e-realme-15-pro-sao-anunciados-no-brasil-saiba-os-precos/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/realme-15-pro-4-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Thu, 09 Oct 2025 13:18:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kindle com desconto exclusivo: 28% OFF em até 12x sem juros</title>
+      <link>https://tecnoblog.net/achados/kindle-com-desconto-exclusivo-28-off-em-ate-12x-sem-juros/</link>
+      <description>Kindle mais recente tem armazenamento de 16 GB, tela e-ink com modo noturno e bateria para até 6 semanas; e-reader tem oferta exclusiva para assinantes Amazon Prime</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/kindle-com-desconto-exclusivo-28-off-em-ate-12x-sem-juros/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/05/Kindle-2024-tem-tela-tao-brilhante-quanto-a-do-Paperwhite-foto-Laura-CanalTecnoblog-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 09 Oct 2025 13:40:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
