@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 09 Oct 2025 16:15:38 +0000</lastBuildDate>
-    <item>
-      <title>Moto G86 (256 GB) tem menor preço desde lançamento com cupom no Magalu</title>
-      <link>https://tecnoblog.net/achados/moto-g86-256-gb-tem-menor-preco-desde-lancamento-com-cupom-no-magalu/</link>
-      <description>Moto G86 traz câmera Sony de 50 MP com IA, 8 GB de memória RAM e tela POLED de 120 Hz; celular da Motorola de 256 GB tem promoção histórica no Magazine Luiza</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/moto-g86-256-gb-tem-menor-preco-desde-lancamento-com-cupom-no-magalu/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/moto-g86-achados-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 07 Oct 2025 19:16:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Discord confirma vazamento de dados de usuários após ataque</title>
-      <link>https://tecnoblog.net/noticias/discord-confirma-vazamento-de-dados-de-usuarios-apos-ataque/</link>
-      <description>Falha de segurança em um fornecedor de atendimento expôs dados sensíveis, mas senhas não foram afetadas. Discord acusa tentativa de extorsão financeira.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/discord-confirma-vazamento-de-dados-de-usuarios-apos-ataque/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/11/discord-capa-2-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 07 Oct 2025 19:16:44 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 09 Oct 2025 17:10:47 +0000</lastBuildDate>
     <item>
       <title>Sorvepotel: o que é o vírus que vem atacando o WhatsApp no Brasil?</title>
       <link>https://tecnoblog.net/noticias/sorvepotel-o-que-e-o-virus-que-vem-atacando-o-whatsapp-no-brasil/</link>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/preco-medio-do-gb-no-celular-subiu-de-novo-no-brasil/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/04/anatel-capa-tecnoblog-antena-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Thu, 09 Oct 2025 15:49:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cartões de benefícios Ticket finalmente chegam ao Apple Pay</title>
+      <link>https://tecnoblog.net/noticias/cartoes-de-beneficios-ticket-finalmente-chegam-ao-apple-pay/</link>
+      <description>Cartões Ticket, Flex, Super Flex, Alimentação e Restaurante já podem ser cadastrados no Apple Pay para pagamentos por aproximação.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/cartoes-de-beneficios-ticket-finalmente-chegam-ao-apple-pay/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/ticket-apple-pay-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 09 Oct 2025 16:35:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Galaxy A55 (256 GB) com o menor preço do ano em promoção exclusiva</title>
+      <link>https://tecnoblog.net/achados/galaxy-a55-256-gb-com-o-menor-preco-do-ano-em-promocao-exclusiva/</link>
+      <description>Galaxy A55 tem mais de 50% de desconto em promoção exclusiva para assinantes Amazon Prime; smartphone traz tela AMOLED de 120 Hz, câmera de 50 MP e bateria de 5.000 mAh</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-a55-256-gb-com-o-menor-preco-do-ano-em-promocao-exclusiva/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/04/galaxy-a55-sai-pelo-preco-do-a54-em-promocao-foto-thassius-velosotecnoblog-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 09 Oct 2025 16:42:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
