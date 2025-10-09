@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 09 Oct 2025 20:12:38 +0000</lastBuildDate>
-    <item>
-      <title>Google lança ferramenta de vibe coding no Brasil</title>
-      <link>https://tecnoblog.net/noticias/google-lanca-ferramenta-de-vibe-coding-no-brasil/</link>
-      <description>Plataforma experimental Opal, criada pelo Google Labs, estava em testes nos EUA desde julho.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/google-lanca-ferramenta-de-vibe-coding-no-brasil/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/opal-340x191.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 08 Oct 2025 11:17:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Filha de Robin Williams pede a fãs: não mandem vídeos de IA</title>
-      <link>https://tecnoblog.net/noticias/filha-de-robin-williams-pede-a-fas-nao-mandem-videos-de-ia/</link>
-      <description>Zelda Williams, filha do falecido ator Robin Williams, expressou descontentamento com vídeos de IA generativa que reproduzem imagens de seu pai.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/filha-de-robin-williams-pede-a-fas-nao-mandem-videos-de-ia/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/robin-williams-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 08 Oct 2025 13:26:05 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 09 Oct 2025 21:10:08 +0000</lastBuildDate>
     <item>
       <title>Firefox começa a receber perfis para separar histórico e favoritos</title>
       <link>https://tecnoblog.net/noticias/firefox-comeca-a-receber-perfis-para-separar-historico-e-favoritos/</link>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-z-fold-6-512-gb-tem-desconto-historico-de-63-em-oferta-na-amazon/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/01/tela-do-galagalaxy-z-fold-6-tela-interna-de-76-polegadas-foto-thassius-velosotecnoblogxy-a16-e-amoled-com-resolucao-full-hd-foto-thassius-velosotecnoblog-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Thu, 09 Oct 2025 20:07:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>iPhone 16 Pro (256 GB) tem menor preço em meses com 31% de desconto</title>
+      <link>https://tecnoblog.net/achados/iphone-16-pro-256-gb-tem-menor-preco-em-meses-com-31-de-desconto/</link>
+      <description>iPhone 16 Pro (256 GB) tem lentes ultrawide de 48 MP e periscópica com zoom de 5x, além de processador A18 Pro; celular da Apple tem melhor oferta desde agosto</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/iphone-16-pro-256-gb-tem-menor-preco-em-meses-com-31-de-desconto/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/iphone-16-pro-imagem-divulgacao-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 09 Oct 2025 20:44:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>iPhone 16 Pro Max (512 GB) tem 33% OFF com cupom no Mercado Livre</title>
+      <link>https://tecnoblog.net/achados/iphone-16-pro-max-512-gb-tem-33-off-com-cupom-no-mercado-livre/</link>
+      <description>iPhone 16 Pro Max de 512 GB tem RAM de 8 GB, chip Apple A18 Pro e câmera tripla com dois sensores de 48 MP</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/iphone-16-pro-max-512-gb-tem-33-off-com-cupom-no-mercado-livre/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/01/iphone-16-pro-foto-thassius-velosotecnoblog-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 09 Oct 2025 21:00:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
