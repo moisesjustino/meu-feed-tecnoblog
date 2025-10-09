@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 09 Oct 2025 22:10:42 +0000</lastBuildDate>
-    <item>
-      <title>Firefox começa a receber perfis para separar histórico e favoritos</title>
-      <link>https://tecnoblog.net/noticias/firefox-comeca-a-receber-perfis-para-separar-historico-e-favoritos/</link>
-      <description>Perfis independentes oferecem mais privacidade e organização, mas ainda não estão disponíveis em Android e iOS</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/firefox-comeca-a-receber-perfis-para-separar-historico-e-favoritos/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/firefox-perfis-edited-340x191.webp" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 08 Oct 2025 14:39:32 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 09 Oct 2025 23:10:33 +0000</lastBuildDate>
     <item>
       <title>Galaxy S26 pode copiar a cor marcante do iPhone 17</title>
       <link>https://tecnoblog.net/noticias/galaxy-s26-pode-copiar-a-cor-marcante-do-iphone-17/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/iphone-16-pro-max-512-gb-tem-33-off-com-cupom-no-mercado-livre/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/01/iphone-16-pro-foto-thassius-velosotecnoblog-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Thu, 09 Oct 2025 21:00:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Prepare-se: seu Instagram vai ficar cheio de vídeos dublados por IA</title>
+      <link>https://tecnoblog.net/noticias/prepare-se-seu-instagram-vai-ficar-cheio-de-videos-dublados-por-ia/</link>
+      <description>Recurso de dublagem automática chega em português após dois meses restrito ao inglês e espanhol.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/prepare-se-seu-instagram-vai-ficar-cheio-de-videos-dublados-por-ia/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/meta-ai-traducao-340x191.webp" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 09 Oct 2025 22:45:51 +0000</pubDate>
     </item>
   </channel>
 </rss>
