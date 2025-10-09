@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 09 Oct 2025 15:27:41 +0000</lastBuildDate>
-    <item>
-      <title>Califórnia proíbe streamings de mostrar comerciais em volume mais alto</title>
-      <link>https://tecnoblog.net/noticias/california-proibe-streamings-de-mostrar-comerciais-em-volume-mais-alto/</link>
-      <description>Lei da Califórnia que entrará em vigor em 2026 proíbe serviços de streaming de reproduzir comerciais com volume mais alto em relação ao conteúdo assistido.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/california-proibe-streamings-de-mostrar-comerciais-em-volume-mais-alto/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/03/TV-LG-C4-55-Thassius-Veloso-Tecnoblog-1-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 07 Oct 2025 18:29:36 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 09 Oct 2025 16:15:38 +0000</lastBuildDate>
     <item>
       <title>Moto G86 (256 GB) tem menor preço desde lançamento com cupom no Magalu</title>
       <link>https://tecnoblog.net/achados/moto-g86-256-gb-tem-menor-preco-desde-lancamento-com-cupom-no-magalu/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/ubuntu-25-10-chega-com-gnome-49-e-kernel-6-17-confira-os-detalhes/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/ubuntu-25-10-1-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Thu, 09 Oct 2025 14:49:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Preço médio do GB no celular subiu de novo no Brasil</title>
+      <link>https://tecnoblog.net/noticias/preco-medio-do-gb-no-celular-subiu-de-novo-no-brasil/</link>
+      <description>Relatório da Anatel mostra que brasileiros consomem menos dados móveis, mas pagam mais caro. Telefonia móvel segue como o serviço mais lucrativo do setor.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/preco-medio-do-gb-no-celular-subiu-de-novo-no-brasil/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/04/anatel-capa-tecnoblog-antena-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 09 Oct 2025 15:49:46 +0000</pubDate>
     </item>
   </channel>
 </rss>
