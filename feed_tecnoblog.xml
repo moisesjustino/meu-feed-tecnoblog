@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 10 Oct 2025 20:11:54 +0000</lastBuildDate>
-    <item>
-      <title>Visa diz que transações falsas são quase o dobro das genuínas</title>
-      <link>https://tecnoblog.net/noticias/visa-diz-que-transacoes-falsas-sao-quase-o-dobro-das-genuinas/</link>
-      <description>Valor médio de transações fraudulentas é R$ 1,2 mil, praticamente o dobro do valor das compras reais. Empresa tem usado IA no combate às tentativas de golpe.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/visa-diz-que-transacoes-falsas-sao-quase-o-dobro-das-genuinas/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2021/09/cartao-credito-visa-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 09 Oct 2025 12:59:21 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 10 Oct 2025 21:09:35 +0000</lastBuildDate>
     <item>
       <title>Realme 15 5G e Realme 15 Pro são anunciados no Brasil; saiba os preços</title>
       <link>https://tecnoblog.net/noticias/realme-15-5g-e-realme-15-pro-sao-anunciados-no-brasil-saiba-os-precos/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/openai-decide-trazer-o-megaprojeto-stargate-para-a-america-do-sul/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/06/openai-3_capa-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Fri, 10 Oct 2025 19:37:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Galaxy S25 Plus (256 GB) sai 48% mais barato em até 21x no Mercado Livre</title>
+      <link>https://tecnoblog.net/achados/galaxy-s25-plus-256-gb-sai-48-mais-barato-em-ate-21x-no-mercado-livre/</link>
+      <description>Galaxy S25 Plus de 256 GB tem chip da Qualcomm, RAM de 12 GB e câmera tripla com zoom óptico de 3x; celular Samsung tem oferta com parcelamento no 10.10 do Mercado Livre</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-s25-plus-256-gb-sai-48-mais-barato-em-ate-21x-no-mercado-livre/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/04/Samsung-Galaxy-S25-Plus-tem-tela-de-67-com-resolucao-QHD-imagem-Samsung-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 10 Oct 2025 20:14:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
