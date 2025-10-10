@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 10 Oct 2025 16:14:32 +0000</lastBuildDate>
-    <item>
-      <title>Realme 15 ganha versão baseada em Game of Thrones</title>
-      <link>https://tecnoblog.net/noticias/realme-15-ganha-versao-baseada-em-game-of-thrones/</link>
-      <description>Celular tem traseira que muda de cor e embalagem colecionável. Versão especial chega ao Brasil pelo preço sugerido de R$ 5.999.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/realme-15-ganha-versao-baseada-em-game-of-thrones/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/realme-15-pro-got-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 08 Oct 2025 16:34:40 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 10 Oct 2025 17:10:31 +0000</lastBuildDate>
     <item>
       <title>Kindle Paperwhite até 10x sem juros tem 28% OFF com cupom exclusivo</title>
       <link>https://tecnoblog.net/achados/kindle-paperwhite-ate-10x-sem-juros-tem-28-off-com-cupom-exclusivo/</link>
@@ -205,7 +197,7 @@
       <link>https://tecnoblog.net/noticias/oakley-meta-hstn-chega-ao-brasil-saiba-o-preco/</link>
       <description>Óculos smart chegam às lojas neste sábado (11) por R$ 3.459. Dispositivos têm recursos de IA e bateria de até oito horas.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/oakley-meta-hstn-chega-ao-brasil-saiba-o-preco/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/copia-de-oakley-meta-hstn-gabriel-medina-3-1.jpg" length="0" type="image/jpeg"/>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/meta-oakley-hstn-5-edited-340x191.jpeg" length="0" type="image/jpeg"/>
       <pubDate>Fri, 10 Oct 2025 14:24:09 +0000</pubDate>
     </item>
     <item>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/iphone-16-plus-512-gb-em-oferta-historica-no-mercado-livre/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/05/Iphone-16-preto-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Fri, 10 Oct 2025 16:14:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dell anuncia notebook Pro Max 16 para quem busca alto desempenho</title>
+      <link>https://tecnoblog.net/noticias/dell-anuncia-notebook-pro-max-16-para-quem-busca-alto-desempenho/</link>
+      <description>Dell Pro Max 16 pode ser equipado com processador Intel Core Ultra 9 285H (16 núcleos) e até 64 GB de RAM em sua configuração mais avançada.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/dell-anuncia-notebook-pro-max-16-para-quem-busca-alto-desempenho/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/dell-pro-max-16-1-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 10 Oct 2025 16:22:41 +0000</pubDate>
     </item>
   </channel>
 </rss>
