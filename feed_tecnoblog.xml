@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 10 Oct 2025 19:08:43 +0000</lastBuildDate>
-    <item>
-      <title>Apple faz mudança em suportes de loja após “scratchgate” do iPhone 17</title>
-      <link>https://tecnoblog.net/noticias/apple-faz-mudanca-em-suportes-de-loja-apos-scratchgate-do-iphone-17/</link>
-      <description>Empresa adota proteção de silicone em carregadores MagSafe de bancadas da Apple Store para evitar marcas nos celulares</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/apple-faz-mudanca-em-suportes-de-loja-apos-scratchgate-do-iphone-17/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/iphone-17-pro-02-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 08 Oct 2025 20:30:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Como é a minitela dos novos notebooks Positivo</title>
-      <link>https://tecnoblog.net/noticias/como-e-a-minitela-dos-novos-notebooks-positivo/</link>
-      <description>Recém-lançados, notebooks Positivo Vision R15M, C15M e I15M têm minitela LCD abaixo do teclado para notificações e widgets; veja como funciona.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/como-e-a-minitela-dos-novos-notebooks-positivo/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/positivo-vision-c15m-minitela-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 08 Oct 2025 22:41:05 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 10 Oct 2025 20:11:54 +0000</lastBuildDate>
     <item>
       <title>Visa diz que transações falsas são quase o dobro das genuínas</title>
       <link>https://tecnoblog.net/noticias/visa-diz-que-transacoes-falsas-sao-quase-o-dobro-das-genuinas/</link>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/iphone-15-256-gb-tem-menor-preco-que-ja-vimos-no-10-10-do-mercado-livre/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/04/iphone-15-lancamento-apple-cupertino-6-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Fri, 10 Oct 2025 18:35:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chrome vai desativar sozinho notificações de sites que você ignora</title>
+      <link>https://tecnoblog.net/noticias/chrome-vai-desativar-sozinho-notificacoes-de-sites-que-voce-ignora/</link>
+      <description>Objetivo é evitar excesso de notificações de sites no navegador. Novidade será lançada nas versões do Chrome para Android e desktops.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/chrome-vai-desativar-sozinho-notificacoes-de-sites-que-voce-ignora/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/11/google-chrome-capa-2-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 10 Oct 2025 19:29:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI decide trazer o megaprojeto Stargate para a América do Sul</title>
+      <link>https://tecnoblog.net/noticias/openai-decide-trazer-o-megaprojeto-stargate-para-a-america-do-sul/</link>
+      <description>Data center na Argentina será o primeiro da OpenAI na América Latina. Primeira fase deve começar a operar até o fim de 2027, com 100 MW.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/openai-decide-trazer-o-megaprojeto-stargate-para-a-america-do-sul/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/06/openai-3_capa-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 10 Oct 2025 19:37:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
