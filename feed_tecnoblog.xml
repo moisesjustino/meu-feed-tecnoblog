@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 10 Oct 2025 13:21:51 +0000</lastBuildDate>
-    <item>
-      <title>Galaxy S26 pode copiar a cor marcante do iPhone 17</title>
-      <link>https://tecnoblog.net/noticias/galaxy-s26-pode-copiar-a-cor-marcante-do-iphone-17/</link>
-      <description>Possível vazamento mostra o que seria o novo topo de linha da Samsung em tom vibrante. Modelo teria cor quase idêntica à usada pela Apple.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/galaxy-s26-pode-copiar-a-cor-marcante-do-iphone-17/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/galaxy-s26-ultra-vazamento-340x191.webp" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 08 Oct 2025 14:49:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Milhões de pessoas devem se recusar a abandonar o Windows 10</title>
-      <link>https://tecnoblog.net/noticias/milhoes-de-pessoas-devem-manter-windows-10-apos-fim-do-suporte/</link>
-      <description>Pesquisa no Reino Unido aponta que 26% dos usuários do Windows 10 manterão sistema após fim do suporte. Movimento semelhante deve ocorrer em outros países.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/milhoes-de-pessoas-devem-manter-windows-10-apos-fim-do-suporte/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/windows-10-computador-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 08 Oct 2025 15:05:34 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 10 Oct 2025 14:11:50 +0000</lastBuildDate>
     <item>
       <title>Galaxy Tab S10 Ultra (512 GB) com 48% OFF em até 10x exclusivo na Amazon</title>
       <link>https://tecnoblog.net/achados/galaxy-tab-s10-ultra-512-gb-com-48-off-em-ate-10x-exclusivo-na-amazon/</link>
@@ -201,7 +185,7 @@
       <pubDate>Thu, 09 Oct 2025 20:07:06 +0000</pubDate>
     </item>
     <item>
-      <title>iPhone 16 Pro (256 GB) tem menor preço em meses com 31% de desconto</title>
+      <title>iPhone 16 Pro (256 GB) tem menor preço em meses com 30% de desconto</title>
       <link>https://tecnoblog.net/achados/iphone-16-pro-256-gb-tem-menor-preco-em-meses-com-31-de-desconto/</link>
       <description>iPhone 16 Pro (256 GB) tem lentes ultrawide de 48 MP e periscópica com zoom de 5x, além de processador A18 Pro; celular da Apple tem melhor oferta desde agosto</description>
       <guid isPermaLink="false">https://tecnoblog.net/achados/iphone-16-pro-256-gb-tem-menor-preco-em-meses-com-31-de-desconto/</guid>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/prepare-se-seu-instagram-vai-ficar-cheio-de-videos-dublados-por-ia/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/meta-ai-traducao-340x191.webp" length="0" type="image/jpeg"/>
       <pubDate>Thu, 09 Oct 2025 22:45:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Veja a operadora mais rápida e a mais confiável do país</title>
+      <link>https://tecnoblog.net/noticias/veja-a-operadora-mais-rapida-e-a-mais-confiavel-do-pais/</link>
+      <description>Novo relatório da Opensignal traz dados consolidados em outubro. Vivo ganha destaque em velocidade e Nio, em estabilidade.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/veja-a-operadora-mais-rapida-e-a-mais-confiavel-do-pais/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/05/capa-claro-tim-vivo_tb-1-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 10 Oct 2025 13:30:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ex-Microsoft revela origem da chave pirata mais usada no Windows XP</title>
+      <link>https://tecnoblog.net/noticias/ex-microsoft-revela-origem-da-chave-pirata-mais-usada-no-windows-xp/</link>
+      <description>Chave FCKGW-RHQQ2-YXRKT-8TG6W-2B7Q8 foi muita usada em cópias irregulares do Windows XP. Dave Plummer, que trabalhou na Microsoft, contou origem do código.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/ex-microsoft-revela-origem-da-chave-pirata-mais-usada-no-windows-xp/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/03/windows-xp-alan-levine-flickr-edited-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 10 Oct 2025 13:58:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
