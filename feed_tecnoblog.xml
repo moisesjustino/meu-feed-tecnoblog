@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 10 Oct 2025 15:11:31 +0000</lastBuildDate>
-    <item>
-      <title>Google lança plano mais barato com IA avançada no Brasil; saiba o preço</title>
-      <link>https://tecnoblog.net/noticias/google-lanca-plano-mais-barato-com-ia-avancada-no-brasil-saiba-o-preco/</link>
-      <description>Google AI Plus custa R$ 24,99 por mês e tem ferramentas mais poderosas, mas limites e armazenamento são menores</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/google-lanca-plano-mais-barato-com-ia-avancada-no-brasil-saiba-o-preco/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/02/capa-gemini_tb-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 08 Oct 2025 16:33:25 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 10 Oct 2025 16:14:32 +0000</lastBuildDate>
     <item>
       <title>Realme 15 ganha versão baseada em Game of Thrones</title>
       <link>https://tecnoblog.net/noticias/realme-15-ganha-versao-baseada-em-game-of-thrones/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/publieditoriais/como-baixar-musicas-do-spotify-em-mp3-para-ouvir-offline/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/musica-online-1-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Fri, 10 Oct 2025 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>iPhone 16 Plus (512 GB) em oferta histórica no Mercado Livre</title>
+      <link>https://tecnoblog.net/achados/iphone-16-plus-512-gb-em-oferta-historica-no-mercado-livre/</link>
+      <description>iPhone 16 Plus traz câmera principal de 48 MP com OIS, tela OLED de 6,7 polegadas e processador Apple A18; oferta com o menor preço registrado pela versão de 512 GB</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/iphone-16-plus-512-gb-em-oferta-historica-no-mercado-livre/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/05/Iphone-16-preto-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 10 Oct 2025 16:14:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
