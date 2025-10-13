@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 13 Oct 2025 15:11:56 +0000</lastBuildDate>
-    <item>
-      <title>Panther Lake: Intel revela nova geração de chips Core Ultra</title>
-      <link>https://tecnoblog.net/noticias/panther-lake-intel-revela-nova-geracao-de-chips-core-ultra/</link>
-      <description>Próxima geração de processadores Core Ultra chegará em 2026, com litografia Intel 18A e novos núcleos de CPU. GPU Xe3 deve aumentar em 50% o desempenho gráfico.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/panther-lake-intel-revela-nova-geracao-de-chips-core-ultra/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/intel-core-ultra-serie-3-edited-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 09 Oct 2025 19:51:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Galaxy Z Fold 6 (512 GB) tem desconto histórico de 63% em oferta na Amazon</title>
-      <link>https://tecnoblog.net/achados/galaxy-z-fold-6-512-gb-tem-desconto-historico-de-63-em-oferta-na-amazon/</link>
-      <description>Celular dobrável da Samsung em promoção exclusiva para assinantes Amazon Prime. Traz telas AMOLED de 7,6" e 6,3" com 120 Hz, Snapdragon 8 Gen 3 e câmeras com gravações em 8K</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-z-fold-6-512-gb-tem-desconto-historico-de-63-em-oferta-na-amazon/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/01/tela-do-galagalaxy-z-fold-6-tela-interna-de-76-polegadas-foto-thassius-velosotecnoblogxy-a16-e-amoled-com-resolucao-full-hd-foto-thassius-velosotecnoblog-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 09 Oct 2025 20:07:06 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 13 Oct 2025 16:13:51 +0000</lastBuildDate>
     <item>
       <title>iPhone 16 Pro (256 GB) tem menor preço em meses com 30% de desconto</title>
       <link>https://tecnoblog.net/achados/iphone-16-pro-256-gb-tem-menor-preco-em-meses-com-31-de-desconto/</link>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/motorola-edge-60-neo-passa-pela-anatel-e-ja-pode-ser-vendido-no-brasil/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/motorola-edge-60-neo-1-340x191.webp" length="0" type="image/jpeg"/>
       <pubDate>Mon, 13 Oct 2025 14:56:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>WhatsApp ganha resumo de mensagens (e nós já testamos; venha ver como é)</title>
+      <link>https://tecnoblog.net/noticias/whatsapp-ganha-resumo-de-mensagens-e-nos-ja-testamos-venha-ver-como-e/</link>
+      <description>Meta AI que resume conversas longas, permitindo atualização rápida sem ler todas as mensagens.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/whatsapp-ganha-resumo-de-mensagens-e-nos-ja-testamos-venha-ver-como-e/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/whatsapp-capa-3-edited-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 13 Oct 2025 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Executivo da Meta indica IA e quer funcionários 5x mais eficientes</title>
+      <link>https://tecnoblog.net/noticias/executivo-da-meta-indica-ia-e-quer-funcionarios-5x-mais-eficientes/</link>
+      <description>Chefe de metaverso na Meta incentiva equipe a integrar inteligência artificial em todos os processos internos, do código ao design. Objetivo é aumentar a produtividade.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/executivo-da-meta-indica-ia-e-quer-funcionarios-5x-mais-eficientes/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/11/meta-capa-1-nov-2022-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 13 Oct 2025 16:11:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
