@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 13 Oct 2025 18:16:03 +0000</lastBuildDate>
-    <item>
-      <title>Como comprar mais espaço de armazenamento no iPhone</title>
-      <link>https://tecnoblog.net/responde/como-comprar-mais-espaco-de-armazenamento-no-iphone/</link>
-      <description>É possível expandir o armazenamento do iPhone assinando planos do iCloud+, serviço em nuvem da própria Apple</description>
-      <guid isPermaLink="false">https://tecnoblog.net/responde/como-comprar-mais-espaco-de-armazenamento-no-iphone/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/como-comprar-mais-espaco-de-armazenamento-no-iphone-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 10 Oct 2025 12:32:06 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 13 Oct 2025 19:08:29 +0000</lastBuildDate>
     <item>
       <title>Veja a operadora mais rápida e a mais confiável do país</title>
       <link>https://tecnoblog.net/noticias/veja-a-operadora-mais-rapida-e-a-mais-confiavel-do-pais/</link>
@@ -219,10 +211,18 @@
     <item>
       <title>Opera Neon: como é usar o navegador com IA no dia a dia</title>
       <link>https://tecnoblog.net/noticias/opera-neon-como-e-usar-o-navegador-com-ia-no-dia-a-dia/</link>
-      <description>Assistente pode adiantar tarefas chatas e mecânicas, mas exige prompts cuidadosos e esbarra na falta de padronização da web</description>
+      <description>Assistente pode adiantar tarefas chatas e mecânicas, mas exige prompts cuidadosos e esbarra na falta de padronização da web.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/opera-neon-como-e-usar-o-navegador-com-ia-no-dia-a-dia/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/tbr-opera-neon-1-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 13 Oct 2025 17:12:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Amazon agora organiza itens essenciais numa nova aba</title>
+      <link>https://tecnoblog.net/noticias/amazon-agora-organiza-itens-essenciais-numa-nova-aba/</link>
+      <description>Amazon Mercado exibe recomendações personalizadas e oferece descontos especiais. Novo ambiente de compras organiza produtos de uso diário para agilizar pedidos.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/amazon-agora-organiza-itens-essenciais-numa-nova-aba/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/10/capa-amazon-2_thumb_tb-edited-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 13 Oct 2025 18:20:42 +0000</pubDate>
     </item>
   </channel>
 </rss>
