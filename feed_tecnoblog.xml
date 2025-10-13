@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 13 Oct 2025 13:24:25 +0000</lastBuildDate>
-    <item>
-      <title>Como assistir Hulu no Brasil? Saiba encontrar o catálogo no Disney+</title>
-      <link>https://tecnoblog.net/responde/como-assistir-hulu-no-brasil/</link>
-      <description>A Hulu é uma nova área no Disney+, trazendo as séries, filmes e reality shows que antes ficavam organizados no selo Star+</description>
-      <guid isPermaLink="false">https://tecnoblog.net/responde/como-assistir-hulu-no-brasil/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2019/01/como-assistir-hulu-no-brasil-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 09 Oct 2025 16:51:08 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 13 Oct 2025 14:12:10 +0000</lastBuildDate>
     <item>
       <title>Linhas de notebook Lenovo: as diferenças entre LOQ, IdeaPad, ThinkPad e outras séries</title>
       <link>https://tecnoblog.net/responde/linhas-de-notebook-lenovo-as-diferencas-entre-loq-ideapad-thinkpad-e-outras-series/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/oakley-homologa-oculos-inteligentes-esportivos-no-brasil/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/oakley-meta-vanguard-1-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 13 Oct 2025 13:12:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Apple cancela Clips, app de edição de vídeo do iOS</title>
+      <link>https://tecnoblog.net/noticias/apple-cancela-clips-app-de-edicao-de-video-do-ios/</link>
+      <description>Aplicativo Clips já foi removido da App Store. Baixa popularidade do aplicativo pode ter levado à sua descontinuação pela Apple.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/apple-cancela-clips-app-de-edicao-de-video-do-ios/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/apple-clips-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 13 Oct 2025 13:52:26 +0000</pubDate>
     </item>
   </channel>
 </rss>
