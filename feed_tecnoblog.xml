@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 13 Oct 2025 17:10:18 +0000</lastBuildDate>
-    <item>
-      <title>Prepare-se: seu Instagram vai ficar cheio de vídeos dublados por IA</title>
-      <link>https://tecnoblog.net/noticias/prepare-se-seu-instagram-vai-ficar-cheio-de-videos-dublados-por-ia/</link>
-      <description>Recurso de dublagem automática chega em português após dois meses restrito ao inglês e espanhol.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/prepare-se-seu-instagram-vai-ficar-cheio-de-videos-dublados-por-ia/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/meta-ai-traducao-340x191.webp" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 09 Oct 2025 22:45:51 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 13 Oct 2025 18:16:03 +0000</lastBuildDate>
     <item>
       <title>Como comprar mais espaço de armazenamento no iPhone</title>
       <link>https://tecnoblog.net/responde/como-comprar-mais-espaco-de-armazenamento-no-iphone/</link>
@@ -193,7 +185,7 @@
       <pubDate>Mon, 13 Oct 2025 14:56:11 +0000</pubDate>
     </item>
     <item>
-      <title>WhatsApp ganha resumo de mensagens (e nós já testamos; venha ver como é)</title>
+      <title>WhatsApp ganha resumo de mensagens (e nós já testamos; veja como funciona)</title>
       <link>https://tecnoblog.net/noticias/whatsapp-ganha-resumo-de-mensagens-e-nos-ja-testamos-venha-ver-como-e/</link>
       <description>Meta AI que resume conversas longas, permitindo atualização rápida sem ler todas as mensagens.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/whatsapp-ganha-resumo-de-mensagens-e-nos-ja-testamos-venha-ver-como-e/</guid>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/lineageos-23-chega-com-android-16-e-apps-melhorados/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/lineageos-23-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 13 Oct 2025 16:15:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Opera Neon: como é usar o navegador com IA no dia a dia</title>
+      <link>https://tecnoblog.net/noticias/opera-neon-como-e-usar-o-navegador-com-ia-no-dia-a-dia/</link>
+      <description>Assistente pode adiantar tarefas chatas e mecânicas, mas exige prompts cuidadosos e esbarra na falta de padronização da web</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/opera-neon-como-e-usar-o-navegador-com-ia-no-dia-a-dia/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/tbr-opera-neon-1-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 13 Oct 2025 17:12:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
