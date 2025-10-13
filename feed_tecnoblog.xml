@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 13 Oct 2025 19:08:29 +0000</lastBuildDate>
-    <item>
-      <title>Veja a operadora mais rápida e a mais confiável do país</title>
-      <link>https://tecnoblog.net/noticias/veja-a-operadora-mais-rapida-e-a-mais-confiavel-do-pais/</link>
-      <description>Novo relatório da Opensignal traz dados consolidados em outubro. Vivo ganha destaque em velocidade e Nio, em estabilidade.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/veja-a-operadora-mais-rapida-e-a-mais-confiavel-do-pais/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/05/capa-claro-tim-vivo_tb-1-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 10 Oct 2025 13:30:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ex-Microsoft revela origem da chave pirata mais usada no Windows XP</title>
-      <link>https://tecnoblog.net/noticias/ex-microsoft-revela-origem-da-chave-pirata-mais-usada-no-windows-xp/</link>
-      <description>Chave FCKGW-RHQQ2-YXRKT-8TG6W-2B7Q8 foi muita usada em cópias irregulares do Windows XP. Dave Plummer, que trabalhou na Microsoft, contou origem do código.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/ex-microsoft-revela-origem-da-chave-pirata-mais-usada-no-windows-xp/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/03/windows-xp-alan-levine-flickr-edited-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 10 Oct 2025 13:58:01 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 13 Oct 2025 20:12:46 +0000</lastBuildDate>
     <item>
       <title>Oakley Meta HSTN chega ao Brasil; saiba o preço</title>
       <link>https://tecnoblog.net/noticias/oakley-meta-hstn-chega-ao-brasil-saiba-o-preco/</link>
@@ -57,9 +41,9 @@
       <pubDate>Fri, 10 Oct 2025 16:22:41 +0000</pubDate>
     </item>
     <item>
-      <title>Galaxy Watch Ultra tem desconto de 48% em até 21x no Mercado Livre</title>
+      <title>Galaxy Watch Ultra tem desconto de 48% em até 18x no Mercado Livre</title>
       <link>https://tecnoblog.net/achados/galaxy-watch-ultra-tem-desconto-de-48-em-ate-21x-no-mercado-livre/</link>
-      <description>Smartwatch da Samsung tem corpo em titânio, tela AMOLED de 1,5" e bateria para até 100 horas; oferta permite pagar em até 21x sem juros</description>
+      <description>Smartwatch da Samsung tem corpo em titânio, tela AMOLED de 1,5" e bateria para até 100 horas; oferta permite parcelamento em até 18x sem juros</description>
       <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-watch-ultra-tem-desconto-de-48-em-ate-21x-no-mercado-livre/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/Samsung-Galaxy-Watch-Ultra-tem-caixa-de-titanio-Foto-Thassius-VelosoTecnoblog-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Fri, 10 Oct 2025 17:33:30 +0000</pubDate>
@@ -177,7 +161,7 @@
       <pubDate>Mon, 13 Oct 2025 14:56:11 +0000</pubDate>
     </item>
     <item>
-      <title>WhatsApp ganha resumo de mensagens (e nós já testamos; veja como funciona)</title>
+      <title>WhatsApp ganha resumo de mensagens com IA; confira o nosso teste</title>
       <link>https://tecnoblog.net/noticias/whatsapp-ganha-resumo-de-mensagens-e-nos-ja-testamos-venha-ver-como-e/</link>
       <description>Meta AI que resume conversas longas, permitindo atualização rápida sem ler todas as mensagens.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/whatsapp-ganha-resumo-de-mensagens-e-nos-ja-testamos-venha-ver-como-e/</guid>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/amazon-agora-organiza-itens-essenciais-numa-nova-aba/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/10/capa-amazon-2_thumb_tb-edited-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 13 Oct 2025 18:20:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Inter Cel reformula planos e amplia opções de assinatura</title>
+      <link>https://tecnoblog.net/noticias/inter-cel-reformula-planos-e-amplia-opcoes-de-assinatura/</link>
+      <description>Operadora virtual do Banco Inter lança novos pacotes com preços entre R$ 17 e R$ 55. Assinantes recebem 50% de cashback no primeiro mês.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/inter-cel-reformula-planos-e-amplia-opcoes-de-assinatura/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2021/12/inter-cel-no-iphone-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 13 Oct 2025 19:44:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Motorola Edge 60 Fusion (256 GB) com RAM de 8 GB tem 39% OFF em promoção</title>
+      <link>https://tecnoblog.net/achados/motorola-edge-60-fusion-256-gb-com-ram-de-8-gb-tem-39-off-em-promocao/</link>
+      <description>Motorola Edge 60 Fusion de 256 GB tem RAM de 8 GB, câmera Sony Lytia de 50 MP e tela POLED de 120 Hz; celular da Motorola fica 29% mais barato no Mercado Livre</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/motorola-edge-60-fusion-256-gb-com-ram-de-8-gb-tem-39-off-em-promocao/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/motorola-edge-60-fusion-tem-camera-sony-lytia-700c-foto-giovanni-santa-rosatecnoblog-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 13 Oct 2025 20:02:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
