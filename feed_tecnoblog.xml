@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 14 Oct 2025 17:11:06 +0000</lastBuildDate>
-    <item>
-      <title>Oakley homologa óculos inteligentes esportivos no Brasil</title>
-      <link>https://tecnoblog.net/noticias/oakley-homologa-oculos-inteligentes-esportivos-no-brasil/</link>
-      <description>Dispositivo foi certificado pela Anatel e já pode ser vendido no país. Oakley Meta Vanguard tem câmera de ação e integração com apps de fitness.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/oakley-homologa-oculos-inteligentes-esportivos-no-brasil/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/oakley-meta-vanguard-1-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 13 Oct 2025 13:12:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Apple cancela Clips, app de edição de vídeo do iOS</title>
-      <link>https://tecnoblog.net/noticias/apple-cancela-clips-app-de-edicao-de-video-do-ios/</link>
-      <description>Aplicativo Clips já foi removido da App Store. Baixa popularidade do aplicativo pode ter levado à sua descontinuação pela Apple.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/apple-cancela-clips-app-de-edicao-de-video-do-ios/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/apple-clips-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 13 Oct 2025 13:52:26 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 14 Oct 2025 18:17:20 +0000</lastBuildDate>
     <item>
       <title>Guia de compras da Roborock: encontre o robô aspirador perfeito para a sua casa</title>
       <link>https://tecnoblog.net/publieditoriais/guia-de-compras-da-roborock-encontre-o-robo-aspirador-perfeito-para-a-sua-casa/</link>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-a36-128-gb-tem-48-off-em-oferta-com-cupom-no-magazine-luiza/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/galaxy-a36-achados-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Tue, 14 Oct 2025 16:30:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nvidia começa a vender supercomputador de IA com formato de miniPC</title>
+      <link>https://tecnoblog.net/noticias/nvidia-comeca-a-vender-supercomputador-de-ia-com-formato-de-minipc/</link>
+      <description>DGX Spark AI, da Nvidia, é compacto, mas abriga o GB10, chip com desempenho de 1 petaflop. Novidade é destinada a aplicações de IA.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/nvidia-comeca-a-vender-supercomputador-de-ia-com-formato-de-minipc/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/01/nvidia-digits-1-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 14 Oct 2025 18:00:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Wi-Fi 8 tem primeiros testes bem-sucedidos em protótipo de conexão</title>
+      <link>https://tecnoblog.net/noticias/wi-fi-8-tem-primeiros-testes-bem-sucedidos-em-prototipo-de-conexao/</link>
+      <description>TP-Link concluiu com sucesso os testes do novo padrão sem fio. Tecnologia priorizará estabilidade de rede e deve ser oficializada até 2028.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/wi-fi-8-tem-primeiros-testes-bem-sucedidos-em-prototipo-de-conexao/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/03/wifi_capa_tb-340x191.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 14 Oct 2025 18:11:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
