@@ -7,31 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 14 Oct 2025 14:12:45 +0000</lastBuildDate>
-    <item>
-      <title>Chrome vai desativar sozinho notificações de sites que você ignora</title>
-      <link>https://tecnoblog.net/noticias/chrome-vai-desativar-sozinho-notificacoes-de-sites-que-voce-ignora/</link>
-      <description>Objetivo é evitar excesso de notificações de sites no navegador. Novidade será lançada nas versões do Chrome para Android e desktops.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/chrome-vai-desativar-sozinho-notificacoes-de-sites-que-voce-ignora/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/11/google-chrome-capa-2-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 10 Oct 2025 19:29:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenAI decide trazer o megaprojeto Stargate para a América do Sul</title>
-      <link>https://tecnoblog.net/noticias/openai-decide-trazer-o-megaprojeto-stargate-para-a-america-do-sul/</link>
-      <description>Data center na Argentina será o primeiro da OpenAI na América Latina. Primeira fase deve começar a operar até o fim de 2027, com 100 MW.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/openai-decide-trazer-o-megaprojeto-stargate-para-a-america-do-sul/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/06/openai-3_capa-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 10 Oct 2025 19:37:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Galaxy S25 Plus (256 GB) sai 48% mais barato em até 21x no Mercado Livre</title>
-      <link>https://tecnoblog.net/achados/galaxy-s25-plus-256-gb-sai-48-mais-barato-em-ate-21x-no-mercado-livre/</link>
-      <description>Galaxy S25 Plus de 256 GB tem chip da Qualcomm, RAM de 12 GB e câmera tripla com zoom óptico de 3x; celular Samsung tem oferta com parcelamento no 10.10 do Mercado Livre</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-s25-plus-256-gb-sai-48-mais-barato-em-ate-21x-no-mercado-livre/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/04/Samsung-Galaxy-S25-Plus-tem-tela-de-67-com-resolucao-QHD-imagem-Samsung-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 10 Oct 2025 20:14:13 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 14 Oct 2025 15:13:18 +0000</lastBuildDate>
     <item>
       <title>Celulares Galaxy devem ganhar função que importa eSIM de iPhones</title>
       <link>https://tecnoblog.net/noticias/celulares-galaxy-devem-ganhar-funcao-que-importa-esim-de-iphones/</link>
@@ -161,9 +137,9 @@
       <pubDate>Mon, 13 Oct 2025 18:20:42 +0000</pubDate>
     </item>
     <item>
-      <title>Inter Cel reformula planos e amplia opções de assinatura</title>
+      <title>Inter Cel reformula todos os planos; veja os novos valores</title>
       <link>https://tecnoblog.net/noticias/inter-cel-reformula-planos-e-amplia-opcoes-de-assinatura/</link>
-      <description>Operadora virtual do Banco Inter lança novos pacotes com preços entre R$ 17 e R$ 55. Assinantes recebem 50% de cashback no primeiro mês.</description>
+      <description>Operadora virtual do Banco Inter lança novos pacotes com preços entre R$ 17 e R$ 165. Assinantes recebem 50% de cashback no primeiro mês.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/inter-cel-reformula-planos-e-amplia-opcoes-de-assinatura/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2021/12/inter-cel-no-iphone-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 13 Oct 2025 19:44:04 +0000</pubDate>
@@ -223,6 +199,30 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-tab-s10-lite-5g-tem-menor-preco-desde-lancamento-no-mercado-livre/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/galaxy-tab-s10-lite-achados-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Tue, 14 Oct 2025 13:06:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Galaxy S24 FE (256 GB) tem menor preço em meses com 53% OFF na Magalu</title>
+      <link>https://tecnoblog.net/achados/galaxy-s24-fe-256-gb-tem-menor-preco-em-meses-com-53-off-na-magalu/</link>
+      <description>Galaxy S24 FE de 256 GB tem RAM de 8 GB, tela AMOLED de 120 Hz e sai por menos da metade do preço em promoção na Magazine Luiza</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-s24-fe-256-gb-tem-menor-preco-em-meses-com-53-off-na-magalu/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/05/galaxy-s24-fe-achados-tecnoblog-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 14 Oct 2025 14:14:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Galaxy A52s chega ao fim da vida útil</title>
+      <link>https://tecnoblog.net/noticias/galaxy-a52s-chega-ao-fim-da-vida-util/</link>
+      <description>Samsung encerrou o suporte oficial após três grandes atualizações do Android. Modelo intermediário, lançado em 2021, não receberá mais pacotes de segurança.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/galaxy-a52s-chega-ao-fim-da-vida-util/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2021/08/002_galaxy_a52s_5g_product_kv_black_white_2p-jpg-1-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 14 Oct 2025 14:36:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nubank libera Uber One de graça para os clientes</title>
+      <link>https://tecnoblog.net/noticias/nubank-libera-uber-one-de-graca-para-os-clientes/</link>
+      <description>Clientes Nubank poderão assinar o Uber One gratuitamente por seis meses graças a uma parceria entre as duas empresas. Serviço oferece cashback em viagens, entre outras vantagens.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/nubank-libera-uber-one-de-graca-para-os-clientes/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/04/nubank_capa-5_tb-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 14 Oct 2025 14:40:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
