@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 14 Oct 2025 16:14:20 +0000</lastBuildDate>
-    <item>
-      <title>Esta é a nova ordem dos botões do Instagram</title>
-      <link>https://tecnoblog.net/noticias/esta-e-a-nova-ordem-dos-botoes-do-instagram/</link>
-      <description>Mudança reorganiza as abas principais e introduz gesto de deslizar; usuários poderão testar o novo layout antes do lançamento oficial.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/esta-e-a-nova-ordem-dos-botoes-do-instagram/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/03/instagram-capa-2-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 10 Oct 2025 22:09:37 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 14 Oct 2025 17:11:06 +0000</lastBuildDate>
     <item>
       <title>Oakley homologa óculos inteligentes esportivos no Brasil</title>
       <link>https://tecnoblog.net/noticias/oakley-homologa-oculos-inteligentes-esportivos-no-brasil/</link>
@@ -141,7 +133,7 @@
       <link>https://tecnoblog.net/noticias/google-expande-nano-banana-para-busca-notebooklm-e-mais-produtos/</link>
       <description>A ferramenta de geração de imagens Nano Banana agora está integrada ao Google Search e NotebookLM, e deve chegar em breve ao Google Fotos com novas opções de edição e ilustração.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/google-expande-nano-banana-para-busca-notebooklm-e-mais-produtos/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/nano-banana--340x191.png" length="0" type="image/jpeg"/>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/capas-nano-banana-01-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 13 Oct 2025 20:43:01 +0000</pubDate>
     </item>
     <item>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/samsung-one-ui-8-5-podera-reduzir-internet-para-economizar-bateria/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/01/galaxy-s23-bateria-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 14 Oct 2025 16:03:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Galaxy A36 (128 GB) tem 48% OFF em oferta com cupom no Magazine Luiza</title>
+      <link>https://tecnoblog.net/achados/galaxy-a36-128-gb-tem-48-off-em-oferta-com-cupom-no-magazine-luiza/</link>
+      <description>Smartphone intermediário da Samsung traz painel Super AMOLED de 6,7 polegadas, trio de câmeras com sensor principal de 50 MP, chip Snapdragon 6 Gen 3 e bateria de 5.000 mAh</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-a36-128-gb-tem-48-off-em-oferta-com-cupom-no-magazine-luiza/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/galaxy-a36-achados-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 14 Oct 2025 16:30:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
