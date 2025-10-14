@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 14 Oct 2025 11:10:02 +0000</lastBuildDate>
-    <item>
-      <title>Galaxy Watch Ultra tem desconto de 48% em até 18x no Mercado Livre</title>
-      <link>https://tecnoblog.net/achados/galaxy-watch-ultra-tem-desconto-de-48-em-ate-21x-no-mercado-livre/</link>
-      <description>Smartwatch da Samsung tem corpo em titânio, tela AMOLED de 1,5" e bateria para até 100 horas; oferta permite parcelamento em até 18x sem juros</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-watch-ultra-tem-desconto-de-48-em-ate-21x-no-mercado-livre/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/Samsung-Galaxy-Watch-Ultra-tem-caixa-de-titanio-Foto-Thassius-VelosoTecnoblog-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 10 Oct 2025 17:33:30 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 14 Oct 2025 12:23:54 +0000</lastBuildDate>
     <item>
       <title>Galaxy A56 (256 GB) tem 38% OFF em até 21x no 10.10 do Mercado Livre</title>
       <link>https://tecnoblog.net/achados/galaxy-a56-256-gb-tem-38-off-em-ate-21x-no-10-10-do-mercado-livre/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/apple-tv-passa-a-se-chamar-apenas-apple-tv/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/12/apple-edited-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 13 Oct 2025 20:51:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Suporte ao Windows 10 chega ao fim; o que muda a partir de agora</title>
+      <link>https://tecnoblog.net/noticias/suporte-ao-windows-10-chega-ao-fim-o-que-muda-a-partir-de-agora/</link>
+      <description>Suporte ao Windows 10 termina nesta terça-feira (14/10). Decisão da Microsoft faz sistema operacional deixar de receber atualizações.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/suporte-ao-windows-10-chega-ao-fim-o-que-muda-a-partir-de-agora/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/fim-suporte-windows-10-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 14 Oct 2025 12:05:50 +0000</pubDate>
     </item>
   </channel>
 </rss>
