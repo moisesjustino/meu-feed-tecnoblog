@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 14 Oct 2025 22:11:23 +0000</lastBuildDate>
-    <item>
-      <title>Executivo da Meta indica IA e quer funcionários 5x mais eficientes</title>
-      <link>https://tecnoblog.net/noticias/executivo-da-meta-indica-ia-e-quer-funcionarios-5x-mais-eficientes/</link>
-      <description>Chefe de metaverso na Meta incentiva equipe a integrar inteligência artificial em todos os processos internos, do código ao design. Objetivo é aumentar a produtividade.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/executivo-da-meta-indica-ia-e-quer-funcionarios-5x-mais-eficientes/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/11/meta-capa-1-nov-2022-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 13 Oct 2025 16:11:30 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 14 Oct 2025 23:10:17 +0000</lastBuildDate>
     <item>
       <title>Galaxy S24 Ultra com câmera de 200 MP em oferta com 55% de desconto</title>
       <link>https://tecnoblog.net/achados/galaxy-s24-ultra-com-camera-de-200-mp-em-oferta-com-55-de-desconto/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/cupom-mercado-livre-ate-r-400-off-em-celulares-tablets-e-consoles/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/iPhone15-achado-do-dia-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Tue, 14 Oct 2025 22:09:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Brasil recebe o smartphone com a melhor câmera do mundo</title>
+      <link>https://tecnoblog.net/noticias/brasil-recebe-o-smartphone-com-a-melhor-camera-do-mundo/</link>
+      <description>Huawei faz o lançamento do Pura 80 Ultra por preço sugerido de R$ 12.999. Empresa renova linha de produtos tecnológicos no país.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/brasil-recebe-o-smartphone-com-a-melhor-camera-do-mundo/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/huawei-pura-80_2-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 14 Oct 2025 22:20:49 +0000</pubDate>
     </item>
   </channel>
 </rss>
