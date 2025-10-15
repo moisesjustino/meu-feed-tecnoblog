@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 15 Oct 2025 19:09:14 +0000</lastBuildDate>
-    <item>
-      <title>Galaxy A52s chega ao fim da vida útil</title>
-      <link>https://tecnoblog.net/noticias/galaxy-a52s-chega-ao-fim-da-vida-util/</link>
-      <description>Samsung encerrou o suporte oficial após três grandes atualizações do Android. Modelo intermediário, lançado em 2021, não receberá mais pacotes de segurança.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/galaxy-a52s-chega-ao-fim-da-vida-util/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2021/08/002_galaxy_a52s_5g_product_kv_black_white_2p-jpg-1-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 14 Oct 2025 14:36:11 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 15 Oct 2025 20:14:07 +0000</lastBuildDate>
     <item>
       <title>Nubank libera Uber One de graça para os clientes</title>
       <link>https://tecnoblog.net/noticias/nubank-libera-uber-one-de-graca-para-os-clientes/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/motorola-edge-60-pro-256-gb-tem-oferta-imperdivel-no-mercado-livre/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/motorola-edge-60-pro-foto-giovanni-santa-rosatecnoblog-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Wed, 15 Oct 2025 18:31:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Amazon segue Mercado Livre e libera frete grátis para mais produtos</title>
+      <link>https://tecnoblog.net/noticias/amazon-segue-mercado-livre-e-libera-frete-gratis-para-mais-produtos/</link>
+      <description>Assinantes Prime terão entrega no mesmo dia sem custo adicional para itens selecionados a partir de R$ 19.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/amazon-segue-mercado-livre-e-libera-frete-gratis-para-mais-produtos/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/01/amazon-prime-capa-1-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 15 Oct 2025 19:50:46 +0000</pubDate>
     </item>
   </channel>
 </rss>
