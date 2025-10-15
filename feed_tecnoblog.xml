@@ -7,31 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 15 Oct 2025 17:10:48 +0000</lastBuildDate>
-    <item>
-      <title>Novo Positivo Duo é um notebook 2 em 1 barato e com chip Celeron</title>
-      <link>https://tecnoblog.net/noticias/novo-positivo-duo-e-um-notebook-2-em-1-barato-e-com-chip-celeron/</link>
-      <description>Nova versão do Positivo Duo tem processador Celeron N4500 e até 8 GB de RAM. Modelo é um notebook 2 em 1 de baixo custo.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/novo-positivo-duo-e-um-notebook-2-em-1-barato-e-com-chip-celeron/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/novo-positivo-duo-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 14 Oct 2025 12:47:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Galaxy Tab S10 Lite 5G tem menor preço desde lançamento no Mercado Livre</title>
-      <link>https://tecnoblog.net/achados/galaxy-tab-s10-lite-5g-tem-menor-preco-desde-lancamento-no-mercado-livre/</link>
-      <description>Galaxy Tab S10 Lite 5G de 128 GB traz caneta S Pen, tela de 10,9 polegadas e chip Exynos com RAM de 6 GB; tablet Samsung tem promoção com 20% de desconto no Mercado Livre</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-tab-s10-lite-5g-tem-menor-preco-desde-lancamento-no-mercado-livre/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/galaxy-tab-s10-lite-achados-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 14 Oct 2025 13:06:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Galaxy S24 FE (256 GB) tem menor preço em meses com 53% OFF na Magalu</title>
-      <link>https://tecnoblog.net/achados/galaxy-s24-fe-256-gb-tem-menor-preco-em-meses-com-53-off-na-magalu/</link>
-      <description>Galaxy S24 FE de 256 GB tem RAM de 8 GB, tela AMOLED de 120 Hz e sai por menos da metade do preço em promoção na Magazine Luiza</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-s24-fe-256-gb-tem-menor-preco-em-meses-com-53-off-na-magalu/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/05/galaxy-s24-fe-achados-tecnoblog-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 14 Oct 2025 14:14:20 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 15 Oct 2025 18:17:34 +0000</lastBuildDate>
     <item>
       <title>O que é o protocolo Thread? Entenda a utilidade do padrão de comunicação sem fio</title>
       <link>https://tecnoblog.net/responde/o-que-e-o-protocolo-thread/</link>
@@ -223,6 +199,30 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-s25-256-gb-em-promocao-com-49-de-desconto-no-mercado-livre/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/galaxy-s24-traz-processador-snapdragon-8-elite-da-qualcomm-foto-thassius-velosotecnoblog-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Wed, 15 Oct 2025 16:26:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>iPhone 16 (256 GB) tem melhor oferta que já vimos com 41% de desconto</title>
+      <link>https://tecnoblog.net/achados/iphone-16-256-gb-tem-melhor-oferta-que-ja-vimos-com-41-de-desconto/</link>
+      <description>iPhone 16 (256 GB) tem processador Apple A18, câmera de 48 MP e display OLED; celular tem 41% OFF com cupom no Mercado Livre</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/iphone-16-256-gb-tem-melhor-oferta-que-ja-vimos-com-41-de-desconto/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/05/Iphone-16-preto-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 15 Oct 2025 17:26:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Discord e empresa terceirizada trocam acusações após vazamento de dados</title>
+      <link>https://tecnoblog.net/noticias/discord-e-empresa-terceirizada-trocam-acusacoes-apos-vazamento-de-dados/</link>
+      <description>Plataforma culpa a prestadora de serviços 5CA por exposição de dados de usuários. Empresa nega ter sido hackeada e afirma que seus sistemas seguem seguros.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/discord-e-empresa-terceirizada-trocam-acusacoes-apos-vazamento-de-dados/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/11/discord-capa-3-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 15 Oct 2025 18:04:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google: agora você pode cadastrar pessoas para recuperar sua conta</title>
+      <link>https://tecnoblog.net/noticias/google-agora-voce-pode-cadastrar-pessoas-para-recuperar-sua-conta/</link>
+      <description>Google criou recurso que permite indicar contatos de recuperação. Amigos ou familiares podem ajudar a restaurar acesso em caso de perda de login.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/google-agora-voce-pode-cadastrar-pessoas-para-recuperar-sua-conta/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/contatos-recuperacao-google-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 15 Oct 2025 18:12:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
