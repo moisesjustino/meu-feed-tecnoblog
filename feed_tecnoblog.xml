@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 15 Oct 2025 14:12:22 +0000</lastBuildDate>
-    <item>
-      <title>Motorola Edge 60 Fusion (256 GB) com RAM de 8 GB tem 42% OFF em promoção</title>
-      <link>https://tecnoblog.net/achados/motorola-edge-60-fusion-256-gb-com-ram-de-8-gb-tem-39-off-em-promocao/</link>
-      <description>Motorola Edge 60 Fusion de 256 GB tem RAM de 8 GB, câmera Sony Lytia de 50 MP e tela POLED de 120 Hz; celular da Motorola fica 42% mais barato no Mercado Livre</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/motorola-edge-60-fusion-256-gb-com-ram-de-8-gb-tem-39-off-em-promocao/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/motorola-edge-60-fusion-tem-camera-sony-lytia-700c-foto-giovanni-santa-rosatecnoblog-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 13 Oct 2025 20:02:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Vivo libera IA premium da Perplexity para mais clientes</title>
-      <link>https://tecnoblog.net/noticias/vivo-libera-ia-premium-da-perplexity-para-mais-clientes/</link>
-      <description>Clientes de planos pré-pagos e do Vivo Easy Lite passam a ter acesso gratuito por até um ano ao plano Pro da inteligência artificial Perplexity</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/vivo-libera-ia-premium-da-perplexity-para-mais-clientes/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/05/perplexity-fecha-com-paypal-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 13 Oct 2025 20:40:54 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 15 Oct 2025 15:12:10 +0000</lastBuildDate>
     <item>
       <title>Google expande Nano Banana para busca, NotebookLM e mais produtos</title>
       <link>https://tecnoblog.net/noticias/google-expande-nano-banana-para-busca-notebooklm-e-mais-produtos/</link>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/instagram-vai-usar-suas-conversas-com-a-ia-para-mostrar-anuncios/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/meta-ai-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Wed, 15 Oct 2025 14:04:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dobrável do Google explode durante teste de durabilidade; assista</title>
+      <link>https://tecnoblog.net/noticias/dobravel-do-google-explode-durante-teste-de-durabilidade-assista/</link>
+      <description>Pixel 10 Pro Fold mantém o design de antenas ao lado das dobradiças, local onde quebrou. Modelo foi lançado com a promessa de alta resistência.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/dobravel-do-google-explode-durante-teste-de-durabilidade-assista/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/gif-pixel-10-pro-fold-explodindo-340x191.gif" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 15 Oct 2025 14:15:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Apple lança chip M5 no MacBook e iPad, com preços a partir de R$ 12.499</title>
+      <link>https://tecnoblog.net/noticias/apple-lanca-chip-m5-no-macbook-e-ipad-com-precos-a-partir-de-r-12-499/</link>
+      <description>Novo chip traz CPU mais rápida e GPU preparada para lidar com tarefas de IA. Tablet e notebook mantêm design da geração anterior.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/apple-lanca-chip-m5-no-macbook-e-ipad-com-precos-a-partir-de-r-12-499/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/apple-m5-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 15 Oct 2025 15:03:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
