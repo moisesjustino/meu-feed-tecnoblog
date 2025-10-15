@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 15 Oct 2025 18:17:34 +0000</lastBuildDate>
-    <item>
-      <title>O que é o protocolo Thread? Entenda a utilidade do padrão de comunicação sem fio</title>
-      <link>https://tecnoblog.net/responde/o-que-e-o-protocolo-thread/</link>
-      <description>O protocolo Thread oferece comunicação sem fio segura, confiável e com baixo consumo de energia, especialmente para dispositivos de Internet das Coisas (IoT)</description>
-      <guid isPermaLink="false">https://tecnoblog.net/responde/o-que-e-o-protocolo-thread/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2020/11/o-que-e-thread-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 14 Oct 2025 14:17:58 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 15 Oct 2025 19:09:14 +0000</lastBuildDate>
     <item>
       <title>Galaxy A52s chega ao fim da vida útil</title>
       <link>https://tecnoblog.net/noticias/galaxy-a52s-chega-ao-fim-da-vida-util/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/google-agora-voce-pode-cadastrar-pessoas-para-recuperar-sua-conta/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/contatos-recuperacao-google-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Wed, 15 Oct 2025 18:12:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Motorola Edge 60 Pro (256 GB) tem oferta imperdível no Mercado Livre</title>
+      <link>https://tecnoblog.net/achados/motorola-edge-60-pro-256-gb-tem-oferta-imperdivel-no-mercado-livre/</link>
+      <description>Motorola Edge 60 Pro (256 GB) tem RAM de 12 GB expansível até 24 GB, e câmera tripla com dois sensores de 50 MP; celular Motorola fica 37% mais barato em oferta</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/motorola-edge-60-pro-256-gb-tem-oferta-imperdivel-no-mercado-livre/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/motorola-edge-60-pro-foto-giovanni-santa-rosatecnoblog-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 15 Oct 2025 18:31:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
