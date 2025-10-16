@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 16 Oct 2025 17:10:31 +0000</lastBuildDate>
-    <item>
-      <title>Netflix fecha parceria com Spotify para exibir podcasts em vídeo</title>
-      <link>https://tecnoblog.net/noticias/netflix-fecha-parceria-com-spotify-para-exibir-podcasts-em-video/</link>
-      <description>Colaboração deve começar em 2026 nos EUA, com programas de esportes, cultura, estilo de vida e true crime; expansão global está prevista para depois.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/netflix-fecha-parceria-com-spotify-para-exibir-podcasts-em-video/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/03/spotify_capa-1_tb-edited-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 15 Oct 2025 11:14:06 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 16 Oct 2025 18:16:51 +0000</lastBuildDate>
     <item>
       <title>99 fora do ar: app volta a funcionar após falhas e instabilidade</title>
       <link>https://tecnoblog.net/noticias/99-fora-do-ar-app-de-transporte-tem-falha-e-nao-funciona-nesta-quarta-15/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/iphone-15-128-gb-em-promocao-com-desconto-historico-de-48-off/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/iphone15-oferta-recomendada-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Thu, 16 Oct 2025 16:43:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>PowerToys agora faz o Windows 11 entrar em modo escuro automaticamente</title>
+      <link>https://tecnoblog.net/noticias/powertoys-agora-faz-o-windows-11-entrar-em-modo-escuro-automaticamente/</link>
+      <description>PowerToys 0.95 melhora suporte ao modo escuro no Windows 11. Confira os demais recursos do "canivete suíço" da Microsoft.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/powertoys-agora-faz-o-windows-11-entrar-em-modo-escuro-automaticamente/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/powertoys-modo-escuro-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 16 Oct 2025 17:35:22 +0000</pubDate>
     </item>
   </channel>
 </rss>
