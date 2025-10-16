@@ -7,31 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 16 Oct 2025 14:12:12 +0000</lastBuildDate>
-    <item>
-      <title>Falha do Android coloca em risco códigos de segurança e mensagens</title>
-      <link>https://tecnoblog.net/noticias/falha-do-android-coloca-em-risco-codigos-de-seguranca-e-mensagens/</link>
-      <description>Vulnerabilidade Pixnapping possibilita analisar pixels individualmente e usar reconhecimento de caracteres para extrair informações</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/falha-do-android-coloca-em-risco-codigos-de-seguranca-e-mensagens/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/01/seguranca-capa-3-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 14 Oct 2025 18:31:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>ChatGPT vai permitir conteúdo erótico para usuários adultos</title>
-      <link>https://tecnoblog.net/noticias/chatgpt-vai-permitir-conteudo-erotico-para-usuarios-adultos/</link>
-      <description>CEO Sam Altman anunciou que a plataforma será menos restritiva a partir de dezembro. Mudança vai depender de verificação de idade.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/chatgpt-vai-permitir-conteudo-erotico-para-usuarios-adultos/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/06/sam-altman-3-capa-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 14 Oct 2025 20:21:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Vem aí o ChatGPT OS?</title>
-      <link>https://tecnoblog.net/tecnocast/vem-ai-o-chatgpt-os/</link>
-      <description>Sem descrição breve.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/tecnocast/vem-ai-o-chatgpt-os/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/tecnocast-389_capa-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 14 Oct 2025 21:32:56 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 16 Oct 2025 15:12:50 +0000</lastBuildDate>
     <item>
       <title>Cupom Mercado Livre: até R$ 400 OFF em celulares, tablets e consoles</title>
       <link>https://tecnoblog.net/achados/cupom-mercado-livre-ate-r-400-off-em-celulares-tablets-e-consoles/</link>
@@ -111,6 +87,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/apple-lanca-chip-m5-no-macbook-e-ipad-com-precos-a-partir-de-r-12-499/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/apple-m5-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Wed, 15 Oct 2025 15:03:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Linhas de notebook da HP: confira as séries para estudo, trabalho ou jogos</title>
+      <link>https://tecnoblog.net/responde/linhas-de-notebook-da-hp-confira-as-series-para-estudo-trabalho-ou-jogos/</link>
+      <description>OmniBook, EliteBook, Omen e Victus são algumas das principais linhas de notebooks que compõem e portfólio da HP</description>
+      <guid isPermaLink="false">https://tecnoblog.net/responde/linhas-de-notebook-da-hp-confira-as-series-para-estudo-trabalho-ou-jogos/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/notebooks-da-hp-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 15 Oct 2025 15:04:32 +0000</pubDate>
     </item>
     <item>
       <title>“Maior parte da internet está morta”, diz cofundador do Reddit</title>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/iphone-16e-256-gb-tem-melhor-oferta-que-ja-vimos-no-mercado-livre/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/03/iphone-16e-achados-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Thu, 16 Oct 2025 13:34:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Galaxy Tab S10 Lite em oferta histórica abaixo de R$ 2 mil no Mercado Livre</title>
+      <link>https://tecnoblog.net/achados/galaxy-tab-s10-lite-em-oferta-historica-abaixo-de-r-2-mil-no-mercado-livre/</link>
+      <description>Tablet intermediário da Samsung possui tela de 10,9", chip Exynos 1580, 6 GB de RAM, bateria de 8.000 mAh e acompanha caneta S Pen. Promoção com cupom de R$ 100 OFF para resgate</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-tab-s10-lite-em-oferta-historica-abaixo-de-r-2-mil-no-mercado-livre/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/galaxy-tab-s10-lite-achados-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 16 Oct 2025 14:40:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Zorin OS 18: distro Linux chega com proposta de substituir o Windows 10</title>
+      <link>https://tecnoblog.net/noticias/zorin-os-18-distro-linux-chega-com-proposta-de-substituir-o-windows-10/</link>
+      <description>Com interface padrão que remete ao Windows 10, distribuição Zorin OS 18 tem kernel Linux 6.14 e oferece suporte até 2029.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/zorin-os-18-distro-linux-chega-com-proposta-de-substituir-o-windows-10/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/zorin-os-18-1-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 16 Oct 2025 14:49:54 +0000</pubDate>
     </item>
   </channel>
 </rss>
