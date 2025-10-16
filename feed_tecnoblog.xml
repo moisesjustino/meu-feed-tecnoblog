@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 16 Oct 2025 19:07:55 +0000</lastBuildDate>
-    <item>
-      <title>O que é LoRaWAN? Veja como funciona o protocolo de comunicação IoT</title>
-      <link>https://tecnoblog.net/responde/o-que-e-lorawan-veja-como-funciona-o-protocolo-de-comunicacao-iot/</link>
-      <description>A arquitetura do protocolo LoRaWAN permite que dispositivos de baixo consumo ligados a Internet das Coisas enviem pequenos volumes de dados por longas distâncias</description>
-      <guid isPermaLink="false">https://tecnoblog.net/responde/o-que-e-lorawan-veja-como-funciona-o-protocolo-de-comunicacao-iot/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/tbr-cidades-inteligentes-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 15 Oct 2025 13:11:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>TIM deve adotar modem com Wi-Fi 7 para fibra óptica</title>
-      <link>https://tecnoblog.net/noticias/tim-deve-adotar-modem-com-wi-fi-7-para-fibra-optica/</link>
-      <description>Modem Blu-Castle 7 possui cinco portas Ethernet e deve ser oferecido aos clientes do TIM UltraFibra. Dispositivo foi homologado pela Anatel.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/tim-deve-adotar-modem-com-wi-fi-7-para-fibra-optica/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/07/tim-ultrafibra_capa-1_tb-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 15 Oct 2025 13:47:14 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 16 Oct 2025 20:12:54 +0000</lastBuildDate>
     <item>
       <title>Instagram vai usar suas conversas com a IA para mostrar anúncios</title>
       <link>https://tecnoblog.net/noticias/instagram-vai-usar-suas-conversas-com-a-ia-para-mostrar-anuncios/</link>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/mais-uma-tarefa-para-motorista-de-uber-treinar-a-ia/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/06/uber_capa-2_tb-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Thu, 16 Oct 2025 18:29:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>EUA vão lançar moeda para homenagear Steve Jobs</title>
+      <link>https://tecnoblog.net/noticias/eua-vao-lancar-moeda-para-homenagear-steve-jobs/</link>
+      <description>Moeda comemorativa faz parte de uma série dedicada à inovação norte-americana e será lançada em 2026. Design retrata o cofundador da Apple em seus primeiros anos.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/eua-vao-lancar-moeda-para-homenagear-steve-jobs/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/steve-jobs-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 16 Oct 2025 19:12:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mercado Pago anuncia IA que faz transações financeiras para o usuário</title>
+      <link>https://tecnoblog.net/noticias/mercado-pago-anuncia-ia-que-faz-transacoes-financeiras-para-o-usuario/</link>
+      <description>Assistente Pessoal do Mercado Pago usa IA para receber instruções do cliente e realizar pagamentos, transferências, depósitos, entre outras operações financeiras.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/mercado-pago-anuncia-ia-que-faz-transacoes-financeiras-para-o-usuario/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/mercado-pago-celular-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 16 Oct 2025 19:38:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
