@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 16 Oct 2025 15:12:50 +0000</lastBuildDate>
-    <item>
-      <title>Cupom Mercado Livre: até R$ 400 OFF em celulares, tablets e consoles</title>
-      <link>https://tecnoblog.net/achados/cupom-mercado-livre-ate-r-400-off-em-celulares-tablets-e-consoles/</link>
-      <description>Mercado Livre traz cupons de até R$ 400 de desconto em compras a partir de R$ 500; ofertas são válidas até o fim de outubro e incluem iPhones, tablets da Samsung e consoles</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/cupom-mercado-livre-ate-r-400-off-em-celulares-tablets-e-consoles/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/iPhone15-achado-do-dia-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 14 Oct 2025 22:09:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Brasil recebe o smartphone com a melhor câmera do mundo</title>
-      <link>https://tecnoblog.net/noticias/brasil-recebe-o-smartphone-com-a-melhor-camera-do-mundo/</link>
-      <description>Huawei faz o lançamento do Pura 80 Ultra por preço sugerido de R$ 12.999. Empresa renova linha de produtos tecnológicos no país.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/brasil-recebe-o-smartphone-com-a-melhor-camera-do-mundo/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/huawei-pura-80_2-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 14 Oct 2025 22:20:49 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 16 Oct 2025 16:14:55 +0000</lastBuildDate>
     <item>
       <title>Cupons de até R$ 500 de desconto na Samsung Week do Magalu</title>
       <link>https://tecnoblog.net/achados/cupons-de-ate-r-500-reais-de-desconto-na-samsung-week-do-magalu/</link>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/zorin-os-18-distro-linux-chega-com-proposta-de-substituir-o-windows-10/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/zorin-os-18-1-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Thu, 16 Oct 2025 14:49:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>iPhone 18 Pro pode ter câmera com abertura variável</title>
+      <link>https://tecnoblog.net/noticias/iphone-18-pro-pode-ter-camera-com-abertura-variavel/</link>
+      <description>Recurso permitiria fotos melhores em diferentes condições de luz. Tecnologia já testada em celulares no passado reapareceu no novo Huawei Pura 80 Ultra.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/iphone-18-pro-pode-ter-camera-com-abertura-variavel/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/iphone-17-pro-02-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 16 Oct 2025 15:24:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Galaxy S26 Ultra pode ganhar novo design nas câmeras</title>
+      <link>https://tecnoblog.net/noticias/galaxy-s26-ultra-pode-ganhar-novo-design-nas-cameras/</link>
+      <description>Imagem de case para o futuro aparelho revela ilha de câmeras elevada, com visual semelhante ao encontrado na linha Galaxy A</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/galaxy-s26-ultra-pode-ganhar-novo-design-nas-cameras/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/galaxy-s26-ultra-tarun-vats-edited-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 16 Oct 2025 15:48:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
