@@ -7,31 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 16 Oct 2025 12:23:48 +0000</lastBuildDate>
-    <item>
-      <title>Google muda exibição de anúncios na busca</title>
-      <link>https://tecnoblog.net/noticias/google-muda-exibicao-de-anuncios-na-busca/</link>
-      <description>Anúncios passam a aparecer em uma área dedicada no topo das buscas. Google permitirá ocultar os resultados patrocinados ao rolar a página.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/google-muda-exibicao-de-anuncios-na-busca/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/05/capa-ia-google-3_tb-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 14 Oct 2025 15:37:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Samsung: One UI 8.5 pode reduzir internet para economizar bateria</title>
-      <link>https://tecnoblog.net/noticias/samsung-one-ui-8-5-podera-reduzir-internet-para-economizar-bateria/</link>
-      <description>Função ajustaria o desempenho da conexão com base nos hábitos do usuário. Recurso pode limitar a rede com o celular ocioso, reduzindo o consumo em segundo plano.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/samsung-one-ui-8-5-podera-reduzir-internet-para-economizar-bateria/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/01/galaxy-s23-bateria-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 14 Oct 2025 16:03:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Galaxy A36 (128 GB) tem 48% OFF em oferta com cupom no Magazine Luiza</title>
-      <link>https://tecnoblog.net/achados/galaxy-a36-128-gb-tem-48-off-em-oferta-com-cupom-no-magazine-luiza/</link>
-      <description>Smartphone intermediário da Samsung traz painel Super AMOLED de 6,7 polegadas, trio de câmeras com sensor principal de 50 MP, chip Snapdragon 6 Gen 3 e bateria de 5.000 mAh</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-a36-128-gb-tem-48-off-em-oferta-com-cupom-no-magazine-luiza/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/galaxy-a36-achados-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 14 Oct 2025 16:30:21 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 16 Oct 2025 13:25:21 +0000</lastBuildDate>
     <item>
       <title>Nvidia começa a vender supercomputador de IA com formato de miniPC</title>
       <link>https://tecnoblog.net/noticias/nvidia-comeca-a-vender-supercomputador-de-ia-com-formato-de-minipc/</link>
@@ -111,6 +87,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/99-fora-do-ar-app-de-transporte-tem-falha-e-nao-funciona-nesta-quarta-15/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/04/99-logotipo-2-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Wed, 15 Oct 2025 12:34:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>O que é LoRaWAN? Veja como funciona o protocolo de comunicação IoT</title>
+      <link>https://tecnoblog.net/responde/o-que-e-lorawan-veja-como-funciona-o-protocolo-de-comunicacao-iot/</link>
+      <description>A arquitetura do protocolo LoRaWAN permite que dispositivos de baixo consumo ligados a Internet das Coisas enviem pequenos volumes de dados por longas distâncias</description>
+      <guid isPermaLink="false">https://tecnoblog.net/responde/o-que-e-lorawan-veja-como-funciona-o-protocolo-de-comunicacao-iot/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/tbr-cidades-inteligentes-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 15 Oct 2025 13:11:25 +0000</pubDate>
     </item>
     <item>
       <title>TIM deve adotar modem com Wi-Fi 7 para fibra óptica</title>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/whatsapp-libera-correcao-para-bug-dos-contatos/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/capa-whats-fora2_thumb_tb-edited-1-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Wed, 15 Oct 2025 20:29:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Galaxy Watch Ultra cai para metade do preço em até 18x em promoção</title>
+      <link>https://tecnoblog.net/achados/galaxy-watch-ultra-cai-para-metade-do-preco-em-ate-18x-em-promocao/</link>
+      <description>Galaxy Watch Ultra LTE de 47 mm com 50% de desconto no Mercado Livre é ideal para atividades extremas, tem bateria de longa duração e sensores avançados de saúde</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-watch-ultra-cai-para-metade-do-preco-em-ate-18x-em-promocao/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/Samsung-Galaxy-Watch-Ultra-tem-caixa-de-titanio-Foto-Thassius-VelosoTecnoblog-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 16 Oct 2025 12:50:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>IA do Windows passa a te ouvir e ver sua tela para auxiliar nas tarefas</title>
+      <link>https://tecnoblog.net/noticias/ia-do-windows-passa-a-te-ouvir-e-ver-sua-tela-para-auxiliar-nas-tarefas/</link>
+      <description>O Copilot Voice e o Copilot Vision formam a base da nova experiência de IA, oferecendo respostas por voz, análise de tela e suporte guiado.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/ia-do-windows-passa-a-te-ouvir-e-ver-sua-tela-para-auxiliar-nas-tarefas/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/copilot-com-voz-tecnoblog-1-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 16 Oct 2025 13:00:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
