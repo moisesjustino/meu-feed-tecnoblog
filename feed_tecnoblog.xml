@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 16 Oct 2025 18:16:51 +0000</lastBuildDate>
-    <item>
-      <title>99 fora do ar: app volta a funcionar após falhas e instabilidade</title>
-      <link>https://tecnoblog.net/noticias/99-fora-do-ar-app-de-transporte-tem-falha-e-nao-funciona-nesta-quarta-15/</link>
-      <description>Pane afetou todos os serviços da empresa. Corridas, entregas e 99Food foram reestabelecidos à tarde. 99Pay só voltou a operar durante a madrugada.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/99-fora-do-ar-app-de-transporte-tem-falha-e-nao-funciona-nesta-quarta-15/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/04/99-logotipo-2-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 15 Oct 2025 12:34:59 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 16 Oct 2025 19:07:55 +0000</lastBuildDate>
     <item>
       <title>O que é LoRaWAN? Veja como funciona o protocolo de comunicação IoT</title>
       <link>https://tecnoblog.net/responde/o-que-e-lorawan-veja-como-funciona-o-protocolo-de-comunicacao-iot/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/powertoys-agora-faz-o-windows-11-entrar-em-modo-escuro-automaticamente/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/powertoys-modo-escuro-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Thu, 16 Oct 2025 17:35:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mais uma tarefa para motorista de Uber: treinar a IA</title>
+      <link>https://tecnoblog.net/noticias/mais-uma-tarefa-para-motorista-de-uber-treinar-a-ia/</link>
+      <description>Motoristas nos EUA poderão receber extras ao executar tarefas de treinamento de IA. Novidade é exclusiva do país e não tem previsão de chegada ao Brasil.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/mais-uma-tarefa-para-motorista-de-uber-treinar-a-ia/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/06/uber_capa-2_tb-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 16 Oct 2025 18:29:48 +0000</pubDate>
     </item>
   </channel>
 </rss>
