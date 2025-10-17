@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 17 Oct 2025 16:13:52 +0000</lastBuildDate>
-    <item>
-      <title>Google: agora você pode cadastrar pessoas para recuperar sua conta</title>
-      <link>https://tecnoblog.net/noticias/google-agora-voce-pode-cadastrar-pessoas-para-recuperar-sua-conta/</link>
-      <description>Google criou recurso que permite indicar contatos de recuperação. Amigos ou familiares podem ajudar a restaurar acesso em caso de perda de login.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/google-agora-voce-pode-cadastrar-pessoas-para-recuperar-sua-conta/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/contatos-recuperacao-google-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 15 Oct 2025 18:12:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Motorola Edge 60 Pro (256 GB) tem oferta imperdível no Mercado Livre</title>
-      <link>https://tecnoblog.net/achados/motorola-edge-60-pro-256-gb-tem-oferta-imperdivel-no-mercado-livre/</link>
-      <description>Motorola Edge 60 Pro (256 GB) tem RAM de 12 GB expansível até 24 GB, e câmera tripla com dois sensores de 50 MP; celular Motorola fica 37% mais barato em oferta</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/motorola-edge-60-pro-256-gb-tem-oferta-imperdivel-no-mercado-livre/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/motorola-edge-60-pro-foto-giovanni-santa-rosatecnoblog-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 15 Oct 2025 18:31:15 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 17 Oct 2025 17:09:55 +0000</lastBuildDate>
     <item>
       <title>Amazon segue Mercado Livre e libera frete grátis para mais produtos</title>
       <link>https://tecnoblog.net/noticias/amazon-segue-mercado-livre-e-libera-frete-gratis-para-mais-produtos/</link>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/vivo-lanca-protecao-rua-servico-que-bloqueia-apps-se-celular-for-roubado/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/04/vivo-celular-capa-2-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Fri, 17 Oct 2025 15:59:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Motorola Edge 60 Fusion (256 GB) tem menor preço histórico no Mercado Livre</title>
+      <link>https://tecnoblog.net/achados/motorola-edge-60-fusion-256-gb-tem-menor-preco-historico-no-mercado-livre/</link>
+      <description>Smartphone intermediário premium da Motorola em promoção com 44% OFF traz tela POLED de 6,7", câmera frontal de 32 MP, bateria de 5.200 mAh e chip MediaTek Dimensity 7300</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/motorola-edge-60-fusion-256-gb-tem-menor-preco-historico-no-mercado-livre/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/motorola-edge-60-fusion-achados-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 17 Oct 2025 16:18:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Galaxy Z Fold 6 (512 GB) com 59% OFF na Amazon tem tela dobrável de 7,6″</title>
+      <link>https://tecnoblog.net/achados/galaxy-z-fold-6-512-gb-com-59-off-na-amazon-tem-tela-dobravel-de-76/</link>
+      <description>Galaxy Z Fold 6 (512 GB) é celular dobrável da Samsung com tela de 7,6", RAM de 12 GB e processador Snapdragon 8 Gen 3; desconto é de 59% na Amazon</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-z-fold-6-512-gb-com-59-off-na-amazon-tem-tela-dobravel-de-76/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/01/tela-do-galagalaxy-z-fold-6-tela-interna-de-76-polegadas-foto-thassius-velosotecnoblogxy-a16-e-amoled-com-resolucao-full-hd-foto-thassius-velosotecnoblog-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 17 Oct 2025 17:05:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
