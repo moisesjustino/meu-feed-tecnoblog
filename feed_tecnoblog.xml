@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 17 Oct 2025 12:22:35 +0000</lastBuildDate>
-    <item>
-      <title>Dobrável do Google explode durante teste de durabilidade; assista</title>
-      <link>https://tecnoblog.net/noticias/dobravel-do-google-explode-durante-teste-de-durabilidade-assista/</link>
-      <description>Pixel 10 Pro Fold mantém o design de antenas ao lado das dobradiças, local onde quebrou. Modelo foi lançado com a promessa de alta resistência.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/dobravel-do-google-explode-durante-teste-de-durabilidade-assista/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/gif-pixel-10-pro-fold-explodindo-340x191.gif" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 15 Oct 2025 14:15:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Apple lança chip M5 no MacBook e iPad, com preços a partir de R$ 12.499</title>
-      <link>https://tecnoblog.net/noticias/apple-lanca-chip-m5-no-macbook-e-ipad-com-precos-a-partir-de-r-12-499/</link>
-      <description>Novo chip traz CPU mais rápida e GPU preparada para lidar com tarefas de IA. Tablet e notebook mantêm design da geração anterior.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/apple-lanca-chip-m5-no-macbook-e-ipad-com-precos-a-partir-de-r-12-499/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/apple-m5-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 15 Oct 2025 15:03:06 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 17 Oct 2025 13:22:01 +0000</lastBuildDate>
     <item>
       <title>Linhas de notebook da HP: confira as séries para estudo, trabalho ou jogos</title>
       <link>https://tecnoblog.net/responde/linhas-de-notebook-da-hp-confira-as-series-para-estudo-trabalho-ou-jogos/</link>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/jbl-charge-6-em-oferta-com-mais-de-30-de-desconto-na-amazon/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/jbl-charge-6-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Thu, 16 Oct 2025 20:40:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mozilla promete manter Firefox atualizado no Windows 10</title>
+      <link>https://tecnoblog.net/noticias/mozilla-promete-manter-firefox-atualizado-no-windows-10/</link>
+      <description>Microsoft encerrou suporte ao Windows 10, mas Mozilla confirma que Firefox seguirá recebendo atualizações completas no sistema, por tempo indeterminado.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/mozilla-promete-manter-firefox-atualizado-no-windows-10/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/02/capa-mozila-tb-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 17 Oct 2025 12:41:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Motorola lança Edge 60 Neo com foco em câmera e durabilidade; veja o preço</title>
+      <link>https://tecnoblog.net/noticias/motorola-lanca-edge-60-neo-com-foco-em-camera-e-durabilidade-veja-o-preco/</link>
+      <description>Quarto modelo da família chega ao país com chip MediaTek, câmera com zoom óptico de 3x e promessa de atualizações até o Android 19</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/motorola-lanca-edge-60-neo-com-foco-em-camera-e-durabilidade-veja-o-preco/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/edge-60-neo_motorola-edited-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 17 Oct 2025 13:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
