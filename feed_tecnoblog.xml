@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 17 Oct 2025 20:12:55 +0000</lastBuildDate>
-    <item>
-      <title>iPhone 16e (256 GB) tem melhor oferta que já vimos no Mercado Livre</title>
-      <link>https://tecnoblog.net/achados/iphone-16e-256-gb-tem-melhor-oferta-que-ja-vimos-no-mercado-livre/</link>
-      <description>iPhone 16e de 256 GB tem chip Apple A18, câmera de 48 MP e display OLED; celular da Apple fica 38% mais barato em promoção</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/iphone-16e-256-gb-tem-melhor-oferta-que-ja-vimos-no-mercado-livre/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/03/iphone-16e-achados-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 16 Oct 2025 13:34:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Como criar um catálogo de produtos no WhatsApp Business</title>
-      <link>https://tecnoblog.net/responde/como-criar-um-catalogo-de-produtos-no-whatsapp-business/</link>
-      <description>O catálogo do WhatsApp Business permite que as empresas exibam produtos e serviços diretamente no perfil, facilitando a visualização para os clientes que entram em contato</description>
-      <guid isPermaLink="false">https://tecnoblog.net/responde/como-criar-um-catalogo-de-produtos-no-whatsapp-business/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/como-criar-e-gerenciar-um-catalogo-no-whatsapp-business-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 16 Oct 2025 13:53:05 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 17 Oct 2025 21:09:59 +0000</lastBuildDate>
     <item>
       <title>Galaxy Tab S10 Lite em oferta histórica abaixo de R$ 2 mil no Mercado Livre</title>
       <link>https://tecnoblog.net/achados/galaxy-tab-s10-lite-em-oferta-historica-abaixo-de-r-2-mil-no-mercado-livre/</link>
@@ -201,7 +185,7 @@
       <pubDate>Fri, 17 Oct 2025 18:10:25 +0000</pubDate>
     </item>
     <item>
-      <title>ChatGPT perde fôlego no app e crescimento de usuários desacelera</title>
+      <title>ChatGPT perde fôlego: ritmo de novos usuários está menor</title>
       <link>https://tecnoblog.net/noticias/chatgpt-perde-folego-no-app-e-crescimento-de-usuarios-desacelera/</link>
       <description>Análise da Apptopia indica queda de 8% em novos downloads e estagnação no uso diário do aplicativo. Empresa sugere que "efeito novidade" do ChatGPT pode ter acabado.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/chatgpt-perde-folego-no-app-e-crescimento-de-usuarios-desacelera/</guid>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/iphone-15-256-gb-tem-maior-desconto-que-ja-vimos-46-off-no-mercado-livre/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/iPhone15-achado-do-dia-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Fri, 17 Oct 2025 19:48:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trabalhadores de apps têm jornadas mais longas e recebem menos, aponta IBGE</title>
+      <link>https://tecnoblog.net/noticias/trabalhadores-de-apps-tem-jornadas-mais-longas-e-recebem-menos-aponta-ibge/</link>
+      <description>Levantamento revela que 335 mil novos profissionais passaram a ter os aplicativos como principal fonte de renda, um aumento de 25%.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/trabalhadores-de-apps-tem-jornadas-mais-longas-e-recebem-menos-aponta-ibge/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2021/11/motorista-uber-99-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 17 Oct 2025 20:29:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>WhatsApp testa limite para mensagens sem resposta</title>
+      <link>https://tecnoblog.net/noticias/whatsapp-testa-limite-para-mensagens-sem-resposta/</link>
+      <description>Usuários pessoais e empresariais terão quantidade mensal de envios para números desconhecidos. Objetivo é combater spam.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/whatsapp-testa-limite-para-mensagens-sem-resposta/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/02/codigo-para-whatsapp_capa_tb-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 17 Oct 2025 21:04:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
