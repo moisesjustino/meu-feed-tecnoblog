@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 20 Oct 2025 09:14:09 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Oct 2025 10:13:23 +0000</lastBuildDate>
     <item>
       <title>iPhone 18 Pro pode ter câmera com abertura variável</title>
       <link>https://tecnoblog.net/noticias/iphone-18-pro-pode-ter-camera-com-abertura-variavel/</link>
@@ -217,11 +217,11 @@
       <pubDate>Fri, 17 Oct 2025 21:42:44 +0000</pubDate>
     </item>
     <item>
-      <title>Mercado Livre e mais serviços ficam fora do ar nesta manhã</title>
+      <title>Mercado Livre, Alexa e mais serviços ficam fora do ar nesta manhã</title>
       <link>https://tecnoblog.net/noticias/mercado-livre-e-mais-servicos-ficam-fora-do-ar-nesta-manha-de-segunda-feira/</link>
-      <description>Pane na AWS impacta Prime Video, Canva e Wellhub.</description>
+      <description>Pane na AWS também impacta Mercado Pago, Prime Video, Canva e Wellhub. Um problema foi identificado num data center na Virgínia do Norte.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/mercado-livre-e-mais-servicos-ficam-fora-do-ar-nesta-manha-de-segunda-feira/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/screenshot_20251020_055723_mercado-libre-edited-1-340x191.jpg" length="0" type="image/jpeg"/>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/05/capa-meli_tb-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 20 Oct 2025 09:04:16 +0000</pubDate>
     </item>
   </channel>
