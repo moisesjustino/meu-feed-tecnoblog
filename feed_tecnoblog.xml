@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 20 Oct 2025 17:10:21 +0000</lastBuildDate>
-    <item>
-      <title>Motorola lança Edge 60 Neo com foco em câmera e durabilidade; veja o preço</title>
-      <link>https://tecnoblog.net/noticias/motorola-lanca-edge-60-neo-com-foco-em-camera-e-durabilidade-veja-o-preco/</link>
-      <description>Quarto modelo da família chega ao país com chip MediaTek, câmera com zoom óptico de 3x e promessa de atualizações até o Android 19</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/motorola-lanca-edge-60-neo-com-foco-em-camera-e-durabilidade-veja-o-preco/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/edge-60-neo_motorola-edited-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 17 Oct 2025 13:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 20 Oct 2025 18:17:47 +0000</lastBuildDate>
     <item>
       <title>Claro libera Disney e Amazon sem custo extra para mais clientes</title>
       <link>https://tecnoblog.net/noticias/claro-libera-disney-e-amazon-de-graca-para-mais-clientes/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/galaxy-s26-pode-usar-apenas-chips-exynos/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/04/IMG_0122-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 20 Oct 2025 16:54:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Galaxy S25 Plus (256 GB) fica 48% mais barato em até 12x sem juros</title>
+      <link>https://tecnoblog.net/achados/galaxy-s25-plus-256-gb-fica-48-mais-barato-em-ate-12x-sem-juros/</link>
+      <description>Galaxy S25 Plus de 256 GB tem Snapdragon 8 Elite acompanhado por RAM de 12 GB, câmera tripla com sensor de 50 MP e tela AMOLED de 120 Hz com 6,7 polegadas</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-s25-plus-256-gb-fica-48-mais-barato-em-ate-12x-sem-juros/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/04/Samsung-Galaxy-S25-Plus-tem-tela-de-67-com-resolucao-QHD-imagem-Samsung-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 20 Oct 2025 17:25:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
