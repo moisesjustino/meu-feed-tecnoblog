@@ -7,31 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 20 Oct 2025 15:12:04 +0000</lastBuildDate>
-    <item>
-      <title>Mais uma tarefa para motorista de Uber: treinar a IA</title>
-      <link>https://tecnoblog.net/noticias/mais-uma-tarefa-para-motorista-de-uber-treinar-a-ia/</link>
-      <description>Motoristas nos EUA poderão receber extras ao executar tarefas de treinamento de IA. Novidade é exclusiva do país e não tem previsão de chegada ao Brasil.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/mais-uma-tarefa-para-motorista-de-uber-treinar-a-ia/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/06/uber_capa-2_tb-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 16 Oct 2025 18:29:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>EUA vão lançar moeda para homenagear Steve Jobs</title>
-      <link>https://tecnoblog.net/noticias/eua-vao-lancar-moeda-para-homenagear-steve-jobs/</link>
-      <description>Moeda comemorativa faz parte de uma série dedicada à inovação norte-americana e será lançada em 2026. Design retrata o cofundador da Apple em seus primeiros anos.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/eua-vao-lancar-moeda-para-homenagear-steve-jobs/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/steve-jobs-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 16 Oct 2025 19:12:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Como ver o catálogo de uma loja no WhatsApp Business</title>
-      <link>https://tecnoblog.net/responde/como-ver-o-catalogo-de-uma-loja-no-whatsapp/</link>
-      <description>Acessar o catálogo do WhatsApp permite ver a vitrine virtual de uma conta comercial, conferindo os produtos ou serviços disponíveis e até iniciar a compra</description>
-      <guid isPermaLink="false">https://tecnoblog.net/responde/como-ver-o-catalogo-de-uma-loja-no-whatsapp/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/como-ver-o-catalogo-de-uma-loja-no-whatsapp-business-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 16 Oct 2025 19:36:20 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 20 Oct 2025 16:14:03 +0000</lastBuildDate>
     <item>
       <title>Mercado Pago anuncia IA que faz transações financeiras para o usuário</title>
       <link>https://tecnoblog.net/noticias/mercado-pago-anuncia-ia-que-faz-transacoes-financeiras-para-o-usuario/</link>
@@ -223,6 +199,30 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/spotify-agora-permite-seguir-locais-e-ver-proximos-shows/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/03/spotify_capa-1_tb-edited-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 20 Oct 2025 14:43:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Galaxy S24 FE (256 GB) tem menor preço que já vimos com 53% OFF no Magalu</title>
+      <link>https://tecnoblog.net/achados/galaxy-s24-fe-256-gb-tem-menor-preco-que-ja-vimos-com-53-off-no-magalu/</link>
+      <description>Smartphone premium da Samsung de 256 GB é equipado por tela AMOLED de 6,7" com 120 Hz, 8 GB de RAM e câmera principal de 50 MP com OIS e gravação em 8K</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-s24-fe-256-gb-tem-menor-preco-que-ja-vimos-com-53-off-no-magalu/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/galaxy-s24-fe-tem-camera-traseira-tripla-foto-giovanni-santa-rosa-tecnoblog-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 20 Oct 2025 15:20:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>X vai vender usernames inativos para assinantes Premium</title>
+      <link>https://tecnoblog.net/noticias/x-vai-vender-usernames-inativos-para-assinantes-premium/</link>
+      <description>Rede social de Elon Musk terá marketplace de usernames exclusivo para os assinantes. Nomes raros podem custar mais de R$ 13 mil.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/x-vai-vender-usernames-inativos-para-assinantes-premium/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/08/capa-x-bloqueado-1-1-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 20 Oct 2025 15:28:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Invasão fez site do Xubuntu distribuir malware para Windows</title>
+      <link>https://tecnoblog.net/noticias/invasao-fez-site-do-xubuntu-distribuir-malware-para-windows/</link>
+      <description>Site do Xubuntu foi invadido e passou a distribuir malware para Windows no último sábado. Página de download foi desativada temporariamente.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/invasao-fez-site-do-xubuntu-distribuir-malware-para-windows/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/xubuntu-25-10-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 20 Oct 2025 16:04:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
