@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 20 Oct 2025 19:09:33 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Oct 2025 20:13:39 +0000</lastBuildDate>
     <item>
       <title>Vivo lança Proteção Rua, serviço que bloqueia apps se celular for roubado</title>
       <link>https://tecnoblog.net/noticias/vivo-lanca-protecao-rua-servico-que-bloqueia-apps-se-celular-for-roubado/</link>
@@ -105,9 +105,9 @@
       <pubDate>Fri, 17 Oct 2025 21:42:44 +0000</pubDate>
     </item>
     <item>
-      <title>Mercado Livre, Alexa e mais serviços ficam fora do ar hoje (20)</title>
+      <title>Pane na AWS afeta Mercado Livre, Alexa, iFood e mais serviços</title>
       <link>https://tecnoblog.net/noticias/mercado-livre-e-mais-servicos-ficam-fora-do-ar-nesta-manha-de-segunda-feira/</link>
-      <description>Pane na AWS também impacta Mercado Pago, Prime Video, Canva e Wellhub. Um problema foi identificado num data center na Virgínia.</description>
+      <description>Problema ocorreu num data center no estado da Virgínia, nos EUA. Usuários têm dificuldades para acessar aplicativos e checar informações.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/mercado-livre-e-mais-servicos-ficam-fora-do-ar-nesta-manha-de-segunda-feira/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/05/capa-meli_tb-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 20 Oct 2025 09:04:16 +0000</pubDate>
@@ -211,7 +211,7 @@
     <item>
       <title>Anel inteligente vai avisar quando você estiver à beira de um burnout</title>
       <link>https://tecnoblog.net/noticias/anel-inteligente-vai-avisar-quando-voce-estiver-a-beira-de-um-burnout/</link>
-      <description>A nova função Cumulative Stress do Oura Ring avalia níveis de estresse com base em dados biométricos.</description>
+      <description>Nova função Cumulative Stress do Oura Ring avalia níveis de estresse com base em dados biométricos.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/anel-inteligente-vai-avisar-quando-voce-estiver-a-beira-de-um-burnout/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/03/oura-ring-divulgacao-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 20 Oct 2025 19:01:22 +0000</pubDate>
