@@ -7,31 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 20 Oct 2025 16:14:03 +0000</lastBuildDate>
-    <item>
-      <title>Mercado Pago anuncia IA que faz transações financeiras para o usuário</title>
-      <link>https://tecnoblog.net/noticias/mercado-pago-anuncia-ia-que-faz-transacoes-financeiras-para-o-usuario/</link>
-      <description>Assistente Pessoal do Mercado Pago usa IA para receber instruções do cliente e realizar pagamentos, transferências, depósitos, entre outras operações financeiras.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/mercado-pago-anuncia-ia-que-faz-transacoes-financeiras-para-o-usuario/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/mercado-pago-celular-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 16 Oct 2025 19:38:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>JBL Charge 6 em oferta com mais de 30% de desconto na Amazon</title>
-      <link>https://tecnoblog.net/achados/jbl-charge-6-em-oferta-com-mais-de-30-de-desconto-na-amazon/</link>
-      <description>Nova caixa de som JBL tem bateria para 28 horas, Bluetooth 5.4, certificação IP68 e suporte a IA para melhor desempenho do áudio. Alça para transporte é novidade</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/jbl-charge-6-em-oferta-com-mais-de-30-de-desconto-na-amazon/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/jbl-charge-6-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 16 Oct 2025 20:40:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mozilla promete manter Firefox atualizado no Windows 10</title>
-      <link>https://tecnoblog.net/noticias/mozilla-promete-manter-firefox-atualizado-no-windows-10/</link>
-      <description>Microsoft encerrou suporte ao Windows 10, mas Mozilla confirma que Firefox seguirá recebendo atualizações completas no sistema, por tempo indeterminado.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/mozilla-promete-manter-firefox-atualizado-no-windows-10/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/02/capa-mozila-tb-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 17 Oct 2025 12:41:40 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 20 Oct 2025 17:10:21 +0000</lastBuildDate>
     <item>
       <title>Motorola lança Edge 60 Neo com foco em câmera e durabilidade; veja o preço</title>
       <link>https://tecnoblog.net/noticias/motorola-lanca-edge-60-neo-com-foco-em-camera-e-durabilidade-veja-o-preco/</link>
@@ -119,6 +95,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/redmi-k90-pro-max-tera-traseira-com-textura-que-imita-o-jeans/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/xiaomi-redmi-k90-pro-max--340x191.webp" length="0" type="image/jpeg"/>
       <pubDate>Fri, 17 Oct 2025 18:10:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>O que é URL? Entenda o significado e o funcionamento de um endereço web</title>
+      <link>https://tecnoblog.net/responde/o-que-e-url/</link>
+      <description>URL serve como um endereço completo, incluindo protocolo e domínio de site, para localizar e acessar um recurso específico na internet</description>
+      <guid isPermaLink="false">https://tecnoblog.net/responde/o-que-e-url/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2019/10/url-tb-02-1060x596.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 17 Oct 2025 18:24:11 +0000</pubDate>
     </item>
     <item>
       <title>ChatGPT perde fôlego: ritmo de novos usuários está menor</title>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/invasao-fez-site-do-xubuntu-distribuir-malware-para-windows/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/xubuntu-25-10-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 20 Oct 2025 16:04:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Funcionários da Apple estão preocupados com desempenho da nova Siri</title>
+      <link>https://tecnoblog.net/noticias/funcionarios-da-apple-estao-preocupados-com-desempenho-da-nova-siri/</link>
+      <description>Empresa prometeu assistente capaz de acessar apps e entender contextos, mas ferramenta está atrasada e só deve chegar em março de 2026</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/funcionarios-da-apple-estao-preocupados-com-desempenho-da-nova-siri/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/06/siri-wwdc-24-1-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 20 Oct 2025 16:18:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Galaxy S26 pode usar apenas chips Exynos</title>
+      <link>https://tecnoblog.net/noticias/galaxy-s26-pode-usar-apenas-chips-exynos/</link>
+      <description>Samsung pode abandonar de vez o chipset Snapdragon e usar chips de fabricação própria em toda a linha Galaxy S26.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/galaxy-s26-pode-usar-apenas-chips-exynos/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/04/IMG_0122-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 20 Oct 2025 16:54:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
