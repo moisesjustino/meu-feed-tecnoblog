@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 20 Oct 2025 08:16:48 +0000</lastBuildDate>
-    <item>
-      <title>Zorin OS 18: distro Linux chega com proposta de substituir o Windows 10</title>
-      <link>https://tecnoblog.net/noticias/zorin-os-18-distro-linux-chega-com-proposta-de-substituir-o-windows-10/</link>
-      <description>Com interface padrão que remete ao Windows 10, distribuição Zorin OS 18 tem kernel Linux 6.14 e oferece suporte até 2029.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/zorin-os-18-distro-linux-chega-com-proposta-de-substituir-o-windows-10/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/zorin-os-18-1-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 16 Oct 2025 14:49:54 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 20 Oct 2025 09:14:09 +0000</lastBuildDate>
     <item>
       <title>iPhone 18 Pro pode ter câmera com abertura variável</title>
       <link>https://tecnoblog.net/noticias/iphone-18-pro-pode-ter-camera-com-abertura-variavel/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/redmagic-11-pro-e-o-primeiro-celular-do-mundo-com-refrigeracao-liquida/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/redmagic_11_pro_1015_news_1_-edited-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Fri, 17 Oct 2025 21:42:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mercado Livre e mais serviços ficam fora do ar nesta manhã</title>
+      <link>https://tecnoblog.net/noticias/mercado-livre-e-mais-servicos-ficam-fora-do-ar-nesta-manha-de-segunda-feira/</link>
+      <description>Pane na AWS impacta Prime Video, Canva e Wellhub.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/mercado-livre-e-mais-servicos-ficam-fora-do-ar-nesta-manha-de-segunda-feira/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/screenshot_20251020_055723_mercado-libre-edited-1-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 20 Oct 2025 09:04:16 +0000</pubDate>
     </item>
   </channel>
 </rss>
