@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 21 Oct 2025 13:27:45 +0000</lastBuildDate>
-    <item>
-      <title>ChatGPT perde fôlego: ritmo de novos usuários está menor</title>
-      <link>https://tecnoblog.net/noticias/chatgpt-perde-folego-no-app-e-crescimento-de-usuarios-desacelera/</link>
-      <description>Análise da Apptopia indica queda de 8% em novos downloads e estagnação no uso diário do aplicativo. Empresa sugere que "efeito novidade" do ChatGPT pode ter acabado.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/chatgpt-perde-folego-no-app-e-crescimento-de-usuarios-desacelera/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/04/chatgpt-celular-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 17 Oct 2025 18:54:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Atari lança Intellivision Sprint, versão retrô do console dos anos 1980</title>
-      <link>https://tecnoblog.net/noticias/atari-lanca-intellivision-sprint-versao-retro-do-console-dos-anos-1980/</link>
-      <description>Atari lançou Intellivision Sprint, console baseado no clássico dos anos 1980. Novidade  retrô traz dois controles e 45 jogos embutidos.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/atari-lanca-intellivision-sprint-versao-retro-do-console-dos-anos-1980/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/intellivision-sprint-1-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 17 Oct 2025 19:18:05 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 21 Oct 2025 14:11:55 +0000</lastBuildDate>
     <item>
       <title>iPhone 15 (256 GB) tem maior desconto que já vimos: 46% OFF no Mercado Livre</title>
       <link>https://tecnoblog.net/achados/iphone-15-256-gb-tem-maior-desconto-que-ja-vimos-46-off-no-mercado-livre/</link>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-s24-256-gb-tem-56-off-na-melhor-oferta-que-ja-vimos/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/02/Galaxy-S24-em-oferta-Foto-Thassius-VelosoTecnoblog-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Tue, 21 Oct 2025 13:19:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Sims Mobile será encerrado pela EA</title>
+      <link>https://tecnoblog.net/noticias/the-sims-mobile-sera-encerrado-pela-ea/</link>
+      <description>Atualização dessa segunda-feira (20/10) é a última, após quase oito anos de funcionamento. Jogo será desativado em janeiro de 2026.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/the-sims-mobile-sera-encerrado-pela-ea/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2021/01/como_jogar_the_sims_mobile-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 21 Oct 2025 13:36:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Windows 11: Microsoft lança correção para bug no modo de recuperação</title>
+      <link>https://tecnoblog.net/noticias/windows-11-microsoft-lanca-correcao-para-bug-no-modo-de-recuperacao/</link>
+      <description>Atualização do Windows 11 fez modo de recuperação (WinRE) não reconhecer teclados e mouses USB. Microsoft já liberou correção para o problema.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/windows-11-microsoft-lanca-correcao-para-bug-no-modo-de-recuperacao/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/winre-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 21 Oct 2025 13:44:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
