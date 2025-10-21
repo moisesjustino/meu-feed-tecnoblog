@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 21 Oct 2025 14:11:55 +0000</lastBuildDate>
-    <item>
-      <title>iPhone 15 (256 GB) tem maior desconto que já vimos: 46% OFF no Mercado Livre</title>
-      <link>https://tecnoblog.net/achados/iphone-15-256-gb-tem-maior-desconto-que-ja-vimos-46-off-no-mercado-livre/</link>
-      <description>iPhone 15 de 256 GB tem Apple A16 Bionic, câmera de 48 MP e tela com brilho até 2.000 nits; preço cai 46% com cupom no Mercado Livre</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/iphone-15-256-gb-tem-maior-desconto-que-ja-vimos-46-off-no-mercado-livre/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/iPhone15-achado-do-dia-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 17 Oct 2025 19:48:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trabalhadores de apps têm jornadas mais longas e recebem menos, aponta IBGE</title>
-      <link>https://tecnoblog.net/noticias/trabalhadores-de-apps-tem-jornadas-mais-longas-e-recebem-menos-aponta-ibge/</link>
-      <description>Levantamento revela que 335 mil novos profissionais passaram a ter os aplicativos como principal fonte de renda, um aumento de 25%.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/trabalhadores-de-apps-tem-jornadas-mais-longas-e-recebem-menos-aponta-ibge/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2021/11/motorista-uber-99-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 17 Oct 2025 20:29:18 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 21 Oct 2025 15:13:16 +0000</lastBuildDate>
     <item>
       <title>WhatsApp testa limite para mensagens sem resposta</title>
       <link>https://tecnoblog.net/noticias/whatsapp-testa-limite-para-mensagens-sem-resposta/</link>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/windows-11-microsoft-lanca-correcao-para-bug-no-modo-de-recuperacao/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/winre-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 21 Oct 2025 13:44:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Como baixar vídeos e playlists do YouTube com o 4K Video Downloader+</title>
+      <link>https://tecnoblog.net/publieditoriais/como-baixar-videos-e-playlists-do-youtube-com-o-4k-video-downloader/</link>
+      <description>4K Video Downloader+ é uma poderosa ferramenta para download de vídeos e Shorts do YouTube. Veja como é fácil usá-la.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/publieditoriais/como-baixar-videos-e-playlists-do-youtube-com-o-4k-video-downloader/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/4k-downloader-2-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 21 Oct 2025 14:50:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>iOS 26.1 Beta 4 traz nova opção para reduzir transparência do Liquid Glass</title>
+      <link>https://tecnoblog.net/noticias/ios-26-1-beta-4-traz-nova-opcao-para-reduzir-transparencia-do-liquid-glass/</link>
+      <description>Apple adiciona alternativa com mais opacidade e contraste após feedback de usuários. iPadOS e macOS também receberam configuração.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/ios-26-1-beta-4-traz-nova-opcao-para-reduzir-transparencia-do-liquid-glass/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/20250609_174950-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 21 Oct 2025 14:50:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
