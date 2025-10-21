@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 21 Oct 2025 15:13:16 +0000</lastBuildDate>
-    <item>
-      <title>WhatsApp testa limite para mensagens sem resposta</title>
-      <link>https://tecnoblog.net/noticias/whatsapp-testa-limite-para-mensagens-sem-resposta/</link>
-      <description>Usuários pessoais e empresariais terão quantidade mensal de envios para números desconhecidos. Objetivo é combater spam.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/whatsapp-testa-limite-para-mensagens-sem-resposta/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/02/codigo-para-whatsapp_capa_tb-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 17 Oct 2025 21:04:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>RedMagic 11 Pro é o primeiro celular do mundo com refrigeração líquida</title>
-      <link>https://tecnoblog.net/noticias/redmagic-11-pro-e-o-primeiro-celular-do-mundo-com-refrigeracao-liquida/</link>
-      <description>Novo smartphone gamer da marca chinesa Nubia traz refrigeração híbrida, tela de 6,8 polegadas e bateria de 8.000 mAh para longas sessões de jogo.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/redmagic-11-pro-e-o-primeiro-celular-do-mundo-com-refrigeracao-liquida/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/redmagic_11_pro_1015_news_1_-edited-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 17 Oct 2025 21:42:44 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 21 Oct 2025 16:15:06 +0000</lastBuildDate>
     <item>
       <title>Pane na AWS afeta Mercado Livre, Alexa, iFood e mais serviços</title>
       <link>https://tecnoblog.net/noticias/mercado-livre-e-mais-servicos-ficam-fora-do-ar-nesta-manha-de-segunda-feira/</link>
@@ -177,7 +161,7 @@
       <pubDate>Mon, 20 Oct 2025 21:24:59 +0000</pubDate>
     </item>
     <item>
-      <title>Este dispositivo transforma vasos sanitários em smart e analisa o seu cocô</title>
+      <title>Este aparelho fica no vaso sanitário e analisa o seu cocô</title>
       <link>https://tecnoblog.net/noticias/este-dispositivo-transforma-vasos-sanitarios-em-smart-e-analisa-o-seu-coco/</link>
       <description>Dekoda é um dispositivo inteligente que se acopla ao vaso. Produto usa sensores ópticos para fornecer dados de saúde e identifica usuários com biometria.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/este-dispositivo-transforma-vasos-sanitarios-em-smart-e-analisa-o-seu-coco/</guid>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/ios-26-1-beta-4-traz-nova-opcao-para-reduzir-transparencia-do-liquid-glass/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/20250609_174950-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 21 Oct 2025 14:50:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Galaxy Buds Core com ANC em oferta por menos de R$ 290 no Mercado Livre</title>
+      <link>https://tecnoblog.net/achados/galaxy-buds-core-com-anc-em-oferta-por-menos-de-r-290-no-mercado-livre/</link>
+      <description>Fones de ouvido sem fio da Samsung trazem cancelamento de ruído ativo (ANC), autonomia de até 35 horas e proteção IP54 contra água e poeira</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-buds-core-com-anc-em-oferta-por-menos-de-r-290-no-mercado-livre/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/galaxy-buds-core-tem-preco-sugerido-de-r-349-foto-thassius-velosotecnoblog-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 21 Oct 2025 15:35:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>WhatsApp ganha proteção adicional contra golpistas</title>
+      <link>https://tecnoblog.net/noticias/whatsapp-ganha-protecao-adicional-contra-golpistas/</link>
+      <description>Pop-up informativo será exibido antes do compartilhamento da tela com desconhecidos. Meta tenta reduzir golpes em seus mensageiros.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/whatsapp-ganha-protecao-adicional-contra-golpistas/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/whatsapp-capa-3-edited-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 21 Oct 2025 15:42:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
