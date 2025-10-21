@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 21 Oct 2025 20:13:42 +0000</lastBuildDate>
-    <item>
-      <title>Spotify agora permite seguir locais e ver próximos shows</title>
-      <link>https://tecnoblog.net/noticias/spotify-agora-permite-seguir-locais-e-ver-proximos-shows/</link>
-      <description>Recurso de eventos foi expandido e agora salva casas de show e espaços favoritos. Função está disponível para contas gratuitas e Premium.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/spotify-agora-permite-seguir-locais-e-ver-proximos-shows/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/03/spotify_capa-1_tb-edited-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 20 Oct 2025 14:43:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>O que é um navegador web? Entenda a função do browser e conheça exemplos</title>
-      <link>https://tecnoblog.net/responde/o-que-e-um-navegador-web-entenda-a-funcao-do-browser-e-conheca-exemplos/</link>
-      <description>Um navegador web (browser) permite acessar e visualizar conteúdo da World Wide Web, solicitando recursos de servidores, interpretando-os e mostrando ao usuário</description>
-      <guid isPermaLink="false">https://tecnoblog.net/responde/o-que-e-um-navegador-web-entenda-a-funcao-do-browser-e-conheca-exemplos/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2021/04/browsers-1-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 20 Oct 2025 15:05:15 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 21 Oct 2025 21:10:47 +0000</lastBuildDate>
     <item>
       <title>Galaxy S24 FE (256 GB) tem menor preço que já vimos com 53% OFF no Magalu</title>
       <link>https://tecnoblog.net/achados/galaxy-s24-fe-256-gb-tem-menor-preco-que-ja-vimos-com-53-off-no-magalu/</link>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/ia-perplexity-chega-as-smart-tvs-da-samsung/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/perplexity-tv-app-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 21 Oct 2025 19:04:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>PlayStation 5 atingiu o auge e avanço gráfico estagnou, diz ex-chefe da Sony</title>
+      <link>https://tecnoblog.net/noticias/playstation-5-atingiu-o-auge-e-avanco-grafico-estagnou-diz-ex-chefe-da-sony/</link>
+      <description>Shuhei Yoshida afirma que avanços visuais atuais são quase imperceptíveis, mas diz que PS5 tornou "quase todos os jogos melhores".</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/playstation-5-atingiu-o-auge-e-avanco-grafico-estagnou-diz-ex-chefe-da-sony/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/10f60c6e3a555d3ad34938f048bc5c95-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 21 Oct 2025 20:16:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Motorola Edge 60 Fusion (256 GB) em oferta histórica de 45% OFF na Amazon</title>
+      <link>https://tecnoblog.net/achados/motorola-edge-60-fusion-256-gb-em-oferta-historica-de-45-off-na-amazon/</link>
+      <description>Smartphone da Motorola traz tela POLED de 6,7", câmera frontal de 32 MP, bateria de 5.200 mAh e chip MediaTek Dimensity 7300; oferta exclusiva para membros Amazon Prime</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/motorola-edge-60-fusion-256-gb-em-oferta-historica-de-45-off-na-amazon/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/motorola-edge-60-fusion-tem-camera-sony-lytia-700c-foto-giovanni-santa-rosatecnoblog-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 21 Oct 2025 21:01:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
