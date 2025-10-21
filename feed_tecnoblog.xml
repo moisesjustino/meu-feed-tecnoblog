@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 21 Oct 2025 18:16:33 +0000</lastBuildDate>
-    <item>
-      <title>iPhone 17 vende mais do que a geração passada no lançamento</title>
-      <link>https://tecnoblog.net/noticias/iphone-17-vende-mais-do-que-a-geracao-passada-no-lancamento/</link>
-      <description>Números preliminares nos EUA e na China mostram que nova linha atraiu mais consumidores. Custo-benefício, promoções e incentivos estão entre os motivos.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/iphone-17-vende-mais-do-que-a-geracao-passada-no-lancamento/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/iphone-17-em-maos-thassius-veloso-tecnoblog-12-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 20 Oct 2025 14:14:55 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 21 Oct 2025 19:09:44 +0000</lastBuildDate>
     <item>
       <title>Spotify agora permite seguir locais e ver próximos shows</title>
       <link>https://tecnoblog.net/noticias/spotify-agora-permite-seguir-locais-e-ver-proximos-shows/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/atlas-openai-lanca-navegador-com-chatgpt-integrado/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/chatgpt-atlas-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 21 Oct 2025 17:31:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>IA Perplexity chega às smart TVs da Samsung</title>
+      <link>https://tecnoblog.net/noticias/ia-perplexity-chega-as-smart-tvs-da-samsung/</link>
+      <description>App de inteligência artificial já está disponível para modelos lançados neste ano, e chegará também para aparelhos de 2023 e 2024. Usuários terão um ano grátis do plano Pro como bônus.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/ia-perplexity-chega-as-smart-tvs-da-samsung/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/perplexity-tv-app-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 21 Oct 2025 19:04:51 +0000</pubDate>
     </item>
   </channel>
 </rss>
