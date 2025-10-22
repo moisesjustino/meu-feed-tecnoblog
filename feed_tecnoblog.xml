@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 22 Oct 2025 13:27:28 +0000</lastBuildDate>
-    <item>
-      <title>Funcionários da Apple estão preocupados com desempenho da nova Siri</title>
-      <link>https://tecnoblog.net/noticias/funcionarios-da-apple-estao-preocupados-com-desempenho-da-nova-siri/</link>
-      <description>Empresa prometeu assistente capaz de acessar apps e entender contextos, mas ferramenta está atrasada e só deve chegar em março de 2026</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/funcionarios-da-apple-estao-preocupados-com-desempenho-da-nova-siri/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/06/siri-wwdc-24-1-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 20 Oct 2025 16:18:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Galaxy S26 pode usar apenas chips Exynos</title>
-      <link>https://tecnoblog.net/noticias/galaxy-s26-pode-usar-apenas-chips-exynos/</link>
-      <description>Samsung pode abandonar de vez o chipset Snapdragon e usar chips de fabricação própria em toda a linha Galaxy S26.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/galaxy-s26-pode-usar-apenas-chips-exynos/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/04/IMG_0122-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 20 Oct 2025 16:54:55 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 22 Oct 2025 14:13:17 +0000</lastBuildDate>
     <item>
       <title>Galaxy S25 Plus (256 GB) fica 48% mais barato em até 12x sem juros</title>
       <link>https://tecnoblog.net/achados/galaxy-s25-plus-256-gb-fica-48-mais-barato-em-ate-12x-sem-juros/</link>
@@ -111,6 +95,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-s24-256-gb-tem-56-off-na-melhor-oferta-que-ja-vimos/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/02/Galaxy-S24-em-oferta-Foto-Thassius-VelosoTecnoblog-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Tue, 21 Oct 2025 13:19:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>O que são cookies? Entenda para que servem os arquivos de sites da web</title>
+      <link>https://tecnoblog.net/responde/o-que-sao-cookies-entenda-para-que-servem-os-arquivos-de-sites-da-web/</link>
+      <description>Os cookies guardam informações sobre as preferências e atividades do usuário em um site, permitindo que a página lembre dele a cada visita e personalize a experiência</description>
+      <guid isPermaLink="false">https://tecnoblog.net/responde/o-que-sao-cookies-entenda-para-que-servem-os-arquivos-de-sites-da-web/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2019/08/internet-cookies-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 21 Oct 2025 13:27:19 +0000</pubDate>
     </item>
     <item>
       <title>The Sims Mobile será encerrado pela EA</title>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/netflix-perdeu-us-619-milhoes-em-disputa-tributaria-no-brasil/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/02/netflix-2-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Wed, 22 Oct 2025 13:20:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Brasileiros aceitam IA nas finanças, mas somente como copiloto</title>
+      <link>https://tecnoblog.net/noticias/brasileiros-aceitam-ia-nas-financas-mas-somente-como-copiloto/</link>
+      <description>Sem descrição breve.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/brasileiros-aceitam-ia-nas-financas-mas-somente-como-copiloto/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/o-que-seu-cartao-faz-e-voce-nao-sabe-capa-edited-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 22 Oct 2025 14:03:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
