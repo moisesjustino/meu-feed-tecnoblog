@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 22 Oct 2025 17:11:38 +0000</lastBuildDate>
-    <item>
-      <title>Anel inteligente vai avisar quando você estiver à beira de um burnout</title>
-      <link>https://tecnoblog.net/noticias/anel-inteligente-vai-avisar-quando-voce-estiver-a-beira-de-um-burnout/</link>
-      <description>Nova função Cumulative Stress do Oura Ring avalia níveis de estresse com base em dados biométricos.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/anel-inteligente-vai-avisar-quando-voce-estiver-a-beira-de-um-burnout/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/03/oura-ring-divulgacao-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 20 Oct 2025 19:01:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Atualização do Windows 11 faz modo de recuperação do sistema falhar</title>
-      <link>https://tecnoblog.net/noticias/atualizacao-do-windows-11-faz-modo-de-recuperacao-do-sistema-falhar/</link>
-      <description>Bug no Patch Tuesday de outubro faz modo de recuperação do Windows 11 deixar de reconhecer dispositivos USB, como teclados e mouses.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/atualizacao-do-windows-11-faz-modo-de-recuperacao-do-sistema-falhar/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/windows-11-modo-escuro-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 20 Oct 2025 19:08:48 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 22 Oct 2025 18:18:19 +0000</lastBuildDate>
     <item>
       <title>WhatsApp proíbe presença do ChatGPT e outras IAs</title>
       <link>https://tecnoblog.net/noticias/whatsapp-proibe-presenca-do-chatgpt-e-outras-ias/</link>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/jovi-prepara-novo-celular-misterioso-para-o-brasil/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/03/Capa-Jovi-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Wed, 22 Oct 2025 15:18:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Relâmpago: Galaxy S25 Ultra (512 GB) com 46% OFF em até 12x sem juros</title>
+      <link>https://tecnoblog.net/achados/relampago-galaxy-s25-ultra-512-gb-com-46-off-em-ate-12x-sem-juros/</link>
+      <description>Galaxy S25 Ultra (512 GB) tem RAM de 12 GB, chip Snapdragon, tela grande e câmera de 200 MP; celular Samsung tem menor preço que já vimos na Amazon</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/relampago-galaxy-s25-ultra-512-gb-com-46-off-em-ate-12x-sem-juros/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/galaxy-s25-ultra-tem-camera-de-200-mp-foto-samsung-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 22 Oct 2025 17:20:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>YouTube ganha função para te ajudar a sair do Shorts</title>
+      <link>https://tecnoblog.net/noticias/youtube-ganha-funcao-para-te-ajudar-a-sair-do-shorts/</link>
+      <description>Recurso para limitar exibição contínua de vídeos curtos estava em testes desde abril. Plataforma vai liberar a ferramenta para dispositivos móveis a partir de hoje.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/youtube-ganha-funcao-para-te-ajudar-a-sair-do-shorts/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/10/youtube-shorts-edited-1-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 22 Oct 2025 17:32:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
