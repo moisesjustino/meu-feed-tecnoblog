@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 22 Oct 2025 12:34:11 +0000</lastBuildDate>
-    <item>
-      <title>X vai vender usernames inativos para assinantes Premium</title>
-      <link>https://tecnoblog.net/noticias/x-vai-vender-usernames-inativos-para-assinantes-premium/</link>
-      <description>Rede social de Elon Musk terá marketplace de usernames exclusivo para os assinantes. Nomes raros podem custar mais de R$ 13 mil.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/x-vai-vender-usernames-inativos-para-assinantes-premium/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/08/capa-x-bloqueado-1-1-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 20 Oct 2025 15:28:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Invasão fez site do Xubuntu distribuir malware para Windows</title>
-      <link>https://tecnoblog.net/noticias/invasao-fez-site-do-xubuntu-distribuir-malware-para-windows/</link>
-      <description>Site do Xubuntu foi invadido e passou a distribuir malware para Windows no último sábado. Página de download foi desativada temporariamente.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/invasao-fez-site-do-xubuntu-distribuir-malware-para-windows/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/xubuntu-25-10-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 20 Oct 2025 16:04:03 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 22 Oct 2025 13:27:28 +0000</lastBuildDate>
     <item>
       <title>Funcionários da Apple estão preocupados com desempenho da nova Siri</title>
       <link>https://tecnoblog.net/noticias/funcionarios-da-apple-estao-preocupados-com-desempenho-da-nova-siri/</link>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/samsung-google-e-qualcomm-se-unem-em-dispositivo-que-combina-ia-e-xr/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/samsung-mobile-galaxy-xr-multimodal-ai-android-xr-opening-new-worlds_main1-1-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Wed, 22 Oct 2025 02:56:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>65% das crianças e adolescentes brasileiros já utilizam IA, revela estudo</title>
+      <link>https://tecnoblog.net/noticias/65-das-criancas-e-adolescentes-brasileiros-usam-ia-revela-estudo/</link>
+      <description>Jovens usam IA para pesquisas escolares, busca de informações, criação de conteúdo ou conversas sobre problemas pessoais.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/65-das-criancas-e-adolescentes-brasileiros-usam-ia-revela-estudo/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2021/05/pexels-julia-m-cameron-Apple-ID-para-criancas-e1621981049706-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 22 Oct 2025 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Netflix culpa Brasil por rombo de US$ 619 milhões em resultado financeiro</title>
+      <link>https://tecnoblog.net/noticias/netflix-perdeu-us-619-milhoes-em-disputa-tributaria-no-brasil/</link>
+      <description>Gigante do streaming registrou despesa não programada com impostos brasileiros e frustrou previsão de lucro no trimestre. Ainda assim, receita global cresceu.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/netflix-perdeu-us-619-milhoes-em-disputa-tributaria-no-brasil/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/02/netflix-2-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 22 Oct 2025 13:20:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
