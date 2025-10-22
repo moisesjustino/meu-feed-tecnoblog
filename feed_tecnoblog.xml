@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 22 Oct 2025 02:28:03 +0000</lastBuildDate>
-    <item>
-      <title>Galaxy S24 FE (256 GB) tem menor preço que já vimos com 53% OFF no Magalu</title>
-      <link>https://tecnoblog.net/achados/galaxy-s24-fe-256-gb-tem-menor-preco-que-ja-vimos-com-53-off-no-magalu/</link>
-      <description>Smartphone premium da Samsung de 256 GB é equipado por tela AMOLED de 6,7" com 120 Hz, 8 GB de RAM e câmera principal de 50 MP com OIS e gravação em 8K</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-s24-fe-256-gb-tem-menor-preco-que-ja-vimos-com-53-off-no-magalu/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/galaxy-s24-fe-tem-camera-traseira-tripla-foto-giovanni-santa-rosa-tecnoblog-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 20 Oct 2025 15:20:06 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 22 Oct 2025 03:39:13 +0000</lastBuildDate>
     <item>
       <title>X vai vender usernames inativos para assinantes Premium</title>
       <link>https://tecnoblog.net/noticias/x-vai-vender-usernames-inativos-para-assinantes-premium/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/motorola-edge-60-fusion-256-gb-em-oferta-historica-de-45-off-na-amazon/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/motorola-edge-60-fusion-tem-camera-sony-lytia-700c-foto-giovanni-santa-rosatecnoblog-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Tue, 21 Oct 2025 21:01:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Samsung, Google e Qualcomm se unem em dispositivo que combina IA e XR</title>
+      <link>https://tecnoblog.net/noticias/samsung-google-e-qualcomm-se-unem-em-dispositivo-que-combina-ia-e-xr/</link>
+      <description>Galaxy XR roda o sistema Android XR, primeiro da empresa voltado para realidade aumentada/estendida. Formato lembra o Apple Vision Pro, anunciado há dois anos.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/samsung-google-e-qualcomm-se-unem-em-dispositivo-que-combina-ia-e-xr/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/samsung-mobile-galaxy-xr-multimodal-ai-android-xr-opening-new-worlds_main1-1-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 22 Oct 2025 02:56:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
