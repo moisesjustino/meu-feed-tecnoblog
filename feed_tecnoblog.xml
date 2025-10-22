@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 22 Oct 2025 22:09:20 +0000</lastBuildDate>
-    <item>
-      <title>O que são cookies? Entenda para que servem os arquivos de sites da web</title>
-      <link>https://tecnoblog.net/responde/o-que-sao-cookies-entenda-para-que-servem-os-arquivos-de-sites-da-web/</link>
-      <description>Os cookies guardam informações sobre as preferências e atividades do usuário em um site, permitindo que a página lembre dele a cada visita e personalize a experiência</description>
-      <guid isPermaLink="false">https://tecnoblog.net/responde/o-que-sao-cookies-entenda-para-que-servem-os-arquivos-de-sites-da-web/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2019/08/internet-cookies-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 21 Oct 2025 13:27:19 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 22 Oct 2025 23:09:38 +0000</lastBuildDate>
     <item>
       <title>The Sims Mobile será encerrado pela EA</title>
       <link>https://tecnoblog.net/noticias/the-sims-mobile-sera-encerrado-pela-ea/</link>
@@ -211,18 +203,26 @@
     <item>
       <title>Cupom Amazon: aproveite até 57% OFF em celulares Samsung e Motorola</title>
       <link>https://tecnoblog.net/achados/cupom-amazon-aproveite-ate-57-off-em-celulares-samsung-e-motorola/</link>
-      <description>Cupom AMAZON100OFF exclusivo para assinantes Amazon Prime até 25 de outubro ou enquanto durarem os estoques das promoções</description>
+      <description>Cupom AMAZON100OFF é exclusivo para assinantes Amazon Prime. Ele vale até 25 de outubro ou enquanto durarem os estoques.</description>
       <guid isPermaLink="false">https://tecnoblog.net/achados/cupom-amazon-aproveite-ate-57-off-em-celulares-samsung-e-motorola/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/01/tela-do-galagalaxy-z-fold-6-tela-interna-de-76-polegadas-foto-thassius-velosotecnoblogxy-a16-e-amoled-com-resolucao-full-hd-foto-thassius-velosotecnoblog-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Wed, 22 Oct 2025 19:03:21 +0000</pubDate>
     </item>
     <item>
-      <title>Instagram agora permite customizar o ícone do app</title>
+      <title>Instagram agora permite que jovens mudem o ícone do app</title>
       <link>https://tecnoblog.net/noticias/instagram-agora-permite-customizar-o-icone-do-app/</link>
       <description>Novidade está disponível apenas para contas de adolescentes e não deve ser liberada para usuários adultos. Recurso permite alterar o ícone do aplicativo por versões coloridas e temáticas.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/instagram-agora-permite-customizar-o-icone-do-app/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/icones-instagram-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Wed, 22 Oct 2025 20:49:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cade decide: Vivo e Tim podem expandir acordo sobre rede de telefonia</title>
+      <link>https://tecnoblog.net/noticias/cade-decide-vivo-e-tim-podem-expandir-acordo-sobre-rede-de-telefonia/</link>
+      <description>Órgão antitruste deu aval para ampliar compartilhamento de 2G, 3G e 4G, mas determinou obrigações após forte oposição de concorrentes.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/cade-decide-vivo-e-tim-podem-expandir-acordo-sobre-rede-de-telefonia/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2020/08/image-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 22 Oct 2025 22:47:28 +0000</pubDate>
     </item>
   </channel>
 </rss>
