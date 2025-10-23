@@ -7,39 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 23 Oct 2025 19:09:17 +0000</lastBuildDate>
-    <item>
-      <title>O que é uma página da web? Entenda o funcionamento dos sites da internet</title>
-      <link>https://tecnoblog.net/responde/o-que-e-uma-pagina-da-web-entenda-o-funcionamento-dos-sites-da-internet/</link>
-      <description>Uma página de internet traz informações e conteúdos digitais, como textos, imagens e vídeos, acessíveis por meio de um navegador para comunicar, interagir ou fornecer serviços</description>
-      <guid isPermaLink="false">https://tecnoblog.net/responde/o-que-e-uma-pagina-da-web-entenda-o-funcionamento-dos-sites-da-internet/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/07/ilustracao-de-http-1-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 21 Oct 2025 20:17:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Motorola Edge 60 Fusion (256 GB) em oferta histórica de 45% OFF na Amazon</title>
-      <link>https://tecnoblog.net/achados/motorola-edge-60-fusion-256-gb-em-oferta-historica-de-45-off-na-amazon/</link>
-      <description>Smartphone da Motorola traz tela POLED de 6,7", câmera frontal de 32 MP, bateria de 5.200 mAh e chip MediaTek Dimensity 7300; oferta exclusiva para membros Amazon Prime</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/motorola-edge-60-fusion-256-gb-em-oferta-historica-de-45-off-na-amazon/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/motorola-edge-60-fusion-tem-camera-sony-lytia-700c-foto-giovanni-santa-rosatecnoblog-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 21 Oct 2025 21:01:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Samsung anuncia o Galaxy XR para disputar com Apple Vision Pro</title>
-      <link>https://tecnoblog.net/noticias/samsung-google-e-qualcomm-se-unem-em-dispositivo-que-combina-ia-e-xr/</link>
-      <description>Aparelho combina realidade aumentada e inteligência artificial. O Galaxy XR chega em outubro por US$ 1.799.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/samsung-google-e-qualcomm-se-unem-em-dispositivo-que-combina-ia-e-xr/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/samsung-mobile-galaxy-xr-multimodal-ai-android-xr-opening-new-worlds_main1-1-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 22 Oct 2025 02:56:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>65% das crianças e adolescentes brasileiros já utilizam IA, revela estudo</title>
-      <link>https://tecnoblog.net/noticias/65-das-criancas-e-adolescentes-brasileiros-usam-ia-revela-estudo/</link>
-      <description>Jovens usam IA para pesquisas escolares, busca de informações, criação de conteúdo ou conversas sobre problemas pessoais.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/65-das-criancas-e-adolescentes-brasileiros-usam-ia-revela-estudo/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2021/05/pexels-julia-m-cameron-Apple-ID-para-criancas-e1621981049706-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 22 Oct 2025 13:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 23 Oct 2025 20:12:17 +0000</lastBuildDate>
     <item>
       <title>Netflix culpa Brasil por rombo de US$ 619 milhões em resultado financeiro</title>
       <link>https://tecnoblog.net/noticias/netflix-perdeu-us-619-milhoes-em-disputa-tributaria-no-brasil/</link>
@@ -127,6 +95,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/cupom-amazon-aproveite-ate-57-off-em-celulares-samsung-e-motorola/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/01/tela-do-galagalaxy-z-fold-6-tela-interna-de-76-polegadas-foto-thassius-velosotecnoblogxy-a16-e-amoled-com-resolucao-full-hd-foto-thassius-velosotecnoblog-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Wed, 22 Oct 2025 19:03:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>O que é um PC gamer? Saiba o que um computador para jogos precisa ter</title>
+      <link>https://tecnoblog.net/responde/o-que-e-um-pc-gamer-saiba-o-que-um-computador-para-jogos-precisa-ter/</link>
+      <description>Os PCs gamer servem para oferecer bons desempenhos em jogos, de modo a otimizar a experiência do público gamer durante jogatinas</description>
+      <guid isPermaLink="false">https://tecnoblog.net/responde/o-que-e-um-pc-gamer-saiba-o-que-um-computador-para-jogos-precisa-ter/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/ilustracao-de-pc-gamer-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 22 Oct 2025 19:29:21 +0000</pubDate>
     </item>
     <item>
       <title>Instagram agora permite que jovens mudem o ícone do app</title>
@@ -217,12 +193,36 @@
       <pubDate>Thu, 23 Oct 2025 16:42:14 +0000</pubDate>
     </item>
     <item>
-      <title>Microsoft turbina Paint no Windows 11 com ferramenta de IA</title>
+      <title>Microsoft turbina Paint com ferramenta de inteligência artificial</title>
       <link>https://tecnoblog.net/noticias/microsoft-turbina-paint-no-windows-11-com-ferramenta-de-ia/</link>
-      <description>Clássico editor de imagens ganha função Restyle, que aplica estilos artísticos com IA. Novidade será liberada primeiro para participantes do Windows Insider.</description>
+      <description>Clássico editor de imagens ganha função Restyle, que aplica estilos artísticos com IA. Novidade para Windows 11 será liberada primeiro para participantes do Windows Insider.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/microsoft-turbina-paint-no-windows-11-com-ferramenta-de-ia/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/03/windows-11-1-340x191.jpg" length="0" type="image/jpeg"/>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/paint_restyle-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Thu, 23 Oct 2025 18:42:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>NFC ganha atualização que quadruplica o alcance dos dispositivos</title>
+      <link>https://tecnoblog.net/noticias/nfc-ganha-atualizacao-que-quadruplica-o-alcance-dos-dispositivos/</link>
+      <description>Novo padrão lançado pelo NFC Forum amplia o alcance de leitura de 5 mm para até 20 mm e promete conexões mais rápidas e estáveis em celulares e wearables.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/nfc-ganha-atualizacao-que-quadruplica-o-alcance-dos-dispositivos/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/09/nfc-celular-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 23 Oct 2025 19:16:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>China cria substituta para BIOS do computador</title>
+      <link>https://tecnoblog.net/noticias/china-cria-substituta-para-bios-do-computador/</link>
+      <description>Firmware promete ampliar compatibilidade com novas arquiteturas. Padrão desenvolvido por consórcio de 13 empresas chinesas, incluindo a Huawei, deve ser apresentado em novembro.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/china-cria-substituta-para-bios-do-computador/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/05/Capa-TBR-BIOS-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 23 Oct 2025 19:31:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Galaxy Tab S9 FE (128 GB) tem 41% de desconto com cupom na Amazon</title>
+      <link>https://tecnoblog.net/achados/galaxy-tab-s9-fe-128-gb-tem-41-de-desconto-com-cupom-na-amazon/</link>
+      <description>Tablet da Samsung de 128 GB traz tela de 10,9" com taxa de 90 Hz, chip Exynos 1380 e bateria de 8.000 mAh. Promoção com cupom exclusivo para membros Amazon Prime</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-tab-s9-fe-128-gb-tem-41-de-desconto-com-cupom-na-amazon/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/04/Galaxy-Tab-S9-FE-tem-tela-de-90-Hz-imagem-Samsung-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 23 Oct 2025 19:55:26 +0000</pubDate>
     </item>
   </channel>
 </rss>
