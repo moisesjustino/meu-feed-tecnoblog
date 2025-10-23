@@ -7,39 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 23 Oct 2025 12:23:56 +0000</lastBuildDate>
-    <item>
-      <title>The Sims Mobile será encerrado pela EA</title>
-      <link>https://tecnoblog.net/noticias/the-sims-mobile-sera-encerrado-pela-ea/</link>
-      <description>Atualização dessa segunda-feira (20/10) é a última, após quase oito anos de funcionamento. Jogo será desativado em janeiro de 2026.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/the-sims-mobile-sera-encerrado-pela-ea/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2021/01/como_jogar_the_sims_mobile-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 21 Oct 2025 13:36:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Windows 11: Microsoft lança correção para bug no modo de recuperação</title>
-      <link>https://tecnoblog.net/noticias/windows-11-microsoft-lanca-correcao-para-bug-no-modo-de-recuperacao/</link>
-      <description>Atualização do Windows 11 fez modo de recuperação (WinRE) não reconhecer teclados e mouses USB. Microsoft já liberou correção para o problema.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/windows-11-microsoft-lanca-correcao-para-bug-no-modo-de-recuperacao/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/winre-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 21 Oct 2025 13:44:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Como baixar vídeos e playlists do YouTube com o 4K Video Downloader+</title>
-      <link>https://tecnoblog.net/publieditoriais/como-baixar-videos-e-playlists-do-youtube-com-o-4k-video-downloader/</link>
-      <description>4K Video Downloader+ é uma poderosa ferramenta para download de vídeos e Shorts do YouTube. Veja como é fácil usá-la.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/publieditoriais/como-baixar-videos-e-playlists-do-youtube-com-o-4k-video-downloader/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/4k-downloader-2-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 21 Oct 2025 14:50:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>iOS 26.1 Beta 4 traz nova opção para reduzir transparência do Liquid Glass</title>
-      <link>https://tecnoblog.net/noticias/ios-26-1-beta-4-traz-nova-opcao-para-reduzir-transparencia-do-liquid-glass/</link>
-      <description>Apple adiciona alternativa com mais opacidade e contraste após feedback de usuários. iPadOS e macOS também receberam configuração.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/ios-26-1-beta-4-traz-nova-opcao-para-reduzir-transparencia-do-liquid-glass/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/20250609_174950-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 21 Oct 2025 14:50:32 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 23 Oct 2025 13:26:22 +0000</lastBuildDate>
     <item>
       <title>Galaxy Buds Core com ANC em oferta por menos de R$ 290 no Mercado Livre</title>
       <link>https://tecnoblog.net/achados/galaxy-buds-core-com-anc-em-oferta-por-menos-de-r-290-no-mercado-livre/</link>
@@ -223,6 +191,38 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/cade-decide-vivo-e-tim-podem-expandir-acordo-sobre-rede-de-telefonia/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2020/08/image-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Wed, 22 Oct 2025 22:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT Atlas levanta alertas sobre segurança em navegadores com IA</title>
+      <link>https://tecnoblog.net/noticias/chatgpt-atlas-levanta-alertas-sobre-seguranca-em-navegadores-com-ia/</link>
+      <description>Vulnerabilidades conhecidas como prompt injections podem permitir execução de comandos ocultos e roubo de dados em navegadores com IA.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/chatgpt-atlas-levanta-alertas-sobre-seguranca-em-navegadores-com-ia/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/whatsapp-image-2025-10-23-at-03-06-09-340x191.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 23 Oct 2025 13:02:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Meta demite 600 funcionários de divisão de inteligência artificial</title>
+      <link>https://tecnoblog.net/noticias/meta-demite-600-funcionarios-de-divisao-de-inteligencia-artificial/</link>
+      <description>Cortes integram nova reestruturação do laboratório criado há apenas quatro meses. CEO Mark Zuckerberg expressou preocupação com o ritmo dos avanços em IA.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/meta-demite-600-funcionarios-de-divisao-de-inteligencia-artificial/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/02/Capa-Mark-Zuckerberg-01-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 23 Oct 2025 13:11:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Reddit processa Perplexity por roubo de dados para IA</title>
+      <link>https://tecnoblog.net/noticias/reddit-processa-perplexity-por-roubo-de-dados-para-ia/</link>
+      <description>Ação judicial acusa startup de IA e outras três empresas. Reddit pede indenização e a proibição do uso da plataforma para alimentar IAs.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/reddit-processa-perplexity-por-roubo-de-dados-para-ia/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/cofundador-reddit-edited-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 23 Oct 2025 13:24:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Moto G75 (256 GB) tem menor preço que já vimos com 48% OFF na Amazon</title>
+      <link>https://tecnoblog.net/achados/moto-g75-256-gb-tem-menor-preco-que-ja-vimos-com-48-off-na-amazon/</link>
+      <description>Moto G75 5G (256 GB) tem RAM de 8 GB, Snapdragon 6 Gen 3 e promete durabilidade com cinco atualizações de Android e IP68; celular da Motorola é opção custo-benefício</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/moto-g75-256-gb-tem-menor-preco-que-ja-vimos-com-48-off-na-amazon/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/04/achados-motorola-moto-g75-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 23 Oct 2025 13:25:39 +0000</pubDate>
     </item>
   </channel>
 </rss>
