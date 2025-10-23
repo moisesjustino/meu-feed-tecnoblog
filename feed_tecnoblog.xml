@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 23 Oct 2025 20:12:17 +0000</lastBuildDate>
-    <item>
-      <title>Netflix culpa Brasil por rombo de US$ 619 milhões em resultado financeiro</title>
-      <link>https://tecnoblog.net/noticias/netflix-perdeu-us-619-milhoes-em-disputa-tributaria-no-brasil/</link>
-      <description>Gigante do streaming registrou despesa não programada com impostos brasileiros e frustrou previsão de lucro no trimestre. Ainda assim, receita global cresceu.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/netflix-perdeu-us-619-milhoes-em-disputa-tributaria-no-brasil/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/02/netflix-2-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 22 Oct 2025 13:20:58 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 23 Oct 2025 21:10:18 +0000</lastBuildDate>
     <item>
       <title>Brasileiros aceitam IA nas finanças, mas somente como copiloto</title>
       <link>https://tecnoblog.net/noticias/brasileiros-aceitam-ia-nas-financas-mas-somente-como-copiloto/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-tab-s9-fe-128-gb-tem-41-de-desconto-com-cupom-na-amazon/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/04/Galaxy-Tab-S9-FE-tem-tela-de-90-Hz-imagem-Samsung-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Thu, 23 Oct 2025 19:55:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Instagram segue passos do Nano Banana e ganha editor de fotos com IA</title>
+      <link>https://tecnoblog.net/noticias/instagram-segue-passos-do-nano-banana-e-ganha-editor-de-fotos-com-ia/</link>
+      <description>Restyle usa Meta AI para interpretar prompts e fazer alterações em imagens, como remover detalhes indesejados, adicionar elementos divertidos e aplicar efeitos</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/instagram-segue-passos-do-nano-banana-e-ganha-editor-de-fotos-com-ia/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/instagram-restyle-meta-ai-edited-340x191.webp" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 23 Oct 2025 20:34:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
