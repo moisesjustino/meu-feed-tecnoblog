@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 23 Oct 2025 15:12:33 +0000</lastBuildDate>
-    <item>
-      <title>Airbnb ganha novos recursos e aproxima app de rede social</title>
-      <link>https://tecnoblog.net/noticias/airbnb-ganha-novos-recursos-e-aproxima-app-de-rede-social/</link>
-      <description>Novos recursos sociais permitem que hóspedes conversem entre si e mantenham contato após a viagem. Funções são voltadas para a seção Experiências.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/airbnb-ganha-novos-recursos-e-aproxima-app-de-rede-social/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/01/airbnb-capa-4-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 21 Oct 2025 16:49:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Atlas: OpenAI lança navegador com ChatGPT integrado</title>
-      <link>https://tecnoblog.net/noticias/atlas-openai-lanca-navegador-com-chatgpt-integrado/</link>
-      <description>Browser da OpenAI é oficial e leva o poder do ChatGPT para a navegação do usuário. Novidade já está disponível para Mac. Versões para Windows, Android e iOS estão a caminho.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/atlas-openai-lanca-navegador-com-chatgpt-integrado/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/chatgpt-atlas-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 21 Oct 2025 17:31:24 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 23 Oct 2025 16:14:26 +0000</lastBuildDate>
     <item>
       <title>IA Perplexity chega às smart TVs da Samsung</title>
       <link>https://tecnoblog.net/noticias/ia-perplexity-chega-as-smart-tvs-da-samsung/</link>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/mercado-livre-fecha-parceria-com-casas-bahia-para-vendas-online/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/08/capa-meli_2-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Thu, 23 Oct 2025 14:23:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mouse Logitech MX Master 4 chega ao Brasil por R$ 799</title>
+      <link>https://tecnoblog.net/noticias/mouse-logitech-mx-master-4-chega-ao-brasil-por-r-799/</link>
+      <description>Novo modelo top de linha da marca conta com vibração ao ativar atalhos, bateria que dura 70 dias e cliques 90% mais silenciosos</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/mouse-logitech-mx-master-4-chega-ao-brasil-por-r-799/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/logitech-mx-master-4-edited-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 23 Oct 2025 15:32:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>iPhone 17 Pro laranja está mudando de cor, segundo relatos</title>
+      <link>https://tecnoblog.net/noticias/iphone-17-pro-laranja-esta-mudando-de-cor-segundo-relatos/</link>
+      <description>Consumidores relatam que o acabamento laranja está desbotando para rosa. Alteração pode estar ligada à exposição ao sol ou ao uso de produtos de limpeza no alumínio.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/iphone-17-pro-laranja-esta-mudando-de-cor-segundo-relatos/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/iphone-17-pro-laranja-rose-340x191.webp" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 23 Oct 2025 16:09:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
