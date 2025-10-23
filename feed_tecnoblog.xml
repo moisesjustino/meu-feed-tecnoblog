@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 23 Oct 2025 18:17:02 +0000</lastBuildDate>
-    <item>
-      <title>PlayStation 5 atingiu o auge e avanço gráfico estagnou, diz ex-chefe da Sony</title>
-      <link>https://tecnoblog.net/noticias/playstation-5-atingiu-o-auge-e-avanco-grafico-estagnou-diz-ex-chefe-da-sony/</link>
-      <description>Shuhei Yoshida afirma que avanços visuais atuais são quase imperceptíveis, mas diz que PS5 tornou "quase todos os jogos melhores".</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/playstation-5-atingiu-o-auge-e-avanco-grafico-estagnou-diz-ex-chefe-da-sony/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/10f60c6e3a555d3ad34938f048bc5c95-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 21 Oct 2025 20:16:42 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 23 Oct 2025 19:09:17 +0000</lastBuildDate>
     <item>
       <title>O que é uma página da web? Entenda o funcionamento dos sites da internet</title>
       <link>https://tecnoblog.net/responde/o-que-e-uma-pagina-da-web-entenda-o-funcionamento-dos-sites-da-internet/</link>
@@ -177,7 +169,7 @@
       <pubDate>Thu, 23 Oct 2025 13:24:35 +0000</pubDate>
     </item>
     <item>
-      <title>Moto G75 (256 GB) tem menor preço que já vimos com 48% OFF na Amazon</title>
+      <title>Moto G75 (256 GB) tem menor preço que já vimos com 52% OFF na Amazon</title>
       <link>https://tecnoblog.net/achados/moto-g75-256-gb-tem-menor-preco-que-ja-vimos-com-48-off-na-amazon/</link>
       <description>Moto G75 5G (256 GB) tem RAM de 8 GB, Snapdragon 6 Gen 3 e promete durabilidade com cinco atualizações de Android e IP68; celular da Motorola é opção custo-benefício</description>
       <guid isPermaLink="false">https://tecnoblog.net/achados/moto-g75-256-gb-tem-menor-preco-que-ja-vimos-com-48-off-na-amazon/</guid>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/jbl-charge-6-tem-menor-preco-que-ja-vimos-em-oferta-com-38-off-na-amazon/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/jbl-charge-6-achado-do-dia-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Thu, 23 Oct 2025 16:42:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft turbina Paint no Windows 11 com ferramenta de IA</title>
+      <link>https://tecnoblog.net/noticias/microsoft-turbina-paint-no-windows-11-com-ferramenta-de-ia/</link>
+      <description>Clássico editor de imagens ganha função Restyle, que aplica estilos artísticos com IA. Novidade será liberada primeiro para participantes do Windows Insider.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/microsoft-turbina-paint-no-windows-11-com-ferramenta-de-ia/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/03/windows-11-1-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 23 Oct 2025 18:42:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
