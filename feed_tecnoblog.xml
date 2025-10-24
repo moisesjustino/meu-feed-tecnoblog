@@ -7,31 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 24 Oct 2025 20:12:55 +0000</lastBuildDate>
-    <item>
-      <title>ChatGPT Atlas levanta alertas sobre segurança em navegadores com IA</title>
-      <link>https://tecnoblog.net/noticias/chatgpt-atlas-levanta-alertas-sobre-seguranca-em-navegadores-com-ia/</link>
-      <description>Vulnerabilidade conhecida como prompt injection pode permitir execução de comandos ocultos e roubo de dados em navegadores com IA.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/chatgpt-atlas-levanta-alertas-sobre-seguranca-em-navegadores-com-ia/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/whatsapp-image-2025-10-23-at-03-06-09-340x191.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 23 Oct 2025 13:02:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Meta demite 600 funcionários de divisão de inteligência artificial</title>
-      <link>https://tecnoblog.net/noticias/meta-demite-600-funcionarios-de-divisao-de-inteligencia-artificial/</link>
-      <description>Cortes integram nova reestruturação do laboratório criado há apenas quatro meses. CEO Mark Zuckerberg expressou preocupação com o ritmo dos avanços em IA.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/meta-demite-600-funcionarios-de-divisao-de-inteligencia-artificial/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/02/Capa-Mark-Zuckerberg-01-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 23 Oct 2025 13:11:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Reddit processa Perplexity por roubo de dados para IA</title>
-      <link>https://tecnoblog.net/noticias/reddit-processa-perplexity-por-roubo-de-dados-para-ia/</link>
-      <description>Ação judicial acusa startup de IA e outras três empresas. Reddit pede indenização e a proibição do uso da plataforma para alimentar IAs.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/reddit-processa-perplexity-por-roubo-de-dados-para-ia/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/04/brett-jordan-0fytazjhhxs-unsplash-edited-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 23 Oct 2025 13:24:35 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 24 Oct 2025 21:10:03 +0000</lastBuildDate>
     <item>
       <title>Moto G75 (256 GB) tem menor preço que já vimos com 52% OFF na Amazon</title>
       <link>https://tecnoblog.net/achados/moto-g75-256-gb-tem-menor-preco-que-ja-vimos-com-48-off-na-amazon/</link>
@@ -119,6 +95,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-tab-s9-fe-128-gb-tem-41-de-desconto-com-cupom-na-amazon/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/04/Galaxy-Tab-S9-FE-tem-tela-de-90-Hz-imagem-Samsung-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Thu, 23 Oct 2025 19:55:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>O que são plataformas de jogos? Conheça as principais lojas de videogames</title>
+      <link>https://tecnoblog.net/responde/o-que-sao-plataformas-de-jogos-conheca-as-principais-lojas-de-videogames/</link>
+      <description>As plataformas de jogos permitem que você compre e gerencie games e DLCs, além de habilitar novas conexões e acesso a serviços online</description>
+      <guid isPermaLink="false">https://tecnoblog.net/responde/o-que-sao-plataformas-de-jogos-conheca-as-principais-lojas-de-videogames/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/ilustracao-de-plataforma-de-games-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 23 Oct 2025 20:14:23 +0000</pubDate>
     </item>
     <item>
       <title>Instagram segue passos do Nano Banana e ganha editor de fotos com IA</title>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/navegador-promete-privacidade-mas-age-como-espiao-a-servico-de-criminosos/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/01/seguranca-capa-6-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Fri, 24 Oct 2025 19:58:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>IAs ainda erram muito ao resumir notícias, mostra estudo</title>
+      <link>https://tecnoblog.net/noticias/ias-ainda-erram-muito-ao-resumir-noticias-mostra-estudo/</link>
+      <description>Pesquisa da BBC e da União Europeia de Radiodifusão revela que principais chatbots de IA distorcem informações em quase metade das respostas.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/ias-ainda-erram-muito-ao-resumir-noticias-mostra-estudo/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/06/ia-2-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 24 Oct 2025 20:13:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Motorola Edge 60 Pro em promoção histórica e exclusiva com 39% OFF</title>
+      <link>https://tecnoblog.net/achados/motorola-edge-60-pro-em-promocao-historica-e-exclusiva-com-39-off/</link>
+      <description>Smartphone premium da Motorola traz bateria de 6.000 mAh, tela POLED com brilho de 4.500 nits e câmeras de 50 MP com Moto AI; versão de 256 GB em oferta imperdível pelo app da Amazon</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/motorola-edge-60-pro-em-promocao-historica-e-exclusiva-com-39-off/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/motorola-edge-60-pro-foto-giovanni-santa-rosatecnoblog-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 24 Oct 2025 21:00:54 +0000</pubDate>
     </item>
   </channel>
 </rss>
