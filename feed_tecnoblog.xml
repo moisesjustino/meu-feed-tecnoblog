@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 24 Oct 2025 15:12:26 +0000</lastBuildDate>
-    <item>
-      <title>Apple reduz produção do iPhone Air após vendas fracas, diz site</title>
-      <link>https://tecnoblog.net/noticias/apple-reduz-producao-do-iphone-air-apos-vendas-fracas-diz-site/</link>
-      <description>Segundo fontes da indústria, empresa deve concentrar esforços no iPhone 17 e no iPhone 17 Pro, que tiveram demanda acima do esperado</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/apple-reduz-producao-do-iphone-air-apos-vendas-fracas-diz-site/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/iphone-17-air-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 22 Oct 2025 14:56:31 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 24 Oct 2025 16:14:06 +0000</lastBuildDate>
     <item>
       <title>Jovi prepara novo celular misterioso para o Brasil</title>
       <link>https://tecnoblog.net/noticias/jovi-prepara-novo-celular-misterioso-para-o-brasil/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/lembra-do-clippy-microsoft-agora-apresenta-o-mico/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/microsoft-mico.gif" length="0" type="image/jpeg"/>
       <pubDate>Fri, 24 Oct 2025 13:45:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Galaxy Z Fold 6 (512 GB) em oferta com 60% de desconto na Amazon</title>
+      <link>https://tecnoblog.net/achados/galaxy-z-fold-6-512-gb-em-oferta-com-60-de-desconto-na-amazon/</link>
+      <description>Celular dobrável da Samsung possui telas AMOLED de 7,6" e 6,3", chip Snapdragon 8 Gen 3 e câmera principal com vídeos em 8K. Oferta exclusiva para membros Prime.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-z-fold-6-512-gb-em-oferta-com-60-de-desconto-na-amazon/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/01/tela-do-galagalaxy-z-fold-6-tela-interna-de-76-polegadas-foto-thassius-velosotecnoblogxy-a16-e-amoled-com-resolucao-full-hd-foto-thassius-velosotecnoblog-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 24 Oct 2025 15:24:49 +0000</pubDate>
     </item>
   </channel>
 </rss>
