@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 24 Oct 2025 16:14:06 +0000</lastBuildDate>
-    <item>
-      <title>Jovi prepara novo celular misterioso para o Brasil</title>
-      <link>https://tecnoblog.net/noticias/jovi-prepara-novo-celular-misterioso-para-o-brasil/</link>
-      <description>Homologação da Anatel revela possível bateria de 6.500 mAh e carregador de 90 W. Aparelho será fabricado no país.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/jovi-prepara-novo-celular-misterioso-para-o-brasil/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/03/Capa-Jovi-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 22 Oct 2025 15:18:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Relâmpago: Galaxy S25 Ultra (512 GB) com 46% OFF em até 12x sem juros</title>
-      <link>https://tecnoblog.net/achados/relampago-galaxy-s25-ultra-512-gb-com-46-off-em-ate-12x-sem-juros/</link>
-      <description>Galaxy S25 Ultra (512 GB) tem RAM de 12 GB, chip Snapdragon, tela grande e câmera de 200 MP; celular Samsung tem menor preço que já vimos na Amazon</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/relampago-galaxy-s25-ultra-512-gb-com-46-off-em-ate-12x-sem-juros/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/galaxy-s25-ultra-tem-camera-de-200-mp-foto-samsung-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 22 Oct 2025 17:20:46 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 24 Oct 2025 17:10:31 +0000</lastBuildDate>
     <item>
       <title>YouTube ganha função para te ajudar a sair do Shorts</title>
       <link>https://tecnoblog.net/noticias/youtube-ganha-funcao-para-te-ajudar-a-sair-do-shorts/</link>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-z-fold-6-512-gb-em-oferta-com-60-de-desconto-na-amazon/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/01/tela-do-galagalaxy-z-fold-6-tela-interna-de-76-polegadas-foto-thassius-velosotecnoblogxy-a16-e-amoled-com-resolucao-full-hd-foto-thassius-velosotecnoblog-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Fri, 24 Oct 2025 15:24:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>WhatsApp vai facilitar limpeza de conversas para liberar espaço do celular</title>
+      <link>https://tecnoblog.net/noticias/whatsapp-vai-facilitar-limpeza-de-conversas-para-liberar-espaco-do-celular/</link>
+      <description>Página de detalhes da conversa deve ganhar acesso rápido a arquivos mais pesados. Aplicativo já conta com essa opção, mas ela fica escondida nas configurações.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/whatsapp-vai-facilitar-limpeza-de-conversas-para-liberar-espaco-do-celular/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/11/whatsapp-capa-4-nov-2022-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 24 Oct 2025 16:36:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Qualcomm lança Snapdragon 6s Gen 4 para smartphones intermediários</title>
+      <link>https://tecnoblog.net/noticias/qualcomm-lanca-snapdragon-6s-gen-4-para-smartphones-intermediarios/</link>
+      <description>SoC é o primeiro da série fabricado em 4 nanômetros, com CPU 36% mais rápida e GPU com 59% mais desempenho gráfico, segundo a fabricante.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/qualcomm-lanca-snapdragon-6s-gen-4-para-smartphones-intermediarios/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2021/06/O-que-e-Snapdragon-1-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 24 Oct 2025 16:52:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
