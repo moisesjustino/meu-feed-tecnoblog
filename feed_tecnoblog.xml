@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 28 Oct 2025 18:18:11 +0000</lastBuildDate>
-    <item>
-      <title>IAs ainda erram muito ao resumir notícias, mostra estudo</title>
-      <link>https://tecnoblog.net/noticias/ias-ainda-erram-muito-ao-resumir-noticias-mostra-estudo/</link>
-      <description>Pesquisa da BBC e da União Europeia de Radiodifusão revela que principais chatbots de IA distorcem informações em quase metade das respostas.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/ias-ainda-erram-muito-ao-resumir-noticias-mostra-estudo/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/06/ia-2-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 24 Oct 2025 20:13:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Prompt injection: entenda a vulnerabilidade nas IAs generativas</title>
-      <link>https://tecnoblog.net/responde/prompt-injection-entenda-a-vulnerabilidade-nas-ias-generativas/</link>
-      <description>Ataques de injeção de prompt miram usuários de IAs generativas, e são capazes de roubar dados, propagar ameaças e executar códigos remotamente</description>
-      <guid isPermaLink="false">https://tecnoblog.net/responde/prompt-injection-entenda-a-vulnerabilidade-nas-ias-generativas/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/tbr-prompt-injection-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 24 Oct 2025 20:41:24 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 28 Oct 2025 19:09:31 +0000</lastBuildDate>
     <item>
       <title>Motorola Edge 60 Pro em promoção histórica e exclusiva com 39% OFF</title>
       <link>https://tecnoblog.net/achados/motorola-edge-60-pro-em-promocao-historica-e-exclusiva-com-39-off/</link>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/amazon-confirma-planos-de-demitir-14-mil-funcionarios/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/10/capa-amazon-2_thumb_tb-edited-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Tue, 28 Oct 2025 15:56:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Elon Musk lança a Grokipedia, uma enciclopédia editada por IA</title>
+      <link>https://tecnoblog.net/noticias/elon-musk-lanca-a-grokipedia-uma-enciclopedia-editada-por-ia/</link>
+      <description>Nova plataforma de Musk usa IA para revisar artigos, mas copia conteúdo direto da Wikipedia em diversos verbetes.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/elon-musk-lanca-a-grokipedia-uma-enciclopedia-editada-por-ia/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/grokipedia-elon-musk-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 28 Oct 2025 18:42:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ações da Nokia disparam 25% após acordo com Nvidia</title>
+      <link>https://tecnoblog.net/noticias/acoes-da-nokia-disparam-25-apos-acordo-com-nvidia/</link>
+      <description>Companhia finlandesa receberá US$ 1 bilhão de investimentos da empresa de chips. Parceria prevê o desenvolvimento de soluções de IA e conectividade 6G.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/acoes-da-nokia-disparam-25-apos-acordo-com-nvidia/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2020/12/sede-nokia-e1607365339921-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 28 Oct 2025 18:57:50 +0000</pubDate>
     </item>
   </channel>
 </rss>
