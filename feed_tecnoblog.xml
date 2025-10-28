@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 28 Oct 2025 10:13:52 +0000</lastBuildDate>
-    <item>
-      <title>WhatsApp vai facilitar limpeza de conversas para liberar espaço do celular</title>
-      <link>https://tecnoblog.net/noticias/whatsapp-vai-facilitar-limpeza-de-conversas-para-liberar-espaco-do-celular/</link>
-      <description>Página de detalhes da conversa deve ganhar acesso rápido a arquivos mais pesados. Aplicativo já conta com essa opção, mas ela fica escondida nas configurações.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/whatsapp-vai-facilitar-limpeza-de-conversas-para-liberar-espaco-do-celular/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/11/whatsapp-capa-4-nov-2022-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 24 Oct 2025 16:36:12 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 28 Oct 2025 11:10:05 +0000</lastBuildDate>
     <item>
       <title>Qualcomm lança Snapdragon 6s Gen 4 para smartphones intermediários</title>
       <link>https://tecnoblog.net/noticias/qualcomm-lanca-snapdragon-6s-gen-4-para-smartphones-intermediarios/</link>
@@ -209,7 +201,7 @@
       <pubDate>Mon, 27 Oct 2025 21:28:12 +0000</pubDate>
     </item>
     <item>
-      <title>Centenas de milhares de pessoas no ChatGPT têm sinais de crise psicótica, diz OpenAN</title>
+      <title>Centenas de milhares de pessoas no ChatGPT têm sinais de crise psicótica, diz OpenAI</title>
       <link>https://tecnoblog.net/noticias/centenas-de-milhares-de-pessoas-no-chatgpt-tem-sinais-de-crise-psicotica-diz-openan/</link>
       <description>Pela primeira vez, empresa divulgou uma projeção sobre quantas pessoas demonstram sinais de crise mental grave ao interagir com o ChatGPT; modelo recebeu atualizações para identificar riscos.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/centenas-de-milhares-de-pessoas-no-chatgpt-tem-sinais-de-crise-psicotica-diz-openan/</guid>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/ifood-fora-do-ar-app-sofre-pane-nesta-noite/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/capa-ifood-fora-do-ar-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 27 Oct 2025 22:35:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT Go chega ao Brasil; clientes do Nubank têm acesso grátis</title>
+      <link>https://tecnoblog.net/noticias/chatgpt-go-chega-ao-brasil-clientes-do-nubank-tem-acesso-gratis/</link>
+      <description>Nova versão intermediária do ChatGPT oferece limites dez vezes maiores de mensagens e imagens em relação ao plano gratuito. Ferramenta custa R$ 39,99 por mês.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/chatgpt-go-chega-ao-brasil-clientes-do-nubank-tem-acesso-gratis/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/04/nubank_capa-5_tb-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 28 Oct 2025 10:30:16 +0000</pubDate>
     </item>
   </channel>
 </rss>
