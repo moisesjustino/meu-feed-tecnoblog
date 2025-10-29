@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 29 Oct 2025 20:13:49 +0000</lastBuildDate>
-    <item>
-      <title>iFood fora do ar: app sofre pane nesta noite</title>
-      <link>https://tecnoblog.net/noticias/ifood-fora-do-ar-app-sofre-pane-nesta-noite/</link>
-      <description>Plataforma de delivery é alvo de reclamações em 27/10. DownDetector registra centenas de queixas.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/ifood-fora-do-ar-app-sofre-pane-nesta-noite/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/capa-ifood-fora-do-ar-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 27 Oct 2025 22:35:18 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 29 Oct 2025 21:10:44 +0000</lastBuildDate>
     <item>
       <title>ChatGPT Go chega ao Brasil; clientes do Nubank têm acesso grátis</title>
       <link>https://tecnoblog.net/noticias/chatgpt-go-chega-ao-brasil-clientes-do-nubank-tem-acesso-gratis/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/motorola-edge-60-pro-256-gb-tem-oferta-historica-com-40-de-desconto/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/motorola-edge-60-pro-foto-giovanni-santa-rosatecnoblog-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Wed, 29 Oct 2025 19:54:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Galaxy Z Flip 7 (256 GB) sai com 37% OFF em oferta com cupom na Amazon</title>
+      <link>https://tecnoblog.net/achados/galaxy-z-flip-7-256-gb-sai-com-37-off-em-oferta-com-cupom-na-amazon/</link>
+      <description>Celular dobrável da Samsung traz tela interna AMOLED Dinâmico de 6,9" com 120 Hz, Exynos 2500 e 12 GB de RAM. Versão de 256 GB tem mais desconto ao adicionar cupom</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-z-flip-7-256-gb-sai-com-37-off-em-oferta-com-cupom-na-amazon/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/galaxy-z-flip-7-achados-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 29 Oct 2025 21:00:28 +0000</pubDate>
     </item>
   </channel>
 </rss>
