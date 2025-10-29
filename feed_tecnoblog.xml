@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 29 Oct 2025 13:27:12 +0000</lastBuildDate>
-    <item>
-      <title>Esquenta Black: Galaxy Watch Ultra em promoção com 53% OFF no Mercado Livre</title>
-      <link>https://tecnoblog.net/achados/esquenta-black-galaxy-watch-ultra-em-promocao-com-53-off-no-mercado-livre/</link>
-      <description>Smartwatch premium da Samsung traz corpo em titânio, tela AMOLED com Cristal de Safira, sensores avançados e bateria para até 100 horas</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/esquenta-black-galaxy-watch-ultra-em-promocao-com-53-off-no-mercado-livre/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/Samsung-Galaxy-Watch-Ultra-tem-caixa-de-titanio-Foto-Thassius-VelosoTecnoblog-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 27 Oct 2025 15:55:30 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 29 Oct 2025 14:12:49 +0000</lastBuildDate>
     <item>
       <title>183 milhões de emails e senhas estão em nova lista de vazamentos. Como se proteger?</title>
       <link>https://tecnoblog.net/noticias/lista-de-vazamentos-inclui-183-milhoes-de-emails-e-senhas-veja-como-se-proteger/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/liberdade-de-instalar-apps-no-android-esta-ameacada-diz-f-droid/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/06/capa-sideloading-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Wed, 29 Oct 2025 13:15:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>GitHub libera o acesso a vários agentes de IA, como Claude e Codex</title>
+      <link>https://tecnoblog.net/noticias/github-libera-o-acesso-a-varios-agentes-de-ia-como-claude-e-codex/</link>
+      <description>O objetivo é unificar o fluxo de trabalho de desenvolvimento. Ecossistema reúne diferentes agentes num lugar só.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/github-libera-o-acesso-a-varios-agentes-de-ia-como-claude-e-codex/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/10/github-simbolo-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 29 Oct 2025 13:37:28 +0000</pubDate>
     </item>
   </channel>
 </rss>
