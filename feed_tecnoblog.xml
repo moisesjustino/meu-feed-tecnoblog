@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 29 Oct 2025 21:10:44 +0000</lastBuildDate>
-    <item>
-      <title>ChatGPT Go chega ao Brasil; clientes do Nubank têm acesso grátis</title>
-      <link>https://tecnoblog.net/noticias/chatgpt-go-chega-ao-brasil-clientes-do-nubank-tem-acesso-gratis/</link>
-      <description>Nova versão intermediária do ChatGPT oferece limites dez vezes maiores de mensagens e imagens em relação ao plano gratuito. Ferramenta custa R$ 39,99 por mês.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/chatgpt-go-chega-ao-brasil-clientes-do-nubank-tem-acesso-gratis/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/capa-nubank-chatgpt-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 28 Oct 2025 10:30:16 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 29 Oct 2025 22:11:35 +0000</lastBuildDate>
     <item>
       <title>Como criar e-mails interativos e se destacar na caixa de entrada</title>
       <link>https://tecnoblog.net/publieditoriais/como-criar-e-mails-interativos-e-se-destacar-na-caixa-de-entrada/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-z-flip-7-256-gb-sai-com-37-off-em-oferta-com-cupom-na-amazon/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/galaxy-z-flip-7-achados-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Wed, 29 Oct 2025 21:00:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Transmissão falsa da Nvidia engana milhares de pessoas</title>
+      <link>https://tecnoblog.net/noticias/transmissao-falsa-da-nvidia-engana-milhares-de-pessoas/</link>
+      <description>Vídeo exibiu um deepfake do CEO Jensen Huang promovendo criptomoedas. Transmissão chegou a ter cerca de 100 mil espectadores simultâneos no YouTube.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/transmissao-falsa-da-nvidia-engana-milhares-de-pessoas/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/nvidia-transmissao-falsa-340x191.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 29 Oct 2025 21:22:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
