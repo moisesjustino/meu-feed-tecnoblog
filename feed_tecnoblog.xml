@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 29 Oct 2025 16:15:17 +0000</lastBuildDate>
-    <item>
-      <title>Qualcomm lança chips de IA para rivalizar com a Nvidia</title>
-      <link>https://tecnoblog.net/noticias/qualcomm-lanca-chips-de-ia-para-rivalizar-com-a-nvidia/</link>
-      <description>A empresa apresentou os processadores AI200 e AI250, projetados para acelerar tarefas de inferência em data centers e reduzir o consumo de energia.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/qualcomm-lanca-chips-de-ia-para-rivalizar-com-a-nvidia/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/04/predio-qualcomm-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 27 Oct 2025 20:29:26 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 29 Oct 2025 17:11:58 +0000</lastBuildDate>
     <item>
       <title>Google Gemini agora te ajuda a criar slides para apresentações</title>
       <link>https://tecnoblog.net/noticias/google-gemini-agora-te-ajuda-a-criar-slides-para-apresentacoes/</link>
@@ -169,7 +161,7 @@
       <pubDate>Tue, 28 Oct 2025 22:16:18 +0000</pubDate>
     </item>
     <item>
-      <title>Liberdade de instalar apps no Android está “ameaçada”, diz F-Droid</title>
+      <title>Sideloading gera discórdia entre F-Droid e Google</title>
       <link>https://tecnoblog.net/noticias/liberdade-de-instalar-apps-no-android-esta-ameacada-diz-f-droid/</link>
       <description>O repositório alega que o processo dará ao Google controle sobre a instalação de apps fora da Play Store. Já o Google nega que a mudança limite o sideloading.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/liberdade-de-instalar-apps-no-android-esta-ameacada-diz-f-droid/</guid>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/vibe-coding-chega-ao-google-ai-studio-veja-como-criar-apps-com-ia/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/google-ai-studio-vibe-coding-340x191.webp" length="0" type="image/jpeg"/>
       <pubDate>Wed, 29 Oct 2025 15:50:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Esquenta Black: Galaxy Tab S10 FE 5G tem maior desconto que já vimos</title>
+      <link>https://tecnoblog.net/achados/esquenta-black-galaxy-tab-s10-fe-5g-tem-maior-desconto-que-ja-vimos/</link>
+      <description>Galaxy Tab S10 FE 5G de 128 GB com 49% de desconto no esquenta Black Friday do Mercado Livre. Tablet da Samsung traz tela de 10,9", 8 GB de RAM e chip Exynos 1580</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/esquenta-black-galaxy-tab-s10-fe-5g-tem-maior-desconto-que-ja-vimos/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/05/Samsung-promete-que-apps-pesados-rodam-no-Galaxy-Tab-S10-FE-foto-Giovanni-Santa-RosaTecnoblog-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 29 Oct 2025 16:31:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
