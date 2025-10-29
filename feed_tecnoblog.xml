@@ -7,31 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 29 Oct 2025 14:12:49 +0000</lastBuildDate>
-    <item>
-      <title>183 milhões de emails e senhas estão em nova lista de vazamentos. Como se proteger?</title>
-      <link>https://tecnoblog.net/noticias/lista-de-vazamentos-inclui-183-milhoes-de-emails-e-senhas-veja-como-se-proteger/</link>
-      <description>Pesquisadores obtiveram dados compartilhados em fóruns, redes sociais e Telegram. Compilação de informações chegou a 3,5 TB.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/lista-de-vazamentos-inclui-183-milhoes-de-emails-e-senhas-veja-como-se-proteger/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/01/seguranca-capa-8-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 27 Oct 2025 16:33:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Esquenta Black: iPhone 15 (512 GB) fica 44% mais barato no Mercado Livre</title>
-      <link>https://tecnoblog.net/achados/esquenta-black-iphone-15-512-gb-fica-44-mais-barato-no-mercado-livre/</link>
-      <description>iPhone 15 (512 GB) com processador Apple A16 Bionic, câmera de 48 MP e display OLED tem 44% de desconto no Esquenta Black Friday do Mercado Livre</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/esquenta-black-iphone-15-512-gb-fica-44-mais-barato-no-mercado-livre/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/06/iPhone15-achado-do-dia-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 27 Oct 2025 17:53:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Apple pode estrear sensor de câmera próprio em iPhone comemorativo</title>
-      <link>https://tecnoblog.net/noticias/apple-pode-estrear-sensor-de-camera-proprio-em-iphone-comemorativo/</link>
-      <description>Tecnologia LOFIC pode equipar os iPhones de 2027, ano do 20º aniversário do smartphone. Sensor alcançaria nível dinâmico próximo ao da visão humana, segundo rumores.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/apple-pode-estrear-sensor-de-camera-proprio-em-iphone-comemorativo/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/12/capas-apple-03-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 27 Oct 2025 19:12:01 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 29 Oct 2025 15:13:15 +0000</lastBuildDate>
     <item>
       <title>Apple planeja colocar anúncios no Maps em 2026</title>
       <link>https://tecnoblog.net/noticias/apple-planeja-colocar-anuncios-no-maps-em-2026/</link>
@@ -223,6 +199,30 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/github-libera-o-acesso-a-varios-agentes-de-ia-como-claude-e-codex/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/10/github-simbolo-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Wed, 29 Oct 2025 13:37:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>DeepSeek trabalha em “tokens visuais” para melhorar memória de IAs</title>
+      <link>https://tecnoblog.net/noticias/deepseek-trabalha-em-tokens-visuais-para-melhorar-memoria-de-ias/</link>
+      <description>Empresa chinesa de inteligência artificial está trocando tokens de texto por imagens compactadas. Método pode reduzir perda de coerência em LLMs.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/deepseek-trabalha-em-tokens-visuais-para-melhorar-memoria-de-ias/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/01/Capa-Deepseek-China-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 29 Oct 2025 14:20:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pokémon Go: Samsung libera novos Pokestops no Brasil; saiba onde</title>
+      <link>https://tecnoblog.net/noticias/pokemon-go-samsung-libera-novos-pokestops-no-brasil-saiba-onde/</link>
+      <description>Os jogadores podem coletar gratuitamente Pokébolas, poções e ovos. A ação vai até 23 de novembro.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/pokemon-go-samsung-libera-novos-pokestops-no-brasil-saiba-onde/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/pokemongo_s25fe_bgs_kv1000-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 29 Oct 2025 14:27:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nvidia faz história e se torna a primeira empresa a valer US$ 5 trilhões</title>
+      <link>https://tecnoblog.net/noticias/nvidia-faz-historia-e-se-torna-a-primeira-empresa-a-valer-us-5-trilhoes/</link>
+      <description>Empresa divulgou US$ 500 bilhões em vendas de chips de inteligência artificial.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/nvidia-faz-historia-e-se-torna-a-primeira-empresa-a-valer-us-5-trilhoes/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/05/nvidia-video_capa-2_tb-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 29 Oct 2025 14:57:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
