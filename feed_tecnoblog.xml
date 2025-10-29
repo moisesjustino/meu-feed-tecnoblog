@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 29 Oct 2025 18:18:05 +0000</lastBuildDate>
-    <item>
-      <title>Google Gemini agora te ajuda a criar slides para apresentações</title>
-      <link>https://tecnoblog.net/noticias/google-gemini-agora-te-ajuda-a-criar-slides-para-apresentacoes/</link>
-      <description>Nova função do Google Canvas, espaço interativo do Gemini, permite gerar apresentações a partir de texto ou arquivos. Recurso será liberado para todos os usuários.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/google-gemini-agora-te-ajuda-a-criar-slides-para-apresentacoes/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/02/capa-gemini_tb-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 27 Oct 2025 20:32:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Galaxy Tab S10 Lite tem desconto histórico de 35% com cupom na Amazon</title>
-      <link>https://tecnoblog.net/achados/galaxy-tab-s10-lite-tem-desconto-historico-de-35-com-cupom-na-amazon/</link>
-      <description>Galaxy Tab S10 Lite de 128 GB tem menor preço histórico com cupom de R$200 OFF. Tablet da Samsung traz tela de 10,9", chip Exynos 1580, 6 GB de RAM e acompanha S Pen</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-tab-s10-lite-tem-desconto-historico-de-35-com-cupom-na-amazon/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/galaxy-tab-s10-lite-achados-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 27 Oct 2025 20:57:55 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 29 Oct 2025 19:09:09 +0000</lastBuildDate>
     <item>
       <title>Bancos fecham o cerco contra contas laranjas e bets irregulares</title>
       <link>https://tecnoblog.net/noticias/bancos-fecham-o-cerco-contra-contas-laranjas-e-bets-irregulares/</link>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/esquenta-black-galaxy-tab-s10-fe-5g-tem-maior-desconto-que-ja-vimos/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/05/Samsung-promete-que-apps-pesados-rodam-no-Galaxy-Tab-S10-FE-foto-Giovanni-Santa-RosaTecnoblog-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Wed, 29 Oct 2025 16:31:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>iPhone 16e (256 GB) tem menor preço em meses com 38% OFF na Amazon</title>
+      <link>https://tecnoblog.net/achados/iphone-16e-256-gb-tem-menor-preco-em-meses-com-38-off-na-amazon/</link>
+      <description>iPhone 16e (256 GB) tem processador Apple A18 e RAM de 8 GB, display OLED e câmera de 48 MP; desconto de 38% é atingido com cupom</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/iphone-16e-256-gb-tem-menor-preco-em-meses-com-38-off-na-amazon/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/05/iPhone16e-Achado-do-dia-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 29 Oct 2025 18:39:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Buscadores com IA priorizam sites menos populares, diz estudo</title>
+      <link>https://tecnoblog.net/noticias/buscadores-com-ia-priorizam-sites-menos-populares-diz-estudo/</link>
+      <description>Pesquisa da Universidade Ruhr de Bochum, na Alemanha, mostra que ferramentas com IA generativa usam domínios de baixo tráfego para compilar respostas.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/buscadores-com-ia-priorizam-sites-menos-populares-diz-estudo/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/05/captura-de-tela-2024-05-14-as-14-06-18-e1715706700198-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 29 Oct 2025 18:42:59 +0000</pubDate>
     </item>
   </channel>
 </rss>
