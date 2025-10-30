@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 30 Oct 2025 20:13:08 +0000</lastBuildDate>
-    <item>
-      <title>Nvidia faz história e se torna a primeira empresa a valer US$ 5 trilhões</title>
-      <link>https://tecnoblog.net/noticias/nvidia-faz-historia-e-se-torna-a-primeira-empresa-a-valer-us-5-trilhoes/</link>
-      <description>Empresa divulgou US$ 500 bilhões em vendas de chips de inteligência artificial.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/nvidia-faz-historia-e-se-torna-a-primeira-empresa-a-valer-us-5-trilhoes/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/05/nvidia-video_capa-2_tb-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 29 Oct 2025 14:57:55 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 30 Oct 2025 21:10:34 +0000</lastBuildDate>
     <item>
       <title>Amazon inicia venda de caixinha Alexa turbinada no Brasil</title>
       <link>https://tecnoblog.net/noticias/amazon-inicia-venda-de-caixinha-alexa-turbinada-no-brasil/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/esquenta-black-friday-smart-tv-4k-lg-ua85-de-50-tem-menor-preco-historico/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/smart-tv-led-50-lg-4k-ua85-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Thu, 30 Oct 2025 19:46:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Smart TVs 4K LG de 50″, 55″ e 65″ têm até 56% OFF na Amazon e Mercado Livre</title>
+      <link>https://tecnoblog.net/achados/smart-tvs-4k-lg-de-50-55-e-65-tem-ate-56-off-na-amazon-e-mercado-livre/</link>
+      <description>Smart TVs 4K da LG com painéis OLED, QNED, NanoCell e UHD ficam até 56% mais baratas na Amazon e Mercado Livre, algumas com ofertas históricas</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/smart-tvs-4k-lg-de-50-55-e-65-tem-ate-56-off-na-amazon-e-mercado-livre/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/smart-tv-4k-lg-qned-82a-une-nanocell-com-pontos-quanticos-foto-divulgacao-1-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 30 Oct 2025 21:02:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
