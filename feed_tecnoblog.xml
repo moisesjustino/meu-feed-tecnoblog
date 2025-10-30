@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 30 Oct 2025 22:11:28 +0000</lastBuildDate>
-    <item>
-      <title>Amazon inicia venda de caixinha Alexa turbinada no Brasil</title>
-      <link>https://tecnoblog.net/noticias/amazon-inicia-venda-de-caixinha-alexa-turbinada-no-brasil/</link>
-      <description>Echo Dot Max tem design com dois alto-falantes integrados e promete som mais encorpado. Aparelho conta com chip AZ3 e está pronto para receber Alexa+.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/amazon-inicia-venda-de-caixinha-alexa-turbinada-no-brasil/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/echo-dot-max-16x9-1-340x191.webp" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 29 Oct 2025 15:28:54 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 30 Oct 2025 23:10:58 +0000</lastBuildDate>
     <item>
       <title>Vibe coding chega ao Google AI Studio; veja como criar apps com IA</title>
       <link>https://tecnoblog.net/noticias/vibe-coding-chega-ao-google-ai-studio-veja-como-criar-apps-com-ia/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/smart-tvs-4k-lg-de-50-55-e-65-tem-ate-56-off-na-amazon-e-mercado-livre/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/smart-tv-4k-lg-qned-82a-une-nanocell-com-pontos-quanticos-foto-divulgacao-1-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Thu, 30 Oct 2025 21:02:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nintendo Switch Lite tem 39% OFF em promoção com cupom na Amazon</title>
+      <link>https://tecnoblog.net/achados/nintendo-switch-lite-tem-39-off-em-promocao-com-cupom-na-amazon/</link>
+      <description>Console portátil da Nintendo tem tela LCD de 5,5 polegadas, 32 GB de armazenamento e bateria para até 7 horas.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/nintendo-switch-lite-tem-39-off-em-promocao-com-cupom-na-amazon/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/nintendo-switch-lite-achados-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 30 Oct 2025 22:12:41 +0000</pubDate>
     </item>
   </channel>
 </rss>
