@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 30 Oct 2025 14:11:46 +0000</lastBuildDate>
-    <item>
-      <title>Elon Musk lança a Grokipedia, uma enciclopédia editada por IA</title>
-      <link>https://tecnoblog.net/noticias/elon-musk-lanca-a-grokipedia-uma-enciclopedia-editada-por-ia/</link>
-      <description>Nova plataforma de Musk usa IA para revisar artigos, mas copia conteúdo direto da Wikipedia em diversos verbetes.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/elon-musk-lanca-a-grokipedia-uma-enciclopedia-editada-por-ia/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/grokipedia-elon-musk-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 28 Oct 2025 18:42:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ações da Nokia disparam 25% após acordo com Nvidia</title>
-      <link>https://tecnoblog.net/noticias/acoes-da-nokia-disparam-25-apos-acordo-com-nvidia/</link>
-      <description>Companhia finlandesa receberá US$ 1 bilhão de investimentos da empresa de chips. Parceria prevê o desenvolvimento de soluções de IA e conectividade 6G.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/acoes-da-nokia-disparam-25-apos-acordo-com-nvidia/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2020/12/sede-nokia-e1607365339921-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 28 Oct 2025 18:57:50 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 30 Oct 2025 15:13:10 +0000</lastBuildDate>
     <item>
       <title>WhatsApp testa recurso de perfil que lembra o LinkedIn</title>
       <link>https://tecnoblog.net/noticias/whatsapp-testa-recurso-de-perfil-que-lembra-o-linkedin/</link>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-s24-ultra-256-gb-tem-55-de-desconto-em-oferta-na-amazon/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/galaxy-s24-ultra-achados-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Thu, 30 Oct 2025 13:53:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Smart TV 4K LG 55″ baratinha tem oferta histórica no Esquenta Black Friday</title>
+      <link>https://tecnoblog.net/achados/smart-tv-4k-lg-55-baratinha-tem-oferta-historica-no-esquenta-black-friday/</link>
+      <description>Smart TV LG 4K UA85 de 55 polegadas tem processador com IA, suporte ao HDR10 Pro e desconto histórico de 46% com cupom no Mercado Livre</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/smart-tv-4k-lg-55-baratinha-tem-oferta-historica-no-esquenta-black-friday/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/smart-tv-lg-4k-ua85-tem-processador-com-ia-foto-divulgacao-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 30 Oct 2025 14:16:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Meta culpa Estados Unidos por rombo de US$ 16 bilhões em resultado financeiro</title>
+      <link>https://tecnoblog.net/noticias/meta-culpa-estados-unidos-por-rombo-de-us-16-bilhoes-em-resultado-financeiro/</link>
+      <description>Empresa de Mark Zuckerberg atribuiu queda a uma cobrança única de imposto. Ações caíram 8% com previsão de gastos em inteligência artificial.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/meta-culpa-estados-unidos-por-rombo-de-us-16-bilhoes-em-resultado-financeiro/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/02/Capa-Mark-Zuckerberg-01-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 30 Oct 2025 14:58:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
