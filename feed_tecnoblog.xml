@@ -7,39 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 30 Oct 2025 12:23:25 +0000</lastBuildDate>
-    <item>
-      <title>Esquenta Black: Cupons Mercado Livre até R$ 1.500 OFF em notebooks</title>
-      <link>https://tecnoblog.net/achados/esquenta-black-cupons-mercado-livre-ate-r-1-500-off-em-notebooks/</link>
-      <description>Mercado Livre traz cupons de desconto em notebooks da Samsung, Lenovo e outras marcas; ofertas são válidas até o final do mês ou enquanto durarem os estoques</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/esquenta-black-cupons-mercado-livre-ate-r-1-500-off-em-notebooks/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/galaxy-book-4-pro-em-oferta-foto-katarina-bandeiratecnoblog-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 28 Oct 2025 13:40:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Threads ganha posts que somem em 24 horas</title>
-      <link>https://tecnoblog.net/noticias/threads-ganha-posts-que-somem-em-24-horas/</link>
-      <description>Novo recurso arquiva publicações automaticamente. Segundo a Meta, objetivo é permitir posts espontâneos sem a "pressão da permanência".</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/threads-ganha-posts-que-somem-em-24-horas/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/threads-post-temporario-340x191.webp" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 28 Oct 2025 14:01:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Moto G86 (256 GB) tem menor preço desde lançamento no esquenta Black Friday</title>
-      <link>https://tecnoblog.net/achados/moto-g86-256-gb-tem-menor-preco-desde-lancamento-no-esquenta-black-friday/</link>
-      <description>Moto G86 (256 GB) tem RAM de até 24 GB via RAM virtual, câmera Sony de 50 MP e tela POLED com taxa de atualização de 120 Hz</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/moto-g86-256-gb-tem-menor-preco-desde-lancamento-no-esquenta-black-friday/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/moto-g86-achados-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 28 Oct 2025 14:18:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Galaxy S24 Ultra (256 GB) com mais de 50% OFF em oferta na Amazon</title>
-      <link>https://tecnoblog.net/achados/galaxy-s24-ultra-256-gb-com-mais-de-50-off-em-oferta-na-amazon/</link>
-      <description>Celular premium da Samsung traz Snapdragon 8 Gen 3, conjunto quádruplo de câmeras com principal de 200 MP e tela AMOLED com taxa adaptativa de 120 Hz. Promoção exclusiva pelo App</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-s24-ultra-256-gb-com-mais-de-50-off-em-oferta-na-amazon/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/11/galaxy-s24-ultra-na-mao-foto-thassius-veloso-tecnoblog-achou-correu-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 28 Oct 2025 15:17:37 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 30 Oct 2025 13:25:32 +0000</lastBuildDate>
     <item>
       <title>Primeiras imagens do trifold da Samsung vazam na web</title>
       <link>https://tecnoblog.net/noticias/primeiras-imagens-do-trifold-da-samsung-vazam-na-web/</link>
@@ -113,12 +81,28 @@
       <pubDate>Wed, 29 Oct 2025 13:15:57 +0000</pubDate>
     </item>
     <item>
+      <title>O que são jogos eletrônicos? Confira a história e os gêneros dos videogames</title>
+      <link>https://tecnoblog.net/responde/o-que-sao-jogos-eletronicos-confira-a-historia-e-os-generos-dos-videogames/</link>
+      <description>Além de serem produtos voltados para entretenimento, videogames também têm grandes impactos culturais, sociais, econômicos e tecnológicos</description>
+      <guid isPermaLink="false">https://tecnoblog.net/responde/o-que-sao-jogos-eletronicos-confira-a-historia-e-os-generos-dos-videogames/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/ilustracao-de-videogame-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 29 Oct 2025 13:35:38 +0000</pubDate>
+    </item>
+    <item>
       <title>GitHub libera o acesso a vários agentes de IA, como Claude e Codex</title>
       <link>https://tecnoblog.net/noticias/github-libera-o-acesso-a-varios-agentes-de-ia-como-claude-e-codex/</link>
       <description>O objetivo é unificar o fluxo de trabalho de desenvolvimento. Ecossistema reúne diferentes agentes num lugar só.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/github-libera-o-acesso-a-varios-agentes-de-ia-como-claude-e-codex/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/10/github-simbolo-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Wed, 29 Oct 2025 13:37:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>O que são ferramentas de desenvolvimento? Conheça softwares para programação</title>
+      <link>https://tecnoblog.net/responde/o-que-sao-ferramentas-de-desenvolvimento-conheca-softwares-para-programacao/</link>
+      <description>Softwares de desenvolvimento permitem que profissionais de TI desenvolvam soluções, como aplicativos e sistemas para diferentes nichos</description>
+      <guid isPermaLink="false">https://tecnoblog.net/responde/o-que-sao-ferramentas-de-desenvolvimento-conheca-softwares-para-programacao/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2021/08/mercado-de-ti-2-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 29 Oct 2025 14:11:27 +0000</pubDate>
     </item>
     <item>
       <title>DeepSeek trabalha em “tokens visuais” para melhorar memória de IAs</title>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/operadora-mineira-adota-pix-automatico-para-pagamentos-recorrentes/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/algar-pix-automatico-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Thu, 30 Oct 2025 12:19:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>YouTube testa upscaling via IA e novas funções para melhorar vídeos na TV</title>
+      <link>https://tecnoblog.net/noticias/youtube-testa-upscaling-via-ia-e-novas-funcoes-para-melhorar-videos-na-tv/</link>
+      <description>Plataforma quer aprimorar a qualidade de imagem e facilitar a busca de conteúdos em smart TVs, além de incluir QR codes e miniaturas em 4K.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/youtube-testa-upscaling-via-ia-e-novas-funcoes-para-melhorar-videos-na-tv/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/04/youtube-tela-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 30 Oct 2025 12:51:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Smart TV LG 4K OLED 55″ tem desconto histórico de 56% OFF na Amazon</title>
+      <link>https://tecnoblog.net/achados/smart-tv-lg-4k-oled-55-tem-desconto-historico-de-56-off-na-amazon/</link>
+      <description>Smart TV LG 4K Evo G4 de 55 polegadas tem painel OLED, taxa de atualização de 144 Hz e design premium; confira menor preço imbatível na Amazon</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/smart-tv-lg-4k-oled-55-tem-desconto-historico-de-56-off-na-amazon/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/smart-tv-lg-4k-oled-evo-g4-tem-taxa-de-atualizacao-de-144-hz-foto-divulgacao-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 30 Oct 2025 13:05:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
