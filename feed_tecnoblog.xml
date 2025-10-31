@@ -7,31 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 31 Oct 2025 15:11:12 +0000</lastBuildDate>
-    <item>
-      <title>Buscadores com IA priorizam sites menos populares, diz estudo</title>
-      <link>https://tecnoblog.net/noticias/buscadores-com-ia-priorizam-sites-menos-populares-diz-estudo/</link>
-      <description>Pesquisa da Universidade Ruhr de Bochum, na Alemanha, mostra que ferramentas com IA generativa usam domínios de baixo tráfego para compilar respostas.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/buscadores-com-ia-priorizam-sites-menos-populares-diz-estudo/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/05/captura-de-tela-2024-05-14-as-14-06-18-e1715706700198-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 29 Oct 2025 18:42:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Xbox precisa competir com o TikTok, sugere CEO da Microsoft</title>
-      <link>https://tecnoblog.net/noticias/xbox-precisa-competir-com-o-tiktok-sugere-ceo-da-microsoft/</link>
-      <description>Satya Nadella afirmou que "vídeos curtos" são rivais diretos do mercado de videogames. Segundo o CEO, verdadeiro desafio é reter o público, não apenas vender consoles.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/xbox-precisa-competir-com-o-tiktok-sugere-ceo-da-microsoft/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/05/img_3989-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 29 Oct 2025 19:36:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Motorola Edge 60 Pro (256 GB) tem oferta histórica com 40% de desconto</title>
-      <link>https://tecnoblog.net/achados/motorola-edge-60-pro-256-gb-tem-oferta-historica-com-40-de-desconto/</link>
-      <description>Motorola Edge 60 Pro (256 GB) tem câmera tripla com sensor de 50 MP, tela POLED com taxa de atualização de 120 Hz e RAM de 12 GB</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/motorola-edge-60-pro-256-gb-tem-oferta-historica-com-40-de-desconto/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/motorola-edge-60-pro-foto-giovanni-santa-rosatecnoblog-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 29 Oct 2025 19:54:38 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 31 Oct 2025 16:14:11 +0000</lastBuildDate>
     <item>
       <title>Galaxy Z Flip 7 (256 GB) sai com 37% OFF em oferta com cupom na Amazon</title>
       <link>https://tecnoblog.net/achados/galaxy-z-flip-7-256-gb-sai-com-37-off-em-oferta-com-cupom-na-amazon/</link>
@@ -111,6 +87,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/publieditoriais/de-made-in-a-created-in-os-paises-do-brics-estao-moldando-uma-nova-economia-criativa/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/vladislav-kreinin-2-edited-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Thu, 30 Oct 2025 15:47:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>O que é um All-in-One? Saiba se o computador integrado vale a pena</title>
+      <link>https://tecnoblog.net/responde/o-que-e-um-all-in-one-saiba-se-o-computador-integrado-vale-a-pena/</link>
+      <description>O All-in-One reúne todos os componentes integrados ao monitor, diferentemente do desktop, que é necessário a presença de um gabinete dedicado</description>
+      <guid isPermaLink="false">https://tecnoblog.net/responde/o-que-e-um-all-in-one-saiba-se-o-computador-integrado-vale-a-pena/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2021/04/Multilaser-Ultra-2-1060x596.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 30 Oct 2025 15:48:18 +0000</pubDate>
     </item>
     <item>
       <title>ROG Xbox Ally X passa na Anatel e já pode ser vendido no Brasil</title>
@@ -217,12 +201,28 @@
       <pubDate>Fri, 31 Oct 2025 14:22:14 +0000</pubDate>
     </item>
     <item>
-      <title>Bug no Windows 11 quebra o fechamento do Gerenciador de Tarefas</title>
+      <title>Novo bug no Windows 11 atrapalha o Gerenciador de Tarefas</title>
       <link>https://tecnoblog.net/noticias/bug-no-windows-11-quebra-o-fechamento-do-gerenciador-de-tarefas/</link>
       <description>Usuários relatam que ferramenta continua rodando após ser fechada, acumulando processos em segundo plano. Falha surgiu na atualização KB5067036 de outubro de 2025.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/bug-no-windows-11-quebra-o-fechamento-do-gerenciador-de-tarefas/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/07/windows-11-4-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Fri, 31 Oct 2025 14:51:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Inter vai checar o Wi-Fi antes de liberar transações</title>
+      <link>https://tecnoblog.net/noticias/inter-vai-checar-o-wi-fi-antes-de-liberar-transacoes/</link>
+      <description>Modo Vigilante tem bloqueio de transações fora de redes confiáveis e ativa reconhecimento facial para Pix acima do limite.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/inter-vai-checar-o-wi-fi-antes-de-liberar-transacoes/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/chamada-banco-inter-interface-smartphone-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 31 Oct 2025 15:33:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Homem recorre à IA e reduz conta médica de US$ 195 mil para US$ 33 mil</title>
+      <link>https://tecnoblog.net/noticias/homem-recorre-a-ia-e-reduz-conta-medica-de-us-195-mil-para-us-33-mil/</link>
+      <description>Chatbot da Anthropic analisou conta hospitalar e encontrou cobranças duplicadas e códigos de faturamento errados.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/homem-recorre-a-ia-e-reduz-conta-medica-de-us-195-mil-para-us-33-mil/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/vecteezy_stethoscope-on-chart-and-graph-paper-finance-account_10656429-edited-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 31 Oct 2025 15:36:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
