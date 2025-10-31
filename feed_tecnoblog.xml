@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 31 Oct 2025 21:10:19 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Oct 2025 22:11:20 +0000</lastBuildDate>
     <item>
       <title>AOL ainda existe e será vendida por US$ 1,5 bilhão</title>
       <link>https://tecnoblog.net/noticias/aol-ainda-existe-e-sera-vendida-por-us-15-bilhao/</link>
@@ -55,14 +55,6 @@
       <guid isPermaLink="false">https://tecnoblog.net/responde/o-que-e-um-all-in-one-saiba-se-o-computador-integrado-vale-a-pena/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2021/04/Multilaser-Ultra-2-1060x596.jpg" length="0" type="image/jpeg"/>
       <pubDate>Thu, 30 Oct 2025 15:48:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>ROG Xbox Ally X passa na Anatel e já pode ser vendido no Brasil</title>
-      <link>https://tecnoblog.net/noticias/rog-xbox-ally-x-e-homologado-e-ja-pode-ser-vendido-no-brasil/</link>
-      <description>Console portátil é fruto da parceria entre Asus e Microsoft e está liberado para venda no mercado nacional. Preço oficial ainda não foi divulgado, mas deve ser alto.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/rog-xbox-ally-x-e-homologado-e-ja-pode-ser-vendido-no-brasil/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/xbox-rog-ally-x-3-edited-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 30 Oct 2025 15:59:43 +0000</pubDate>
     </item>
     <item>
       <title>Galaxy S26: Samsung dá novas pistas sobre Exynos no flagship</title>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/galaxy-s25-256-gb-em-oferta-pelo-melhor-preco-que-ja-vimos-na-amazon/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/galaxy-s25-achou-correu-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Fri, 31 Oct 2025 20:54:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Corte foge da Microsoft e adota código aberto</title>
+      <link>https://tecnoblog.net/noticias/corte-foge-da-microsoft-e-adota-codigo-aberto/</link>
+      <description>Tribunal de Haia vai substituir o Microsoft Office pelo OpenDesk, suíte de ferramentas web open source. Governos europeus já adotam Linux e LibreOffice.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/corte-foge-da-microsoft-e-adota-codigo-aberto/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/05/linux_capa-1_tb-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 31 Oct 2025 21:26:39 +0000</pubDate>
     </item>
   </channel>
 </rss>
