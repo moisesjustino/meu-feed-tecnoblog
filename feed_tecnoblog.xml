@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 31 Oct 2025 14:12:16 +0000</lastBuildDate>
-    <item>
-      <title>Esquenta Black: Galaxy Tab S10 FE 5G tem maior desconto que já vimos</title>
-      <link>https://tecnoblog.net/achados/esquenta-black-galaxy-tab-s10-fe-5g-tem-maior-desconto-que-ja-vimos/</link>
-      <description>Galaxy Tab S10 FE 5G de 128 GB com 49% de desconto no esquenta Black Friday do Mercado Livre. Tablet da Samsung traz tela de 10,9", 8 GB de RAM e chip Exynos 1580</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/esquenta-black-galaxy-tab-s10-fe-5g-tem-maior-desconto-que-ja-vimos/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/05/Samsung-promete-que-apps-pesados-rodam-no-Galaxy-Tab-S10-FE-foto-Giovanni-Santa-RosaTecnoblog-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 29 Oct 2025 16:31:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>iPhone 16e (256 GB) tem menor preço em meses com 38% OFF na Amazon</title>
-      <link>https://tecnoblog.net/achados/iphone-16e-256-gb-tem-menor-preco-em-meses-com-38-off-na-amazon/</link>
-      <description>iPhone 16e (256 GB) tem processador Apple A18 e RAM de 8 GB, display OLED e câmera de 48 MP; desconto de 38% é atingido com cupom</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/iphone-16e-256-gb-tem-menor-preco-em-meses-com-38-off-na-amazon/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/05/iPhone16e-Achado-do-dia-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 29 Oct 2025 18:39:45 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 31 Oct 2025 15:11:12 +0000</lastBuildDate>
     <item>
       <title>Buscadores com IA priorizam sites menos populares, diz estudo</title>
       <link>https://tecnoblog.net/noticias/buscadores-com-ia-priorizam-sites-menos-populares-diz-estudo/</link>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/google-maps-deve-ganhar-modo-de-economia-de-energia/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/05/maps_capa-2_tb-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Fri, 31 Oct 2025 12:27:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>NotebookLM agora tem contexto 8x maior e respostas mais precisas</title>
+      <link>https://tecnoblog.net/noticias/notebooklm-agora-tem-contexto-8x-maior-e-respostas-mais-precisas/</link>
+      <description>Histórico de conversas fica salvo automaticamente no NotebookLM. Atualização traz janela de contexto com 1 milhão de tokens.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/notebooklm-agora-tem-contexto-8x-maior-e-respostas-mais-precisas/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/chamada-notebooklm-google-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 31 Oct 2025 14:22:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bug no Windows 11 quebra o fechamento do Gerenciador de Tarefas</title>
+      <link>https://tecnoblog.net/noticias/bug-no-windows-11-quebra-o-fechamento-do-gerenciador-de-tarefas/</link>
+      <description>Usuários relatam que ferramenta continua rodando após ser fechada, acumulando processos em segundo plano. Falha surgiu na atualização KB5067036 de outubro de 2025.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/bug-no-windows-11-quebra-o-fechamento-do-gerenciador-de-tarefas/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/07/windows-11-4-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 31 Oct 2025 14:51:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
