@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 31 Oct 2025 12:24:05 +0000</lastBuildDate>
-    <item>
-      <title>Vibe coding chega ao Google AI Studio; veja como criar apps com IA</title>
-      <link>https://tecnoblog.net/noticias/vibe-coding-chega-ao-google-ai-studio-veja-como-criar-apps-com-ia/</link>
-      <description>Nova experiência usa Gemini para montar o app, conectando APIs de vídeo e imagem automaticamente. Ferramenta tem limite de uso gratuito.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/vibe-coding-chega-ao-google-ai-studio-veja-como-criar-apps-com-ia/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/google-ai-studio-vibe-coding-340x191.webp" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 29 Oct 2025 15:50:12 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 31 Oct 2025 13:24:17 +0000</lastBuildDate>
     <item>
       <title>Esquenta Black: Galaxy Tab S10 FE 5G tem maior desconto que já vimos</title>
       <link>https://tecnoblog.net/achados/esquenta-black-galaxy-tab-s10-fe-5g-tem-maior-desconto-que-ja-vimos/</link>
@@ -171,7 +163,7 @@
     <item>
       <title>Smart TV 4K LG NanoCell de 65″ tem oferta imperdível com cupom</title>
       <link>https://tecnoblog.net/achados/smart-tv-4k-lg-nanocell-de-65-tem-oferta-imperdivel-com-cupom/</link>
-      <description>Smart TV 4K LG NanoCell traz nanopartículas para cores otimizadas, processador que faz upscaling com IA e desconto histórico de 38% na Amazon</description>
+      <description>Smart TV 4K LG NanoCell traz nanopartículas para cores otimizadas, processador que faz upscaling com IA e desconto histórico de 41% na Amazon</description>
       <guid isPermaLink="false">https://tecnoblog.net/achados/smart-tv-4k-lg-nanocell-de-65-tem-oferta-imperdivel-com-cupom/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/smart-tv-4k-lg-nanocell-traz-cores-mais-vivas-e-diversas-foto-divulgacao-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Thu, 30 Oct 2025 18:39:24 +0000</pubDate>
@@ -195,7 +187,7 @@
     <item>
       <title>Smart TV 4K LG OLED de 65″ tem melhor promoção já vista com cupom</title>
       <link>https://tecnoblog.net/achados/smart-tv-4k-lg-oled-de-65-tem-melhor-promocao-ja-vista-com-cupom/</link>
-      <description>Smart TV 4K LG OLED de 65 polegadas tem tela com qualidade de altíssimo nível e está com 40% de desconto com cupom da Amazon</description>
+      <description>Smart TV 4K LG OLED de 65 polegadas tem tela com qualidade de altíssimo nível e está com 41% de desconto com cupom da Amazon</description>
       <guid isPermaLink="false">https://tecnoblog.net/achados/smart-tv-4k-lg-oled-de-65-tem-melhor-promocao-ja-vista-com-cupom/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/lg-c5-oled-65-2025-achados1-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Thu, 30 Oct 2025 19:44:22 +0000</pubDate>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/nintendo-switch-lite-tem-39-off-em-promocao-com-cupom-na-amazon/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/nintendo-switch-lite-achados-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Thu, 30 Oct 2025 22:12:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google Maps deve ganhar modo de economia de energia</title>
+      <link>https://tecnoblog.net/noticias/google-maps-deve-ganhar-modo-de-economia-de-energia/</link>
+      <description>Tela minimalista traria informações básicas e não teria suporte a transporte público. Ativação deve ocorrer pelo botão de liga/desliga.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/google-maps-deve-ganhar-modo-de-economia-de-energia/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/05/maps_capa-2_tb-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 31 Oct 2025 12:27:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
