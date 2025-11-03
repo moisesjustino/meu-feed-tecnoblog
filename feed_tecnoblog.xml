@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 03 Nov 2025 16:14:08 +0000</lastBuildDate>
-    <item>
-      <title>Galaxy S26: Samsung dá novas pistas sobre Exynos no flagship</title>
-      <link>https://tecnoblog.net/noticias/galaxy-s26-samsung-da-novas-pistas-sobre-exynos-no-flagship/</link>
-      <description>Empresa sul-coreana afirma em relatório que vai "fortalecer a competitividade do Exynos" em 2026. Galaxy S26 e S26 Plus podem usar apenas o SoC de fabricação própria.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/galaxy-s26-samsung-da-novas-pistas-sobre-exynos-no-flagship/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/galaxy-s26-ultra-tarun-vats-edited-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 30 Oct 2025 16:48:01 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 03 Nov 2025 17:11:03 +0000</lastBuildDate>
     <item>
       <title>Equipe do Ubuntu Unity faz apelo para que distro não vire um abandonware</title>
       <link>https://tecnoblog.net/noticias/equipe-do-ubuntu-unity-faz-apelo-para-que-distro-nao-vire-um-abandonware/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/estes-sao-os-novos-icones-do-google-maps-e-fotos/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/04/google_capa-3-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 03 Nov 2025 15:52:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Black November: iPhone 16 Pro (256 GB) tem oferta imbatível na Amazon</title>
+      <link>https://tecnoblog.net/achados/black-november-iphone-16-pro-256-gb-tem-oferta-imbativel-na-amazon/</link>
+      <description>iPhone 16 Pro (256 GB) tem câmera tripla com dois sensores de 48 MP e processador A18 Pro avançado; celular da Apple tem oferta antes da Black Friday com 32% OFF</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/black-november-iphone-16-pro-256-gb-tem-oferta-imbativel-na-amazon/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/linha-iphone-16-pro-em-loja-da-apple-foto-thassius-velosotecnoblog-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 03 Nov 2025 17:04:35 +0000</pubDate>
     </item>
   </channel>
 </rss>
