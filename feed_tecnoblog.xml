@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 03 Nov 2025 15:12:44 +0000</lastBuildDate>
-    <item>
-      <title>De Made in a Created in: os países do BRICS+ estão moldando uma nova economia criativa</title>
-      <link>https://tecnoblog.net/publieditoriais/de-made-in-a-created-in-os-paises-do-brics-estao-moldando-uma-nova-economia-criativa/</link>
-      <description>Soluções de inteligência artificial e blockchain do Sberbank podem impulsionar indústrias criativas dos membros do bloco</description>
-      <guid isPermaLink="false">https://tecnoblog.net/publieditoriais/de-made-in-a-created-in-os-paises-do-brics-estao-moldando-uma-nova-economia-criativa/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/vladislav-kreinin-2-edited-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 30 Oct 2025 15:47:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>O que é um All-in-One? Saiba se o computador integrado vale a pena</title>
-      <link>https://tecnoblog.net/responde/o-que-e-um-all-in-one-saiba-se-o-computador-integrado-vale-a-pena/</link>
-      <description>O All-in-One reúne todos os componentes integrados ao monitor, diferentemente do desktop, que é necessário a presença de um gabinete dedicado</description>
-      <guid isPermaLink="false">https://tecnoblog.net/responde/o-que-e-um-all-in-one-saiba-se-o-computador-integrado-vale-a-pena/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2021/04/Multilaser-Ultra-2-1060x596.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 30 Oct 2025 15:48:18 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 03 Nov 2025 16:14:08 +0000</lastBuildDate>
     <item>
       <title>Galaxy S26: Samsung dá novas pistas sobre Exynos no flagship</title>
       <link>https://tecnoblog.net/noticias/galaxy-s26-samsung-da-novas-pistas-sobre-exynos-no-flagship/</link>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/estudio-ghibli-e-empresas-japonesas-fazem-pedido-a-openai/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/03/Gm8d8AObYAImwUr-edited-1-340x191.jpeg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 03 Nov 2025 15:09:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Novo Menu Iniciar do Windows 11 é oficial; veja o que muda</title>
+      <link>https://tecnoblog.net/noticias/novo-menu-iniciar-do-windows-11-e-oficial-veja-o-que-muda/</link>
+      <description>Microsoft oficializou novo Menu Iniciar do Windows 11. Novidade traz três áreas principais e integração com o celular, e chega de modo gradual.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/novo-menu-iniciar-do-windows-11-e-oficial-veja-o-que-muda/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/novo-menu-iniciar-windows-11-capa-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 03 Nov 2025 15:30:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Estes são os novos ícones do Google Maps e Fotos</title>
+      <link>https://tecnoblog.net/noticias/estes-sao-os-novos-icones-do-google-maps-e-fotos/</link>
+      <description>Mudança troca linhas sólidas por gradientes e segue nova identidade visual da empresa para a "era Gemini".</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/estes-sao-os-novos-icones-do-google-maps-e-fotos/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/04/google_capa-3-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 03 Nov 2025 15:52:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
