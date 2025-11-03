@@ -7,31 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 03 Nov 2025 17:11:03 +0000</lastBuildDate>
-    <item>
-      <title>Equipe do Ubuntu Unity faz apelo para que distro não vire um abandonware</title>
-      <link>https://tecnoblog.net/noticias/equipe-do-ubuntu-unity-faz-apelo-para-que-distro-nao-vire-um-abandonware/</link>
-      <description>Membros da distribuição admitem não ter conhecimento técnico para corrigir falhas. Eles querem salvar sistema com interface clássica do Ubuntu.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/equipe-do-ubuntu-unity-faz-apelo-para-que-distro-nao-vire-um-abandonware/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/09/ubuntu-unity-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 30 Oct 2025 18:22:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google quer colocar o Nano Banana direto no Chrome</title>
-      <link>https://tecnoblog.net/noticias/google-quer-colocar-o-nano-banana-direto-no-chrome/</link>
-      <description>Google testa integração de Nano Banana e Deep Search no em versão experimental do navegador. Ferramentas permitem criar imagens e fazer pesquisas complexas.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/google-quer-colocar-o-nano-banana-direto-no-chrome/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/capas-nano-banana-01-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 30 Oct 2025 18:32:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Smart TV 4K LG NanoCell de 65″ tem oferta imperdível com cupom</title>
-      <link>https://tecnoblog.net/achados/smart-tv-4k-lg-nanocell-de-65-tem-oferta-imperdivel-com-cupom/</link>
-      <description>Smart TV 4K LG NanoCell traz nanopartículas para cores otimizadas, processador que faz upscaling com IA e desconto histórico de 41% na Amazon</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/smart-tv-4k-lg-nanocell-de-65-tem-oferta-imperdivel-com-cupom/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/smart-tv-4k-lg-nanocell-traz-cores-mais-vivas-e-diversas-foto-divulgacao-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 30 Oct 2025 18:39:24 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 03 Nov 2025 18:17:06 +0000</lastBuildDate>
     <item>
       <title>Samsung Internet ganha versão com IA para desktop</title>
       <link>https://tecnoblog.net/noticias/samsung-internet-ganha-versao-com-ia-para-desktop/</link>
@@ -169,14 +145,6 @@
       <pubDate>Mon, 03 Nov 2025 13:38:56 +0000</pubDate>
     </item>
     <item>
-      <title>Black November: Galaxy Buds FE com oferta imperdível em até 6x sem juros</title>
-      <link>https://tecnoblog.net/achados/black-november-galaxy-buds-fe-com-oferta-imperdivel-em-ate-6x-sem-juros/</link>
-      <description>Black November do Mercado Livre traz Galaxy Buds FE com desconto histórico de 72% em oferta. Fones de ouvido da Samsung possuem ANC e bateria para até 30 horas</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/black-november-galaxy-buds-fe-com-oferta-imperdivel-em-ate-6x-sem-juros/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/11/galaxy-buds-fe-em-promocao-na-black-friday-imagem-thassius-velosotecnoblog-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 03 Nov 2025 14:30:27 +0000</pubDate>
-    </item>
-    <item>
       <title>Grok tentou convencer criança de 12 anos a “enviar fotos nuas”</title>
       <link>https://tecnoblog.net/noticias/grok-tentou-convencer-crianca-de-12-anos-a-enviar-fotos-nuas/</link>
       <description>Mãe relata que inteligência artificial da xAI pediu fotos nuas a criança em conversa sobre futebol. Empresa de Elon Musk não comentou o caso.</description>
@@ -223,6 +191,38 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/black-november-iphone-16-pro-256-gb-tem-oferta-imbativel-na-amazon/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/linha-iphone-16-pro-em-loja-da-apple-foto-thassius-velosotecnoblog-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 03 Nov 2025 17:04:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google testa modo de tradução avançada no Tradutor</title>
+      <link>https://tecnoblog.net/noticias/google-testa-modo-de-traducao-avancada-no-tradutor/</link>
+      <description>Google Tradutor testa modos rápido e avançado de tradução. O segundo promete resultados mais precisos, mas pode levar mais tempo para mostrar o resultado.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/google-testa-modo-de-traducao-avancada-no-tradutor/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/03/capa-google-tradutor_tb-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 03 Nov 2025 17:13:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nova Siri deve usar modelos personalizados do Gemini</title>
+      <link>https://tecnoblog.net/noticias/nova-siri-deve-usar-modelos-personalizados-do-gemini/</link>
+      <description>Tecnologia do Google pode entrar em cena para suprir lacunas deixadas pela baixa qualidade dos modelos caseiros da Apple</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/nova-siri-deve-usar-modelos-personalizados-do-gemini/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/06/siri-wwdc-24-1-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 03 Nov 2025 17:13:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Black November: Galaxy S25 Plus (512 GB) fica 52% mais barato na Magalu</title>
+      <link>https://tecnoblog.net/achados/black-november-galaxy-s25-plus-512-gb-fica-52-mais-barato-na-magalu/</link>
+      <description>Galaxy S25 Plus (256 GB) tem Snapdragon 8 Elite e RAM de 12 GB; celular da Samsung tem 52% de desconto no aquecimento para a Black Friday 2025 na Magazine Luiza</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/black-november-galaxy-s25-plus-512-gb-fica-52-mais-barato-na-magalu/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/celulares-da-linha-galaxy-s25-tem-snapdragon-8-elite-foto-thassius-velosotecnoblog-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 03 Nov 2025 17:51:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI fecha acordo de US$ 38 bilhões com a Amazon</title>
+      <link>https://tecnoblog.net/noticias/openai-fecha-acordo-de-us-38-bilhoes-com-a-amazon/</link>
+      <description>Parceria de sete anos dá acesso a centenas de milhares de GPUs da Nvidia via AWS. Infraestrutura será usada para treinar modelos de inteligência artificial.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/openai-fecha-acordo-de-us-38-bilhoes-com-a-amazon/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/06/openai-3_capa-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 03 Nov 2025 18:09:10 +0000</pubDate>
     </item>
   </channel>
 </rss>
