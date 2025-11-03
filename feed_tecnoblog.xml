@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 03 Nov 2025 18:17:06 +0000</lastBuildDate>
-    <item>
-      <title>Samsung Internet ganha versão com IA para desktop</title>
-      <link>https://tecnoblog.net/noticias/samsung-internet-ganha-versao-com-ia-para-desktop/</link>
-      <description>Navegador mobile chega ao Windows em fase beta, inicialmente nos EUA e na Coreia do Sul. Foco será integração entre dispositivos e recursos do Galaxy AI.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/samsung-internet-ganha-versao-com-ia-para-desktop/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/samsung-mobile-samsung-internet-for-pc-expansion_main1-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 30 Oct 2025 19:04:03 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 03 Nov 2025 19:09:04 +0000</lastBuildDate>
     <item>
       <title>Smart TV 4K LG QNED de 65” com 34% OFF no Esquenta Black Mercado Livre</title>
       <link>https://tecnoblog.net/achados/smart-tv-4k-lg-qned-de-65-com-34-off-no-esquenta-black-mercado-livre/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/openai-fecha-acordo-de-us-38-bilhoes-com-a-amazon/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/06/openai-3_capa-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 03 Nov 2025 18:09:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Esquenta Black: Galaxy A36 (128 GB) tem 46% OFF em até 12x na Amazon</title>
+      <link>https://tecnoblog.net/achados/esquenta-black-galaxy-a36-128-gb-tem-46-off-em-ate-12x-na-amazon/</link>
+      <description>Galaxy A36 5G (128 GB) tem chip da Qualcomm, RAM de 6 GB e desconto com parcelamento em até 12x sem juros em oferta antecipada de Black Friday</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/esquenta-black-galaxy-a36-128-gb-tem-46-off-em-ate-12x-na-amazon/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/galaxy-a36-tem-chip-da-qualcomm-foto-thassius-velosotecnoblog-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 03 Nov 2025 18:41:40 +0000</pubDate>
     </item>
   </channel>
 </rss>
