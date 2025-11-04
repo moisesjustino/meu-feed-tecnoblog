@@ -7,31 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 04 Nov 2025 13:28:41 +0000</lastBuildDate>
-    <item>
-      <title>Inter vai checar o Wi-Fi antes de liberar transações</title>
-      <link>https://tecnoblog.net/noticias/inter-vai-checar-o-wi-fi-antes-de-liberar-transacoes/</link>
-      <description>Modo Vigilante tem bloqueio de transações fora de redes confiáveis e ativa reconhecimento facial para Pix acima do limite.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/inter-vai-checar-o-wi-fi-antes-de-liberar-transacoes/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/chamada-banco-inter-interface-smartphone-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 31 Oct 2025 15:33:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Homem recorre à IA e reduz conta médica de US$ 195 mil para US$ 33 mil</title>
-      <link>https://tecnoblog.net/noticias/homem-recorre-a-ia-e-reduz-conta-medica-de-us-195-mil-para-us-33-mil/</link>
-      <description>Chatbot da Anthropic analisou conta hospitalar e encontrou cobranças duplicadas e códigos de faturamento errados.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/homem-recorre-a-ia-e-reduz-conta-medica-de-us-195-mil-para-us-33-mil/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/vecteezy_stethoscope-on-charts-and-graphs-paper-finance-account_3838888-edited-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 31 Oct 2025 15:36:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>WhatsApp libera versão beta de aplicativo para Apple Watch</title>
-      <link>https://tecnoblog.net/noticias/whatsapp-libera-versao-beta-de-aplicativo-para-apple-watch/</link>
-      <description>Mensageiro chega dois anos após lançamento para Wear OS, do Android. App não funciona de maneira independente e precisa estar conectado ao iPhone.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/whatsapp-libera-versao-beta-de-aplicativo-para-apple-watch/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/whatsapp-capa-3-edited-1-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 31 Oct 2025 17:13:46 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 04 Nov 2025 14:12:39 +0000</lastBuildDate>
     <item>
       <title>Download de filmes pornográficos foi para “uso pessoal”, diz Meta</title>
       <link>https://tecnoblog.net/noticias/download-de-filmes-pornograficos-foi-para-uso-pessoal-diz-meta/</link>
@@ -137,6 +113,14 @@
       <pubDate>Mon, 03 Nov 2025 15:52:25 +0000</pubDate>
     </item>
     <item>
+      <title>Black November: iPhone 16 Pro (256 GB) tem oferta imbatível na Amazon</title>
+      <link>https://tecnoblog.net/achados/black-november-iphone-16-pro-256-gb-tem-oferta-imbativel-na-amazon/</link>
+      <description>iPhone 16 Pro (256 GB) tem câmera tripla com dois sensores de 48 MP e processador A18 Pro avançado; celular da Apple tem oferta antes da Black Friday com 32% OFF</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/black-november-iphone-16-pro-256-gb-tem-oferta-imbativel-na-amazon/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/linha-iphone-16-pro-em-loja-da-apple-foto-thassius-velosotecnoblog-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 03 Nov 2025 17:04:35 +0000</pubDate>
+    </item>
+    <item>
       <title>Google testa modo de tradução avançada no Tradutor</title>
       <link>https://tecnoblog.net/noticias/google-testa-modo-de-traducao-avancada-no-tradutor/</link>
       <description>Google Tradutor testa modos rápido e avançado de tradução. O segundo promete resultados mais precisos, mas pode levar mais tempo para mostrar o resultado.</description>
@@ -153,6 +137,14 @@
       <pubDate>Mon, 03 Nov 2025 17:13:48 +0000</pubDate>
     </item>
     <item>
+      <title>Black November: Galaxy S25 Plus (512 GB) fica 52% mais barato na Magalu</title>
+      <link>https://tecnoblog.net/achados/black-november-galaxy-s25-plus-512-gb-fica-52-mais-barato-na-magalu/</link>
+      <description>Galaxy S25 Plus (256 GB) tem Snapdragon 8 Elite e RAM de 12 GB; celular da Samsung tem 52% de desconto no aquecimento para a Black Friday 2025 na Magazine Luiza</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/black-november-galaxy-s25-plus-512-gb-fica-52-mais-barato-na-magalu/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/celulares-da-linha-galaxy-s25-tem-snapdragon-8-elite-foto-thassius-velosotecnoblog-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 03 Nov 2025 17:51:22 +0000</pubDate>
+    </item>
+    <item>
       <title>OpenAI fecha acordo de US$ 38 bilhões com a Amazon</title>
       <link>https://tecnoblog.net/noticias/openai-fecha-acordo-de-us-38-bilhoes-com-a-amazon/</link>
       <description>Parceria de sete anos dá acesso a centenas de milhares de GPUs da Nvidia via AWS. Infraestrutura será usada para treinar modelos de inteligência artificial.</description>
@@ -161,36 +153,20 @@
       <pubDate>Mon, 03 Nov 2025 18:09:10 +0000</pubDate>
     </item>
     <item>
+      <title>Esquenta Black: Galaxy A36 (128 GB) tem 46% OFF em até 12x na Amazon</title>
+      <link>https://tecnoblog.net/achados/esquenta-black-galaxy-a36-128-gb-tem-46-off-em-ate-12x-na-amazon/</link>
+      <description>Galaxy A36 5G (128 GB) tem chip da Qualcomm, RAM de 6 GB e desconto com parcelamento em até 12x sem juros em oferta antecipada de Black Friday</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/esquenta-black-galaxy-a36-128-gb-tem-46-off-em-ate-12x-na-amazon/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/galaxy-a36-tem-chip-da-qualcomm-foto-thassius-velosotecnoblog-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 03 Nov 2025 18:41:40 +0000</pubDate>
+    </item>
+    <item>
       <title>My Family Cinema chega ao fim e deixa clientes desamparados</title>
       <link>https://tecnoblog.net/noticias/fim-do-my-family-cinema-gera-chuva-de-reclamacoes/</link>
       <description>Serviço pirata cobrava assinatura anual de cerca de R$ 200. Decisão na Argentina desativou plataforma digital.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/fim-do-my-family-cinema-gera-chuva-de-reclamacoes/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/03/tv-box-1_capa_tb-340x191.jpeg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 03 Nov 2025 19:32:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Black Friday 2025: as melhores ofertas e cupons com até 53% OFF</title>
-      <link>https://tecnoblog.net/achados/black-friday-2025-as-melhores-ofertas-e-cupons-com-ate-53-off/</link>
-      <description>Veja as ofertas de Black Friday antecipadas para celulares, tablets, notebooks, TVs e muito mais; além de cupons de desconto exclusivos</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/black-friday-2025-as-melhores-ofertas-e-cupons-com-ate-53-off/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/linha-galaxy-s25-tem-snapdragon-8-elite-foto-thassius-velosotecnoblog-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 03 Nov 2025 20:05:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Black November: Galaxy Tab S11 Ultra tem menor preço desde lançamento</title>
-      <link>https://tecnoblog.net/achados/black-november-galaxy-tab-s11-ultra-tem-menor-preco-desde-lancamento/</link>
-      <description>Galaxy Tab S11 Ultra com 33% de desconto na Black November do Mercado Livre. Novo tablet premium da Samsung possui tela de 14,6", 12 GB de RAM e bateria de 11.600 mAh</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/black-november-galaxy-tab-s11-ultra-tem-menor-preco-desde-lancamento/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/galaxy-tab-s11-ultra-achados-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 03 Nov 2025 21:00:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Esquenta Black Friday: Motorola Edge 50 (256 GB) em oferta imperdível</title>
-      <link>https://tecnoblog.net/achados/esquenta-black-friday-motorola-edge-50-256-gb-em-oferta-imperdivel/</link>
-      <description>Motorola Edge 50 5G (256 GB) tem RAM de 12 GB expansível até 24 GB, chip Snapdragon e câmera de 50 MP, além de desconto histórico de 48% em aquece para Black Friday</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/esquenta-black-friday-motorola-edge-50-256-gb-em-oferta-imperdivel/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/motorola-edge-50-5g-foto-divulgacao-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 03 Nov 2025 21:08:09 +0000</pubDate>
     </item>
     <item>
       <title>Lembra do Xperia Play? Formato pode voltar 15 anos depois</title>
@@ -223,6 +199,30 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/black-november-galaxy-s25-tem-48-off-com-cupom-no-mercado-livre/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/galaxy-s25-tem-snapdragon-8-elite-e-ram-de-12-gb-foto-thassius-velosotecnoblog-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Tue, 04 Nov 2025 12:44:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Black November: Galaxy S24 Ultra (256 GB) tem 52% de desconto com cupom</title>
+      <link>https://tecnoblog.net/achados/black-november-galaxy-s24-ultra-256-gb-tem-52-de-desconto-com-cupom/</link>
+      <description>Celular topo de linha da Samsung em até 12x sem juros na Black November do Mercado Livre. Entre os destaques: chip Snapdragon 8 Gen 3, câmeras principal de 200 MP e tela AMOLED com taxa de 120 Hz</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/black-november-galaxy-s24-ultra-256-gb-tem-52-de-desconto-com-cupom/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/11/galaxy-s24-ultra-na-mao-foto-thassius-veloso-tecnoblog-black-friday-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 04 Nov 2025 13:34:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Alguns PCs com Windows 10 exibem falso erro sobre suporte estendido</title>
+      <link>https://tecnoblog.net/noticias/alguns-pcs-com-windows-10-exibem-falso-erro-sobre-suporte-estendido/</link>
+      <description>Computadores com suporte estendido para Windows 10 informam que atualizações não estão ativadas. Trata-se de um erro reconhecido pela Microsoft.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/alguns-pcs-com-windows-10-exibem-falso-erro-sobre-suporte-estendido/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/03/windows-10-tela-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 04 Nov 2025 13:49:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Esquenta Black: Galaxy Z Flip 7 (512 GB) tem 35% OFF em até 12x sem juros</title>
+      <link>https://tecnoblog.net/achados/esquenta-black-galaxy-z-flip-7-512-gb-tem-35-off-em-ate-12x-sem-juros/</link>
+      <description>Galaxy Z Flip 7 (512 GB) tem tela AMOLED de 120 Hz de 6,9" e RAM de 12 GB; celular dobrável da Samsung tem oferta antecipada de Black Friday com parcelamento</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/esquenta-black-galaxy-z-flip-7-512-gb-tem-35-off-em-ate-12x-sem-juros/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/galaxy-z-flip-tem-telas-dobraveis-amoled-de-120-hz-foto-thassius-velosotecnoblog-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 04 Nov 2025 14:03:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
