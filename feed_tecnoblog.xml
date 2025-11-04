@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 04 Nov 2025 21:11:12 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Nov 2025 22:10:18 +0000</lastBuildDate>
     <item>
       <title>Esquenta Black: Galaxy Flip 7 FE tem desconto histórico de 48% na Amazon</title>
       <link>https://tecnoblog.net/achados/esquenta-black-galaxy-flip-7-fe-tem-desconto-historico-de-48-na-amazon/</link>
@@ -169,14 +169,6 @@
       <pubDate>Tue, 04 Nov 2025 19:28:43 +0000</pubDate>
     </item>
     <item>
-      <title>Cadê o Eppi Cinema? Serviço some da web e já acumula 1,2 mil reclamações</title>
-      <link>https://tecnoblog.net/noticias/cade-o-eppi-cinema-servico-some-da-web-e-ja-acumula-12-mil-reclamacoes/</link>
-      <description>Clientes que pagavam R$ 200 por ano agora pedem reembolso. Plataforma saiu do ar após operação na Argentina.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/cade-o-eppi-cinema-servico-some-da-web-e-ja-acumula-12-mil-reclamacoes/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/eppi-cinema-icone-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 04 Nov 2025 19:40:03 +0000</pubDate>
-    </item>
-    <item>
       <title>Galaxy A56 vs Galaxy S24 FE: qual celular Samsung comprar?</title>
       <link>https://tecnoblog.net/guias/comparativo-samsung-galaxy-a56-vs-s24-fe/</link>
       <description>Comparativo entre Galaxy A56 e S24 FE mostra o que muda entre os smartphones da Samsung; descubra qual é o ideal para seu dia a dia</description>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/apple-quer-macbook-economico-e-com-chip-de-iphone-para-peitar-chromebook/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/06/macbook-air-2022-handson-8-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 04 Nov 2025 21:09:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>TIM admite interesse em comprar o que restou da Oi</title>
+      <link>https://tecnoblog.net/noticias/tim-admite-interesse-em-comprar-o-que-restou-da-oi/</link>
+      <description>Empresa de telefonia avalia adquirir a Oi Soluções, braço B2B da operadora que ainda presta serviços de conectividade para grandes empresas.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/tim-admite-interesse-em-comprar-o-que-restou-da-oi/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/04/tim-celular-capa-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 04 Nov 2025 21:29:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
