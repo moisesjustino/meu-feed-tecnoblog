@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 04 Nov 2025 12:25:34 +0000</lastBuildDate>
-    <item>
-      <title>NotebookLM agora tem contexto 8x maior e respostas mais precisas</title>
-      <link>https://tecnoblog.net/noticias/notebooklm-agora-tem-contexto-8x-maior-e-respostas-mais-precisas/</link>
-      <description>Histórico de conversas fica salvo automaticamente no NotebookLM. Atualização traz janela de contexto com 1 milhão de tokens.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/notebooklm-agora-tem-contexto-8x-maior-e-respostas-mais-precisas/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/chamada-notebooklm-google-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 31 Oct 2025 14:22:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Novo bug no Windows 11 atrapalha o Gerenciador de Tarefas</title>
-      <link>https://tecnoblog.net/noticias/bug-no-windows-11-quebra-o-fechamento-do-gerenciador-de-tarefas/</link>
-      <description>Usuários relatam que ferramenta continua rodando após ser fechada, acumulando processos em segundo plano. Falha surgiu na atualização KB5067036 de outubro de 2025.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/bug-no-windows-11-quebra-o-fechamento-do-gerenciador-de-tarefas/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/07/windows-11-4-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 31 Oct 2025 14:51:38 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 04 Nov 2025 13:28:41 +0000</lastBuildDate>
     <item>
       <title>Inter vai checar o Wi-Fi antes de liberar transações</title>
       <link>https://tecnoblog.net/noticias/inter-vai-checar-o-wi-fi-antes-de-liberar-transacoes/</link>
@@ -105,6 +89,14 @@
       <pubDate>Mon, 03 Nov 2025 13:38:56 +0000</pubDate>
     </item>
     <item>
+      <title>Black November: Galaxy Buds FE com oferta imperdível em até 6x sem juros</title>
+      <link>https://tecnoblog.net/achados/black-november-galaxy-buds-fe-com-oferta-imperdivel-em-ate-6x-sem-juros/</link>
+      <description>Black November do Mercado Livre traz Galaxy Buds FE com desconto histórico de 72% em oferta. Fones de ouvido da Samsung possuem ANC e bateria para até 30 horas</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/black-november-galaxy-buds-fe-com-oferta-imperdivel-em-ate-6x-sem-juros/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/11/galaxy-buds-fe-em-promocao-na-black-friday-imagem-thassius-velosotecnoblog-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 03 Nov 2025 14:30:27 +0000</pubDate>
+    </item>
+    <item>
       <title>Grok tentou convencer criança de 12 anos a “enviar fotos nuas”</title>
       <link>https://tecnoblog.net/noticias/grok-tentou-convencer-crianca-de-12-anos-a-enviar-fotos-nuas/</link>
       <description>Mãe relata que inteligência artificial da xAI pediu fotos nuas a criança em conversa sobre futebol. Empresa de Elon Musk não comentou o caso.</description>
@@ -169,14 +161,6 @@
       <pubDate>Mon, 03 Nov 2025 18:09:10 +0000</pubDate>
     </item>
     <item>
-      <title>Esquenta Black: Galaxy Flip 7 FE tem desconto histórico de 48% na Amazon</title>
-      <link>https://tecnoblog.net/achados/esquenta-black-galaxy-flip-7-fe-tem-desconto-historico-de-48-na-amazon/</link>
-      <description>Galaxy Z Flip 7 de 128 GB em promoção histórica no Esquenta Black da Amazon. Celular da Samsung traz design dobrável com telas AMOLED de 6,7" e 3,4", Exynos 2500 e câmera de 50 MP com OIS</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/esquenta-black-galaxy-flip-7-fe-tem-desconto-historico-de-48-na-amazon/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/flip7-fe-achados-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 03 Nov 2025 19:21:58 +0000</pubDate>
-    </item>
-    <item>
       <title>My Family Cinema chega ao fim e deixa clientes desamparados</title>
       <link>https://tecnoblog.net/noticias/fim-do-my-family-cinema-gera-chuva-de-reclamacoes/</link>
       <description>Serviço pirata cobrava assinatura anual de cerca de R$ 200. Decisão na Argentina desativou plataforma digital.</description>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/black-november-monitor-lg-ultragear-de-24-tem-desconto-imperdivel-de-44/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/lg-ultragear-24-desconto-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 03 Nov 2025 21:51:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chefe de IA da Microsoft defende que só seres biológicos podem ter consciência</title>
+      <link>https://tecnoblog.net/noticias/chefe-de-ia-da-microsoft-defende-que-so-seres-biologicos-podem-ter-consciencia/</link>
+      <description>Mustafa Suleyman afirma que a busca por inteligência artificial consciente é um erro conceitual e ético, reforçando que máquinas não têm emoções ou experiências reais.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/chefe-de-ia-da-microsoft-defende-que-so-seres-biologicos-podem-ter-consciencia/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/mustafa_suleyman-edited-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 04 Nov 2025 12:34:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Black November: Galaxy S25 tem 48% OFF com cupom no Mercado Livre</title>
+      <link>https://tecnoblog.net/achados/black-november-galaxy-s25-tem-48-off-com-cupom-no-mercado-livre/</link>
+      <description>Galaxy S25 (128 GB) tem processador da Qualcomm, RAM de 12 GB, câmera com zoom óptico de 3x, e cupom antecipado de Black Friday no Mercado Livre</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/black-november-galaxy-s25-tem-48-off-com-cupom-no-mercado-livre/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/galaxy-s25-tem-snapdragon-8-elite-e-ram-de-12-gb-foto-thassius-velosotecnoblog-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 04 Nov 2025 12:44:37 +0000</pubDate>
     </item>
   </channel>
 </rss>
