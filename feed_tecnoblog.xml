@@ -7,39 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 05 Nov 2025 15:12:55 +0000</lastBuildDate>
-    <item>
-      <title>Lembra do Xperia Play? Formato pode voltar 15 anos depois</title>
-      <link>https://tecnoblog.net/noticias/lembra-do-xperia-play-formato-pode-voltar-15-anos-depois/</link>
-      <description>Chinesa Ayaneo prepara seu primeiro smartphone gamer, que pode reeditar design com controles deslizantes</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/lembra-do-xperia-play-formato-pode-voltar-15-anos-depois/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/xperia-play-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 03 Nov 2025 21:16:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Black November: Monitor LG UltraGear de 24” tem desconto imperdível de 42%</title>
-      <link>https://tecnoblog.net/achados/black-november-monitor-lg-ultragear-de-24-tem-desconto-imperdivel-de-44/</link>
-      <description>LG UltraGear 24 é ideal para quem procura um monitor gamer intermediário. Oferta no Mercado Livre faz modelo custar menos de R$ 800.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/black-november-monitor-lg-ultragear-de-24-tem-desconto-imperdivel-de-44/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/lg-ultragear-24-desconto-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 03 Nov 2025 21:51:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chefe de IA da Microsoft defende que só seres biológicos podem ter consciência</title>
-      <link>https://tecnoblog.net/noticias/chefe-de-ia-da-microsoft-defende-que-so-seres-biologicos-podem-ter-consciencia/</link>
-      <description>Mustafa Suleyman afirma que a busca por inteligência artificial consciente é um erro conceitual e ético, reforçando que máquinas não têm emoções ou experiências reais.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/chefe-de-ia-da-microsoft-defende-que-so-seres-biologicos-podem-ter-consciencia/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/mustafa_suleyman-edited-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 04 Nov 2025 12:34:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Black November: Galaxy S25 tem 48% OFF com cupom no Mercado Livre</title>
-      <link>https://tecnoblog.net/achados/black-november-galaxy-s25-tem-48-off-com-cupom-no-mercado-livre/</link>
-      <description>Galaxy S25 (128 GB) tem processador da Qualcomm, RAM de 12 GB, câmera com zoom óptico de 3x, e cupom antecipado de Black Friday no Mercado Livre</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/black-november-galaxy-s25-tem-48-off-com-cupom-no-mercado-livre/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/galaxy-s25-tem-snapdragon-8-elite-e-ram-de-12-gb-foto-thassius-velosotecnoblog-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 04 Nov 2025 12:44:37 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 05 Nov 2025 16:15:37 +0000</lastBuildDate>
     <item>
       <title>Black November: Galaxy S24 Ultra (256 GB) tem 52% de desconto com cupom</title>
       <link>https://tecnoblog.net/achados/black-november-galaxy-s24-ultra-256-gb-tem-52-de-desconto-com-cupom/</link>
@@ -111,6 +79,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/anatel-mantem-data-para-autenticacao-obrigatoria-de-chamadas-no-brasil/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/09/capa-ligacoes-abusivas_tb-edited-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Tue, 04 Nov 2025 15:38:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>O que é a Neuralink? Conheça a empresa de chip cerebral do Elon Musk</title>
+      <link>https://tecnoblog.net/responde/o-que-e-a-neuralink-conheca-a-empresa-de-chip-cerebral-do-elon-musk/</link>
+      <description>A Neuralink é uma empresa de neurotecnologia que está desenvolvendo uma interface cérebro-máquina para traduzir sinais neurais em ações</description>
+      <guid isPermaLink="false">https://tecnoblog.net/responde/o-que-e-a-neuralink-conheca-a-empresa-de-chip-cerebral-do-elon-musk/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/logo-neuralink-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 04 Nov 2025 16:39:18 +0000</pubDate>
     </item>
     <item>
       <title>Coca-Cola volta a usar IA em filme de Natal e sofre críticas na web</title>
@@ -223,6 +199,30 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/google-testa-compra-de-ingressos-direto-na-busca-com-modo-ia/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/08/google-ia-capa-1-edited-2-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Wed, 05 Nov 2025 14:51:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google Maps usará Gemini como copiloto na navegação</title>
+      <link>https://tecnoblog.net/noticias/google-maps-usara-gemini-como-copiloto-na-navegacao/</link>
+      <description>Motorista poderá conversar com inteligência artificial para procurar locais, reportar incidentes e marcar compromissos na agenda</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/google-maps-usara-gemini-como-copiloto-na-navegacao/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/05/maps_capa-1_tb-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 05 Nov 2025 15:36:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Esquenta Black: Galaxy S25 (256 GB) tem 49% OFF com cupom na Amazon</title>
+      <link>https://tecnoblog.net/achados/esquenta-black-galaxy-s25-256-gb-tem-49-off-com-cupom-na-amazon/</link>
+      <description>Celular topo de linha da Samsung em oferta com cupom exclusivo no app da Amazon. Equipado com Snapdragon 8 Elite, 12 GB de RAM, tela AMOLED de 120 Hz e câmera de 50 MP com OIS</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/esquenta-black-galaxy-s25-256-gb-tem-49-off-com-cupom-na-amazon/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/galaxy-s25-tem-snapdragon-8-elite-e-ram-de-12-gb-foto-thassius-velosotecnoblog-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 05 Nov 2025 16:07:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anatel e Receita Federal apreendem R$ 2 milhões em eletrônicos piratas</title>
+      <link>https://tecnoblog.net/noticias/anatel-e-receita-federal-apreendem-r-2-milhoes-em-eletronicos-piratas/</link>
+      <description>Operação Safira mirou equipamentos sem homologação. Autoridades apreenderam mais de duas toneladas de produtos irregulares em Campina Grande (PB).</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/anatel-e-receita-federal-apreendem-r-2-milhoes-em-eletronicos-piratas/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/fadf089d-10a3-4838-bf6d-c2c605922c57-edited-1-340x191.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 05 Nov 2025 16:07:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
