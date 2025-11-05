@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 05 Nov 2025 22:11:23 +0000</lastBuildDate>
-    <item>
-      <title>Anatel mantém data para autenticação obrigatória de chamadas</title>
-      <link>https://tecnoblog.net/noticias/anatel-mantem-data-para-autenticacao-obrigatoria-de-chamadas-no-brasil/</link>
-      <description>Medida começa a valer em 15/11, inicialmente para grandes chamadores. Conselho Diretor rejeitou pedidos da TIM e entidades setoriais.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/anatel-mantem-data-para-autenticacao-obrigatoria-de-chamadas-no-brasil/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/09/capa-ligacoes-abusivas_tb-edited-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 04 Nov 2025 15:38:25 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 05 Nov 2025 23:11:26 +0000</lastBuildDate>
     <item>
       <title>O que é a Neuralink? Conheça a empresa de chip cerebral do Elon Musk</title>
       <link>https://tecnoblog.net/responde/o-que-e-a-neuralink-conheca-a-empresa-de-chip-cerebral-do-elon-musk/</link>
@@ -87,6 +79,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/black-november-iphone-16e-256-gb-tem-melhor-desconto-dos-ultimos-meses/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/03/iphone-16e-super-desconto-tb-achados-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 04 Nov 2025 19:49:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Black November: iPhone 15 fica 48% mais barato com cupom</title>
+      <link>https://tecnoblog.net/achados/black-november-iphone-15-fica-48-mais-barato-com-cupom/</link>
+      <description>iPhone 15 (128 GB) tem processador Apple A16 Bionic, câmera de 48 MP e desconto antecipado de Black Friday no Mercado Livre com cupom</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/black-november-iphone-15-fica-48-mais-barato-com-cupom/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/iphone-15-tem-apple-a16-bionic-foto-thassius-velosotecnoblog-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 04 Nov 2025 19:58:09 +0000</pubDate>
     </item>
     <item>
       <title>Casas “burras” viram tendência em meio a cansaço digital e falhas</title>
@@ -169,14 +169,6 @@
       <pubDate>Wed, 05 Nov 2025 16:07:20 +0000</pubDate>
     </item>
     <item>
-      <title>Black November: PlayStation 5 Slim (1 TB) tem promoção com parcelamento</title>
-      <link>https://tecnoblog.net/achados/black-november-playstation-5-slim-1-tb-tem-promocao-com-parcelamento/</link>
-      <description>PlayStation 5 Slim Edição Digital com SSD de 1 TB e controle DualSense tem cupom de oferta antecipada de Black Friday no AliExpress</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/black-november-playstation-5-slim-1-tb-tem-promocao-com-parcelamento/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/playstation-5-tem-armazenamento-ssd-foto-vivi-wernecktecnoblog-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 05 Nov 2025 19:01:46 +0000</pubDate>
-    </item>
-    <item>
       <title>Black November: Galaxy S24 (256 GB) tem 55% OFF em até 12x no AliExpress</title>
       <link>https://tecnoblog.net/achados/black-november-galaxy-s24-256-gb-tem-55-off-em-ate-12x-no-aliexpress/</link>
       <description>Galaxy S24 de 256 GB disponível em até 12x sem juros no AliExpress. Celular premium apresenta trio de câmeras, tela LTPO AMOLED de 120 Hz e 8 GB de memória RAM</description>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/apple-deve-pagar-us-1-bilhao-por-ano-para-usar-ia-do-google-na-siri/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/tbr-siri-01-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Wed, 05 Nov 2025 21:21:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>STF publica decisão que muda entendimento sobre Marco Civil da Internet</title>
+      <link>https://tecnoblog.net/noticias/stf-publica-decisao-que-muda-entendimento-sobre-marco-civil-da-internet/</link>
+      <description>Decisão do Supremo Tribunal Federal (STF) determina que redes sociais e serviços online podem ser responsabilizados por conteúdos de ódio.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/stf-publica-decisao-que-muda-entendimento-sobre-marco-civil-da-internet/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/ilustracao-de-redes-sociais-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 05 Nov 2025 22:15:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
