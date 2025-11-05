@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 05 Nov 2025 13:26:24 +0000</lastBuildDate>
-    <item>
-      <title>Esquenta Black: Galaxy Flip 7 FE tem desconto histórico de 48% na Amazon</title>
-      <link>https://tecnoblog.net/achados/esquenta-black-galaxy-flip-7-fe-tem-desconto-historico-de-48-na-amazon/</link>
-      <description>Galaxy Z Flip 7 de 128 GB em promoção histórica no Esquenta Black da Amazon. Celular da Samsung traz design dobrável com telas AMOLED de 6,7" e 3,4", Exynos 2500 e câmera de 50 MP com OIS</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/esquenta-black-galaxy-flip-7-fe-tem-desconto-historico-de-48-na-amazon/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/flip7-fe-achados-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 03 Nov 2025 19:21:58 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 05 Nov 2025 14:12:14 +0000</lastBuildDate>
     <item>
       <title>My Family Cinema chega ao fim e deixa clientes desamparados</title>
       <link>https://tecnoblog.net/noticias/fim-do-my-family-cinema-gera-chuva-de-reclamacoes/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/tim-admite-interesse-em-comprar-o-que-restou-da-oi/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/04/tim-celular-capa-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Tue, 04 Nov 2025 21:29:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Amazon processa Perplexity e quer impedir compras feitas por robôs de IA</title>
+      <link>https://tecnoblog.net/noticias/amazon-processa-perplexity-e-quer-impedir-compras-feitas-por-robos-de-ia/</link>
+      <description>Varejista diz que não informar que pedido está sendo feito por agente automático é fraude. Startup acusa gigante de bullying.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/amazon-processa-perplexity-e-quer-impedir-compras-feitas-por-robos-de-ia/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/08/capa-amazon-1_thumb_tb-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 05 Nov 2025 13:44:22 +0000</pubDate>
     </item>
   </channel>
 </rss>
