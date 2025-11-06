@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 06 Nov 2025 18:17:55 +0000</lastBuildDate>
-    <item>
-      <title>Amazon processa Perplexity e quer impedir compras feitas por robôs de IA</title>
-      <link>https://tecnoblog.net/noticias/amazon-processa-perplexity-e-quer-impedir-compras-feitas-por-robos-de-ia/</link>
-      <description>Varejista diz que não informar que pedido está sendo feito por agente automático é fraude. Startup acusa gigante de bullying.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/amazon-processa-perplexity-e-quer-impedir-compras-feitas-por-robos-de-ia/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/08/capa-amazon-1_thumb_tb-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 05 Nov 2025 13:44:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google e Epic Games fecham acordo que pode encerrar disputa judicial</title>
-      <link>https://tecnoblog.net/noticias/google-e-epic-games-fecham-acordo-que-pode-encerrar-disputa-judicial/</link>
-      <description>Se aprovado, acordo entre Google e Epic Games facilitará uso de lojas de aplicativos e sistemas de pagamentos de terceiros no ecossistema do Android.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/google-e-epic-games-fecham-acordo-que-pode-encerrar-disputa-judicial/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/03/google-2-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 05 Nov 2025 14:34:11 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 06 Nov 2025 19:09:47 +0000</lastBuildDate>
     <item>
       <title>Pegou mal: Microsoft ironiza antigas locadoras em comercial do Xbox</title>
       <link>https://tecnoblog.net/noticias/pegou-mal-microsoft-ironiza-midia-fisica-em-comercial-do-xbox-game-pass/</link>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/motorola-lanca-linha-moto-g57-com-dois-aparelhos/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/moto-g_blog-image_4-edited-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Thu, 06 Nov 2025 18:15:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Esquenta Black: iPhone 16 Pro (1 TB) tem 31% OFF com menor preço em meses</title>
+      <link>https://tecnoblog.net/achados/esquenta-black-iphone-16-pro-1-tb-tem-31-off-com-menor-preco-em-meses/</link>
+      <description>iPhone 16 Pro (1 TB) tem processador Apple A18 Pro, câmera tripla com dois sensores de 48 MP e menor preço dos últimos meses em Black Friday antecipada da Amazon</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/esquenta-black-iphone-16-pro-1-tb-tem-31-off-com-menor-preco-em-meses/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/linha-iphone-16-pro-em-loja-da-apple-foto-thassius-velosotecnoblog-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 06 Nov 2025 19:02:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nubank abandona trabalho remoto e terá modelo híbrido a partir de 2026</title>
+      <link>https://tecnoblog.net/noticias/nubank-abandona-trabalho-remoto-e-tera-modelo-hibrido-a-partir-de-2026/</link>
+      <description>Empresa expandirá escritórios e oferecerá auxílio-realocação. Funcionários trabalharão presencialmente dois dias por semana em 2026 e três em 2027.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/nubank-abandona-trabalho-remoto-e-tera-modelo-hibrido-a-partir-de-2026/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/04/nubank_capa-4_tb-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 06 Nov 2025 19:03:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
