@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 06 Nov 2025 21:10:35 +0000</lastBuildDate>
-    <item>
-      <title>Black November: Galaxy S24 Ultra (256 GB) tem 58% OFF em até 12x</title>
-      <link>https://tecnoblog.net/achados/black-november-galaxy-s24-ultra-256-gb-tem-58-off-em-ate-12x/</link>
-      <description>Galaxy S24 Ultra (256 GB) tem Snapdragon 8 Gen 3, RAM de 12 GB, câmera de 200 MP e desconto impressionante em oferta de Black Friday antecipada</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/black-november-galaxy-s24-ultra-256-gb-tem-58-off-em-ate-12x/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/11/galaxy-s24-ultra-na-mao-foto-thassius-veloso-tecnoblog-black-friday-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 05 Nov 2025 17:31:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Black November: PlayStation 5 Slim (1 TB) tem promoção com parcelamento</title>
-      <link>https://tecnoblog.net/achados/black-november-playstation-5-slim-1-tb-tem-promocao-com-parcelamento/</link>
-      <description>PlayStation 5 Slim Edição Digital com SSD de 1 TB e controle DualSense tem cupom de oferta antecipada de Black Friday no AliExpress</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/black-november-playstation-5-slim-1-tb-tem-promocao-com-parcelamento/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/playstation-5-tem-armazenamento-ssd-foto-vivi-wernecktecnoblog-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 05 Nov 2025 19:01:46 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 06 Nov 2025 22:11:24 +0000</lastBuildDate>
     <item>
       <title>Black November: Galaxy S24 (256 GB) tem 56% OFF em até 12x no AliExpress</title>
       <link>https://tecnoblog.net/achados/black-november-galaxy-s24-256-gb-tem-55-off-em-ate-12x-no-aliexpress/</link>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/guias/comparativo-samsung-galaxy-a36-vs-a56/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/comparativo_a36vsa56_capa-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Thu, 06 Nov 2025 21:00:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Spotify passa a mostrar músicas mais ouvidas na semana</title>
+      <link>https://tecnoblog.net/noticias/spotify-passa-a-mostrar-musicas-mais-ouvidas-na-semana/</link>
+      <description>Novo recurso mostra estatísticas semanais com artistas e músicas mais ouvidos e cria cards para compartilhar nas redes sociais.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/spotify-passa-a-mostrar-musicas-mais-ouvidas-na-semana/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/spotify-semanal-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 06 Nov 2025 21:15:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google descobre malware que usa IA para gerar novos códigos após invasão</title>
+      <link>https://tecnoblog.net/noticias/google-descobre-malware-que-usa-ia-para-gerar-novos-codigos-apos-invasao/</link>
+      <description>Amostras encontradas recorrem a prompts e LLMs para fazer parte do trabalho. Pesquisadores mostram que estratégia ainda não funciona.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/google-descobre-malware-que-usa-ia-para-gerar-novos-codigos-apos-invasao/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/07/ia-3-edited-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 06 Nov 2025 21:42:59 +0000</pubDate>
     </item>
   </channel>
 </rss>
