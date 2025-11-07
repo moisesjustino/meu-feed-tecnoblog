@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 07 Nov 2025 19:09:41 +0000</lastBuildDate>
-    <item>
-      <title>WhatsApp: Meta confirma que nomes de usuário estão a caminho</title>
-      <link>https://tecnoblog.net/noticias/whatsapp-meta-confirma-que-nomes-de-usuario-estao-a-caminho/</link>
-      <description>Meta começou a pedir que empresas preparem seus sistemas para o suporte a nomes de usuário no WhatsApp, o que confirma a preparação do recurso.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/whatsapp-meta-confirma-que-nomes-de-usuario-estao-a-caminho/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/06/whatsapp_capa-2_tb-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 06 Nov 2025 14:55:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Meta lucra bilhões por ano com anúncios fraudulentos, diz agência</title>
-      <link>https://tecnoblog.net/noticias/meta-lucra-bilhoes-por-ano-com-anuncios-fraudulentos-diz-agencia/</link>
-      <description>Documentos indicam que 10% da receita da dona do Facebook, WhatsApp e Instagram em 2024 veio de golpes e produtos proibidos.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/meta-lucra-bilhoes-por-ano-com-anuncios-fraudulentos-diz-agencia/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/02/Capa-Mark-Zuckerberg-01-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 06 Nov 2025 15:30:15 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 07 Nov 2025 20:12:47 +0000</lastBuildDate>
     <item>
       <title>Como saber se uma pessoa está online no WhatsApp</title>
       <link>https://tecnoblog.net/publieditoriais/como-saber-se-uma-pessoa-esta-online-no-whatsapp/</link>
@@ -145,9 +129,9 @@
       <pubDate>Fri, 07 Nov 2025 13:58:36 +0000</pubDate>
     </item>
     <item>
-      <title>ROG Xbox Ally recebe homologação e se junta à versão X no Brasil</title>
+      <title>Asus já pode vender o ROG Xbox Ally no Brasil</title>
       <link>https://tecnoblog.net/noticias/rog-xbox-ally-recebe-homologacao-e-se-junta-a-versao-x-nas-vendas-no-brasil/</link>
-      <description>Após homologar o ROG Xbox Ally X, a Anatel certificou o modelo padrão. Console portátil mantém design similar, mas traz hardware mais simples.</description>
+      <description>Versão padrão passou pelo processo de homologação na Anatel. Console portátil mantém design similar, mas traz hardware mais simples.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/rog-xbox-ally-recebe-homologacao-e-se-junta-a-versao-x-nas-vendas-no-brasil/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/rog-xbox-ally-tecnoblog-frente-340x191.webp" length="0" type="image/jpeg"/>
       <pubDate>Fri, 07 Nov 2025 14:45:43 +0000</pubDate>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/rockstar-muda-data-de-lancamento-de-gta-6-pela-segunda-vez/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/captura-de-tela-2025-05-06-as-10-40-51-edited-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Fri, 07 Nov 2025 19:04:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Esquenta Black: Galaxy Tab S9 FE com S Pen fica 41% mais barato</title>
+      <link>https://tecnoblog.net/achados/esquenta-black-galaxy-tab-s9-fe-com-s-pen-fica-41-mais-barato/</link>
+      <description>Tablet intermediário da Samsung possui tela de 10,9 polegadas, bateria de 8.000 mAh e chip Exynos 1380. Dispositivo entrou em promoção exclusiva no app na Amazon</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/esquenta-black-galaxy-tab-s9-fe-com-s-pen-fica-41-mais-barato/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/11/galaxy-tab-s9-fe-imagem-divulgacaosamsung-1-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 07 Nov 2025 19:45:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Amazon libera IA para traduzir ebooks de autores independentes</title>
+      <link>https://tecnoblog.net/noticias/amazon-libera-ia-para-traduzir-ebooks-de-autores-independentes/</link>
+      <description>Ferramenta Kindle Translate funciona em espanhol, inglês e alemão, sem custo para escritores. Amazon já oferece narrações geradas por IA.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/amazon-libera-ia-para-traduzir-ebooks-de-autores-independentes/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/10/20241029_181218-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 07 Nov 2025 20:07:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
