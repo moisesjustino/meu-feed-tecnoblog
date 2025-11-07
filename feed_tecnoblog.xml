@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 07 Nov 2025 14:12:00 +0000</lastBuildDate>
-    <item>
-      <title>Nintendo se prepara para aposentar o Switch original</title>
-      <link>https://tecnoblog.net/noticias/nintendo-se-prepara-para-aposentar-o-switch-original/</link>
-      <description>Empresa mudará o foco de desenvolvimento para o novo console, mas deve manter a antiga geração nas lojas enquanto houver demanda.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/nintendo-se-prepara-para-aposentar-o-switch-original/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/04/nintendo-switch_capa-4_tb-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 05 Nov 2025 19:20:47 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 07 Nov 2025 15:12:27 +0000</lastBuildDate>
     <item>
       <title>Esquenta Black: Galaxy Z Fold 6 (512 GB) tem 62% OFF com cupom</title>
       <link>https://tecnoblog.net/achados/esquenta-black-galaxy-z-fold-6-512-gb-tem-62-off-com-cupom/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/tinder-quer-acessar-suas-fotos-para-achar-um-par-ideal/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2018/06/tinder-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Fri, 07 Nov 2025 13:58:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>ROG Xbox Ally recebe homologação e se junta à versão X no Brasil</title>
+      <link>https://tecnoblog.net/noticias/rog-xbox-ally-recebe-homologacao-e-se-junta-a-versao-x-nas-vendas-no-brasil/</link>
+      <description>Após homologar o ROG Xbox Ally X, a Anatel certificou o modelo padrão. Console portátil mantém design similar, mas traz hardware mais simples.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/rog-xbox-ally-recebe-homologacao-e-se-junta-a-versao-x-nas-vendas-no-brasil/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/rog-xbox-ally-tecnoblog-frente-340x191.webp" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 07 Nov 2025 14:45:43 +0000</pubDate>
     </item>
   </channel>
 </rss>
