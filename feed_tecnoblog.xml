@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 10 Nov 2025 19:10:03 +0000</lastBuildDate>
-    <item>
-      <title>Spotify passa a mostrar músicas mais ouvidas na semana</title>
-      <link>https://tecnoblog.net/noticias/spotify-passa-a-mostrar-musicas-mais-ouvidas-na-semana/</link>
-      <description>Novo recurso mostra estatísticas semanais com artistas e músicas mais ouvidos e cria cards para compartilhar nas redes sociais.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/spotify-passa-a-mostrar-musicas-mais-ouvidas-na-semana/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/spotify-semanal-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 06 Nov 2025 21:15:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google descobre malware que usa IA para gerar novos códigos após invasão</title>
-      <link>https://tecnoblog.net/noticias/google-descobre-malware-que-usa-ia-para-gerar-novos-codigos-apos-invasao/</link>
-      <description>Amostras encontradas recorrem a prompts e LLMs para fazer parte do trabalho. Pesquisadores mostram que estratégia ainda não funciona.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/google-descobre-malware-que-usa-ia-para-gerar-novos-codigos-apos-invasao/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/07/ia-3-edited-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 06 Nov 2025 21:42:59 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 10 Nov 2025 20:14:13 +0000</lastBuildDate>
     <item>
       <title>Tinder quer acessar suas fotos para achar um par ideal</title>
       <link>https://tecnoblog.net/noticias/tinder-quer-acessar-suas-fotos-para-achar-um-par-ideal/</link>
@@ -213,7 +197,7 @@
       <link>https://tecnoblog.net/noticias/justica-decreta-falencia-da-oi-servicos-continuarao-provisoriamente/</link>
       <description>Justiça do Rio de Janeiro considera que operadora "não apresenta mais atividade empresarial suficiente para justificar sua manutenção".</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/justica-decreta-falencia-da-oi-servicos-continuarao-provisoriamente/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2018/10/orelhao-oi-telefone-publico-340x191.jpg" length="0" type="image/jpeg"/>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/whisk_6c3baf4349f6d899e734827000949bb2eg-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 10 Nov 2025 17:12:40 +0000</pubDate>
     </item>
     <item>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/black-november-playstation-5-slim-fica-mais-barato-no-mercado-livre/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/playstation-5-tem-armazenamento-ssd-foto-vivi-wernecktecnoblog-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 10 Nov 2025 18:14:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Black November: Galaxy Tab S10 FE fica 45% mais barato no Mercado Livre</title>
+      <link>https://tecnoblog.net/achados/black-november-galaxy-tab-s10-fe-fica-45-mais-barato-no-mercado-livre/</link>
+      <description>Tablet da Samsung tem oferta com cupom na Black November do Mercado Livre. Apresenta tela de 10,9 polegadas, bateria de 8.000 mAh, chip Exynos 1580 e 8 GB de memória RAM</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/black-november-galaxy-tab-s10-fe-fica-45-mais-barato-no-mercado-livre/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/galaxy-tab-s10-fe-tem-tela-grande-com-s-pen-foto-giovanni-santa-rosatecnoblog-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 10 Nov 2025 19:26:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Black November: iPhone 16 Pro (512 GB) recebe desconto imbatível</title>
+      <link>https://tecnoblog.net/achados/black-november-iphone-16-pro-512-gb-recebe-desconto-imbativel/</link>
+      <description>iPhone 16 Pro (512 GB) tem 33% OFF histórico em Black Friday antecipada do Mercado Livre; celular da Apple tem chip A18 Pro e câmera tripla com duas lentes de 48 MP</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/black-november-iphone-16-pro-512-gb-recebe-desconto-imbativel/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/linha-iphone-16-pro-em-loja-da-apple-foto-thassius-velosotecnoblog-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 10 Nov 2025 19:34:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
