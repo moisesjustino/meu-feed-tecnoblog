@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 10 Nov 2025 12:24:06 +0000</lastBuildDate>
-    <item>
-      <title>Esquenta Black: iPhone 16 Plus (512 GB) tem desconto histórico de 36%</title>
-      <link>https://tecnoblog.net/achados/esquenta-black-iphone-16-plus-512-gb-tem-desconto-historico-de-36/</link>
-      <description>iPhone 16 Plus (512 GB) tem tela OLED de 6,7 polegadas, chip Apple A18 de alto desempenho e promoção imperdível em Black Friday antecipada da Amazon</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/esquenta-black-iphone-16-plus-512-gb-tem-desconto-historico-de-36/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/iphone-16-e-iphone-16-plus-tem-chip-apple-a18-foto-thassius-velosotecnoblog-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 06 Nov 2025 18:10:04 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 10 Nov 2025 13:25:48 +0000</lastBuildDate>
     <item>
       <title>Motorola lança linha Moto G57 com dois aparelhos</title>
       <link>https://tecnoblog.net/noticias/motorola-lanca-linha-moto-g57-com-dois-aparelhos/</link>
@@ -71,6 +63,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/esquenta-black-garmin-forerunner-55-tem-36-off-em-ate-10x-sem-juros/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/garmin-forerunner-55-tem-bateria-de-longa-duracao-foto-divulgacao-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Thu, 06 Nov 2025 20:39:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Esquenta Black: Galaxy A36 (256 GB) com 8 GB de RAM tem 50% OFF na Amazon</title>
+      <link>https://tecnoblog.net/achados/esquenta-black-galaxy-a36-256-gb-com-8-gb-de-ram-tem-50-off-na-amazon/</link>
+      <description>Smartphone intermediário da Samsung com tela Super AMOLED de 6,7 polegadas, câmera de 50 MP com OIS e 8 GB de RAM está em promoção exclusiva no app no Esquenta Black da Amazon</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/esquenta-black-galaxy-a36-256-gb-com-8-gb-de-ram-tem-50-off-na-amazon/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/galaxy-a36-tem-chip-da-qualcomm-foto-thassius-velosotecnoblog-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 06 Nov 2025 20:48:38 +0000</pubDate>
     </item>
     <item>
       <title>Galaxy A36 vs Galaxy A56: qual celular Samsung vale mais a pena?</title>
@@ -169,14 +169,6 @@
       <pubDate>Fri, 07 Nov 2025 19:04:47 +0000</pubDate>
     </item>
     <item>
-      <title>Esquenta Black: Galaxy Tab S9 FE com S Pen fica 41% mais barato</title>
-      <link>https://tecnoblog.net/achados/esquenta-black-galaxy-tab-s9-fe-com-s-pen-fica-41-mais-barato/</link>
-      <description>Tablet intermediário da Samsung possui tela de 10,9 polegadas, bateria de 8.000 mAh e chip Exynos 1380. Dispositivo entrou em promoção exclusiva no app na Amazon</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/esquenta-black-galaxy-tab-s9-fe-com-s-pen-fica-41-mais-barato/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/11/galaxy-tab-s9-fe-imagem-divulgacaosamsung-1-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 07 Nov 2025 19:45:34 +0000</pubDate>
-    </item>
-    <item>
       <title>Amazon libera IA para traduzir ebooks de autores independentes</title>
       <link>https://tecnoblog.net/noticias/amazon-libera-ia-para-traduzir-ebooks-de-autores-independentes/</link>
       <description>Ferramenta Kindle Translate funciona em espanhol, inglês e alemão, sem custo para escritores. Amazon já oferece narrações geradas por IA.</description>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/publieditoriais/como-usar-um-esim-para-ter-internet-em-viagens-e-fugir-do-roaming/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/image-4-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 10 Nov 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fita com primeira versão do Unix em C é encontrada após mais de 50 anos</title>
+      <link>https://tecnoblog.net/noticias/fita-com-primeira-versao-do-unix-em-c-e-encontrada-apos-mais-de-50-anos/</link>
+      <description>Pesquisadores da Universidade de Utah encontraram uma fita magnética com o Unix V4, de 1973, a primeira versão escrita em C e considerada um marco na história da computação.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/fita-com-primeira-versao-do-unix-em-c-e-encontrada-apos-mais-de-50-anos/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/05/Capa-TBR-UnixOS-studio-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 10 Nov 2025 12:34:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
