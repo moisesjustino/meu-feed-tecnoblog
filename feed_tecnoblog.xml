@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 10 Nov 2025 11:10:38 +0000</lastBuildDate>
-    <item>
-      <title>Samsung Galaxy A56 vs Xiaomi Poco X7 Pro: qual é o melhor celular?</title>
-      <link>https://tecnoblog.net/guias/samsung-galaxy-a56-vs-xiaomi-poco-x7-pro-qual-e-o-melhor-celular/</link>
-      <description>Comparativo mostra diferenças entre Galaxy A56 e Poco X7 Pro; saiba qual é o melhor em processador, bateria, câmeras e mais</description>
-      <guid isPermaLink="false">https://tecnoblog.net/guias/samsung-galaxy-a56-vs-xiaomi-poco-x7-pro-qual-e-o-melhor-celular/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/comparativo_a56vsx7pro_2capa-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 06 Nov 2025 17:18:48 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 10 Nov 2025 12:24:06 +0000</lastBuildDate>
     <item>
       <title>Esquenta Black: iPhone 16 Plus (512 GB) tem desconto histórico de 36%</title>
       <link>https://tecnoblog.net/achados/esquenta-black-iphone-16-plus-512-gb-tem-desconto-historico-de-36/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/app-espiao-atinge-celulares-galaxy-a-partir-de-falha-desconhecida/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/11/galaxy-s24-ultra-na-mao-foto-thassius-veloso-tecnoblog-img-2-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Fri, 07 Nov 2025 22:19:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Como usar um eSIM para ter internet em viagens (e fugir do roaming)</title>
+      <link>https://tecnoblog.net/publieditoriais/como-usar-um-esim-para-ter-internet-em-viagens-e-fugir-do-roaming/</link>
+      <description>Yesim usa a tecnologia eSIM para oferecer planos de dados internacionais em mais de 200 destinos, com ativação direto pelo app.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/publieditoriais/como-usar-um-esim-para-ter-internet-em-viagens-e-fugir-do-roaming/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/image-4-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 10 Nov 2025 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
