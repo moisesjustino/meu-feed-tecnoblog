@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 10 Nov 2025 14:12:21 +0000</lastBuildDate>
-    <item>
-      <title>Motorola lança linha Moto G57 com dois aparelhos</title>
-      <link>https://tecnoblog.net/noticias/motorola-lanca-linha-moto-g57-com-dois-aparelhos/</link>
-      <description>Moto G57 Power tem bateria de 7.000 mAh, enquanto Moto G57 conta com 5.200 mAh. Novos intermediários ainda não têm previsão de chegada ao Brasil.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/motorola-lanca-linha-moto-g57-com-dois-aparelhos/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/moto-g_blog-image_4-edited-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 06 Nov 2025 18:15:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Esquenta Black: iPhone 16 Pro (1 TB) tem 31% OFF com menor preço em meses</title>
-      <link>https://tecnoblog.net/achados/esquenta-black-iphone-16-pro-1-tb-tem-31-off-com-menor-preco-em-meses/</link>
-      <description>iPhone 16 Pro (1 TB) tem processador Apple A18 Pro, câmera tripla com dois sensores de 48 MP e menor preço dos últimos meses em Black Friday antecipada da Amazon</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/esquenta-black-iphone-16-pro-1-tb-tem-31-off-com-menor-preco-em-meses/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/linha-iphone-16-pro-em-loja-da-apple-foto-thassius-velosotecnoblog-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 06 Nov 2025 19:02:51 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 10 Nov 2025 15:13:28 +0000</lastBuildDate>
     <item>
       <title>Nubank abandona trabalho remoto e terá modelo híbrido a partir de 2026</title>
       <link>https://tecnoblog.net/noticias/nubank-abandona-trabalho-remoto-e-tera-modelo-hibrido-a-partir-de-2026/</link>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/fita-com-primeira-versao-do-unix-em-c-e-encontrada-apos-mais-de-50-anos/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/05/Capa-TBR-UnixOS-studio-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 10 Nov 2025 12:34:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>O Windows 11 26H1 vem aí, mas não espere muito dessa versão</title>
+      <link>https://tecnoblog.net/noticias/o-windows-11-26h1-vem-ai-mas-nao-espere-muito-dessa-versao/</link>
+      <description>Atualização 26H1 do Windows 11 é esperada para o início de 2026, o que é incomum. Pacote deve trazer apena suporte a novos processadores.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/o-windows-11-26h1-vem-ai-mas-nao-espere-muito-dessa-versao/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/03/windows-11-3-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 10 Nov 2025 14:21:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Meta quer usar seus dados na IA. A gente te mostra como impedir.</title>
+      <link>https://tecnoblog.net/noticias/a-meta-quer-usar-seus-dados-na-ia-a-gente-te-mostra-como-impedir/</link>
+      <description>Mudança permite uso de posts públicos para treinar inteligência artificial a partir de dezembro, mas é possível limitar uso dos dados.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/a-meta-quer-usar-seus-dados-na-ia-a-gente-te-mostra-como-impedir/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/02/Capa-Mark-Zuckerberg-03-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 10 Nov 2025 15:06:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
