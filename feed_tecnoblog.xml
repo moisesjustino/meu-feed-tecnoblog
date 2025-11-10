@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 10 Nov 2025 16:15:34 +0000</lastBuildDate>
-    <item>
-      <title>Idec processa Anatel por piora nas regras de direitos do consumidor</title>
-      <link>https://tecnoblog.net/noticias/idec-processa-anatel-por-piora-nas-regras-de-direitos-do-consumidor/</link>
-      <description>Ação civil pública questiona as mudanças no Regulamento Geral de Direitos do Consumidor, que começaram a valer em setembro.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/idec-processa-anatel-por-piora-nas-regras-de-direitos-do-consumidor/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/20250603_165002-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 06 Nov 2025 20:00:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google Gemini agora pode acessar seu Gmail, Drive e Chat nas pesquisas</title>
-      <link>https://tecnoblog.net/noticias/google-gemini-agora-pode-acessar-seu-gmail-drive-e-docs-nas-pesquisas/</link>
-      <description>Nova função do Deep Research permite combinar dados pessoais e buscas na web para gerar relatórios. Recurso chega primeiro aos PCs.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/google-gemini-agora-pode-acessar-seu-gmail-drive-e-docs-nas-pesquisas/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/captura-de-tela-2025-11-06-170351-edited-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 06 Nov 2025 20:33:40 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 10 Nov 2025 17:10:58 +0000</lastBuildDate>
     <item>
       <title>Esquenta Black: Garmin Forerunner 55 tem 36% OFF em até 10x sem juros</title>
       <link>https://tecnoblog.net/achados/esquenta-black-garmin-forerunner-55-tem-36-off-em-ate-10x-sem-juros/</link>
@@ -201,9 +185,9 @@
       <pubDate>Mon, 10 Nov 2025 14:21:45 +0000</pubDate>
     </item>
     <item>
-      <title>A Meta quer usar seus dados na IA. A gente te mostra como impedir.</title>
+      <title>Meta quer usar seus dados na IA; veja como impedir</title>
       <link>https://tecnoblog.net/noticias/a-meta-quer-usar-seus-dados-na-ia-a-gente-te-mostra-como-impedir/</link>
-      <description>Mudança permite uso de posts públicos para treinar inteligência artificial a partir de dezembro, mas é possível limitar uso dos dados.</description>
+      <description>Mudança vale para WhatsApp, Instagram, Threads e Facebook. Clientes têm até 15 de dezembro para se pronunciar.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/a-meta-quer-usar-seus-dados-na-ia-a-gente-te-mostra-como-impedir/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/02/Capa-Mark-Zuckerberg-03-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 10 Nov 2025 15:06:21 +0000</pubDate>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/iphone-comemorativo-podera-ter-camera-frontal-escondida-sob-a-tela/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/04/apple_capa-5-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 10 Nov 2025 16:06:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>YouTube volta a parar de funcionar com bloqueador de anúncios</title>
+      <link>https://tecnoblog.net/noticias/youtube-volta-a-parar-de-funcionar-com-bloqueador-de-anuncios/</link>
+      <description>Problema afeta principalmente o Opera GX. Usuários do navegador relatam dificuldade de acesso ao YouTube quando o bloqueador de anúncios está ativado.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/youtube-volta-a-parar-de-funcionar-com-bloqueador-de-anuncios/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/11/adblock-capa-1-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 10 Nov 2025 16:32:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Black November: Galaxy S24 FE (256 GB) com melhor preço que já vimos</title>
+      <link>https://tecnoblog.net/achados/black-november-galaxy-s24-fe-256-gb-com-melhor-preco-que-ja-vimos/</link>
+      <description>Smartphone premium da Samsung de 256 GB com melhor preço em meses na Black November do Mercado Livre. Equipado por tela AMOLED de 120 Hz, 8 GB de RAM e câmera principal de 50 MP com gravação em 8K</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/black-november-galaxy-s24-fe-256-gb-com-melhor-preco-que-ja-vimos/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/galaxy-s24-fe-black-friday-2-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 10 Nov 2025 16:46:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
