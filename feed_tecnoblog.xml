@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 11 Nov 2025 17:11:03 +0000</lastBuildDate>
-    <item>
-      <title>O Windows 11 26H1 vem aí, mas não espere muito dessa versão</title>
-      <link>https://tecnoblog.net/noticias/o-windows-11-26h1-vem-ai-mas-nao-espere-muito-dessa-versao/</link>
-      <description>Atualização 26H1 do Windows 11 é esperada para o início de 2026, o que é incomum. Pacote deve trazer apena suporte a novos processadores.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/o-windows-11-26h1-vem-ai-mas-nao-espere-muito-dessa-versao/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/03/windows-11-3-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 10 Nov 2025 14:21:45 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 11 Nov 2025 18:16:52 +0000</lastBuildDate>
     <item>
       <title>Meta quer usar seus dados na IA; veja como impedir</title>
       <link>https://tecnoblog.net/noticias/a-meta-quer-usar-seus-dados-na-ia-a-gente-te-mostra-como-impedir/</link>
@@ -113,6 +105,14 @@
       <pubDate>Mon, 10 Nov 2025 20:15:07 +0000</pubDate>
     </item>
     <item>
+      <title>Black November: Galaxy S25 FE (256 GB) em promoção por até 18x sem juros</title>
+      <link>https://tecnoblog.net/achados/black-november-galaxy-s25-fe-256-gb-em-promocao-por-ate-18x-sem-juros/</link>
+      <description>Galaxy S25 FE em promoção com cupom até o final do dia na Black November do Mercado Livre. Novo smartphone da Samsung traz tela de 6,7", Exynos 2400, bateria de 4.900 mAh e vídeos em 8K</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/black-november-galaxy-s25-fe-256-gb-em-promocao-por-ate-18x-sem-juros/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/galaxy-s25-fe-black-friday-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 10 Nov 2025 22:00:56 +0000</pubDate>
+    </item>
+    <item>
       <title>iPhone 15 vs iPhone 16: o que muda entre os celulares da Apple?</title>
       <link>https://tecnoblog.net/guias/comparativo-apple-iphone-15-vs-iphone-16/</link>
       <description>Comparativo mostra as diferenças entre o iPhone 15, lançado em 2023, e o iPhone 16, modelo de 2024; veja antes de comprar</description>
@@ -161,20 +161,12 @@
       <pubDate>Tue, 11 Nov 2025 14:03:24 +0000</pubDate>
     </item>
     <item>
-      <title>11.11: Galaxy Z Flip 7 FE tem 53% OFF histórico na Black November</title>
-      <link>https://tecnoblog.net/achados/11-11-galaxy-z-flip-7-fe-tem-53-off-historico-na-black-november/</link>
-      <description>Galaxy Z Flip 7 FE (128 GB) tem tela AMOLED dobrável de 6,7", RAM de 8 GB e desconto imperdível em Black Friday antecipada do Mercado Livre</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/11-11-galaxy-z-flip-7-fe-tem-53-off-historico-na-black-november/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/galaxy-z-flip-7-fe-tem-tela-amoled-dobravel-foto-thassius-velosotecnoblog-1-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 11 Nov 2025 14:14:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>11.11: Galaxy Z Flip 7 FE tem 53% OFF histórico na Black November</title>
-      <link>https://tecnoblog.net/achados/11-11-galaxy-z-flip-7-fe-tem-53-off-historico-na-black-november/</link>
-      <description>Galaxy Z Flip 7 FE (128 GB) tem tela AMOLED dobrável de 6,7", RAM de 8 GB e desconto imperdível em Black Friday antecipada do Mercado Livre</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/11-11-galaxy-z-flip-7-fe-tem-53-off-historico-na-black-november/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/galaxy-z-flip-7-fe-tem-tela-amoled-dobravel-foto-thassius-velosotecnoblog-1-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 11 Nov 2025 14:14:58 +0000</pubDate>
+      <title>PlayStation 5 ultrapassa 84 milhões de unidades vendidas</title>
+      <link>https://tecnoblog.net/noticias/playstation-5-ultrapassa-84-milhoes-de-unidades-vendidas/</link>
+      <description>Desempenho do console supera expectativas, mesmo após reajustes de preço. Sony vendeu 3,9 milhões de unidades do PS5 somente no último trimestre.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/playstation-5-ultrapassa-84-milhoes-de-unidades-vendidas/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/04/ps5_capa-2_tb-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 11 Nov 2025 15:23:32 +0000</pubDate>
     </item>
     <item>
       <title>PlayStation 5 ultrapassa 84 milhões de unidades vendidas</title>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/openai-pode-estar-queimando-us-15-milhoes-por-dia-com-sora/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/g2htm3lx0aavo8k-edited-1-340x191.jpeg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 11 Nov 2025 16:47:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Como baixar playlists do YouTube de modo prático</title>
+      <link>https://tecnoblog.net/publieditoriais/como-baixar-playlists-do-youtube-de-modo-pratico/</link>
+      <description>Ferramentas como o EaseUS Video Downloader são uma mão na roda na hora de baixar listas de reprodução inteiras do YouTube. Veja como usar.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/publieditoriais/como-baixar-playlists-do-youtube-de-modo-pratico/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/easeus-baixar-playlist-youtube-1-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 11 Nov 2025 17:12:59 +0000</pubDate>
     </item>
   </channel>
 </rss>
