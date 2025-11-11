@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 11 Nov 2025 16:15:05 +0000</lastBuildDate>
-    <item>
-      <title>Como usar um eSIM para ter internet em viagens (e fugir do roaming)</title>
-      <link>https://tecnoblog.net/publieditoriais/como-usar-um-esim-para-ter-internet-em-viagens-e-fugir-do-roaming/</link>
-      <description>Yesim usa a tecnologia eSIM para oferecer planos de dados internacionais em mais de 200 destinos, com ativação direto pelo app.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/publieditoriais/como-usar-um-esim-para-ter-internet-em-viagens-e-fugir-do-roaming/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/image-4-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 10 Nov 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fita com primeira versão do Unix em C é encontrada após mais de 50 anos</title>
-      <link>https://tecnoblog.net/noticias/fita-com-primeira-versao-do-unix-em-c-e-encontrada-apos-mais-de-50-anos/</link>
-      <description>Pesquisadores da Universidade de Utah encontraram uma fita magnética com o Unix V4, de 1973, a primeira versão escrita em C e considerada um marco na história da computação.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/fita-com-primeira-versao-do-unix-em-c-e-encontrada-apos-mais-de-50-anos/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/05/Capa-TBR-UnixOS-studio-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 10 Nov 2025 12:34:58 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 11 Nov 2025 17:11:03 +0000</lastBuildDate>
     <item>
       <title>O Windows 11 26H1 vem aí, mas não espere muito dessa versão</title>
       <link>https://tecnoblog.net/noticias/o-windows-11-26h1-vem-ai-mas-nao-espere-muito-dessa-versao/</link>
@@ -169,20 +153,20 @@
       <pubDate>Tue, 11 Nov 2025 13:51:56 +0000</pubDate>
     </item>
     <item>
-      <title>Sucessor do iPhone Air não deve ser lançado antes de 2027</title>
-      <link>https://tecnoblog.net/noticias/sucessor-do-iphone-air-nao-deve-ser-lancado-antes-de-2027/</link>
-      <description>Vendas fracas do atual iPhone Air seria a razão para a Apple repensar projeto. Por causa disso, modelo sucessor não tem data certa para ser lançado.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/sucessor-do-iphone-air-nao-deve-ser-lancado-antes-de-2027/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/iphone-17-air-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 11 Nov 2025 13:51:56 +0000</pubDate>
-    </item>
-    <item>
       <title>Galaxy S26: novo módulo de câmera deve chegar à versão Plus</title>
       <link>https://tecnoblog.net/noticias/galaxy-s26-novo-modulo-de-camera-deve-chegar-a-versao-plus/</link>
       <description>Renderizações revelam possível visual do Galaxy S26 Plus da Samsung, com novo módulo em formato de pílula e dimensões próximas às do S25 Plus.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/galaxy-s26-novo-modulo-de-camera-deve-chegar-a-versao-plus/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/img_0494-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 11 Nov 2025 14:03:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>11.11: Galaxy Z Flip 7 FE tem 53% OFF histórico na Black November</title>
+      <link>https://tecnoblog.net/achados/11-11-galaxy-z-flip-7-fe-tem-53-off-historico-na-black-november/</link>
+      <description>Galaxy Z Flip 7 FE (128 GB) tem tela AMOLED dobrável de 6,7", RAM de 8 GB e desconto imperdível em Black Friday antecipada do Mercado Livre</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/11-11-galaxy-z-flip-7-fe-tem-53-off-historico-na-black-november/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/galaxy-z-flip-7-fe-tem-tela-amoled-dobravel-foto-thassius-velosotecnoblog-1-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 11 Nov 2025 14:14:58 +0000</pubDate>
     </item>
     <item>
       <title>11.11: Galaxy Z Flip 7 FE tem 53% OFF histórico na Black November</title>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/vem-ai-o-fttr-da-vivo-produto-misterioso-surge-no-brasil/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/11/roteador-vivo-fibra-wi-fi-6-img-4-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 11 Nov 2025 15:58:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>11.11: Motorola Edge 60 Pro (256 GB) em oferta histórica na Black November</title>
+      <link>https://tecnoblog.net/achados/11-11-motorola-edge-60-pro-256-gb-em-oferta-historica-na-black-november/</link>
+      <description>Celular premium da Motorola atinge menor preço histórico no 11.11 do Mercado Livre. Apresenta tela POLED de 120 Hz, bateria de 6.000 mAh, até 24 GB de RAM e câmeras tripla de 50 MP</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/11-11-motorola-edge-60-pro-256-gb-em-oferta-historica-na-black-november/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/motorola-edge-60-pro-black-friday-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 11 Nov 2025 16:38:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI pode estar queimando US$ 15 milhões por dia com Sora</title>
+      <link>https://tecnoblog.net/noticias/openai-pode-estar-queimando-us-15-milhoes-por-dia-com-sora/</link>
+      <description>Cálculos se baseiam em números estimados de usuários, vídeos gerados e gastos com GPU. Empresa admite que modelo não é financeiramente sustentável.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/openai-pode-estar-queimando-us-15-milhoes-por-dia-com-sora/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/g2htm3lx0aavo8k-edited-1-340x191.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 11 Nov 2025 16:47:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
