@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 11 Nov 2025 19:09:08 +0000</lastBuildDate>
-    <item>
-      <title>Ex-funcionário roubou 18 mil documentos secretos da Intel e desapareceu</title>
-      <link>https://tecnoblog.net/noticias/ex-funcionario-roubou-18-mil-documentos-secretos-da-intel-e-desapareceu/</link>
-      <description>Engenheiro de software se apropriou de arquivos classificados pela empresa como "ultrassecretos". Intel busca indenização de US$ 250 mil.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/ex-funcionario-roubou-18-mil-documentos-secretos-da-intel-e-desapareceu/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/05/intel_capa-1_tb-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 10 Nov 2025 15:24:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>iPhone comemorativo poderá ter câmera frontal escondida sob a tela</title>
-      <link>https://tecnoblog.net/noticias/iphone-comemorativo-podera-ter-camera-frontal-escondida-sob-a-tela/</link>
-      <description>Segundo rumores, fornecedoras trabalham em sistema de lentes capaz de captar mais luz e resolver um problema recorrente em câmeras desse tipo</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/iphone-comemorativo-podera-ter-camera-frontal-escondida-sob-a-tela/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/04/apple_capa-5-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 10 Nov 2025 16:06:58 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 11 Nov 2025 20:13:15 +0000</lastBuildDate>
     <item>
       <title>YouTube volta a parar de funcionar com bloqueador de anúncios</title>
       <link>https://tecnoblog.net/noticias/youtube-volta-a-parar-de-funcionar-com-bloqueador-de-anuncios/</link>
@@ -169,20 +153,20 @@
       <pubDate>Tue, 11 Nov 2025 15:43:34 +0000</pubDate>
     </item>
     <item>
-      <title>Google Play vai permitir remover apps de vários aparelhos Android de uma vez</title>
-      <link>https://tecnoblog.net/noticias/google-play-vai-permitir-remover-apps-de-varios-aparelhos-android-de-uma-vez/</link>
-      <description>Versão 48.8 da Play Store permitirá desinstalar aplicativos remotamente em múltiplos aparelhos Android. Recurso está sendo liberado aos poucos.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/google-play-vai-permitir-remover-apps-de-varios-aparelhos-android-de-uma-vez/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/09/capa-play-store-2-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 11 Nov 2025 15:43:34 +0000</pubDate>
-    </item>
-    <item>
       <title>Firefox abandona suporte a Linux de 32 bits</title>
       <link>https://tecnoblog.net/noticias/firefox-abandona-suporte-a-linux-de-32-bits/</link>
       <description>Mozilla lançou o Firefox 145, versão do navegador sem compatibilidade com máquinas mais antigas. Usuários devem migrar para 64 bits ou usar a versão ESR 140.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/firefox-abandona-suporte-a-linux-de-32-bits/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/firefox-perfis-edited-340x191.webp" length="0" type="image/jpeg"/>
       <pubDate>Tue, 11 Nov 2025 15:47:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vem aí o FTTR da Vivo? Produto misterioso surge no Brasil</title>
+      <link>https://tecnoblog.net/noticias/vem-ai-o-fttr-da-vivo-produto-misterioso-surge-no-brasil/</link>
+      <description>Dispositivo permite estruturar uma rede residencial mais robusta. Serviço está à venda na Europa.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/vem-ai-o-fttr-da-vivo-produto-misterioso-surge-no-brasil/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/11/roteador-vivo-fibra-wi-fi-6-img-4-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 11 Nov 2025 15:58:23 +0000</pubDate>
     </item>
     <item>
       <title>Vem aí o FTTR da Vivo? Produto misterioso surge no Brasil</title>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/11-11-galaxy-z-fold-7-512-gb-tem-oferta-imbativel-na-black-november/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/galaxy-z-fold-7-tem-tela-de-8-polegadas-foto-thassius-velosotecnoblog-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Tue, 11 Nov 2025 18:44:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>11.11: Galaxy Tab S11 5G tem 33% OFF com cupom da Black November</title>
+      <link>https://tecnoblog.net/achados/11-11-galaxy-tab-s11-5g-tem-33-off-com-cupom-da-black-november/</link>
+      <description>Novo tablet premium da Samsung de 256 GB com tela AMOLED de 11", 12 GB de RAM e bateria de 8.400 mAh está em promoção no Mercado Livre. Caneta S Pen inclusa tem novo formato</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/11-11-galaxy-tab-s11-5g-tem-33-off-com-cupom-da-black-november/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/galaxy-tab-s11-black-friday-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 11 Nov 2025 19:38:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>11.11: Motorola Edge 60 (512 GB) 34% OFF histórico na Black November</title>
+      <link>https://tecnoblog.net/achados/11-11-motorola-edge-60-512-gb-34-off-historico-na-black-november/</link>
+      <description>Motorola Edge 60 (512 GB) tem RAM de 12 GB expansível até 24 GB, tela POLED grande de 120 Hz e maior desconto histórico em Black Friday antecipada do Mercado Livre</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/11-11-motorola-edge-60-512-gb-34-off-historico-na-black-november/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/motorola-edge-60-tem-ram-expansivel-ate-24-gb-foto-giovanni-santa-rosatecnoblog-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 11 Nov 2025 20:05:28 +0000</pubDate>
     </item>
   </channel>
 </rss>
