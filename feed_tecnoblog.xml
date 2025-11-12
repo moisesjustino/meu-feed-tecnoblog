@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 12 Nov 2025 11:10:34 +0000</lastBuildDate>
-    <item>
-      <title>O que é link (hiperlink)? Veja como funcionam os elementos clicáveis da internet</title>
-      <link>https://tecnoblog.net/responde/o-que-e-link-hiperlink-veja-como-funcionam-os-elementos-clicaveis-da-internet/</link>
-      <description>Os hiperlinks possibilitam conectar documentos digitais, permitindo que o usuário navegue de uma página da web para outra, seja no mesmo site ou em um recurso externo na internet</description>
-      <guid isPermaLink="false">https://tecnoblog.net/responde/o-que-e-link-hiperlink-veja-como-funcionam-os-elementos-clicaveis-da-internet/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/what-is-a-hyperlink-1-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 10 Nov 2025 18:28:17 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 12 Nov 2025 12:24:26 +0000</lastBuildDate>
     <item>
       <title>Black November: Galaxy Tab S10 FE fica 45% mais barato no Mercado Livre</title>
       <link>https://tecnoblog.net/achados/black-november-galaxy-tab-s10-fe-fica-45-mais-barato-no-mercado-livre/</link>
@@ -121,6 +113,14 @@
       <pubDate>Tue, 11 Nov 2025 14:03:24 +0000</pubDate>
     </item>
     <item>
+      <title>11.11: Galaxy Z Flip 7 FE tem 53% OFF histórico na Black November</title>
+      <link>https://tecnoblog.net/achados/11-11-galaxy-z-flip-7-fe-tem-53-off-historico-na-black-november/</link>
+      <description>Galaxy Z Flip 7 FE (128 GB) tem tela AMOLED dobrável de 6,7", RAM de 8 GB e desconto imperdível em Black Friday antecipada do Mercado Livre</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/11-11-galaxy-z-flip-7-fe-tem-53-off-historico-na-black-november/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/galaxy-z-flip-7-fe-tem-tela-amoled-dobravel-foto-thassius-velosotecnoblog-1-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 11 Nov 2025 14:14:58 +0000</pubDate>
+    </item>
+    <item>
       <title>PlayStation 5 ultrapassa 84 milhões de unidades vendidas</title>
       <link>https://tecnoblog.net/noticias/playstation-5-ultrapassa-84-milhoes-de-unidades-vendidas/</link>
       <description>Desempenho do console supera expectativas, mesmo após reajustes de preço. Sony vendeu 3,9 milhões de unidades do PS5 somente no último trimestre.</description>
@@ -169,14 +169,6 @@
       <pubDate>Tue, 11 Nov 2025 17:12:59 +0000</pubDate>
     </item>
     <item>
-      <title>11.11: Motorola Edge 60 (512 GB) 34% OFF histórico na Black November</title>
-      <link>https://tecnoblog.net/achados/11-11-motorola-edge-60-512-gb-34-off-historico-na-black-november/</link>
-      <description>Motorola Edge 60 (512 GB) tem RAM de 12 GB expansível até 24 GB, tela POLED grande de 120 Hz e maior desconto histórico em Black Friday antecipada do Mercado Livre</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/11-11-motorola-edge-60-512-gb-34-off-historico-na-black-november/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/motorola-edge-60-tem-ram-expansivel-ate-24-gb-foto-giovanni-santa-rosatecnoblog-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 11 Nov 2025 20:05:28 +0000</pubDate>
-    </item>
-    <item>
       <title>Apple mira no fashion e apresenta bolsinha para iPhone</title>
       <link>https://tecnoblog.net/noticias/apple-mira-no-fashion-e-apresenta-bolsinha-para-iphone/</link>
       <description>iPhone Pocket é uma bolsa de tricô feita em parceria com o estúdio japonês de Issey Miyake. Acessório serve para transportar o iPhone e pequenos objetos.</description>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/amazon-traz-ao-brasil-nova-geracao-de-aparelhos-alexa-veja-os-precos/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/20251111_135143-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Wed, 12 Nov 2025 03:07:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>União Europeia pode mudar regras de privacidade para favorecer IA</title>
+      <link>https://tecnoblog.net/noticias/uniao-europeia-pode-mudar-regras-de-privacidade-para-favorecer-ia/</link>
+      <description>Comissão Europeia estuda ajustar leis digitais para impulsionar a IA na região. Mudanças preveem exceções no GDPR e revisão do conceito de dados pessoais.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/uniao-europeia-pode-mudar-regras-de-privacidade-para-favorecer-ia/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2021/10/1280px-european_union_flags_2-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 12 Nov 2025 12:20:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
