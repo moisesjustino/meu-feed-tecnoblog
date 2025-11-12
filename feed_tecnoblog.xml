@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 12 Nov 2025 13:27:27 +0000</lastBuildDate>
-    <item>
-      <title>Black November: Galaxy Tab S10 FE fica 45% mais barato no Mercado Livre</title>
-      <link>https://tecnoblog.net/achados/black-november-galaxy-tab-s10-fe-fica-45-mais-barato-no-mercado-livre/</link>
-      <description>Tablet da Samsung tem oferta com cupom na Black November do Mercado Livre. Apresenta tela de 10,9 polegadas, bateria de 8.000 mAh, chip Exynos 1580 e 8 GB de memória RAM</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/black-november-galaxy-tab-s10-fe-fica-45-mais-barato-no-mercado-livre/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/galaxy-tab-s10-fe-tem-tela-grande-com-s-pen-foto-giovanni-santa-rosatecnoblog-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 10 Nov 2025 19:26:23 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 12 Nov 2025 14:13:09 +0000</lastBuildDate>
     <item>
       <title>Black November: iPhone 16 Pro (512 GB) recebe desconto imbatível</title>
       <link>https://tecnoblog.net/achados/black-november-iphone-16-pro-512-gb-recebe-desconto-imbativel/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/uniao-europeia-pode-mudar-regras-de-privacidade-para-favorecer-ia/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2021/10/1280px-european_union_flags_2-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Wed, 12 Nov 2025 12:20:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Samsung pode usar apenas chip Exynos no Galaxy S27</title>
+      <link>https://tecnoblog.net/noticias/samsung-pode-usar-apenas-chip-exynos-no-galaxy-s27/</link>
+      <description>Rumor indica que a fabricante sul-coreana pode equipar todos os modelos da linha Galaxy S27 com chips Exynos. Mudança dependeria do desempenho da geração S26.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/samsung-pode-usar-apenas-chip-exynos-no-galaxy-s27/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/01/samsung-capa-2-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 12 Nov 2025 13:41:26 +0000</pubDate>
     </item>
   </channel>
 </rss>
