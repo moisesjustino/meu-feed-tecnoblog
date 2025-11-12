@@ -7,31 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 12 Nov 2025 21:11:38 +0000</lastBuildDate>
-    <item>
-      <title>Firefox abandona suporte a Linux de 32 bits</title>
-      <link>https://tecnoblog.net/noticias/firefox-abandona-suporte-a-linux-de-32-bits/</link>
-      <description>Mozilla lançou o Firefox 145, versão do navegador sem compatibilidade com máquinas mais antigas. Usuários devem migrar para 64 bits ou usar a versão ESR 140.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/firefox-abandona-suporte-a-linux-de-32-bits/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/firefox-perfis-edited-340x191.webp" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 11 Nov 2025 15:47:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Vem aí o FTTR da Vivo? Produto misterioso surge no Brasil</title>
-      <link>https://tecnoblog.net/noticias/vem-ai-o-fttr-da-vivo-produto-misterioso-surge-no-brasil/</link>
-      <description>Dispositivo permite estruturar uma rede residencial mais robusta. Serviço está à venda na Europa.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/vem-ai-o-fttr-da-vivo-produto-misterioso-surge-no-brasil/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/10/vivo-celular-capa-2-edited-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 11 Nov 2025 15:58:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>11.11: Motorola Edge 60 Pro (256 GB) em oferta histórica na Black November</title>
-      <link>https://tecnoblog.net/achados/11-11-motorola-edge-60-pro-256-gb-em-oferta-historica-na-black-november/</link>
-      <description>Celular premium da Motorola atinge menor preço histórico no 11.11 do Mercado Livre. Apresenta tela POLED de 120 Hz, bateria de 6.000 mAh, até 24 GB de RAM e câmeras tripla de 50 MP</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/11-11-motorola-edge-60-pro-256-gb-em-oferta-historica-na-black-november/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/motorola-edge-60-pro-black-friday-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 11 Nov 2025 16:38:05 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 12 Nov 2025 22:11:57 +0000</lastBuildDate>
     <item>
       <title>OpenAI pode estar queimando US$ 15 milhões por dia com Sora</title>
       <link>https://tecnoblog.net/noticias/openai-pode-estar-queimando-us-15-milhoes-por-dia-com-sora/</link>
@@ -87,6 +63,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/apple-mira-no-fashion-e-apresenta-bolsinha-para-iphone/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/apple-iphone-pocket-and-issey-miyake-hero_big-jpg-large_2x-edited-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 11 Nov 2025 20:34:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>11.11: iPhone 16 (512 GB) tem 51% OFF imperdível no Esquenta Black Friday</title>
+      <link>https://tecnoblog.net/achados/11-11-iphone-16-512-gb-tem-51-off-imperdivel-no-esquenta-black-friday/</link>
+      <description>iPhone 16 (512 GB) tem Apple A18, tela OLED de 6,1" e sai por menos da metade do preço em oferta de Black Friday antecipada na Amazon</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/11-11-iphone-16-512-gb-tem-51-off-imperdivel-no-esquenta-black-friday/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/iphone-16-e-iphone-16-plus-tem-chip-apple-a18-foto-thassius-velosotecnoblog-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 11 Nov 2025 21:00:17 +0000</pubDate>
     </item>
     <item>
       <title>Este é o menor drive de 1 TB do mundo</title>
@@ -177,20 +161,12 @@
       <pubDate>Wed, 12 Nov 2025 19:16:30 +0000</pubDate>
     </item>
     <item>
-      <title>Proteção antirroubo do Android será ativada por padrão no Brasil</title>
+      <title>Android: proteção contra roubo de celular virá ativada por padrão</title>
       <link>https://tecnoblog.net/noticias/protecao-antirroubo-do-android-sera-ativada-por-padrao-no-brasil/</link>
       <description>Google anunciou que Android vai ativar por padrão bloqueio automático em casos de roubo de celulares ou tablets. Medida vale para aparelhos novos ou restaurados de fábrica.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/protecao-antirroubo-do-android-sera-ativada-por-padrao-no-brasil/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/bloqueio-antirroubo-android-edited-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Wed, 12 Nov 2025 19:22:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Black November: Galaxy S24 (256 GB) tem oferta imbatível em até 12x</title>
-      <link>https://tecnoblog.net/achados/black-november-galaxy-s24-256-gb-tem-oferta-imbativel-em-ate-12x/</link>
-      <description>Samsung Galaxy S24 (256 GB) com chip Exynos 2400 e câmera de 50 MP tem desconto histórico de 59% em Black Friday antecipada no AliExpress</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/black-november-galaxy-s24-256-gb-tem-oferta-imbativel-em-ate-12x/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/11/galaxy-s24-imagem-thassius-velosotecnoblog-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 12 Nov 2025 19:25:56 +0000</pubDate>
     </item>
     <item>
       <title>Black November: Moto G75 (256 GB) tem oferta pela metade do preço</title>
@@ -223,6 +199,30 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/black-november-galaxy-a36-256-gb-tem-48-de-desconto-em-promocao/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/galaxy-a36-tem-chip-da-qualcomm-foto-thassius-velosotecnoblog-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Wed, 12 Nov 2025 20:43:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI libera GPT-5.1 no ChatGPT e promete assistente mais “caloroso”</title>
+      <link>https://tecnoblog.net/noticias/openai-libera-gpt-5-1-no-chatgpt-e-promete-assistente-mais-caloroso/</link>
+      <description>Startup diz que robô está “mais inteligente e mais agradável de conversar”. Chatbot passa a contar com oito opções de personalidade.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/openai-libera-gpt-5-1-no-chatgpt-e-promete-assistente-mais-caloroso/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/06/chatgpt-2_capa-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 12 Nov 2025 21:15:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Idec pede ao Cade que resumos de IA do Google sejam desativados por padrão</title>
+      <link>https://tecnoblog.net/noticias/idec-pede-ao-cade-que-resumos-de-ia-no-google-sejam-desativados-por-padrao/</link>
+      <description>Instituto de Defesa de Consumidores critica IA do Google e alega "design manipulativo". Big tech diz que função melhora busca e que sites mantêm controle sobre conteúdo.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/idec-pede-ao-cade-que-resumos-de-ia-no-google-sejam-desativados-por-padrao/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/05/captura-de-tela-2024-05-14-as-14-06-18-e1715706700198-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 12 Nov 2025 21:18:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Black November: Notebook Dell Inspiron 15 tem oferta imbatível em até 24x</title>
+      <link>https://tecnoblog.net/achados/black-november-notebook-dell-inspiron-15-tem-oferta-imbativel-em-ate-24x/</link>
+      <description>Dell Inspiron 15 apresenta tela de 15,6 com taxa de 120 Hz, SSD de 512 GB, processador Intel Core i5 e bateria para até 9 horas. Notebook tem menor preço histórico no Mercado Livre</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/black-november-notebook-dell-inspiron-15-tem-oferta-imbativel-em-ate-24x/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/dell-inspiron-15-black-friday-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 12 Nov 2025 21:52:26 +0000</pubDate>
     </item>
   </channel>
 </rss>
