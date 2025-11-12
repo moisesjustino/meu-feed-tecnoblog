@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 12 Nov 2025 15:13:30 +0000</lastBuildDate>
-    <item>
-      <title>OpenAI considera lançar aplicativo de saúde para uso pessoal</title>
-      <link>https://tecnoblog.net/noticias/openai-considera-lancar-aplicativo-de-saude-para-uso-pessoal/</link>
-      <description>Desenvolvedora do ChatGPT contratou executivos para liderar sua estratégia de serviços médicos. Outras empresas de tecnologia fracassaram na área.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/openai-considera-lancar-aplicativo-de-saude-para-uso-pessoal/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/openai-4_capa-edited-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 10 Nov 2025 20:15:07 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 12 Nov 2025 16:16:22 +0000</lastBuildDate>
     <item>
       <title>Black November: Galaxy S25 FE (256 GB) em promoção por até 18x sem juros</title>
       <link>https://tecnoblog.net/achados/black-november-galaxy-s25-fe-256-gb-em-promocao-por-ate-18x-sem-juros/</link>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/presidente-do-windows-sofre-criticas-apos-promessa-de-sistema-com-agentes-de-ia/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/pavan-davuluri-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Wed, 12 Nov 2025 14:21:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Black November: Galaxy S25 (256 GB) tem promoção imperdível em 12x sem juros</title>
+      <link>https://tecnoblog.net/achados/black-november-galaxy-s25-256-gb-tem-promocao-imperdivel-em-12x-sem-juros/</link>
+      <description>Celular premium da Samsung traz tela LTPO AMOLED com taxa de 120 Hz, Snapdragon 8 Elite e câmera de 50 MP com gravação em 8K. Oferta do Magalu disponível no AliExpress</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/black-november-galaxy-s25-256-gb-tem-promocao-imperdivel-em-12x-sem-juros/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/galaxy-s25-black-friday-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 12 Nov 2025 15:25:46 +0000</pubDate>
     </item>
   </channel>
 </rss>
