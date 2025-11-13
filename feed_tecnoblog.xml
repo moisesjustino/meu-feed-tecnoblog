@@ -7,31 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 13 Nov 2025 19:09:36 +0000</lastBuildDate>
-    <item>
-      <title>WhatsApp pode exigir Instagram ou Facebook para reserva de nome de usuário</title>
-      <link>https://tecnoblog.net/noticias/whatsapp-pode-exigir-instagram-ou-facebook-para-reserva-de-nome-de-usuario/</link>
-      <description>Plataforma pode priorizar quem já tem conta nas redes da Meta, unificando nomes de usuário no ecossistema. Novidade foi descoberta na versão beta para Android.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/whatsapp-pode-exigir-instagram-ou-facebook-para-reserva-de-nome-de-usuario/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/whatsapp-capa-3-edited-1-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 12 Nov 2025 18:34:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Valve mira guerra dos consoles e anuncia nova Steam Machine</title>
-      <link>https://tecnoblog.net/noticias/valve-mira-guerra-dos-consoles-e-anuncia-nova-steam-machine/</link>
-      <description>Hardware roda SteamOS e chega em 2026. Empresa também anunciou o novo Steam Controller e o Steam Frame, headset de realidade virtual.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/valve-mira-guerra-dos-consoles-e-anuncia-nova-steam-machine/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/steam-machine-edited-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 12 Nov 2025 19:16:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Android: proteção contra roubo de celular virá ativada por padrão</title>
-      <link>https://tecnoblog.net/noticias/protecao-antirroubo-do-android-sera-ativada-por-padrao-no-brasil/</link>
-      <description>Google anunciou que Android vai ativar por padrão bloqueio automático em casos de roubo de celulares ou tablets. Medida vale para aparelhos novos ou restaurados de fábrica.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/protecao-antirroubo-do-android-sera-ativada-por-padrao-no-brasil/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/bloqueio-antirroubo-android-edited-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 12 Nov 2025 19:22:29 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 13 Nov 2025 20:14:02 +0000</lastBuildDate>
     <item>
       <title>Black November: Galaxy S24 (256 GB) tem oferta imbatível em até 12x</title>
       <link>https://tecnoblog.net/achados/black-november-galaxy-s24-256-gb-tem-oferta-imbativel-em-ate-12x/</link>
@@ -113,6 +89,14 @@
       <pubDate>Thu, 13 Nov 2025 13:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Esquenta Black: iPhone 16 Pro tem 33% OFF na melhor oferta que já vimos</title>
+      <link>https://tecnoblog.net/achados/esquenta-black-iphone-16-pro-tem-33-off-na-melhor-oferta-que-ja-vimos/</link>
+      <description>iPhone 16 Pro com 128 GB de armazenamento e câmera de 48 MP está com preço atraente no aquecimento da Black Friday da Amazon</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/esquenta-black-iphone-16-pro-tem-33-off-na-melhor-oferta-que-ja-vimos/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/linha-iphone-16-pro-em-loja-da-apple-foto-thassius-velosotecnoblog-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 13 Nov 2025 13:38:37 +0000</pubDate>
+    </item>
+    <item>
       <title>Novo PC portátil da Lenovo já pode ser vendido no Brasil</title>
       <link>https://tecnoblog.net/noticias/novo-pc-portatil-da-lenovo-ja-pode-ser-vendido-no-brasil/</link>
       <description>Legion Go 2 foi homologado pela Anatel e pode ser comercializado no país. Segunda geração do console traz CPU AMD Ryzen Z2 e tela de 8,8 polegadas.</description>
@@ -135,6 +119,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/google-volta-atras-em-decisao-sobre-sideloading-no-android/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/android-mascotes-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Thu, 13 Nov 2025 13:42:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Esquenta Black: iPhone 16 (256 GB) fica 40% mais barato na Amazon</title>
+      <link>https://tecnoblog.net/achados/esquenta-black-iphone-16-256-gb-fica-40-mais-barato-na-amazon/</link>
+      <description>iPhone 16 (256 GB) tem chip Apple A18 com RAM de 8 GB e painel OLED até 2.000 nits; celular tem desconto de Black Friday antecipada no aplicativo da AMazon</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/esquenta-black-iphone-16-256-gb-fica-40-mais-barato-na-amazon/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/iphone-16-tem-apple-a18-foto-thassius-velosotecnoblog-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 13 Nov 2025 14:12:40 +0000</pubDate>
     </item>
     <item>
       <title>Ficha técnica do trifold da Samsung vaza antes do lançamento</title>
@@ -169,28 +161,12 @@
       <pubDate>Thu, 13 Nov 2025 16:08:48 +0000</pubDate>
     </item>
     <item>
-      <title>Esquenta Black: Motorola Edge 60 Fusion (256 GB) tem menor preço histórico</title>
-      <link>https://tecnoblog.net/achados/esquenta-black-motorola-edge-60-fusion-256-gb-tem-menor-preco-historico/</link>
-      <description>Edge 60 Fusion (256 GB) tem RAM expansível até 16 GB, câmera Sony de 50 MP e tela de 120 Hz com OLED; celular Motorola tem 51% OFF em Black Friday antecipada</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/esquenta-black-motorola-edge-60-fusion-256-gb-tem-menor-preco-historico/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/motorola-edge-60-fusion-black-friday-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 13 Nov 2025 17:05:43 +0000</pubDate>
-    </item>
-    <item>
       <title>Adeus, Kuiper! Amazon renomeia projeto de internet via satélite</title>
       <link>https://tecnoblog.net/noticias/amazon-renomeia-projeto-de-internet-via-satelite/</link>
       <description>Empresa de Jeff Bezos iniciou pesquisa para serviço de banda larga via satélite há sete anos. Equipamento permite conexão com velocidade Gigabit.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/amazon-renomeia-projeto-de-internet-via-satelite/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/amazon-leo-340x191.webp" length="0" type="image/jpeg"/>
       <pubDate>Thu, 13 Nov 2025 17:25:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Black November: Galaxy Tab S10 FE Plus em promoção com mais de 50% OFF</title>
-      <link>https://tecnoblog.net/achados/black-november-galaxy-tab-s10-fe-plus-em-promocao-com-mais-de-50-off/</link>
-      <description>Tablet da Samsung de 128 GB tem 52% de desconto e cupom disponível em oferta de Black November do Mercado Livre. Entre os destaques: tela de 13,1", 8 GB de RAM e bateria de 10.090 mAh</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/black-november-galaxy-tab-s10-fe-plus-em-promocao-com-mais-de-50-off/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/galaxy-tab-s10-fe-plus-black-friday-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 13 Nov 2025 17:37:24 +0000</pubDate>
     </item>
     <item>
       <title>Esquenta Black: Moto G56 (256 GB) tem 49% OFF em oferta imbatível</title>
@@ -223,6 +199,30 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/robo-russo-tomba-no-palco-durante-estreia-em-moscou/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/robo-russo-caindo-340x191.gif" length="0" type="image/jpeg"/>
       <pubDate>Thu, 13 Nov 2025 18:39:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Esquenta Black: Huawei Watch Fit 4 fica 47% mais barato em até 10x sem juros</title>
+      <link>https://tecnoblog.net/achados/esquenta-black-huawei-watch-fit-4-fica-47-mais-barato-em-ate-10x-sem-juros/</link>
+      <description>Huawei Watch Fit 4 com GPS integrado e compatibilidade com iOS e Android tem preço reduzido na Amazon, chegando perto da metade do preço de lançamento</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/esquenta-black-huawei-watch-fit-4-fica-47-mais-barato-em-ate-10x-sem-juros/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/huawei-watch-fit-4-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 13 Nov 2025 19:17:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI contesta ordem judicial para entregar 20 milhões de conversas do ChatGPT</title>
+      <link>https://tecnoblog.net/noticias/openai-tenta-reverter-ordem-para-entregar-20-milhoes-de-conversas-no-chatgpt/</link>
+      <description>Empresa alega que ordem judicial viola privacidade de usuários. Logs foram pedidos pelo New York Times em processo sobre direitos autorais.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/openai-tenta-reverter-ordem-para-entregar-20-milhoes-de-conversas-no-chatgpt/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/06/openai-3_capa-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 13 Nov 2025 19:50:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>NotebookLM: IA do Google para estudos acaba de ficar mais inteligente</title>
+      <link>https://tecnoblog.net/noticias/notebooklm-ia-do-google-para-estudos-acaba-de-ficar-mais-inteligente/</link>
+      <description>Google NotebookLM agora é compatível com Deep Research, o que permite ao usuário incluir pesquisas mais refinadas e detalhadas em suas notas.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/notebooklm-ia-do-google-para-estudos-acaba-de-ficar-mais-inteligente/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/google-notebooklm-deep-research-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 13 Nov 2025 20:13:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
