@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 13 Nov 2025 20:14:02 +0000</lastBuildDate>
-    <item>
-      <title>Black November: Galaxy S24 (256 GB) tem oferta imbatível em até 12x</title>
-      <link>https://tecnoblog.net/achados/black-november-galaxy-s24-256-gb-tem-oferta-imbativel-em-ate-12x/</link>
-      <description>Samsung Galaxy S24 (256 GB) com chip Exynos 2400 e câmera de 50 MP tem desconto histórico de 59% em Black Friday antecipada no AliExpress</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/black-november-galaxy-s24-256-gb-tem-oferta-imbativel-em-ate-12x/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/11/galaxy-s24-imagem-thassius-velosotecnoblog-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 12 Nov 2025 19:25:56 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 13 Nov 2025 21:12:05 +0000</lastBuildDate>
     <item>
       <title>Black November: Moto G75 (256 GB) tem oferta pela metade do preço</title>
       <link>https://tecnoblog.net/achados/black-november-moto-g75-256-gb-tem-oferta-pela-metade-do-preco/</link>
@@ -129,6 +121,14 @@
       <pubDate>Thu, 13 Nov 2025 14:12:40 +0000</pubDate>
     </item>
     <item>
+      <title>Black November: Galaxy Watch 7 tem 60% OFF com melhor oferta em meses</title>
+      <link>https://tecnoblog.net/achados/black-november-galaxy-watch-7-tem-60-off-com-melhor-oferta-em-meses/</link>
+      <description>Galaxy Watch 7 de 40 mm com tela Super AMOLED recebe grande desconto com pagamento via Pix e cupom em aquecimento da Black Friday do Magazine Luiza</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/black-november-galaxy-watch-7-tem-60-off-com-melhor-oferta-em-meses/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/11/galaxy-watch-7-em-promocao-na-black-friday-imagem-thassius-velosotecnoblog-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 13 Nov 2025 14:58:16 +0000</pubDate>
+    </item>
+    <item>
       <title>Ficha técnica do trifold da Samsung vaza antes do lançamento</title>
       <link>https://tecnoblog.net/noticias/ficha-tecnica-do-trifold-da-samsung-vaza-antes-do-lancamento/</link>
       <description>Galaxy Z TriFold deve ter câmera de 200 MP e bateria robusta, segundo o leaker Evan Blass. Smartphone pode adotar design assimétrico com três telas de espessuras diferentes.</description>
@@ -167,14 +167,6 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/amazon-renomeia-projeto-de-internet-via-satelite/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/amazon-leo-340x191.webp" length="0" type="image/jpeg"/>
       <pubDate>Thu, 13 Nov 2025 17:25:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Esquenta Black: Moto G56 (256 GB) tem 49% OFF em oferta imbatível</title>
-      <link>https://tecnoblog.net/achados/esquenta-black-moto-g56-256-gb-tem-49-off-em-oferta-imbativel/</link>
-      <description>Moto G56 com câmera de 50 MP e bateria de 5.200 mAh sai por quase a metade do preço no Pix e cupom exclusivo do app da Amazon</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/esquenta-black-moto-g56-256-gb-tem-49-off-em-oferta-imbativel/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/2025_motorola-g_bogota_gallery-shoot_30-2-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 13 Nov 2025 17:51:10 +0000</pubDate>
     </item>
     <item>
       <title>Google lança recursos de IA que ajudam a fazer compras online</title>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/notebooklm-ia-do-google-para-estudos-acaba-de-ficar-mais-inteligente/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/google-notebooklm-deep-research-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Thu, 13 Nov 2025 20:13:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Firefox terá assistente de IA, mas Mozilla promete uso opcional e separado</title>
+      <link>https://tecnoblog.net/noticias/firefox-tera-assistente-de-ia-mas-mozilla-promete-uso-opcional-e-separado/</link>
+      <description>AI Window contará com robô para conversar e obter ajuda durante a navegação. Organização adota discurso cauteloso para a tecnologia.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/firefox-tera-assistente-de-ia-mas-mozilla-promete-uso-opcional-e-separado/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/firefox-ai-window-1920x1080-2-340x191.webp" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 13 Nov 2025 20:31:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
