@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 13 Nov 2025 12:24:50 +0000</lastBuildDate>
-    <item>
-      <title>Como baixar playlists do YouTube de modo prático</title>
-      <link>https://tecnoblog.net/publieditoriais/como-baixar-playlists-do-youtube-de-modo-pratico/</link>
-      <description>Ferramentas como o EaseUS Video Downloader são uma mão na roda na hora de baixar listas de reprodução inteiras do YouTube. Veja como usar.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/publieditoriais/como-baixar-playlists-do-youtube-de-modo-pratico/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/easeus-baixar-playlist-youtube-1-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 11 Nov 2025 17:12:59 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 13 Nov 2025 13:27:07 +0000</lastBuildDate>
     <item>
       <title>11.11: Galaxy Z Fold 7 (512 GB) tem oferta imbatível na Black November</title>
       <link>https://tecnoblog.net/achados/11-11-galaxy-z-fold-7-512-gb-tem-oferta-imbativel-na-black-november/</link>
@@ -121,6 +113,14 @@
       <pubDate>Wed, 12 Nov 2025 14:21:22 +0000</pubDate>
     </item>
     <item>
+      <title>Black November: Galaxy S25 (256 GB) tem promoção imperdível em 12x sem juros</title>
+      <link>https://tecnoblog.net/achados/black-november-galaxy-s25-256-gb-tem-promocao-imperdivel-em-12x-sem-juros/</link>
+      <description>Celular premium da Samsung traz tela LTPO AMOLED com taxa de 120 Hz, Snapdragon 8 Elite e câmera de 50 MP com gravação em 8K. Oferta do Magalu disponível no AliExpress</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/black-november-galaxy-s25-256-gb-tem-promocao-imperdivel-em-12x-sem-juros/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/galaxy-s25-black-friday-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 12 Nov 2025 15:25:46 +0000</pubDate>
+    </item>
+    <item>
       <title>Vivo parcela smartphone em 21 vezes e anuncia plano Easy Lite 21</title>
       <link>https://tecnoblog.net/noticias/vivo-parcela-smartphone-em-21-vezes-e-anuncia-plano-easy-lite-21/</link>
       <description>Pacotes começam em R$ 65 mensais para modelos mais baratos de Samsung e Motorola. Pagamento só pode ser feito no cartão de crédito.</description>
@@ -169,14 +169,6 @@
       <pubDate>Wed, 12 Nov 2025 19:22:29 +0000</pubDate>
     </item>
     <item>
-      <title>Black November: Notebook Acer Aspire Go 15 tem 33% OFF em até 18x</title>
-      <link>https://tecnoblog.net/achados/black-november-notebook-acer-aspire-go-15-tem-33-off-em-ate-18x/</link>
-      <description>Acer Aspire Go 15 tem 16 GB de RAM DDR5, SSD de 512 GB e processador Intel Core i5; notebook da Acer tem oferta de Black Friday antecipada com parcelamento</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/black-november-notebook-acer-aspire-go-15-tem-33-off-em-ate-18x/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/notebook-acer-aspire-go-15-imagem-divulgacao-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 12 Nov 2025 20:24:34 +0000</pubDate>
-    </item>
-    <item>
       <title>Streamings piratas serão bloqueados nos dispositivos da Amazon</title>
       <link>https://tecnoblog.net/noticias/streamings-piratas-serao-bloqueados-nos-dispositivos-da-amazon/</link>
       <description>Decisão impacta os produtos da linha Fire TV Stick e começa por países da Europa. Medida deve se expandir globalmente nos próximos meses.</description>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/97-dos-ouvintes-nao-conseguem-identificar-musica-feita-por-ia/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/06/ia-2-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Thu, 13 Nov 2025 09:17:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>JOVI V50 e V50 Lite têm câmeras de alta qualidade e baterias inovadoras</title>
+      <link>https://tecnoblog.net/publieditoriais/jovi-v50-e-v50-lite-tem-cameras-de-alta-qualidade-e-baterias-inovadoras/</link>
+      <description>Smartphones contam com pacote de benefícios de até cinco anos, além de R$ 1.000 OFF e cupom exclusivo Tecnoblog de mais R$ 100 OFF durante o mês de novembro!</description>
+      <guid isPermaLink="false">https://tecnoblog.net/publieditoriais/jovi-v50-e-v50-lite-tem-cameras-de-alta-qualidade-e-baterias-inovadoras/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/v50_zeiss_close_01-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 13 Nov 2025 13:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
