@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 14 Nov 2025 16:15:10 +0000</lastBuildDate>
-    <item>
-      <title>Esquenta Black: iPhone 16 Pro tem 33% OFF na melhor oferta que já vimos</title>
-      <link>https://tecnoblog.net/achados/esquenta-black-iphone-16-pro-tem-33-off-na-melhor-oferta-que-ja-vimos/</link>
-      <description>iPhone 16 Pro com 128 GB de armazenamento e câmera de 48 MP está com preço atraente no aquecimento da Black Friday da Amazon</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/esquenta-black-iphone-16-pro-tem-33-off-na-melhor-oferta-que-ja-vimos/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/linha-iphone-16-pro-em-loja-da-apple-foto-thassius-velosotecnoblog-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 13 Nov 2025 13:38:37 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 14 Nov 2025 17:10:40 +0000</lastBuildDate>
     <item>
       <title>Novo PC portátil da Lenovo já pode ser vendido no Brasil</title>
       <link>https://tecnoblog.net/noticias/novo-pc-portatil-da-lenovo-ja-pode-ser-vendido-no-brasil/</link>
@@ -113,6 +105,14 @@
       <pubDate>Thu, 13 Nov 2025 17:25:23 +0000</pubDate>
     </item>
     <item>
+      <title>Black November: Galaxy Tab S10 FE Plus em promoção com mais de 50% OFF</title>
+      <link>https://tecnoblog.net/achados/black-november-galaxy-tab-s10-fe-plus-em-promocao-com-mais-de-50-off/</link>
+      <description>Tablet da Samsung de 128 GB tem 52% de desconto e cupom disponível em oferta de Black November do Mercado Livre. Entre os destaques: tela de 13,1", 8 GB de RAM e bateria de 10.090 mAh</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/black-november-galaxy-tab-s10-fe-plus-em-promocao-com-mais-de-50-off/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/galaxy-tab-s10-fe-plus-black-friday-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 13 Nov 2025 17:37:24 +0000</pubDate>
+    </item>
+    <item>
       <title>Google lança recursos de IA que ajudam a fazer compras online</title>
       <link>https://tecnoblog.net/noticias/google-lanca-recursos-de-ia-que-ajudam-a-fazer-compras-online/</link>
       <description>Modo IA do Google e Gemini agoram podem ajudar usuário a fazer compras online. Recursos chegam primeiro aos Estados Unidos.</description>
@@ -165,16 +165,8 @@
       <link>https://tecnoblog.net/noticias/falencia-da-oi-e-suspensa-apos-recursos-de-bancos/</link>
       <description>Tribunal de Justiça do Rio suspendeu decreto de falência da Oi. Decisão devolve à companhia direito de permanecer em recuperação judicial.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/falencia-da-oi-e-suspensa-apos-recursos-de-bancos/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/whisk_6c3baf4349f6d899e734827000949bb2eg-340x191.png" length="0" type="image/jpeg"/>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/oi-ressuscita-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Fri, 14 Nov 2025 13:08:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Black November: Galaxy Tab S10 Lite tem desconto histórico de 41% com cupom</title>
-      <link>https://tecnoblog.net/achados/black-november-galaxy-tab-s10-lite-tem-desconto-historico-de-41-com-cupom/</link>
-      <description>Galaxy Tab S10 Lite da Samsung com caneta S Pen tem preço atrativo no Pix e cupom exclusivo no aplicativo da Amazon</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/black-november-galaxy-tab-s10-lite-tem-desconto-historico-de-41-com-cupom/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/galaxy-tab-s10-lite-01-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 14 Nov 2025 14:18:17 +0000</pubDate>
     </item>
     <item>
       <title>OpenAI estreia conversas em grupo com o ChatGPT</title>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/black-november-galaxy-s24-plus-256-gb-em-oferta-com-56-de-desconto/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/galaxy-s24-plus-01-1-340x191.jpg" length="0" type="image/jpeg"/>
       <pubDate>Fri, 14 Nov 2025 15:29:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>iPhone 16e vs iPhone 15: qual é a diferença entre os celulares da Apple?</title>
+      <link>https://tecnoblog.net/guias/comparativo-apple-iphone-16e-vs-iphone-15/</link>
+      <description>Compare a ficha técnica e os recursos do iPhone 16e e do iPhone 15 antes de decidir qual modelo vale mais a pena</description>
+      <guid isPermaLink="false">https://tecnoblog.net/guias/comparativo-apple-iphone-16e-vs-iphone-15/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/tbr-iphone16e-vs-iphone15-1-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 14 Nov 2025 16:50:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
