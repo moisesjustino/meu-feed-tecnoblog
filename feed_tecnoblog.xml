@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 14 Nov 2025 21:10:54 +0000</lastBuildDate>
-    <item>
-      <title>Adeus, Kuiper! Amazon renomeia projeto de internet via satélite</title>
-      <link>https://tecnoblog.net/noticias/amazon-renomeia-projeto-de-internet-via-satelite/</link>
-      <description>Empresa de Jeff Bezos iniciou pesquisa para serviço de banda larga via satélite há sete anos. Equipamento permite conexão com velocidade Gigabit.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/amazon-renomeia-projeto-de-internet-via-satelite/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/amazon-leo-340x191.webp" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 13 Nov 2025 17:25:23 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 14 Nov 2025 22:11:18 +0000</lastBuildDate>
     <item>
       <title>Black November: Galaxy Tab S10 FE Plus em promoção com mais de 50% OFF</title>
       <link>https://tecnoblog.net/achados/black-november-galaxy-tab-s10-fe-plus-em-promocao-com-mais-de-50-off/</link>
@@ -87,6 +79,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/firefox-tera-assistente-de-ia-mas-mozilla-promete-uso-opcional-e-separado/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/firefox-ai-window-1920x1080-2-340x191.webp" length="0" type="image/jpeg"/>
       <pubDate>Thu, 13 Nov 2025 20:31:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Black November: Smart TV 4K LG UHD de 50” com desconto histórico de 44%</title>
+      <link>https://tecnoblog.net/achados/black-november-smart-tv-4k-lg-uhd-de-50-com-desconto-historico-de-44/</link>
+      <description>Smart TV LG UA75 de 50 polegadas com resolução 4K e sistema webOS25 atinge menor preço histórico em oferta de Black November do Mercado Livre</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/black-november-smart-tv-4k-lg-uhd-de-50-com-desconto-historico-de-44/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/smart-tv-lg-ua75-black-friday-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 13 Nov 2025 21:50:12 +0000</pubDate>
     </item>
     <item>
       <title>Falência da Oi é suspensa após recursos de bancos</title>
@@ -169,14 +169,6 @@
       <pubDate>Fri, 14 Nov 2025 17:56:56 +0000</pubDate>
     </item>
     <item>
-      <title>Black November: Motorola Edge 60 Pro (512 GB) com 40% OFF no Mercado Livre</title>
-      <link>https://tecnoblog.net/achados/black-november-motorola-edge-60-pro-512-gb-com-40-off-no-mercado-livre/</link>
-      <description>Celular premium da Motorola traz tela POLED de 120 Hz, bateria de 6.000 mAh, até 24 GB por RAM Boost e câmeras de 50 MP. Oferta com cupom de Black November do Mercado Livre</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/black-november-motorola-edge-60-pro-512-gb-com-40-off-no-mercado-livre/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/motorola-edge-60-pro-black-friday-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 14 Nov 2025 19:31:53 +0000</pubDate>
-    </item>
-    <item>
       <title>Black Friday 2025: as melhores ofertas e cupons com até 64% OFF [ATUALIZADO]</title>
       <link>https://tecnoblog.net/achados/black-friday-2025-as-melhores-ofertas-e-cupons-com-ate-62-off/</link>
       <description>Veja as ofertas de Black Friday antecipadas para celulares, tablets, notebooks, TVs e muito mais; além de cupons de desconto exclusivos</description>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/achados/black-november-huawei-watch-gt-6-pro-ate-24x-tem-menor-preco-registrado/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/huawei-watch-gt-6-pro-black-friday-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Fri, 14 Nov 2025 20:59:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Android pode repetir iPhone e ganhar envio fácil de contato</title>
+      <link>https://tecnoblog.net/noticias/android-pode-repetir-iphone-e-ganhar-envio-facil-de-contato/</link>
+      <description>Código do Google Play Services traz referências a troca de contatos por NFC. Apple oferece recurso do tipo desde 2023.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/android-pode-repetir-iphone-e-ganhar-envio-facil-de-contato/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/06/captura-de-tela-2023-06-05-as-14-26-31-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 14 Nov 2025 21:40:42 +0000</pubDate>
     </item>
   </channel>
 </rss>
