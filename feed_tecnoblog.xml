@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 15 Nov 2025 11:08:28 +0000</lastBuildDate>
-    <item>
-      <title>Black November: Galaxy Tab S10 FE Plus em promoção com mais de 50% OFF</title>
-      <link>https://tecnoblog.net/achados/black-november-galaxy-tab-s10-fe-plus-em-promocao-com-mais-de-50-off/</link>
-      <description>Tablet da Samsung de 128 GB tem 52% de desconto e cupom disponível em oferta de Black November do Mercado Livre. Entre os destaques: tela de 13,1", 8 GB de RAM e bateria de 10.090 mAh</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/black-november-galaxy-tab-s10-fe-plus-em-promocao-com-mais-de-50-off/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/galaxy-tab-s10-fe-plus-black-friday-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 13 Nov 2025 17:37:24 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 15 Nov 2025 12:20:48 +0000</lastBuildDate>
     <item>
       <title>Esquenta Black: Moto G56 (256 GB) tem 49% OFF em oferta imbatível</title>
       <link>https://tecnoblog.net/achados/esquenta-black-moto-g56-256-gb-tem-49-off-em-oferta-imbativel/</link>
@@ -97,6 +89,14 @@
       <pubDate>Fri, 14 Nov 2025 13:08:12 +0000</pubDate>
     </item>
     <item>
+      <title>Black November: Galaxy Tab S10 Lite tem desconto histórico de 41% com cupom</title>
+      <link>https://tecnoblog.net/achados/black-november-galaxy-tab-s10-lite-tem-desconto-historico-de-41-com-cupom/</link>
+      <description>Galaxy Tab S10 Lite da Samsung com caneta S Pen tem preço atrativo no Pix e cupom exclusivo no aplicativo da Amazon</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/black-november-galaxy-tab-s10-lite-tem-desconto-historico-de-41-com-cupom/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/galaxy-tab-s10-lite-01-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 14 Nov 2025 14:18:17 +0000</pubDate>
+    </item>
+    <item>
       <title>OpenAI estreia conversas em grupo com o ChatGPT</title>
       <link>https://tecnoblog.net/noticias/openai-estreia-conversas-em-grupo-com-o-chatgpt/</link>
       <description>Ainda em fase de teste, novo recurso permite que até 20 pessoas conversem simultaneamente com o ChatGPT, via web ou apps.</description>
@@ -169,14 +169,6 @@
       <pubDate>Fri, 14 Nov 2025 17:56:56 +0000</pubDate>
     </item>
     <item>
-      <title>Black Friday 2025: as melhores ofertas e cupons com até 64% OFF [ATUALIZADO]</title>
-      <link>https://tecnoblog.net/achados/black-friday-2025-as-melhores-ofertas-e-cupons-com-ate-62-off/</link>
-      <description>Veja as ofertas de Black Friday antecipadas para celulares, tablets, notebooks, TVs e muito mais; além de cupons de desconto exclusivos</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/black-friday-2025-as-melhores-ofertas-e-cupons-com-ate-62-off/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/iphone-15-black-friday-340x191.png" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 14 Nov 2025 19:38:03 +0000</pubDate>
-    </item>
-    <item>
       <title>ChatGPT corrige bug do travessão que insistia em aparecer nos textos</title>
       <link>https://tecnoblog.net/noticias/chatgpt-corrige-bug-do-travessao-que-insistia-em-aparecer-nos-textos/</link>
       <description>Atualização da OpenAI faz ChatGPT seguir ordem para não usar travessão (—) nos textos. Até então, era comum a IA ignorar essa instrução.</description>
@@ -223,6 +215,14 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/android-pode-repetir-iphone-e-ganhar-envio-facil-de-contato/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/06/captura-de-tela-2023-06-05-as-14-26-31-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Fri, 14 Nov 2025 21:40:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Meta usará IA como critério de avaliação dos funcionários</title>
+      <link>https://tecnoblog.net/noticias/meta-usara-ia-como-criterio-de-avaliacao-dos-funcionarios/</link>
+      <description>Empresa também vai liberar IA para ajudar funcionários a escreverem suas próprias avaliações. Modelo deve ser adotado totalmente em 2026.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/meta-usara-ia-como-criterio-de-avaliacao-dos-funcionarios/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/02/Capa-Mark-Zuckerberg-04-340x191.png" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 15 Nov 2025 12:00:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
