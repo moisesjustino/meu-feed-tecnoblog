@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 17 Nov 2025 12:24:10 +0000</lastBuildDate>
-    <item>
-      <title>Esquenta Black: Moto G56 (256 GB) tem 49% OFF em oferta imbatível</title>
-      <link>https://tecnoblog.net/achados/esquenta-black-moto-g56-256-gb-tem-49-off-em-oferta-imbativel/</link>
-      <description>Moto G56 com câmera de 50 MP e bateria de 5.200 mAh sai por quase a metade do preço no Pix e cupom exclusivo do app da Amazon</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/esquenta-black-moto-g56-256-gb-tem-49-off-em-oferta-imbativel/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/2025_motorola-g_bogota_gallery-shoot_30-2-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 13 Nov 2025 17:51:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google lança recursos de IA que ajudam a fazer compras online</title>
-      <link>https://tecnoblog.net/noticias/google-lanca-recursos-de-ia-que-ajudam-a-fazer-compras-online/</link>
-      <description>Modo IA do Google e Gemini agoram podem ajudar usuário a fazer compras online. Recursos chegam primeiro aos Estados Unidos.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/google-lanca-recursos-de-ia-que-ajudam-a-fazer-compras-online/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/google-ia-compras-340x191.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 13 Nov 2025 18:18:05 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 17 Nov 2025 13:26:26 +0000</lastBuildDate>
     <item>
       <title>Esquenta Black: Galaxy A36 5G tem oferta pela metade do preço na Amazon</title>
       <link>https://tecnoblog.net/achados/esquenta-black-galaxy-a36-5g-tem-oferta-pela-metade-do-preco-na-amazon/</link>
@@ -223,6 +207,22 @@
       <guid isPermaLink="false">https://tecnoblog.net/noticias/meta-usara-ia-como-criterio-de-avaliacao-dos-funcionarios/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/02/Capa-Mark-Zuckerberg-04-340x191.png" length="0" type="image/jpeg"/>
       <pubDate>Sat, 15 Nov 2025 12:00:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tim Cook pode deixar comando da Apple em 2026</title>
+      <link>https://tecnoblog.net/noticias/tim-cook-pode-deixar-comando-da-apple-em-2026/</link>
+      <description>Rumores indicam que Tim Cook pode deixar posto de CEO da Apple em algum momento de 2026. John Ternus surge como favorito para assumir comando da empresa.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/tim-cook-pode-deixar-comando-da-apple-em-2026/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/06/apple-wwdc22-hands-on-area-macbook-air-tim-cook-steve-jobs-theater-apple-park-220606-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 17 Nov 2025 13:06:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Jeff Bezos deve dividir comando de nova startup de IA com ex-Google</title>
+      <link>https://tecnoblog.net/noticias/jeff-bezos-deve-dividir-comando-de-nova-startup-de-ia-com-ex-google/</link>
+      <description>Projeto Prometheus terá bilionário como co-CEO ao lado de Vik Bajaj, de acordo com o New York Times. Empresa deve mirar aplicações em engenharia e setores industriais.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/jeff-bezos-deve-dividir-comando-de-nova-startup-de-ia-com-ex-google/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2021/07/jeff-bezos-fundo-preto-340x191.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 17 Nov 2025 13:15:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
