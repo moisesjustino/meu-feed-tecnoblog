@@ -7,21 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 17 Nov 2025 21:10:40 +0000</lastBuildDate>
-    <item>
-      <title>Microsoft não pode barrar revenda de software “usado”, decide Reino Unido</title>
-      <link>https://tecnoblog.net/noticias/microsoft-nao-pode-barrar-revenda-de-software-usado-decide-reino-unido/</link>
-      <description>Sem descrição breve.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/microsoft-nao-pode-barrar-revenda-de-software-usado-decide-reino-unido/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/04/microsoft_capa-3-340x191.jpg" length="0" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>Esquenta Black: Nintendo Switch OLED com Mario Kart 8 Deluxe tem 27% OFF</title>
-      <link>https://tecnoblog.net/achados/esquenta-black-nintendo-switch-oled-com-mario-kart-8-deluxe-tem-27-off/</link>
-      <description>Sem descrição breve.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/esquenta-black-nintendo-switch-oled-com-mario-kart-8-deluxe-tem-27-off/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/nintendo-switch-oled_capa-1_tb-340x191.jpg" length="0" type="image/jpeg"/>
-    </item>
+    <lastBuildDate>Mon, 17 Nov 2025 22:11:31 +0000</lastBuildDate>
     <item>
       <title>O que é emulador de jogos? Saiba como emuladores simulam consoles de games</title>
       <link>https://tecnoblog.net/responde/o-que-e-um-emulador-de-jogos/</link>
@@ -197,6 +183,20 @@
       <description>Sem descrição breve.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/previsao-do-tempo-do-google-vai-ficar-mais-precisa-com-novo-modelo-de-ia/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/11/nuvem-noaa-e1700067184354-340x191.jpg" length="0" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Poco X7 vs Poco X7 Pro: qual é a diferença entre os celulares da Xiaomi?</title>
+      <link>https://tecnoblog.net/guias/comparativo-xiaomi-poco-x7-vs-poco-x7-pro/</link>
+      <description>Sem descrição breve.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/guias/comparativo-xiaomi-poco-x7-vs-poco-x7-pro/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/guia-poco-x7-vs-poco-x7-pro-340x191.png" length="0" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Esquenta Black: Moto G86 (512 GB) tem desconto histórico de 43% com cupom</title>
+      <link>https://tecnoblog.net/achados/esquenta-black-moto-g86-512-gb-tem-desconto-historico-de-43-com-cupom/</link>
+      <description>Sem descrição breve.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/esquenta-black-moto-g86-512-gb-tem-desconto-historico-de-43-com-cupom/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/moto-g86-tem-ram-expansivel-ate-24-gb-foto-divulgacao-4-340x191.png" length="0" type="image/jpeg"/>
     </item>
   </channel>
 </rss>
