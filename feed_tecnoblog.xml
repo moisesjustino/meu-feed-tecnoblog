@@ -7,28 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 18 Nov 2025 16:16:05 +0000</lastBuildDate>
-    <item>
-      <title>Android pode repetir iPhone e ganhar envio fácil de contato</title>
-      <link>https://tecnoblog.net/noticias/android-pode-repetir-iphone-e-ganhar-envio-facil-de-contato/</link>
-      <description>Sem descrição breve.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/android-pode-repetir-iphone-e-ganhar-envio-facil-de-contato/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/06/captura-de-tela-2023-06-05-as-14-26-31-340x191.png" length="0" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>Meta usará IA como critério de avaliação dos funcionários</title>
-      <link>https://tecnoblog.net/noticias/meta-usara-ia-como-criterio-de-avaliacao-dos-funcionarios/</link>
-      <description>Sem descrição breve.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/meta-usara-ia-como-criterio-de-avaliacao-dos-funcionarios/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/02/Capa-Mark-Zuckerberg-04-340x191.png" length="0" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>Tim Cook pode deixar comando da Apple em 2026</title>
-      <link>https://tecnoblog.net/noticias/tim-cook-pode-deixar-comando-da-apple-em-2026/</link>
-      <description>Sem descrição breve.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/tim-cook-pode-deixar-comando-da-apple-em-2026/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/06/apple-wwdc22-hands-on-area-macbook-air-tim-cook-steve-jobs-theater-apple-park-220606-340x191.jpg" length="0" type="image/jpeg"/>
-    </item>
+    <lastBuildDate>Tue, 18 Nov 2025 17:12:18 +0000</lastBuildDate>
     <item>
       <title>Jeff Bezos deve dividir comando de nova startup de IA com ex-Google</title>
       <link>https://tecnoblog.net/noticias/jeff-bezos-deve-dividir-comando-de-nova-startup-de-ia-com-ex-google/</link>
@@ -196,6 +175,27 @@
       <description>Sem descrição breve.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/gemini-3-google-comeca-a-oferecer-seu-novo-modelo-de-ia/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/capa-gemini-3-v2-340x191.png" length="0" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Esquenta Black: iPhone 16 tem oferta exclusiva com 44% OFF na Amazon</title>
+      <link>https://tecnoblog.net/achados/esquenta-black-iphone-16-tem-oferta-exclusiva-com-44-off-na-amazon/</link>
+      <description>Sem descrição breve.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/esquenta-black-iphone-16-tem-oferta-exclusiva-com-44-off-na-amazon/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/iphone-16-e-iphone-16-plus-tem-chip-apple-a18-foto-thassius-velosotecnoblog-340x191.png" length="0" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Ficou mais fácil gerenciar tarefas no Google Agenda</title>
+      <link>https://tecnoblog.net/noticias/ficou-mais-facil-gerenciar-tarefas-no-google-agenda/</link>
+      <description>Sem descrição breve.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/ficou-mais-facil-gerenciar-tarefas-no-google-agenda/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/google-agenda-tarefas-340x191.jpg" length="0" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Galaxy Buds 4 Pro vazam com novo visual e controles por movimento</title>
+      <link>https://tecnoblog.net/noticias/galaxy-buds-4-pro-vazam-com-novo-visual-e-controles-por-movimento/</link>
+      <description>Sem descrição breve.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/galaxy-buds-4-pro-vazam-com-novo-visual-e-controles-por-movimento/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/07/galaxy-buds-3-pro-na-mao-2-340x191.jpg" length="0" type="image/jpeg"/>
     </item>
   </channel>
 </rss>
