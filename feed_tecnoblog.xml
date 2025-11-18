@@ -7,35 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 18 Nov 2025 18:18:16 +0000</lastBuildDate>
-    <item>
-      <title>Integração entre Uber e iFood começa a valer para pedidos e assinaturas</title>
-      <link>https://tecnoblog.net/noticias/integracao-entre-uber-e-ifood-comeca-a-valer-para-pedidos-e-assinaturas/</link>
-      <description>Sem descrição breve.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/integracao-entre-uber-e-ifood-comeca-a-valer-para-pedidos-e-assinaturas/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/05/Capa-Uber-iFood-340x191.png" length="0" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>iPhone dobrável pode superar Galaxy Z Fold 7 em bateria</title>
-      <link>https://tecnoblog.net/noticias/iphone-dobravel-pode-superar-galaxy-z-fold-7-em-bateria/</link>
-      <description>Sem descrição breve.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/iphone-dobravel-pode-superar-galaxy-z-fold-7-em-bateria/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/07/capa-iphone-dobravel-3-340x191.png" length="0" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>Black November: Galaxy S24 Plus (256 GB) fica 54% mais barato em oferta</title>
-      <link>https://tecnoblog.net/achados/black-november-galaxy-s24-plus-256-gb-fica-54-mais-barato-em-oferta/</link>
-      <description>Sem descrição breve.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/black-november-galaxy-s24-plus-256-gb-fica-54-mais-barato-em-oferta/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/galaxy-s24-plus-01-1-340x191.jpg" length="0" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>Steam Machine supera desempenho de 70% dos PCs, afirma Valve</title>
-      <link>https://tecnoblog.net/noticias/steam-machine-supera-desempenho-de-70-dos-pcs-afirma-valve/</link>
-      <description>Sem descrição breve.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/steam-machine-supera-desempenho-de-70-dos-pcs-afirma-valve/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/captura-de-tela-2025-11-12-170307-edited-340x191.png" length="0" type="image/jpeg"/>
-    </item>
+    <lastBuildDate>Tue, 18 Nov 2025 19:10:07 +0000</lastBuildDate>
     <item>
       <title>O que significa WWW? Conheça a história da Rede Mundial de Computadores</title>
       <link>https://tecnoblog.net/responde/o-que-significa-www-conheca-a-historia-da-rede-mundial-de-computadores/</link>
@@ -91,6 +63,13 @@
       <description>Sem descrição breve.</description>
       <guid isPermaLink="false">https://tecnoblog.net/achados/esquenta-black-motorola-edge-60-fusion-256-gb-tem-46-off-em-oferta/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/motorola-edge-60-fusion-black-friday-340x191.png" length="0" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Black November: Galaxy Tab S10 Lite (256 GB) tem oferta até 18x com cupom</title>
+      <link>https://tecnoblog.net/achados/black-november-galaxy-tab-s10-lite-256-gb-tem-oferta-ate-18x-com-cupom/</link>
+      <description>Sem descrição breve.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/black-november-galaxy-tab-s10-lite-256-gb-tem-oferta-ate-18x-com-cupom/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/galaxy-tab-s10-lite-01-340x191.jpg" length="0" type="image/jpeg"/>
     </item>
     <item>
       <title>Executivo da Microsoft cria app de “ring light” no Windows</title>
@@ -156,13 +135,6 @@
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/capa-gemini-3-v2-340x191.png" length="0" type="image/jpeg"/>
     </item>
     <item>
-      <title>Esquenta Black: iPhone 16 tem oferta exclusiva com 44% OFF na Amazon</title>
-      <link>https://tecnoblog.net/achados/esquenta-black-iphone-16-tem-oferta-exclusiva-com-44-off-na-amazon/</link>
-      <description>Sem descrição breve.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/esquenta-black-iphone-16-tem-oferta-exclusiva-com-44-off-na-amazon/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/iphone-16-e-iphone-16-plus-tem-chip-apple-a18-foto-thassius-velosotecnoblog-340x191.png" length="0" type="image/jpeg"/>
-    </item>
-    <item>
       <title>Ficou mais fácil gerenciar tarefas no Google Agenda</title>
       <link>https://tecnoblog.net/noticias/ficou-mais-facil-gerenciar-tarefas-no-google-agenda/</link>
       <description>Sem descrição breve.</description>
@@ -195,7 +167,35 @@
       <link>https://tecnoblog.net/achados/esquenta-black-galaxy-a55-256-gb-tem-46-off-em-ate-12x-sem-juros/</link>
       <description>Sem descrição breve.</description>
       <guid isPermaLink="false">https://tecnoblog.net/achados/esquenta-black-galaxy-a55-256-gb-tem-46-off-em-ate-12x-sem-juros/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/02/Galaxy-A55-Imagem-Everton-FavrettoTecnoblog-340x191.png" length="0" type="image/jpeg"/>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/galaxy-a55-tem-ram-de-8-gb-foto-katarina-bandeiratecnoblog-340x191.png" length="0" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>99Moto e Uber Moto anunciam volta a São Paulo em dezembro</title>
+      <link>https://tecnoblog.net/noticias/99moto-e-uber-moto-anunciam-volta-a-sao-paulo-em-dezembro/</link>
+      <description>Sem descrição breve.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/99moto-e-uber-moto-anunciam-volta-a-sao-paulo-em-dezembro/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/01/uber-moto-340x191.jpg" length="0" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Siri poderá ser substituída nos iPhones do Japão</title>
+      <link>https://tecnoblog.net/noticias/siri-podera-ser-substituida-nos-iphones-do-japao/</link>
+      <description>Sem descrição breve.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/siri-podera-ser-substituida-nos-iphones-do-japao/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/05/Capa-TBR-iOS-26-340x191.png" length="0" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>CEO do Google alerta para riscos do colapso da IA</title>
+      <link>https://tecnoblog.net/noticias/ceo-do-google-alerta-para-riscos-do-colapso-da-ia/</link>
+      <description>Sem descrição breve.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/ceo-do-google-alerta-para-riscos-do-colapso-da-ia/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/11/sp_intro_thumbnail_ljt5ceo-width-1300-340x191.jpg" length="0" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Black November: Huawei Watch Fit 4 Pro tem 52% de desconto em oferta</title>
+      <link>https://tecnoblog.net/achados/black-november-huawei-watch-fit-4-pro-tem-52-de-desconto-em-oferta/</link>
+      <description>Sem descrição breve.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/black-november-huawei-watch-fit-4-pro-tem-52-de-desconto-em-oferta/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/huawei-watch-fit-4-pro-01-340x191.png" length="0" type="image/jpeg"/>
     </item>
   </channel>
 </rss>
