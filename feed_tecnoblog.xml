@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 18 Nov 2025 19:10:07 +0000</lastBuildDate>
-    <item>
-      <title>O que significa WWW? Conheça a história da Rede Mundial de Computadores</title>
-      <link>https://tecnoblog.net/responde/o-que-significa-www-conheca-a-historia-da-rede-mundial-de-computadores/</link>
-      <description>Sem descrição breve.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/responde/o-que-significa-www-conheca-a-historia-da-rede-mundial-de-computadores/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/miguel-angel-padrinan-alba-jnmo0ae0ubg-unsplash-340x191.jpg" length="0" type="image/jpeg"/>
-    </item>
+    <lastBuildDate>Tue, 18 Nov 2025 20:14:05 +0000</lastBuildDate>
     <item>
       <title>Black November: Galaxy S25 Plus (512 GB) em até 18x fica 51% mais barato</title>
       <link>https://tecnoblog.net/achados/black-november-galaxy-s25-plus-512-gb-em-ate-18x-fica-51-mais-barato/</link>
@@ -196,6 +189,13 @@
       <description>Sem descrição breve.</description>
       <guid isPermaLink="false">https://tecnoblog.net/achados/black-november-huawei-watch-fit-4-pro-tem-52-de-desconto-em-oferta/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/huawei-watch-fit-4-pro-01-340x191.png" length="0" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Pesquisadores encontraram 3,5 bilhões de números expostos no WhatsApp</title>
+      <link>https://tecnoblog.net/noticias/pesquisadores-encontraram-35-bilhoes-de-numeros-expostos-no-whatsapp/</link>
+      <description>Sem descrição breve.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/pesquisadores-encontraram-35-bilhoes-de-numeros-expostos-no-whatsapp/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/capa-whats-fora2_thumb_tb-edited-1-340x191.png" length="0" type="image/jpeg"/>
     </item>
   </channel>
 </rss>
