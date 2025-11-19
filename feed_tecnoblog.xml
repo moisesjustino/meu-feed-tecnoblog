@@ -7,21 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 19 Nov 2025 18:17:52 +0000</lastBuildDate>
-    <item>
-      <title>Após críticas, Amazon revela por que colocou publicidade na tela da Alexa</title>
-      <link>https://tecnoblog.net/noticias/apos-criticas-amazon-revela-por-que-colocou-publicidade-na-tela-da-alexa/</link>
-      <description>Sem descrição breve.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/apos-criticas-amazon-revela-por-que-colocou-publicidade-na-tela-da-alexa/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/talita-bruzzi-taliberti-country-manager-da-alexa-340x191.jpeg" length="0" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>Gemini 3: Google começa a oferecer seu novo modelo de IA</title>
-      <link>https://tecnoblog.net/noticias/gemini-3-google-comeca-a-oferecer-seu-novo-modelo-de-ia/</link>
-      <description>Sem descrição breve.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/gemini-3-google-comeca-a-oferecer-seu-novo-modelo-de-ia/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/capa-gemini-3-v2-340x191.png" length="0" type="image/jpeg"/>
-    </item>
+    <lastBuildDate>Wed, 19 Nov 2025 19:09:57 +0000</lastBuildDate>
     <item>
       <title>Esquenta Black: iPhone 16 tem oferta exclusiva com 44% OFF na Amazon</title>
       <link>https://tecnoblog.net/achados/esquenta-black-iphone-16-tem-oferta-exclusiva-com-44-off-na-amazon/</link>
@@ -196,6 +182,20 @@
       <description>Sem descrição breve.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/magalu-e-americanas-fecham-acordo-para-vender-seus-produtos-nos-dois-sites/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/11/foto-fachada-1-340x191.jpg" length="0" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Windows 11 vai ocultar avisos de erro que surgem em telões</title>
+      <link>https://tecnoblog.net/noticias/windows-11-vai-ocultar-avisos-de-erro-que-surgem-em-teloes/</link>
+      <description>Sem descrição breve.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/windows-11-vai-ocultar-avisos-de-erro-que-surgem-em-teloes/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/tela-azul-publica-340x191.jpg" length="0" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Esquenta Black: Nintendo Switch 2 atinge menor preço do mês na Amazon</title>
+      <link>https://tecnoblog.net/achados/esquenta-black-nintendo-switch-2-atinge-menor-preco-do-mes-na-amazon/</link>
+      <description>Sem descrição breve.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/esquenta-black-nintendo-switch-2-atinge-menor-preco-do-mes-na-amazon/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/capa-nintendo-switch-2-01-340x191.jpg" length="0" type="image/jpeg"/>
     </item>
   </channel>
 </rss>
