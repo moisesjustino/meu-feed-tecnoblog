@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 20 Nov 2025 10:13:36 +0000</lastBuildDate>
-    <item>
-      <title>CEO do Google alerta para riscos do colapso da IA</title>
-      <link>https://tecnoblog.net/noticias/ceo-do-google-alerta-para-riscos-do-colapso-da-ia/</link>
-      <description>Sem descrição breve.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/ceo-do-google-alerta-para-riscos-do-colapso-da-ia/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/11/sp_intro_thumbnail_ljt5ceo-width-1300-340x191.jpg" length="0" type="image/jpeg"/>
-    </item>
+    <lastBuildDate>Thu, 20 Nov 2025 11:10:58 +0000</lastBuildDate>
     <item>
       <title>Black November: Huawei Watch Fit 4 Pro tem 52% de desconto em oferta</title>
       <link>https://tecnoblog.net/achados/black-november-huawei-watch-fit-4-pro-tem-52-de-desconto-em-oferta/</link>
@@ -196,6 +189,13 @@
       <description>Sem descrição breve.</description>
       <guid isPermaLink="false">https://tecnoblog.net/achados/black-november-iphone-16-plus-512-gb-tem-oferta-imbativel-com-39-off/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/iphone-16-e-iphone-16-plus-tem-chip-apple-a18-foto-thassius-velosotecnoblog-340x191.png" length="0" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Adobe reduz preços do Creative Cloud no Brasil; veja valores</title>
+      <link>https://tecnoblog.net/noticias/adobe-reduz-precos-do-creative-cloud-no-brasil-veja-valores/</link>
+      <description>Sem descrição breve.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/adobe-reduz-precos-do-creative-cloud-no-brasil-veja-valores/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/cretive-cloud-adobe-340x191.jpg" length="0" type="image/jpeg"/>
     </item>
   </channel>
 </rss>
