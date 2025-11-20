@@ -7,21 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 20 Nov 2025 16:15:23 +0000</lastBuildDate>
-    <item>
-      <title>Acer apresenta linha de notebooks para 2026; veja preços e modelos</title>
-      <link>https://tecnoblog.net/noticias/acer-apresenta-linha-de-notebooks-para-2026-veja-precos-e-modelos/</link>
-      <description>Sem descrição breve.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/acer-apresenta-linha-de-notebooks-para-2026-veja-precos-e-modelos/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/img_4933-340x191.jpg" length="0" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>Black Friday Bluetti: garanta sua estação de energia e não fique no escuro</title>
-      <link>https://tecnoblog.net/publieditoriais/black-friday-bluetti-garanta-sua-estacao-de-energia-e-nao-fique-no-escuro/</link>
-      <description>Sem descrição breve.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/publieditoriais/black-friday-bluetti-garanta-sua-estacao-de-energia-e-nao-fique-no-escuro/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/bluetti-black-friday-2025-capa-340x191.jpg" length="0" type="image/jpeg"/>
-    </item>
+    <lastBuildDate>Thu, 20 Nov 2025 17:10:16 +0000</lastBuildDate>
     <item>
       <title>Cloudflare revela motivo do pior apagão em seis anos</title>
       <link>https://tecnoblog.net/noticias/cloudflare-revela-motivo-do-pior-apagao-em-seis-anos/</link>
@@ -196,6 +182,20 @@
       <description>Sem descrição breve.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/ibm-vai-encerrar-laboratorio-de-pesquisa-no-brasil/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2018/11/ibm-cyber-range-1-340x191.jpg" length="0" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>ChatGPT libera conversas em grupo para usuários no Brasil</title>
+      <link>https://tecnoblog.net/noticias/chatgpt-libera-conversas-em-grupo-para-usuarios-no-brasil/</link>
+      <description>Sem descrição breve.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/chatgpt-libera-conversas-em-grupo-para-usuarios-no-brasil/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/06/chatgpt-1_capa-340x191.png" length="0" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>WhatsApp vai deixar você avisar que está ocupado ou de férias</title>
+      <link>https://tecnoblog.net/noticias/whatsapp-vai-deixar-voce-avisar-que-esta-ocupado-ou-de-ferias/</link>
+      <description>Sem descrição breve.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/whatsapp-vai-deixar-voce-avisar-que-esta-ocupado-ou-de-ferias/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/whatsapp-novo-recado-edited-340x191.png" length="0" type="image/jpeg"/>
     </item>
   </channel>
 </rss>
