@@ -7,21 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 20 Nov 2025 12:23:56 +0000</lastBuildDate>
-    <item>
-      <title>Pesquisadores encontraram 3,5 bilhões de números expostos no WhatsApp</title>
-      <link>https://tecnoblog.net/noticias/pesquisadores-encontraram-35-bilhoes-de-numeros-expostos-no-whatsapp/</link>
-      <description>Sem descrição breve.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/pesquisadores-encontraram-35-bilhoes-de-numeros-expostos-no-whatsapp/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/capa-whats-fora2_thumb_tb-edited-1-340x191.png" length="0" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>Black November: Galaxy S25 Edge (512 GB) em promoção histórica com 50% OFF</title>
-      <link>https://tecnoblog.net/achados/black-november-galaxy-s25-edge-512-gb-em-promocao-historica-com-50-off/</link>
-      <description>Sem descrição breve.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/black-november-galaxy-s25-edge-512-gb-em-promocao-historica-com-50-off/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/galaxy-s25-edge-340x191.png" length="0" type="image/jpeg"/>
-    </item>
+    <lastBuildDate>Thu, 20 Nov 2025 13:24:58 +0000</lastBuildDate>
     <item>
       <title>Black November: Motorola Edge 50 Neo tem 60% OFF até 18x em oferta exclusiva</title>
       <link>https://tecnoblog.net/achados/black-november-motorola-edge-50-neo-tem-60-off-ate-18x-em-oferta-exclusiva/</link>
@@ -196,6 +182,20 @@
       <description>Sem descrição breve.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/xbox-cloud-gaming-chega-as-tvs-lg-e-fire-tv-stick-no-brasil/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/09/image-1-340x191.png" length="0" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Como transferir dados do Android para o iPhone sem precisar resetar o aparelho</title>
+      <link>https://tecnoblog.net/publieditoriais/como-transferir-dados-do-android-para-o-iphone-sem-precisar-resetar-o-aparelho/</link>
+      <description>Sem descrição breve.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/publieditoriais/como-transferir-dados-do-android-para-o-iphone-sem-precisar-resetar-o-aparelho/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/itoolab_watsgo-340x191.png" length="0" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Pesquisadores criam versão do DeepSeek sem a censura chinesa</title>
+      <link>https://tecnoblog.net/noticias/pesquisadores-criam-versao-do-deepseek-sem-a-censura-chinesa/</link>
+      <description>Sem descrição breve.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/pesquisadores-criam-versao-do-deepseek-sem-a-censura-chinesa/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/01/Capa-Deepseek-China-340x191.png" length="0" type="image/jpeg"/>
     </item>
   </channel>
 </rss>
