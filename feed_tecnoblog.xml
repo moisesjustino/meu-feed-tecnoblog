@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 20 Nov 2025 23:11:16 +0000</lastBuildDate>
-    <item>
-      <title>Calendário do Windows 11 vai finalmente exibir eventos</title>
-      <link>https://tecnoblog.net/noticias/calendario-do-windows-11-vai-finalmente-exibir-eventos/</link>
-      <description>Sem descrição breve.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/calendario-do-windows-11-vai-finalmente-exibir-eventos/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/windows-11-calendario-eventos-340x191.jpg" length="0" type="image/jpeg"/>
-    </item>
+    <lastBuildDate>Fri, 21 Nov 2025 00:56:47 +0000</lastBuildDate>
     <item>
       <title>WhatsApp para iPhone começa a receber suporte a múltiplas contas</title>
       <link>https://tecnoblog.net/noticias/whatsapp-para-iphone-comeca-a-receber-suporte-a-multiplas-contas/</link>
@@ -196,6 +189,13 @@
       <description>Sem descrição breve.</description>
       <guid isPermaLink="false">https://tecnoblog.net/achados/esquenta-black-galaxy-tab-s10-lite-128-gb-tem-33-off-com-cupom-exclusivo/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/galaxy-tab-s10-lite-01-340x191.jpg" length="0" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>É oficial: Quick Share do Android agora é compatível com o AirDrop</title>
+      <link>https://tecnoblog.net/noticias/e-oficial-quick-share-do-android-agora-e-compativel-com-o-airdrop/</link>
+      <description>Sem descrição breve.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/e-oficial-quick-share-do-android-agora-e-compativel-com-o-airdrop/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/android_quick_share_and_ios_airdrop_compatibility.gif" length="0" type="image/jpeg"/>
     </item>
   </channel>
 </rss>
