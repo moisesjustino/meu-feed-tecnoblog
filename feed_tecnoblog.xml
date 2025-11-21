@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 21 Nov 2025 13:22:35 +0000</lastBuildDate>
-    <item>
-      <title>Magalu e Americanas fecham acordo para venda de produtos</title>
-      <link>https://tecnoblog.net/noticias/magalu-e-americanas-fecham-acordo-para-vender-seus-produtos-nos-dois-sites/</link>
-      <description>Sem descrição breve.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/magalu-e-americanas-fecham-acordo-para-vender-seus-produtos-nos-dois-sites/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/11/foto-fachada-1-340x191.jpg" length="0" type="image/jpeg"/>
-    </item>
+    <lastBuildDate>Fri, 21 Nov 2025 14:12:05 +0000</lastBuildDate>
     <item>
       <title>Windows 11 vai ocultar avisos de erro que surgem em telões</title>
       <link>https://tecnoblog.net/noticias/windows-11-vai-ocultar-avisos-de-erro-que-surgem-em-teloes/</link>
@@ -196,6 +189,13 @@
       <description>Sem descrição breve.</description>
       <guid isPermaLink="false">https://tecnoblog.net/achados/esquenta-black-kindle-entra-em-oferta-na-amazon-com-24-off/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/kindle-1-340x191.jpg" length="0" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Esquenta Black: Kindle Paperwhite tem 24% de desconto na Amazon</title>
+      <link>https://tecnoblog.net/achados/esquenta-black-kindle-paperwhite-tem-24-de-desconto-na-amazon/</link>
+      <description>Sem descrição breve.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/esquenta-black-kindle-paperwhite-tem-24-de-desconto-na-amazon/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/kindle-paperwhite-2021-7-1-340x191.jpg" length="0" type="image/jpeg"/>
     </item>
   </channel>
 </rss>
