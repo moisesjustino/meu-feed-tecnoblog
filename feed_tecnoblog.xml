@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 24 Nov 2025 13:27:31 +0000</lastBuildDate>
-    <item>
-      <title>IBM vai encerrar laboratório de pesquisa no Brasil</title>
-      <link>https://tecnoblog.net/noticias/ibm-vai-encerrar-laboratorio-de-pesquisa-no-brasil/</link>
-      <description>Sem descrição breve.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/ibm-vai-encerrar-laboratorio-de-pesquisa-no-brasil/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2018/11/ibm-cyber-range-1-340x191.jpg" length="0" type="image/jpeg"/>
-    </item>
+    <lastBuildDate>Mon, 24 Nov 2025 14:13:10 +0000</lastBuildDate>
     <item>
       <title>ChatGPT libera conversas em grupo para usuários no Brasil</title>
       <link>https://tecnoblog.net/noticias/chatgpt-libera-conversas-em-grupo-para-usuarios-no-brasil/</link>
@@ -56,6 +49,13 @@
       <description>Sem descrição breve.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/chatgpt-atlas-agora-suporta-abas-verticais/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/06/sam-altman-1-capa-340x191.png" length="0" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Esquenta Black: Galaxy Tab S10 Lite (128 GB) tem 33% OFF com cupom exclusivo</title>
+      <link>https://tecnoblog.net/achados/esquenta-black-galaxy-tab-s10-lite-128-gb-tem-33-off-com-cupom-exclusivo/</link>
+      <description>Sem descrição breve.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/esquenta-black-galaxy-tab-s10-lite-128-gb-tem-33-off-com-cupom-exclusivo/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/galaxy-tab-s10-lite-01-340x191.jpg" length="0" type="image/jpeg"/>
     </item>
     <item>
       <title>É oficial: Quick Share do Android agora é compatível com o AirDrop</title>
@@ -107,13 +107,6 @@
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/tbr-s24-vs-s24fe-340x191.png" length="0" type="image/jpeg"/>
     </item>
     <item>
-      <title>Gmail já usa seus emails para treinar IA; saiba desativar</title>
-      <link>https://tecnoblog.net/noticias/gmail-ja-usa-seus-emails-para-treinar-ia-saiba-desativar/</link>
-      <description>Sem descrição breve.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/gmail-ja-usa-seus-emails-para-treinar-ia-saiba-desativar/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/gmail-espiao-340x191.png" length="0" type="image/jpeg"/>
-    </item>
-    <item>
       <title>Esquenta Black: Galaxy S24 Plus (256 GB) em até 12x com 53% OFF em oferta exclusiva</title>
       <link>https://tecnoblog.net/achados/esquenta-black-galaxy-s24-plus-256-gb-em-ate-12x-com-53-off-em-oferta-exclusiva/</link>
       <description>Sem descrição breve.</description>
@@ -147,13 +140,6 @@
       <description>Sem descrição breve.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/voce-usaria-a-polemica-pulseira-que-da-choques-para-te-manter-acordado/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/chamada-relogio-de-choque-chines-340x191.jpg" length="0" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>Esquenta Black: Echo Dot fica 34% mais barato em promoção da Amazon</title>
-      <link>https://tecnoblog.net/achados/esquenta-black-echo-dot-fica-34-mais-barato-em-promocao-da-amazon/</link>
-      <description>Sem descrição breve.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/esquenta-black-echo-dot-fica-34-mais-barato-em-promocao-da-amazon/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/amazon-echo-dot-foto-thassius-velosotecnoblog-340x191.png" length="0" type="image/jpeg"/>
     </item>
     <item>
       <title>Black November: iPhone 16e tem oferta histórica até 12x com 43% OFF</title>
@@ -196,6 +182,20 @@
       <description>Sem descrição breve.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/explorador-de-arquivos-do-windows-11-pode-ficar-mais-rapido-e-simples/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/07/windows-11-1-340x191.png" length="0" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Google nega usar emails para treinar inteligência artificial</title>
+      <link>https://tecnoblog.net/noticias/google-nega-usar-emails-para-treinar-inteligencia-artificial/</link>
+      <description>Sem descrição breve.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/google-nega-usar-emails-para-treinar-inteligencia-artificial/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/gmail_capa-2_tb-edited-340x191.png" length="0" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Black November: Galaxy S24 (256 GB) tem melhor oferta do ano por até 12x</title>
+      <link>https://tecnoblog.net/achados/black-november-galaxy-s24-256-gb-tem-melhor-oferta-do-ano-por-ate-12x/</link>
+      <description>Sem descrição breve.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/black-november-galaxy-s24-256-gb-tem-melhor-oferta-do-ano-por-ate-12x/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/galaxy-s24-black-friday-340x191.png" length="0" type="image/jpeg"/>
     </item>
   </channel>
 </rss>
