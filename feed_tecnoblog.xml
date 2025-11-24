@@ -7,21 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 24 Nov 2025 14:13:10 +0000</lastBuildDate>
-    <item>
-      <title>ChatGPT libera conversas em grupo para usuários no Brasil</title>
-      <link>https://tecnoblog.net/noticias/chatgpt-libera-conversas-em-grupo-para-usuarios-no-brasil/</link>
-      <description>Sem descrição breve.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/chatgpt-libera-conversas-em-grupo-para-usuarios-no-brasil/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/06/chatgpt-1_capa-340x191.png" length="0" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>WhatsApp vai deixar você avisar que está ocupado ou de férias</title>
-      <link>https://tecnoblog.net/noticias/whatsapp-vai-deixar-voce-avisar-que-esta-ocupado-ou-de-ferias/</link>
-      <description>Sem descrição breve.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/whatsapp-vai-deixar-voce-avisar-que-esta-ocupado-ou-de-ferias/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/whatsapp-novo-recado-edited-340x191.png" length="0" type="image/jpeg"/>
-    </item>
+    <lastBuildDate>Mon, 24 Nov 2025 15:14:03 +0000</lastBuildDate>
     <item>
       <title>Realme lança GT 8 Pro com módulo de câmera destacável</title>
       <link>https://tecnoblog.net/noticias/realme-lanca-gt-8-pro-com-modulo-de-camera-destacavel/</link>
@@ -191,11 +177,25 @@
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/gmail_capa-2_tb-edited-340x191.png" length="0" type="image/jpeg"/>
     </item>
     <item>
-      <title>Black November: Galaxy S24 (256 GB) tem melhor oferta do ano por até 12x</title>
+      <title>Black Friday: Galaxy S24 (256 GB) tem melhor oferta do ano por até 12x</title>
       <link>https://tecnoblog.net/achados/black-november-galaxy-s24-256-gb-tem-melhor-oferta-do-ano-por-ate-12x/</link>
       <description>Sem descrição breve.</description>
       <guid isPermaLink="false">https://tecnoblog.net/achados/black-november-galaxy-s24-256-gb-tem-melhor-oferta-do-ano-por-ate-12x/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/galaxy-s24-black-friday-340x191.png" length="0" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Starlink supera demais empresas de satélite na América Latina</title>
+      <link>https://tecnoblog.net/noticias/starlink-supera-demais-empresas-de-satelite-na-america-latina/</link>
+      <description>Sem descrição breve.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/starlink-supera-demais-empresas-de-satelite-na-america-latina/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/04/Capa-Starlink-Mini-340x191.png" length="0" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Black Friday: Galaxy S24 FE (128 GB) com melhor preço que já vimos</title>
+      <link>https://tecnoblog.net/achados/black-friday-galaxy-s24-fe-128-gb-com-melhor-preco-que-ja-vimos/</link>
+      <description>Sem descrição breve.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/black-friday-galaxy-s24-fe-128-gb-com-melhor-preco-que-ja-vimos/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/galaxy-s24-fe-black-friday-340x191.png" length="0" type="image/jpeg"/>
     </item>
   </channel>
 </rss>
