@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 24 Nov 2025 22:11:17 +0000</lastBuildDate>
-    <item>
-      <title>Google faz testes para colocar anúncios no Modo IA</title>
-      <link>https://tecnoblog.net/noticias/google-faz-testes-para-colocar-anuncios-no-modo-ia/</link>
-      <description>Sem descrição breve.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/google-faz-testes-para-colocar-anuncios-no-modo-ia/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/08/google-ia-capa-1-edited-2-340x191.jpg" length="0" type="image/jpeg"/>
-    </item>
+    <lastBuildDate>Mon, 24 Nov 2025 23:11:20 +0000</lastBuildDate>
     <item>
       <title>Esquenta Black: Notebook Acer Nitro tem oferta quase pela metade do preço</title>
       <link>https://tecnoblog.net/achados/esquenta-black-notebook-acer-nitro-tem-oferta-por-menos-da-metade-do-preco/</link>
@@ -135,6 +128,13 @@
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/galaxy-tab-s10-fe-plus-black-friday-340x191.png" length="0" type="image/jpeg"/>
     </item>
     <item>
+      <title>Black Friday: iPhone 16 (256 GB) sai 40% mais barato em oferta na Amazon</title>
+      <link>https://tecnoblog.net/achados/black-friday-iphone-16-256-gb-sai-40-mais-barato-em-oferta-na-amazon/</link>
+      <description>Sem descrição breve.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/black-friday-iphone-16-256-gb-sai-40-mais-barato-em-oferta-na-amazon/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/iphone-16-e-iphone-16-plus-tem-chip-apple-a18-foto-thassius-velosotecnoblog-340x191.png" length="0" type="image/jpeg"/>
+    </item>
+    <item>
       <title>Tinder do Brasil começa a checar se usuários são robôs ou pessoas</title>
       <link>https://tecnoblog.net/noticias/tinder-do-brasil-comeca-a-checar-se-usuarios-sao-robos-ou-pessoas/</link>
       <description>Sem descrição breve.</description>
@@ -147,13 +147,6 @@
       <description>Sem descrição breve.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/meta-interrompeu-estudo-sobre-danos-causados-por-redes-sociais/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/02/Capa-Mark-Zuckerberg-03-340x191.png" length="0" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>Black Friday: Galaxy Watch 8 LTE (40 mm) em oferta com 49% de desconto</title>
-      <link>https://tecnoblog.net/achados/black-friday-galaxy-watch-8-lte-40-mm-em-oferta-com-49-de-desconto/</link>
-      <description>Sem descrição breve.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/black-friday-galaxy-watch-8-lte-40-mm-em-oferta-com-49-de-desconto/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/galaxy-watch-8-black-friday-340x191.png" length="0" type="image/jpeg"/>
     </item>
     <item>
       <title>Black Friday: Nintendo Switch OLED tem desconto imperdível com cupom</title>
@@ -196,6 +189,13 @@
       <description>Sem descrição breve.</description>
       <guid isPermaLink="false">https://tecnoblog.net/achados/black-friday-iphone-15-tem-48-de-desconto-com-cupom-no-mercado-livre/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/iphone-15-tem-apple-a16-bionic-foto-thassius-velosotecnoblog-340x191.png" length="0" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Claude Opus 4.5 chega com conversas infinitas e foco em agentes</title>
+      <link>https://tecnoblog.net/noticias/claude-opus-4-5-chega-com-conversas-infinitas-e-foco-em-agentes/</link>
+      <description>Sem descrição breve.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/claude-opus-4-5-chega-com-conversas-infinitas-e-foco-em-agentes/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/anthropic-claude-opus-4-5-edited-340x191.png" length="0" type="image/jpeg"/>
     </item>
   </channel>
 </rss>
