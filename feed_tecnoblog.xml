@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 25 Nov 2025 18:19:04 +0000</lastBuildDate>
-    <item>
-      <title>Black Friday: Galaxy S25 Ultra (512 GB) tem 47% OFF na melhor oferta recente</title>
-      <link>https://tecnoblog.net/achados/black-friday-galaxy-s25-ultra-512-gb-tem-47-off-na-melhor-oferta-recente/</link>
-      <description>Sem descrição breve.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/black-friday-galaxy-s25-ultra-512-gb-tem-47-off-na-melhor-oferta-recente/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/galaxy-s25-ultra-340x191.png" length="0" type="image/jpeg"/>
-    </item>
+    <lastBuildDate>Tue, 25 Nov 2025 19:10:13 +0000</lastBuildDate>
     <item>
       <title>Black Friday: iPhone 16e tem 44% OFF em oferta com cupom na Amazon</title>
       <link>https://tecnoblog.net/achados/black-friday-iphone-16e-tem-46-off-em-oferta-com-cupom-na-amazon/</link>
@@ -196,6 +189,13 @@
       <description>Sem descrição breve.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/qualcomm-ja-e-acusada-de-estragar-a-arduino/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/qualcomm-arduino-340x191.jpg" length="0" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Black Friday: Galaxy Tab S11 (256 GB) tem menor preço desde lançamento</title>
+      <link>https://tecnoblog.net/achados/black-friday-galaxy-tab-s11-256-gb-tem-menor-preco-desde-lancamento/</link>
+      <description>Sem descrição breve.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/black-friday-galaxy-tab-s11-256-gb-tem-menor-preco-desde-lancamento/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/galaxy-tab-s11-black-friday-340x191.png" length="0" type="image/jpeg"/>
     </item>
   </channel>
 </rss>
