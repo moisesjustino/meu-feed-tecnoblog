@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 25 Nov 2025 22:12:05 +0000</lastBuildDate>
-    <item>
-      <title>Claude Opus 4.5 chega com conversas infinitas e foco em agentes</title>
-      <link>https://tecnoblog.net/noticias/claude-opus-4-5-chega-com-conversas-infinitas-e-foco-em-agentes/</link>
-      <description>Sem descrição breve.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/claude-opus-4-5-chega-com-conversas-infinitas-e-foco-em-agentes/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/anthropic-claude-opus-4-5-edited-340x191.png" length="0" type="image/jpeg"/>
-    </item>
+    <lastBuildDate>Tue, 25 Nov 2025 23:11:16 +0000</lastBuildDate>
     <item>
       <title>Black Friday: iPhone 16e (512 GB) tem oferta histórica com 42% OFF</title>
       <link>https://tecnoblog.net/achados/black-friday-iphone-16e-512-gb-tem-oferta-historica-com-42-off/</link>
@@ -135,6 +128,13 @@
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/motorola-edge-60-pro-black-friday-340x191.png" length="0" type="image/jpeg"/>
     </item>
     <item>
+      <title>JOVI V50 e V50 Lite têm até R$ 1.100 OFF em 18x com cupom exclusivo</title>
+      <link>https://tecnoblog.net/achados/jovi-v50-e-v50-lite-tem-ate-r-1-100-off-em-18x-com-cupom-exclusivo/</link>
+      <description>Sem descrição breve.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/jovi-v50-e-v50-lite-tem-ate-r-1-100-off-em-18x-com-cupom-exclusivo/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/jovi-v50-tem-chip-da-qualcomm-na-ficha-tecnica-foto-thassius-veloso-tecnoblog-340x191.png" length="0" type="image/jpeg"/>
+    </item>
+    <item>
       <title>Qualcomm já é acusada de “estragar” a Arduino</title>
       <link>https://tecnoblog.net/noticias/qualcomm-ja-e-acusada-de-estragar-a-arduino/</link>
       <description>Sem descrição breve.</description>
@@ -147,13 +147,6 @@
       <description>Sem descrição breve.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/rival-brasileiro-do-flipper-zero-arrecada-mais-de-r-800-mil-no-kickstarter/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/high_boy_hand-edited-340x191.jpg" length="0" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>Black Friday: Huawei Watch GT 6 Pro tem melhor oferta até hoje</title>
-      <link>https://tecnoblog.net/achados/black-friday-huawei-watch-gt-6-pro-ate-24x-tem-melhor-oferta-ate-hoje/</link>
-      <description>Sem descrição breve.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/black-friday-huawei-watch-gt-6-pro-ate-24x-tem-melhor-oferta-ate-hoje/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/huawei-watch-gt-6-pro-black-friday-340x191.png" length="0" type="image/jpeg"/>
     </item>
     <item>
       <title>Microsoft Copilot será removido do WhatsApp em janeiro</title>
@@ -196,6 +189,13 @@
       <description>Sem descrição breve.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/meta-pode-adotar-chips-do-google-e-pressionar-a-nvidia/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/11/meta-capa-2-nov-2022-340x191.png" length="0" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Huawei lança Mate 80 e promete tela com brilho recorde</title>
+      <link>https://tecnoblog.net/noticias/huawei-lanca-mate-80-e-promete-tela-com-brilho-recorde/</link>
+      <description>Sem descrição breve.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/huawei-lanca-mate-80-e-promete-tela-com-brilho-recorde/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/huawei-mate-80-pro-max-dual-layer-oled-edited-340x191.jpg" length="0" type="image/jpeg"/>
     </item>
   </channel>
 </rss>
