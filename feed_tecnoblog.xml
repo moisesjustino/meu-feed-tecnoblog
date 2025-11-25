@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 25 Nov 2025 17:13:20 +0000</lastBuildDate>
-    <item>
-      <title>Tinder do Brasil começa a checar se usuários são robôs ou pessoas</title>
-      <link>https://tecnoblog.net/noticias/tinder-do-brasil-comeca-a-checar-se-usuarios-sao-robos-ou-pessoas/</link>
-      <description>Sem descrição breve.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/tinder-do-brasil-comeca-a-checar-se-usuarios-sao-robos-ou-pessoas/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/image-23-edited-340x191.png" length="0" type="image/jpeg"/>
-    </item>
+    <lastBuildDate>Tue, 25 Nov 2025 18:19:04 +0000</lastBuildDate>
     <item>
       <title>Black Friday: Galaxy S25 Ultra (512 GB) tem 47% OFF na melhor oferta recente</title>
       <link>https://tecnoblog.net/achados/black-friday-galaxy-s25-ultra-512-gb-tem-47-off-na-melhor-oferta-recente/</link>
@@ -44,7 +37,7 @@
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/samsung-galaxy-watch-8-classic-capa-achados-340x191.jpg" length="0" type="image/jpeg"/>
     </item>
     <item>
-      <title>Black Friday: Galaxy Watch 8 LTE (40 mm) em oferta com 49% de desconto</title>
+      <title>Black Friday: Galaxy Watch 8 LTE (40 mm) em oferta com 43% de desconto</title>
       <link>https://tecnoblog.net/achados/black-friday-galaxy-watch-8-lte-40-mm-em-oferta-com-49-de-desconto/</link>
       <description>Sem descrição breve.</description>
       <guid isPermaLink="false">https://tecnoblog.net/achados/black-friday-galaxy-watch-8-lte-40-mm-em-oferta-com-49-de-desconto/</guid>
@@ -196,6 +189,13 @@
       <description>Sem descrição breve.</description>
       <guid isPermaLink="false">https://tecnoblog.net/achados/jovi-v50-e-v50-lite-tem-ate-r-1-100-off-em-18x-com-cupom-exclusivo/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/jovi-v50-tem-chip-da-qualcomm-na-ficha-tecnica-foto-thassius-veloso-tecnoblog-340x191.png" length="0" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Qualcomm já é acusada de “estragar” a Arduino</title>
+      <link>https://tecnoblog.net/noticias/qualcomm-ja-e-acusada-de-estragar-a-arduino/</link>
+      <description>Sem descrição breve.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/qualcomm-ja-e-acusada-de-estragar-a-arduino/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/10/qualcomm-arduino-340x191.jpg" length="0" type="image/jpeg"/>
     </item>
   </channel>
 </rss>
