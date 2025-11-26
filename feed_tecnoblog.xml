@@ -7,21 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 26 Nov 2025 14:13:03 +0000</lastBuildDate>
-    <item>
-      <title>Bloco de Notas para Windows 11 vai suportar tabelas e mais IA</title>
-      <link>https://tecnoblog.net/noticias/bloco-de-notas-para-windows-11-vai-suportar-tabelas-e-mais-ia/</link>
-      <description>Sem descrição breve.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/bloco-de-notas-para-windows-11-vai-suportar-tabelas-e-mais-ia/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/bloco-de-notas-tabelas-1-340x191.jpg" length="0" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>Black Friday: Galaxy Ring tem 63% OFF em vários tamanhos e cores</title>
-      <link>https://tecnoblog.net/achados/black-friday-galaxy-ring-tem-63-off-em-varios-tamanhos-e-cores/</link>
-      <description>Sem descrição breve.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/black-friday-galaxy-ring-tem-63-off-em-varios-tamanhos-e-cores/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/07/galaxy-ring-esta-em-promocao-foto-thassius-velosotecnoblog-340x191.png" length="0" type="image/jpeg"/>
-    </item>
+    <lastBuildDate>Wed, 26 Nov 2025 15:11:23 +0000</lastBuildDate>
     <item>
       <title>Black Friday: Notebook Acer Nitro fica 47% mais barato com cupom na Amazon</title>
       <link>https://tecnoblog.net/achados/black-friday-notebook-acer-nitro-fica-47-mais-barato-com-cupom-na-amazon/</link>
@@ -196,6 +182,20 @@
       <description>Sem descrição breve.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/openai-alega-que-chatgpt-e-inocente-em-suicidio-de-jovem/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/06/sam-altman-1-capa-340x191.png" length="0" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Black Friday: Galaxy Tab S10 Lite (256 GB) com desconto histórico de 40%</title>
+      <link>https://tecnoblog.net/achados/black-friday-galaxy-tab-s10-lite-256-gb-com-desconto-historico-de-40/</link>
+      <description>Sem descrição breve.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/black-friday-galaxy-tab-s10-lite-256-gb-com-desconto-historico-de-40/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/galaxy-tab-s10-lite-01-340x191.jpg" length="0" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Motorola já pode vender o ultrafino Edge 70 no Brasil</title>
+      <link>https://tecnoblog.net/noticias/motorola-ja-pode-vender-o-ultrafino-edge-70-no-brasil/</link>
+      <description>Sem descrição breve.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/motorola-ja-pode-vender-o-ultrafino-edge-70-no-brasil/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/videoframe_2795-edited-1-340x191.png" length="0" type="image/jpeg"/>
     </item>
   </channel>
 </rss>
