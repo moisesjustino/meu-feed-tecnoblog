@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 26 Nov 2025 13:29:17 +0000</lastBuildDate>
-    <item>
-      <title>ChatGPT ganha novo assistente de compras interativo</title>
-      <link>https://tecnoblog.net/noticias/chatgpt-recebe-novo-assistente-de-compras/</link>
-      <description>Sem descrição breve.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/chatgpt-recebe-novo-assistente-de-compras/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/image-25-340x191.png" length="0" type="image/jpeg"/>
-    </item>
+    <lastBuildDate>Wed, 26 Nov 2025 14:13:03 +0000</lastBuildDate>
     <item>
       <title>Bloco de Notas para Windows 11 vai suportar tabelas e mais IA</title>
       <link>https://tecnoblog.net/noticias/bloco-de-notas-para-windows-11-vai-suportar-tabelas-e-mais-ia/</link>
@@ -142,18 +135,18 @@
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/08/buds-3-pro-achados-340x191.png" length="0" type="image/jpeg"/>
     </item>
     <item>
+      <title>Black Friday: Huawei Watch GT 6 Pro tem melhor oferta até hoje</title>
+      <link>https://tecnoblog.net/achados/black-friday-huawei-watch-gt-6-pro-ate-24x-tem-melhor-oferta-ate-hoje/</link>
+      <description>Sem descrição breve.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/black-friday-huawei-watch-gt-6-pro-ate-24x-tem-melhor-oferta-ate-hoje/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/huawei-watch-gt-6-pro-black-friday-340x191.png" length="0" type="image/jpeg"/>
+    </item>
+    <item>
       <title>Microsoft Copilot será removido do WhatsApp em janeiro</title>
       <link>https://tecnoblog.net/noticias/microsoft-copilot-sera-removido-do-whatsapp-em-janeiro/</link>
       <description>Sem descrição breve.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/microsoft-copilot-sera-removido-do-whatsapp-em-janeiro/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2024/10/copilot-whatsapp-tecnoblog-340x191.png" length="0" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>Black Friday: Notebook Acer Aspire GO 15 em promoção histórica com 49% OFF</title>
-      <link>https://tecnoblog.net/achados/black-friday-notebook-acer-aspire-go-15-em-promocao-historica-com-49-off/</link>
-      <description>Sem descrição breve.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/black-friday-notebook-acer-aspire-go-15-em-promocao-historica-com-49-off/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/notebook-acer-aspire-go-15-imagem-divulgacao-340x191.png" length="0" type="image/jpeg"/>
     </item>
     <item>
       <title>Meta pode adotar chips do Google e pressionar a Nvidia</title>
@@ -196,6 +189,13 @@
       <description>Sem descrição breve.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/qualcomm-anuncia-snapdragon-8-gen-5-nao-elite-para-celulares-avancados/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/snapdragon-8-gen-5-340x191.jpg" length="0" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>OpenAI alega que ChatGPT é inocente em suicídio de jovem</title>
+      <link>https://tecnoblog.net/noticias/openai-alega-que-chatgpt-e-inocente-em-suicidio-de-jovem/</link>
+      <description>Sem descrição breve.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/openai-alega-que-chatgpt-e-inocente-em-suicidio-de-jovem/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/06/sam-altman-1-capa-340x191.png" length="0" type="image/jpeg"/>
     </item>
   </channel>
 </rss>
