@@ -7,21 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 27 Nov 2025 21:10:59 +0000</lastBuildDate>
-    <item>
-      <title>Dell revela que transição para o Windows 11 está muito lenta</title>
-      <link>https://tecnoblog.net/noticias/dell-revela-que-transicao-para-o-windows-11-esta-muito-lenta/</link>
-      <description>Sem descrição breve.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/dell-revela-que-transicao-para-o-windows-11-esta-muito-lenta/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/07/windows-11-4-340x191.png" length="0" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>Black Friday: Galaxy S25 Ultra (256 GB) tem 54% OFF em oferta na Amazon</title>
-      <link>https://tecnoblog.net/achados/black-friday-galaxy-s25-ultra-256-gb-tem-54-off-em-oferta-na-amazon/</link>
-      <description>Sem descrição breve.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/black-friday-galaxy-s25-ultra-256-gb-tem-54-off-em-oferta-na-amazon/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/galaxy-s25-ultra-tem-amoled-de-69-polegadas-foto-divulgacao-1-340x191.png" length="0" type="image/jpeg"/>
-    </item>
+    <lastBuildDate>Thu, 27 Nov 2025 22:11:22 +0000</lastBuildDate>
     <item>
       <title>GPU da Nvidia causa discórdia e até demissão; entenda o caso</title>
       <link>https://tecnoblog.net/noticias/gpu-da-nvidia-causa-discordia-e-ate-demissao-entenda-o-caso/</link>
@@ -128,6 +114,13 @@
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/galaxy-s25-black-friday-340x191.png" length="0" type="image/jpeg"/>
     </item>
     <item>
+      <title>Oferta relâmpago: Nintendo Switch OLED tem 38% OFF na Black Friday 2025</title>
+      <link>https://tecnoblog.net/achados/oferta-relampago-nintendo-switch-oled-tem-38-off-na-black-friday-2025/</link>
+      <description>Sem descrição breve.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/oferta-relampago-nintendo-switch-oled-tem-38-off-na-black-friday-2025/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/nintendo-switch-oled_capa-1_tb-340x191.jpg" length="0" type="image/jpeg"/>
+    </item>
+    <item>
       <title>Black Friday: Galaxy Z Flip 7 FE fica pela metade do preço em promoção</title>
       <link>https://tecnoblog.net/achados/black-friday-galaxy-z-flip-7-fe-fica-pela-metade-do-preco-em-promocao/</link>
       <description>Sem descrição breve.</description>
@@ -147,13 +140,6 @@
       <description>Sem descrição breve.</description>
       <guid isPermaLink="false">https://tecnoblog.net/achados/black-friday-motorola-edge-60-pro-512-gb-tem-desconto-imbativel-de-48/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/motorola-edge-60-pro-black-friday-340x191.png" length="0" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>Black Friday: Garmin Forerunner 165 com 44% OFF em até 10x na Amazon</title>
-      <link>https://tecnoblog.net/achados/black-friday-garmin-forerunner-165-com-44-off-em-ate-10x-na-amazon/</link>
-      <description>Sem descrição breve.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/black-friday-garmin-forerunner-165-com-44-off-em-ate-10x-na-amazon/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/garmin-forerunner-165-340x191.jpg" length="0" type="image/jpeg"/>
     </item>
     <item>
       <title>Sky pode lançar operadora virtual no Brasil em 2026</title>
@@ -196,6 +182,20 @@
       <description>Sem descrição breve.</description>
       <guid isPermaLink="false">https://tecnoblog.net/achados/black-friday-galaxy-book-4-ate-12x-fica-36-mais-barato-na-amazon/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/galaxy-book4-01-340x191.jpg" length="0" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Black Friday: Moto G75 (256 GB) em oferta de 45% de desconto com cupom</title>
+      <link>https://tecnoblog.net/achados/black-friday-moto-g75-256-gb-em-oferta-de-45-de-desconto-com-cupom/</link>
+      <description>Sem descrição breve.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/black-friday-moto-g75-256-gb-em-oferta-de-45-de-desconto-com-cupom/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/motog75-black-friday-340x191.png" length="0" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Black Friday: iPhone 16 fica 44% mais barato na Amazon com cupom</title>
+      <link>https://tecnoblog.net/achados/black-friday-iphone-16-fica-44-mais-barato-na-amazon-com-cupom/</link>
+      <description>Sem descrição breve.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/black-friday-iphone-16-fica-44-mais-barato-na-amazon-com-cupom/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/iphone-16-tem-apple-a18-foto-thassius-velosotecnoblog-340x191.png" length="0" type="image/jpeg"/>
     </item>
   </channel>
 </rss>
