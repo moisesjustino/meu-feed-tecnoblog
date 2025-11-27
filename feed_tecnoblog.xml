@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 27 Nov 2025 22:11:22 +0000</lastBuildDate>
-    <item>
-      <title>GPU da Nvidia causa discórdia e até demissão; entenda o caso</title>
-      <link>https://tecnoblog.net/noticias/gpu-da-nvidia-causa-discordia-e-ate-demissao-entenda-o-caso/</link>
-      <description>Sem descrição breve.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/noticias/gpu-da-nvidia-causa-discordia-e-ate-demissao-entenda-o-caso/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2022/05/nvidia-video_capa-2_tb-340x191.png" length="0" type="image/jpeg"/>
-    </item>
+    <lastBuildDate>Thu, 27 Nov 2025 23:11:07 +0000</lastBuildDate>
     <item>
       <title>Black Friday: Galaxy S24 (256 GB) em até 12x fica 64% mais barato em oferta</title>
       <link>https://tecnoblog.net/achados/black-friday-galaxy-s24-256-gb-em-ate-12x-fica-64-mais-barato-em-oferta/</link>
@@ -128,6 +121,13 @@
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/galaxy-z-flip-7-fe-tem-tela-amoled-dobravel-foto-thassius-velosotecnoblog-1-340x191.png" length="0" type="image/jpeg"/>
     </item>
     <item>
+      <title>Black Friday: Galaxy Tab S10 FE Plus tem 54% OFF na melhor oferta que já vimos</title>
+      <link>https://tecnoblog.net/achados/black-friday-galaxy-tab-s10-fe-plus-tem-54-off-na-melhor-oferta-que-ja-vimos/</link>
+      <description>Sem descrição breve.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/achados/black-friday-galaxy-tab-s10-fe-plus-tem-54-off-na-melhor-oferta-que-ja-vimos/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/galaxy-tab-s10-fe-plus-black-friday-340x191.png" length="0" type="image/jpeg"/>
+    </item>
+    <item>
       <title>Poco F8 Ultra é lançado com traseira “jeans” e parceria com a Bose</title>
       <link>https://tecnoblog.net/noticias/poco-f8-ultra-e-lancado-com-traseira-jeans-e-parceria-com-a-bose/</link>
       <description>Sem descrição breve.</description>
@@ -147,13 +147,6 @@
       <description>Sem descrição breve.</description>
       <guid isPermaLink="false">https://tecnoblog.net/noticias/sky-pode-lancar-operadora-virtual-no-brasil-em-2026/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/sky-edited-340x191.png" length="0" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>Black Friday: Galaxy S24 FE (256 GB) tem 54% OFF em até 12x sem juros</title>
-      <link>https://tecnoblog.net/achados/black-friday-galaxy-s24-fe-256-gb-tem-54-off-em-ate-12x-sem-juros/</link>
-      <description>Sem descrição breve.</description>
-      <guid isPermaLink="false">https://tecnoblog.net/achados/black-friday-galaxy-s24-fe-256-gb-tem-54-off-em-ate-12x-sem-juros/</guid>
-      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/galaxy-s24-fe-black-friday-2-340x191.png" length="0" type="image/jpeg"/>
     </item>
     <item>
       <title>Black Friday: Moto G86 (512 GB) tem desconto imbatível que acaba hoje</title>
@@ -196,6 +189,13 @@
       <description>Sem descrição breve.</description>
       <guid isPermaLink="false">https://tecnoblog.net/achados/black-friday-iphone-16-fica-44-mais-barato-na-amazon-com-cupom/</guid>
       <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2025/11/iphone-16-tem-apple-a18-foto-thassius-velosotecnoblog-340x191.png" length="0" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>IA já é capaz de ocupar 11,7% dos empregos nos EUA, diz estudo</title>
+      <link>https://tecnoblog.net/noticias/ia-ja-e-capaz-de-ocupar-117-dos-empregos-nos-eua-diz-estudo/</link>
+      <description>Sem descrição breve.</description>
+      <guid isPermaLink="false">https://tecnoblog.net/noticias/ia-ja-e-capaz-de-ocupar-117-dos-empregos-nos-eua-diz-estudo/</guid>
+      <enclosure url="https://files.tecnoblog.net/wp-content/uploads/2023/06/ia-3-340x191.png" length="0" type="image/jpeg"/>
     </item>
   </channel>
 </rss>
